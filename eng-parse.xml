@@ -1,0 +1,325 @@
+<node value="ROOT">
+  <node value="S">
+    <node value="NP">
+      <node value="NML">
+        <node value="NN">
+          <leaf value="Chapter"/>
+        </node>
+        <node value="CD">
+          <leaf value="1"/>
+        </node>
+      </node>
+      <node value="NNP">
+        <leaf value="Introduction"/>
+      </node>
+      <node value="NNP">
+        <leaf value="Inventors"/>
+      </node>
+    </node>
+    <node value="VP">
+      <node value="VBP">
+        <leaf value="have"/>
+      </node>
+      <node value="ADVP">
+        <node value="RB">
+          <leaf value="long"/>
+        </node>
+      </node>
+      <node value="VP">
+        <node value="VBN">
+          <leaf value="dreamed"/>
+        </node>
+        <node value="PP">
+          <node value="IN">
+            <leaf value="of"/>
+          </node>
+          <node value="S">
+            <node value="VP">
+              <node value="VBG">
+                <leaf value="creating"/>
+              </node>
+              <node value="NP">
+                <node value="NP">
+                  <node value="NNS">
+                    <leaf value="machines"/>
+                  </node>
+                </node>
+                <node value="SBAR">
+                  <node value="WHNP">
+                    <node value="WDT">
+                      <leaf value="that"/>
+                    </node>
+                  </node>
+                  <node value="S">
+                    <node value="VP">
+                      <node value="VBP">
+                        <leaf value="think"/>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node value=".">
+      <leaf value="."/>
+    </node>
+  </node>
+</node>
+<node value="ROOT">
+  <node value="S">
+    <node value="NP">
+      <node value="DT">
+        <leaf value="This"/>
+      </node>
+      <node value="NN">
+        <leaf value="desire"/>
+      </node>
+    </node>
+    <node value="VP">
+      <node value="VBZ">
+        <leaf value="dates"/>
+      </node>
+      <node value="PRT">
+        <node value="RP">
+          <leaf value="back"/>
+        </node>
+      </node>
+      <node value="PP">
+        <node value="IN">
+          <leaf value="to"/>
+        </node>
+        <node value="NP">
+          <node value="NP">
+            <node value="QP">
+              <node value="ADVP">
+                <node value="IN">
+                  <leaf value="at"/>
+                </node>
+                <node value="JJS">
+                  <leaf value="least"/>
+                </node>
+              </node>
+            </node>
+            <node value="DT">
+              <leaf value="the"/>
+            </node>
+            <node value="NN">
+              <leaf value="time"/>
+            </node>
+          </node>
+          <node value="PP">
+            <node value="IN">
+              <leaf value="of"/>
+            </node>
+            <node value="NP">
+              <node value="JJ">
+                <leaf value="ancient"/>
+              </node>
+              <node value="NNP">
+                <leaf value="Greece"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node value=".">
+      <leaf value="."/>
+    </node>
+  </node>
+</node>
+<node value="ROOT">
+  <node value="S">
+    <node value="S">
+      <node value="NP">
+        <node value="NP">
+          <node value="DT">
+            <leaf value="The"/>
+          </node>
+          <node value="JJ">
+            <leaf value="mythical"/>
+          </node>
+          <node value="NNS">
+            <leaf value="ﬁgures"/>
+          </node>
+        </node>
+        <node value="NP">
+          <node value="NNP">
+            <leaf value="Pygmalion"/>
+          </node>
+          <node value=",">
+            <leaf value=","/>
+          </node>
+          <node value="NNP">
+            <leaf value="Daedalus"/>
+          </node>
+          <node value=",">
+            <leaf value=","/>
+          </node>
+          <node value="CC">
+            <leaf value="and"/>
+          </node>
+          <node value="NNP">
+            <leaf value="Hephaestus"/>
+          </node>
+        </node>
+      </node>
+      <node value="VP">
+        <node value="MD">
+          <leaf value="may"/>
+        </node>
+        <node value="RB">
+          <leaf value="all"/>
+        </node>
+        <node value="VP">
+          <node value="VB">
+            <leaf value="be"/>
+          </node>
+          <node value="VP">
+            <node value="VBN">
+              <leaf value="interpreted"/>
+            </node>
+            <node value="PP">
+              <node value="IN">
+                <leaf value="as"/>
+              </node>
+              <node value="NP">
+                <node value="JJ">
+                  <leaf value="legendary"/>
+                </node>
+                <node value="NNS">
+                  <leaf value="inventors"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node value=",">
+      <leaf value=","/>
+    </node>
+    <node value="CC">
+      <leaf value="and"/>
+    </node>
+    <node value="S">
+      <node value="NP">
+        <node value="NNP">
+          <leaf value="Galatea"/>
+        </node>
+        <node value=",">
+          <leaf value=","/>
+        </node>
+        <node value="NNP">
+          <leaf value="Talos"/>
+        </node>
+        <node value=",">
+          <leaf value=","/>
+        </node>
+        <node value="CC">
+          <leaf value="and"/>
+        </node>
+        <node value="NNP">
+          <leaf value="Pandora"/>
+        </node>
+      </node>
+      <node value="VP">
+        <node value="MD">
+          <leaf value="may"/>
+        </node>
+        <node value="RB">
+          <leaf value="all"/>
+        </node>
+        <node value="VP">
+          <node value="VB">
+            <leaf value="be"/>
+          </node>
+          <node value="VP">
+            <node value="VBN">
+              <leaf value="regarded"/>
+            </node>
+            <node value="PP">
+              <node value="IN">
+                <leaf value="as"/>
+              </node>
+              <node value="NP">
+                <node value="JJ">
+                  <leaf value="artiﬁcial"/>
+                </node>
+                <node value="NN">
+                  <leaf value="life"/>
+                </node>
+                <node value="PRN">
+                  <node value="-LRB-">
+                    <leaf value="("/>
+                  </node>
+                  <node value="NP">
+                    <node value="NNP">
+                      <leaf value="Ovid"/>
+                    </node>
+                    <node value="CC">
+                      <leaf value="and"/>
+                    </node>
+                    <node value="NNP">
+                      <leaf value="Martin"/>
+                    </node>
+                  </node>
+                  <node value=",">
+                    <leaf value=","/>
+                  </node>
+                  <node value="NP">
+                    <node value="CD">
+                      <leaf value="2004"/>
+                    </node>
+                  </node>
+                  <node value=":">
+                    <leaf value=";"/>
+                  </node>
+                  <node value="NP">
+                    <node value="NNP">
+                      <leaf value="Sparkes"/>
+                    </node>
+                  </node>
+                  <node value=",">
+                    <leaf value=","/>
+                  </node>
+                  <node value="NP">
+                    <node value="CD">
+                      <leaf value="1996"/>
+                    </node>
+                  </node>
+                  <node value=":">
+                    <leaf value=";"/>
+                  </node>
+                  <node value="NP">
+                    <node value="NNP">
+                      <leaf value="Tandy"/>
+                    </node>
+                  </node>
+                  <node value=",">
+                    <leaf value=","/>
+                  </node>
+                  <node value="NP">
+                    <node value="CD">
+                      <leaf value="1997"/>
+                    </node>
+                  </node>
+                  <node value="-RRB-">
+                    <leaf value=")"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node value=".">
+      <leaf value="."/>
+    </node>
+  </node>
+</node>
