@@ -4,10 +4,10 @@ import argparse
 import regex
 import os
 import codecs
-from simalign.simalign import *
-import simalign
+#from simalign.simalign import *
+#import simalign
 
-import torch.nn.functional as F
+#import torch.nn.functional as F
 
 from util import *
 
