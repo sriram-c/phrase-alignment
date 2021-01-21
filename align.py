@@ -37,6 +37,8 @@ if __name__ == '__main__':
     best_sen.append(l1_sen)
     best_sen.append(l2_sen)
 
+    print("UNIQUE Hindi Translations: ", uniq_sen)
+    print("BEST Hindi Translations: ", best_sen)
     # output_best = simalign_batch(best_sen, 'mai')
 
     '''
@@ -62,8 +64,13 @@ if __name__ == '__main__':
 
     from util import  *
     f =  open('eng-parse.xml', 'r')
+    print("STANFORD-PARSER OUTPUT: ", f.readlines())
+    f.close()
+    f =  open('eng-parse.xml', 'r')
     chunk_sens = xml_parse(f)
+    print("CHUNKS EXTRACTED FROM PARSER: ", chunk_sens)
     filter_chunk_sens = filter_chunk(chunk_sens, chunk_size=5)
+    print("FILTERED CHUNKS: ", filter_chunk_sens)
 
-    print('sri')
+    print('----------------END------------')
 
