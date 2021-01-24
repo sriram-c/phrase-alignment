@@ -87,12 +87,12 @@ def xml_parse(fp):
 
     all_chunk = []
     for root in all_root:
-        id = 1
+        id = 0
         for node in root.find_all('leaf'):
             node['id'] = id
             id += 1
 
-        id = 1
+        id = 0
         for node in root.find_all('node'):
             node['id'] = id
             id += 1
@@ -124,6 +124,30 @@ def filter_chunk(all_chunk, chunk_size):
                     all_filter_chunk[i].append(all_chunk[i][j])
                     store_ids.extend(ids)
     return all_filter_chunk
+
+
+
+def align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq):
+    eng_hnd_chunk = filter_chunk_sens.copy()
+    for sen, align_sen in zip(eng_hnd_chunk, output_align_uniq):
+        for ch in sen:
+            chunk_id = ch[2]
+            hnd_id = []
+            for aligns in align_sen[1]:
+                tmp_hid = []
+                tmp_hid_wd = []
+                for ids in chunk_id:
+                    for aid in aligns[1]:
+                        if aid[0] == int(ids):
+                            tmp_hid.append(aid[0])
+                tmp_hid1 = list(set(tmp_hid))
+                for tid in tmp_hid1:
+                    tmp_hid_wd.append(aligns[0].split()[tid])
+                hnd_id.append([tmp_hid_wd, tmp_hid1])
+            ch.append[hnd_id]
+
+
+
 
 
 
