@@ -80,6 +80,29 @@ def process_tag(tag, phrase):
                 if (isinstance(tag1, Tag)):
                     process_tag(tag1, phrase)
 
+def process_tag_level(tag, phrase, level):
+    if (isinstance(tag, Tag)):
+        if (tag['value'] == 'VP') and (tag.parent['value'] != 'VP'):
+            tmp_lwg = []
+            tmp_lwg_id = []
+            find_lwg(tag, tmp_lwg, tmp_lwg_id, 0, phrase)
+            for tag1 in tag.contents:
+                if (isinstance(tag1, Tag)):
+                    process_tag(tag1, phrase)
+
+
+        elif (re.match(r'CC', tag['value'])):
+            find_leaf(tag, phrase, 0)
+
+        else:
+            if(level > 0):
+                for tag1 in tag.contents:
+                    if (isinstance(tag1, Tag)):
+                        process_tag(tag1, phrase)
+            else:
+                find_leaf(tag, phrase, 0)
+
+
 def xml_parse(fp):
 
     soup = BeautifulSoup("<node>" + ''.join(fp.readlines()) + "</node>", 'lxml-xml')
@@ -105,17 +128,40 @@ def xml_parse(fp):
         all_chunk.append(phrase)
     return  all_chunk
 
+def xml_parse_level(fp, level):
+
+    soup = BeautifulSoup("<node>" + ''.join(fp.readlines()) + "</node>", 'lxml-xml')
+    all_root = soup.find_all(value='ROOT')
+
+    all_chunk = []
+    for root in all_root:
+        id = 0
+        for node in root.find_all('leaf'):
+            node['id'] = id
+            id += 1
+
+        id = 0
+        for node in root.find_all('node'):
+            node['id'] = id
+            id += 1
+
+        phrase = []
+        for ch in root.contents:
+            if (isinstance(ch, Tag)):
+                process_tag_level(ch, phrase, level)
+
+        all_chunk.append(phrase)
+    return  all_chunk
+
 
 def filter_chunk(all_chunk, chunk_size):
 
     all_filter_chunk = all_chunk.copy()
-    print(all_filter_chunk)
     for i in range(0,len(all_chunk)):
         store_ids = []
         all_filter_chunk[i] = []
         for j in range(0, len(all_chunk[i])):
             if not re.match(r'S', all_chunk[i][j][0]):
-                print(all_chunk[i][j])
                 ids = all_chunk[i][j][2]
                 tmp_str = ' '.join(all_chunk[i][j][1])
                 exclude = set(string.punctuation)
@@ -126,31 +172,49 @@ def filter_chunk(all_chunk, chunk_size):
     return all_filter_chunk
 
 
+def get_chunk_align(eng_sen, eng_sen_chunk, hnd_sen, align_result):
+    align_eng_hnd = []
+    for ch in eng_sen_chunk[0]:
+        if not (re.match('CC', ch[0])):
+            chunk_id = ch[2]
+            hnd_id = []
+            tmp_hid = []
+            tmp_hid_wd = []
+            for ids in chunk_id:
+                for aid in align_result:
+                    if aid[0] == int(ids):
+                        tmp_hid.append(aid[1])
+            tmp_hid1 = list(set(tmp_hid))
+            tmp_hid1.sort()
+            for tid in tmp_hid1:
+                tmp_hid_wd.append(hnd_sen.split()[tid])
+            hnd_id.append([tmp_hid_wd, tmp_hid1])
+        align_eng_hnd.append(hnd_id)
+        ch.append(hnd_id)
+
+    return align_eng_hnd
 
 def align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq):
     eng_hnd_chunk = filter_chunk_sens.copy()
     for sen, align_sen in zip(eng_hnd_chunk, output_align_uniq):
         for ch in sen:
-            chunk_id = ch[2]
-            hnd_id = []
-            for aligns in align_sen[1]:
-                tmp_hid = []
-                tmp_hid_wd = []
-                for ids in chunk_id:
-                    for aid in aligns[1]:
-                        if aid[0] == int(ids):
-                            tmp_hid.append(aid[0])
-                tmp_hid1 = list(set(tmp_hid))
-                for tid in tmp_hid1:
-                    tmp_hid_wd.append(aligns[0].split()[tid])
-                hnd_id.append([tmp_hid_wd, tmp_hid1])
-            ch.append[hnd_id]
+            if not (re.match('CC', ch[0])):
+                chunk_id = ch[2]
+                hnd_id = []
+                for aligns in align_sen[1]:
+                    tmp_hid = []
+                    tmp_hid_wd = []
+                    for ids in chunk_id:
+                        for aid in aligns[1]:
+                            if aid[0] == int(ids):
+                                tmp_hid.append(aid[1])
+                    tmp_hid1 = list(set(tmp_hid))
+                    for tid in tmp_hid1:
+                        tmp_hid_wd.append(aligns[0].split()[tid])
+                    hnd_id.append([tmp_hid_wd, tmp_hid1])
+                ch.append(hnd_id)
 
-
-
-
-
-
+    return eng_hnd_chunk
 
 
 
