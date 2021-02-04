@@ -4,10 +4,10 @@ import argparse
 import regex
 import os
 import codecs
-from simalign.simalign import *
-import simalign
+#from simalign.simalign import *
+#import simalign
 
-import torch.nn.functional as F
+#import torch.nn.functional as F
 
 from util import *
 
@@ -37,6 +37,8 @@ if __name__ == '__main__':
     best_sen.append(l1_sen)
     best_sen.append(l2_sen)
 
+    print("UNIQUE Hindi Translations: ", uniq_sen)
+    print("BEST Hindi Translations: ", best_sen)
     # output_best = simalign_batch(best_sen, 'mai')
 
     model = simalign.SentenceAligner()
@@ -60,10 +62,12 @@ if __name__ == '__main__':
 
     from util import  *
     f =  open('eng-parse.xml', 'r')
+    print("STANFORD-PARSER OUTPUT: ", f.readlines())
+    f.close()
+    f =  open('eng-parse.xml', 'r')
     chunk_sens = xml_parse(f)
+    print("CHUNKS EXTRACTED FROM PARSER: ", chunk_sens)
     filter_chunk_sens = filter_chunk(chunk_sens, chunk_size=5)
-
-
+    print("FILTERED CHUNKS: ", filter_chunk_sens)
     align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq)
-    print('sri')
-
+    print('----------------END------------')
