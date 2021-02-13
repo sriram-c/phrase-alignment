@@ -46,7 +46,7 @@ def find_leaf(tag, phrase, flag):
         '''
 
     elif (re.match(
-            r'^NP|NP-TMP|WHNP|NNS|PP|WHPP|ADJP|WHADJP|WHADVP|ADVP|WHAVP|X|SBAR|NAC|NML|CONJP|FRAG|INTJ|LST|NAC|NX|QP|PRC|PRN|PRT|QP|RRC|UCP|ROOT|S|,$',
+            r'^NP|NP-TMP|WHNP|NNS|NNP|PP|WHPP|ADJP|WHADJP|WHADVP|ADVP|WHAVP|X|SBAR|NAC|NML|CONJP|FRAG|INTJ|LST|NAC|NX|QP|PRC|PRN|PRT|QP|RRC|UCP|ROOT|S|,$',
             tag['value']) and (tag.name != 'leaf')):
         for wd in tag.find_all('leaf'):
             tmp_wd.append(wd['value'])
@@ -121,12 +121,12 @@ def xml_parse(fp):
 
     all_chunk = []
     for root in all_root:
-        id = 0
+        id = 1
         for node in root.find_all('leaf'):
             node['id'] = id
             id += 1
 
-        id = 0
+        id = 1
         for node in root.find_all('node'):
             node['id'] = id
             id += 1
@@ -235,14 +235,14 @@ def align_chunk_logic(group_chunk, dic_root):
     for key in group_chunk:
         ch = group_chunk[key]
         long_chunk_hnd = ch[0][2]
-        long_chunk_hnd_root = [dic_root[l] for l in long_chunk_hnd]
+        long_chunk_hnd_root = [dic_root[l] if l in dic_root else l for l in long_chunk_hnd]
         long_chunk_wd_alt = {}
 
         #find alternative of each word
         for wd, wd_rt in zip(long_chunk_hnd, long_chunk_hnd_root):
             long_chunk_wd_alt[wd] = [wd]
             for i in range(1, len(ch)):
-                tmp_root = [dic_root[l] for l in ch[i][2]]
+                tmp_root = [dic_root[l] if l in dic_root else l for l in ch[i][2]]
                 if wd not in ch[i][2] and  wd_rt in tmp_root:
                     indx = tmp_root.index(wd_rt)
                     wd_alt = ch[i][2][indx]
@@ -260,10 +260,11 @@ def align_chunk_logic(group_chunk, dic_root):
         for i in range(len(ch)-2, 0, -1):
             tmp_hnd = ch[i][2]
             tmp_eng = ch[i][0]
+            tmp_eng_wd_id = ch[i][1]
             #if single word present in eng and hnd
             if(len(tmp_hnd) == 1) and (len(tmp_eng) == 1):
                 tmp_hnd_wd = tmp_hnd[0]
-                tmp_eng_wd_id = ch[i][1]
+                tmp_eng_wd_id = ch[i][1][0]
                 for key in dic_wd_alt:
                     if tmp_hnd_wd in dic_wd_alt[key]:
                         if tmp_eng_wd_id not in align_wds:
@@ -275,22 +276,48 @@ def align_chunk_logic(group_chunk, dic_root):
                 if(len(tmp_eng) == 1):
                     tmp_eng_wd_id = ch[i][1][0]
                     for wd in tmp_hnd:
-                        for key in dic_wd_alt:
-                            if wd in dic_wd_alt[key]:
+                        for key1 in dic_wd_alt:
+                            if wd in dic_wd_alt[key1]:
                                 if tmp_eng_wd_id not in align_wds:
-                                    align_wds[tmp_eng_wd_id] = [key]
+                                    align_wds[tmp_eng_wd_id] = [key1]
                                 else:
-                                    align_wds[tmp_eng_wd_id].append(key)
+                                    align_wds[tmp_eng_wd_id].append(key1)
 
                 #multiple words in both sides but number of eng and hnd are same
-
-
-
-
+                elif(len(tmp_eng) == len(tmp_hnd)):
+                    for id, wd_hnd in zip(tmp_eng_wd_id, tmp_hnd):
+                        if id not in align_wds:
+                            align_wds[id] = wd_hnd
+                        else:
+                            if wd_hnd not in align_wds[id]:
+                                align_wds[id].append(wd_hnd)
 
         ch.append(align_wds)
-        print('sri')
 
+    #do a second iteration for aligning chunks where number words are different in both sides
+    for key in group_chunk:
+        ch = group_chunk[key]
+        dic_wd_alt = ch[-2]
+        align_wds = ch[-1]
+        for i in range(len(ch)-3, 0, -1):
+            ids= ch[i][1]
+            flag_process = 0
+            for id in ids:
+                if id not in align_wds:
+                    flag_process = 1
+                    break
+            if(flag_process):
+                found_id = []
+                not_found_id = []
+                for id in ids:
+                    if id in align_wds:
+                        found_id.append(id)
+                    else:
+                        not_found_id.append(id)
+                print('sri')
+
+
+                print('sri')
 
 
 def simalign_batch(original_corpora, matching_methods):

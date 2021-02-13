@@ -47,16 +47,24 @@ if __name__ == '__main__':
     f =  open('eng-parse.xml', 'r')
     chunk_sens = xml_parse(f)
 
-    for ch, ch_hnd in zip(chunk_sens[0], chunks):
-        hnd_text = ch_hnd[2]
-        ch.append(hnd_text)
+    #for ch, ch_hnd in zip(chunk_sens[0], chunks):
+    for ch1 in chunk_sens[0]:
+        found = 0
+        for ch2 in chunks:
+            if(ch1[0] == ch2[0]):
+                ch1.append(ch2[2])
+                found = 1
+                break
+        if( not found):
+            ch1.append(['no_translation'])
+
 
     #group smaller chunks inside larger ones.
 
     group_chunk = {}
     prev_ch_id = []
     for ch in chunk_sens[0]:
-        if(ch[0] != 'S0'):
+        if(ch[0] != 'S1'):
             if set(ch[2]).issubset(set(prev_ch_id)):
                 if(ch[0] not in group_chunk):
                     print(ch)
