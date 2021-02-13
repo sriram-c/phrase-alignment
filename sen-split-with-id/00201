@@ -1,0 +1,23 @@
+----
+201
+S1 Readers_1 should_2 feel_3 free_4 to_5 skip_6 parts_7 that_8 are_9 not_10 relevant_11 given_12 their_13 interests_14 or_15 background_16 ._17
+NP2 Readers_1
+NNS3 Readers_1
+VP4_LWG should_2 feel_3
+ADJP8 free_4 to_5 skip_6 parts_7 that_8 are_9 not_10 relevant_11
+S10 to_5 skip_6 parts_7 that_8 are_9 not_10 relevant_11
+VP11_LWG to_5 skip_6
+NP15 parts_7 that_8 are_9 not_10 relevant_11
+NP16 parts_7
+NNS17 parts_7
+SBAR18 that_8 are_9 not_10 relevant_11
+WHNP19 that_8
+S21 are_9 not_10 relevant_11
+VP22_LWG are_9 not_10
+ADJP25 relevant_11
+PP27 given_12 their_13 interests_14 or_15 background_16
+NP29 their_13 interests_14 or_15 background_16
+NP30 their_13 interests_14
+NNS32 interests_14
+CC33 or_33
+NP34 background_16

@@ -1,0 +1,21 @@
+----
+125
+S1 Given_1 the_2 pixels_3 ,_4 the_5 ﬁrst_6 layer_7 can_8 easily_9 identify_10 edges_11 ,_12 by_13 comparing_14 the_15 brightness_16 of_17 neighboring_18 pixels_19 ._20
+PP2 Given_1 the_2 pixels_3
+NP4 the_2 pixels_3
+NNS6 pixels_3
+,7 ,_4
+NP8 the_5 ﬁrst_6 layer_7
+VP12_LWG can_8 easily_9 identify_10
+ADVP14 easily_9
+NP18 edges_11
+NNS19 edges_11
+,20 ,_12
+PP21 by_13 comparing_14 the_15 brightness_16 of_17 neighboring_18 pixels_19
+S23 comparing_14 the_15 brightness_16 of_17 neighboring_18 pixels_19
+VP24_LWG comparing_14
+NP26 the_15 brightness_16 of_17 neighboring_18 pixels_19
+NP27 the_15 brightness_16
+PP30 of_17 neighboring_18 pixels_19
+NP32 neighboring_18 pixels_19
+NNS34 pixels_19

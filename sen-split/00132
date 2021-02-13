@@ -1,0 +1,14 @@
+----
+00133	Networks with greater depth can execute more instructions in sequence.	 अधिक गहराई वाले नेटवर्क अधिक अनुदेशों को अनुक्रम में निष्पादित कर सकते हैं ।		
+132	132
+S1 Networks with greater depth can execute more instructions in sequence .	अधिक गहराई वाले नेटवर्क क्रम में अधिक निर्देशों को अंजाम दे सकते हैं।
+NP2 Networks with greater depth	अधिक गहराई वाले नेटवर्क
+NP3 Networks	नेटवर्क
+PP5 with greater depth	ज्यादा गहराई के साथ
+NP7 greater depth	ज्यादा गहराई
+VP10_LWG can execute	निष्पादित कर सकते हैं
+NP14 more instructions	अधिक निर्देश
+NNS16 instructions	निर्देश
+PP17 in sequence	क्रम में
+NP19 sequence	क्रमांक
+

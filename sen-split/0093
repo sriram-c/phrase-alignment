@@ -1,0 +1,29 @@
+----
+0094	When analyzing a speech recording, the factors of variation include the speaker’s age, their sex, their accent and the words they are speaking.	 जब किसी भाषण रिकॉर्डिंग का विश्लेषण किया जाता है तो विभिन्नता के कारकों में वक्ता की आयु , उनका लिंग , उनके लहजे और वे जो शब्द बोल रहे हैं शामिल हैं .		
+93	93
+S1 When analyzing a speech recording , the factors of variation include the speaker ’s age , their sex , their accent and the words they are speaking .	जब एक भाषण रिकॉर्डिंग का विश्लेषण करते हैं तो विविधता के कारकों में स्पीकर की उम्र, उनका लिंग, उनका उच्चारण और उन शब्दों को शामिल किया जाता है जो
+SBAR2 When analyzing a speech recording , the factors of variation include the speaker ’s age , their sex , their accent and the words	जब एक भाषण रिकॉर्डिंग का विश्लेषण करते हैं तो विविधता के कारकों में स्पीकर की उम्र, उनके लिंग, उनके उच्चारण और शब्द शामिल हैं
+WHADVP3 When	कब
+S5 analyzing a speech recording , the factors of variation include the speaker ’s age , their sex , their accent and the words	एक भाषण रिकॉर्डिंग का विश्लेषण करते हुए, वैरिएंटेशन के कारकों में स्पीकर की उम्र, उनके लिंग, उनके उच्चारण और शब्द शामिल
+S6 analyzing a speech recording	एक भाषण रिकॉर्डिंग का विश्लेषण
+VP7_LWG analyzing	विश्लेषण
+NP9 a speech recording	एक भाषण रिकॉर्डिंग
+,13 ,	,
+NP14 the factors of variation	विविधता के कारक
+NP15 the factors	कारखाने
+NNS17 factors	कारखाने
+PP18 of variation	विविधता का
+NP20 variation	विविधता
+VP22_LWG include	शामिल
+NP24 the speaker ’s age , their sex , their accent and the words	स्पीकर की उम्र, उनका सेक्स, उनका उच्चारण और शब्द
+NP25 the speaker ’s age	स्पीकर की उम्र
+,30 ,	,
+NP31 their sex	उनका सेक्स
+,34 ,	,
+NP35 their accent	उनका लहजा
+CC38 and	और
+NP39 the words	शब्द
+NNS41 words	शब्द
+NP42 they	वे
+VP44_LWG are speaking	बोल रहे हैं।
+

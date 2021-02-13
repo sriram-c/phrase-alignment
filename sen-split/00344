@@ -1,0 +1,26 @@
+----
+00345	This insight applies equally to neurons in biological nervous systems as it does to hidden units in computational models.	 यह अंतर्दृष्टि जैविक तंत्रिका प्रणालियों में न्यूरॉन्स के लिए समान रूप से लागू होता है , जैसा कि यह कम्प्यूटेशनल मॉडल में छिपा इकाइयों के लिए करता है .		
+344	344
+S1 This insight applies equally to neurons in biological nervous systems as it does to hidden units in computational models .	यह अंतर्ज्ञान जैविक तंत्रिका तंत्र में न्यूरोन्स के बराबर लागू होता है क्योंकि यह गणितीय मॉडलों में छिपी हुई इकाइयों को करता है।
+NP2 This insight	यह अंतर्ज्ञान
+VP5_LWG applies	लागू होता है
+SBAR7 equally to neurons in biological nervous systems as it does to hidden units in computational models	जैविक तंत्रिका तंत्र में न्यूरोन के बराबर रूप से क्योंकि यह गणितीय मॉडलों में इकाइयों को छिपाने के लिए करता है
+ADVP8 equally to neurons in biological nervous systems	जैविक तंत्रिका तंत्र में न्यूरोन के बराबर
+PP10 to neurons in biological nervous systems	जैविक तंत्रिका तंत्र में न्यूरोनर्स को
+NP12 neurons in biological nervous systems	जैविक तंत्रिका तंत्र में न्यूरोन
+NP13 neurons	न्यूरोन
+NNS14 neurons	न्यूरोन
+PP15 in biological nervous systems	जैविक तंत्रिका तंत्र में
+NP17 biological nervous systems	जैविक तंत्रिका तंत्र
+NNS20 systems	सिस्टम
+S22 it does to hidden units in computational models	यह कंप्यूटोरियल मॉडल में इकाइयों को छिपाना करता है
+NP23 it	यह
+VP25_LWG does	करता है।
+PP27 to hidden units in computational models	कंप्यूटेशनल मॉडल में छिपी हुई इकाइयों को
+NP29 hidden units in computational models	कम्प्यूटेशनल मॉडल में छिपी हुई इकाइयां
+NP30 hidden units	छिपी हुई इकाइयां
+NNS32 units	इकाइयां
+PP33 in computational models	कम्प्यूटेशनल मॉडल में
+NP35 computational models	कम्प्यूटेशनल मॉडल
+NNS37 models	मॉडल
+

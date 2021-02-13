@@ -1,0 +1,27 @@
+----
+00257	The current and third wave, deep learning, started around 2006 (Hinton et al., 2006; Bengio et al.	 varwamAna wIsarI lahara , gahana aXyayana , 2006 ke AsapAsa SurU huA ( ecina eta ala , 2006 beMjiyo eta		
+256	256
+S1 The current and third wave , deep learning , started around 2006 ( Hinton et al. , 2006 ; Bengio et al. .	mOjUxA Ora wIsarI lahara, gaharI sIKa, 2006 ke AsapAsa SurU huI (hiMtana eta ala, 2006 ; beMgiyo eta ala.
+NP2 The current and third wave , deep learning ,	mOjUxA Ora wIsarI lahara, gaharI sIKa,
+NP3 The current and third wave	mOjUxA Ora wIsarI lahara
+NML5 current and third	varwamAna Ora wIsarA
+CC7 and	Ora
+JJ6 current	varwamAna
+JJ8 third	wIsarA
+,10 ,	,
+NP11 deep learning	gaharI sIKa
+,14 ,	,
+VP15_LWG started	SurU
+PP17 around 2006	2006 ke AsapAsa
+NP19 2006	2006
+PRN21 ( Hinton et al. , 2006 ; Bengio et al.	(hiMtana eta ala, 2006 ; beMgiyo eta ala
+FRAG23 Hinton et al. , 2006	hiMtana eta ala., 2006
+NP24 Hinton et al.	hiMtana eta ala
+ADVP26 et al.	eta ala
+,29 ,	,
+NP30 2006	2006
+FRAG33 Bengio et al.	beMjiyo eta ala
+NP34 Bengio et	beMjiyo eta
+ADVP36 et	ewa.
+ADVP38 al.	ala
+

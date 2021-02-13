@@ -1,0 +1,34 @@
+----
+94
+S1 When_1 analyzing_2 an_3 image_4 of_5 a_6 car_7 ,_8 the_9 factors_10 of_11 variation_12 include_13 the_14 position_15 of_16 the_17 car_18 ,_19 its_20 color_21 ,_22 and_23 the_24 angle_25 and_26 brightness_27 of_28 the_29 sun_30 ._31
+SBAR2 When_1 analyzing_2 an_3 image_4 of_5 a_6 car_7
+WHADVP3 When_1
+S5 analyzing_2 an_3 image_4 of_5 a_6 car_7
+VP6_LWG analyzing_2
+NP8 an_3 image_4 of_5 a_6 car_7
+NP9 an_3 image_4
+PP12 of_5 a_6 car_7
+NP14 a_6 car_7
+,17 ,_8
+NP18 the_9 factors_10 of_11 variation_12
+NP19 the_9 factors_10
+NNS21 factors_10
+PP22 of_11 variation_12
+NP24 variation_12
+VP26_LWG include_13
+NP28 the_14 position_15 of_16 the_17 car_18 ,_19 its_20 color_21 ,_22 and_23 the_24 angle_25 and_26 brightness_27 of_28 the_29 sun_30
+NP29 the_14 position_15
+PP32 of_16 the_17 car_18 ,_19 its_20 color_21 ,_22 and_23 the_24 angle_25 and_26 brightness_27 of_28 the_29 sun_30
+NP34 the_17 car_18 ,_19 its_20 color_21 ,_22 and_23 the_24 angle_25 and_26 brightness_27 of_28 the_29 sun_30
+NP35 the_17 car_18
+,38 ,_19
+NP39 its_20 color_21
+,42 ,_22
+CC43 and_43
+NP44 the_24 angle_25 and_26 brightness_27 of_28 the_29 sun_30
+NP45 the_24 angle_25 and_26 brightness_27
+CC48 and_48
+NN47 angle_25
+NN49 brightness_27
+PP50 of_28 the_29 sun_30
+NP52 the_29 sun_30

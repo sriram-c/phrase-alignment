@@ -1,0 +1,31 @@
+----
+0081	A representation learning algorithm can discover a good set of features for a simple task in minutes, or for a complex task in hours to months.	 एक प्रतिनिधित्व सीखने एल्गोरिथ्म मिनट में एक सरल कार्य के लिए सुविधाओं का एक अच्छा सेट का पता लगा सकते हैं , या घंटे से महीनों में एक जटिल कार्य के लिए .		
+80	80
+S1 A representation learning algorithm can discover a good set of features for a simple task in minutes , or for a complex task in hours to months .	एक प्रतिनिधित्व सीखने वाला एल्गोरिदम मिनटों में एक साधारण कार्य के लिए विशेषताओं के एक अच्छे सेट की खोज कर सकता है, या घंटों से महीने में एक ज
+NP2 A representation learning algorithm	एक प्रतिनिधित्व सीखने वाला एल्गोरिदम
+VP7_LWG can discover	खोज सकते हैं।
+NP11 a good set of features for a simple task in minutes , or for a complex task in hours	मिनटों में एक साधारण कार्य के लिए सुविधाओं का एक अच्छा सेट, या घंटों में जटिल कार्य के लिए
+NP12 a good set	एक अच्छा सेट
+PP16 of features for a simple task in minutes , or for a complex task in hours	मिनटों में एक साधारण कार्य के लिए सुविधाओं की, या घंटों में जटिल कार्य के लिए
+NP18 features for a simple task in minutes , or for a complex task in hours	मिनटों में एक साधारण कार्य के लिए सुविधाएं, या घंटों में जटिल कार्य के लिए
+NP19 features	फीचर्स
+NNS20 features	फीचर्स
+PP21 for a simple task in minutes , or for a complex task in hours	मिनटों में एक साधारण कार्य के लिए, या घंटों में जटिल कार्य के लिए
+PP22 for a simple task in minutes	मिनटों में साधारण कार्य के लिए
+NP24 a simple task in minutes	मिनटों में एक साधारण कार्य
+NP25 a simple task	एक साधारण कार्य
+PP29 in minutes	मिनटों में
+NP31 minutes	मिनट
+NNS32 minutes	मिनट
+,33 ,	,
+CC34 or	या।
+PP35 for a complex task in hours	घंटों में जटिल कार्य के लिए
+NP37 a complex task in hours	घंटों में एक जटिल कार्य
+NP38 a complex task	एक जटिल कार्य
+PP42 in hours	घंटों में
+NP44 hours	घंटे
+NNS45 hours	घंटे
+PP46 to months	महीनों तक
+NP48 months	महीनों
+NNS49 months	महीनों
+

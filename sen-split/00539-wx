@@ -1,0 +1,34 @@
+----
+00540	Since deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge, they have consistently won the competition every year, yielding lower and lower error rates each time.	 cUMki gahare netavarka imejaneta badZe pEmAne para xqSya mAnyawA cEleMja meM prawisparXA karane ke lie AvaSyaka pEmAne para pahuMce , ve lagAwAra hara sAla prawiyogiwA jIwa liyA hE , hara bAra kama Ora kama wruti xaroM kA uwpAxana .		
+539	539
+S1 Since deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge , they have consistently won the competition every year , yielding lower and lower error rates each time .	cUMki gahare netavarka imejaneta badZe pEmAne para vijuala rikoYrdiMga cEleMja meM prawisparXA karane ke lie AvaSyaka pEmAne para pahuMca gae hEM, isa
+SBAR2 Since deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	cUMki gahare netavarka imejaneta badZe pEmAne para vijuala rikArdiMga cEleMja meM prawisparXA karane ke lie AvaSyaka pEmAne para pahuMca gae hEM
+S4 deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	imejaneta badZe pEmAne para vijuala rikArdiMga cEleMja meM prawisparXA ke lie jarUrI pEmAne para pahuMce gahare netavarka
+NP5 deep networks	gahare netavarka
+NNS7 networks	netavarka
+VP8_LWG reached	pahuMca gae
+NP10 the scale	pEmAnA
+S13 necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	imejaneta badZe pEmAne para xqSya pahacAna cEleMja meM prawisparXA ke lie AvaSyaka
+ADJP14 necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	imejaneta badZe pEmAne para xqSya pahacAna cEleMja meM prawisparXA ke lie AvaSyaka
+S16 to compete in the ImageNet Large Scale Visual Recognition Challenge	imejaneta badZe pEmAne para xqSya pahacAna cEleMja meM prawisparXA karane ke lie
+VP17_LWG to compete	mukAbalA karane ke lie
+PP21 in the ImageNet Large Scale Visual Recognition Challenge	imejaneta badZe pEmAne para xqSya pahacAna cEleMja meM
+NP23 the ImageNet Large Scale Visual Recognition Challenge	imejaneta badZe pEmAne para xqSya pahacAna cEleMja
+NML26 Large Scale	badZe pEmAne para
+,32 ,	,
+NP33 they	ve
+VP35_LWG have consistently won	lagAwAra jIwa cuke hEM
+ADVP37 consistently	lagAwAra
+NP41 the competition	prawiyogiwA
+NP-TMP44 every year	hara sAla
+,47 ,	,
+S48 yielding lower and lower error rates each time	hara bAra kama Ora kama wruti kI xareM kama
+VP49_LWG yielding	nOkarI karanA
+NP51 lower and lower error rates	kama Ora kama wruti xareM
+ADJP52 lower and lower	kama Ora nimna
+CC54 and	Ora
+JJR53 lower	nicale
+JJR55 lower	nicale
+NNS57 rates	xareM
+NP-TMP58 each time	hara bAra
+

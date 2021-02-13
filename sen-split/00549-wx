@@ -1,0 +1,32 @@
+----
+00550	Recurrent neural networks, such as the LSTM sequence model mentioned above, are now used to model relationships between sequences and other sequences rather than just xed inputs.	 punarAvarwI waMwrikA netavarka , jEse ki Upara varNiwa LSTM anukrama moYdala , aba kevala niSciwa inaputa ke bajAya anukramoM Ora anya anukramoM ke bIca saMbaMXoM ko moYdala karane ke lie prayoga kiyA jAwA hE .		
+549	549
+S1 Recurrent neural networks , such as the LSTM sequence model mentioned above , are now used to model relationships between sequences and other sequences rather than just xed inputs .	varwamAna waMwrikA netavarka, jEse ki Upara bawAe gae elaesatIema kramAMka moYdala ke rUpa meM aba sirPa waya inaputa ke bajAya kramoM Ora anya
+NP2 Recurrent neural networks , such as the LSTM sequence model mentioned above ,	varwamAna waMwrikA netavarka, jEse ki elaesatIema kramAMka moYdala kA upara ulleKa kiyA gayA,
+NP3 Recurrent neural networks	varwamAna waMwrikA netavarka
+NNS6 networks	netavarka
+,7 ,	,
+PP8 such as the LSTM sequence model mentioned above	jEse elaesatIema kramAMka moYdala kA ukwa ulleKa
+NP11 the LSTM sequence model mentioned above	elaesatIema kramAMka moYdala kA ukwa ulleKa
+NP12 the LSTM sequence model	elaesatIema kramAMka moYdala
+VP17_LWG mentioned above	Upara bawAyA gayA ulleKa
+ADVP19 above	Upara
+,21 ,	,
+VP22_LWG are now used	aba iswemAla kiyA jAwA hE
+ADVP24 now	aba
+PP28 to model relationships between sequences and other sequences rather than just xed inputs	sirPa waya inaputa ke bajAya krama Ora anya kramoM ke bIca saMbaMXoM ko moYdala karane ke lie
+NP30 model relationships between sequences and other sequences rather than just xed inputs	sirPa waya inaputa ke bajAya krama Ora anya kramoM ke bIca saMbaMXa
+NP31 model relationships between sequences and other sequences	xqSyoM Ora anya xqSyoM ke bIca moYdala saMbaMXa
+NP32 model relationships	moYdala riSwoM
+NNS34 relationships	riSwoM
+PP35 between sequences and other sequences	xqSyoM Ora anya xqSyoM ke bIca
+NP37 sequences and other sequences	xqSya Ora anya xqSya
+NP38 sequences	xqSya
+NNS39 sequences	xqSya
+CC40 and	Ora
+NP41 other sequences	anya krama
+NNS43 sequences	xqSya
+CONJP44 rather than	balki isase jyAxA
+NP47 just xed inputs	basa Piksda inaputa
+NNS50 inputs	inaputa
+

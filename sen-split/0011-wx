@@ -1,0 +1,27 @@
+----
+0012	By gathering knowledge from experience, this approach avoids the need for human operators to formally specify all the knowledge that the computer needs.	 anuBava se jFAna ikatTA karake , yaha xqRtikoNa mAnava oYparetaroM ke lie una saBI jFAna ko OpacArika rUpa se nirxiRta karane kI AvaSyakawA se bacawA hE jinakI kaMpyUtara ko AvaSyakawA howI hE .		
+11	11
+S1 By gathering knowledge from experience , this approach avoids the need for human operators to formally specify all the knowledge that the computer needs .	anuBava se jFAna jutAkara, yaha xqRtikoNa mAnava saMcAlakoM kI AvaSyakawA se bacawA hE ki vaha saBI jFAna ko OpacArika rUpa se viSiRta kare jo kaMpyUtara kI jarUrawa hE
+PP2 By gathering knowledge from experience	anuBava se jFAna jutAkara
+S4 gathering knowledge from experience	anuBava se jFAna jutAnA
+VP5_LWG gathering	ikatTA honA
+NP7 knowledge	jFAna
+PP9 from experience	anuBava se
+NP11 experience	anuBava
+,13 ,	,
+NP14 this approach	yaha xqRtikoNa
+VP17_LWG avoids	isase bacawe hEM
+NP19 the need for human operators	mAnava saMcAlakoM kI jarUrawa
+NP20 the need	jarUrawa
+PP23 for human operators	mAnava saMcAlakoM ke lie
+NP25 human operators	mAnava saMcAlaka
+NNS27 operators	saMcAlaka
+S28 to formally specify all the knowledge that the computer needs	OpacArika rUpa se una saBI jFAnoM ko viSiRta karane ke lie jinheM kaMpyUtara ko cAhie
+VP29_LWG to formally specify	OpacArika rUpa se viSiRtawA ke lie
+ADVP31 formally	OpacArika wOra para
+NP35 all the knowledge	sArA jFAna
+SBAR39 that the computer needs	ki kaMpyUtara kI jarUrawa
+S41 the computer needs	kaMpyUtara kI jarUrawa
+NP42 the computer	kaMpyUtara
+VP45_LWG needs	jarUraweM
+

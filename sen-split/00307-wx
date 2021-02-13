@@ -1,0 +1,31 @@
+----
+00308	The main reason for the diminished role of neuroscience in deep learning research today is that we simply do not have enough information about the brain to use it as a guide.	 Aja gahana aXyayana anusaMXAna meM waMwrikA vijFAna kI kama BUmikA kA muKya kAraNa yaha hE ki hamAre pAsa maswiRka ke bAre meM paryApwa jAnakArI nahIM hE ki hama ise eka gAida ke rUpa meM iswemAla kara sakeM 		
+307	307
+S1 The main reason for the diminished role of neuroscience in deep learning research today is that we simply do not have enough information about the brain to use it as a guide .	gahana sIKa anusaMXAna meM nyUrosAiMsa kI kamI kI muKya vajaha Aja yaha hE ki hamAre pAsa sirPa eka gAida ke rUpa meM isakA upayoga karane ke lie maswiRka ke bAre
+NP2 The main reason for the diminished role of neuroscience in deep learning research	gahana sIKa anusaMXAna meM nyUrosAiMsa kI kamI kI muKya vajaha
+NP3 The main reason	muKya kAraNa
+PP7 for the diminished role of neuroscience in deep learning research	gahana sIKa anusaMXAna meM nyUrosAiMsa kI kamI kI BUmikA ke lie
+NP9 the diminished role of neuroscience in deep learning research	gahana sIKa anusaMXAna meM nyUrosAiMsa kI kamI kI BUmikA
+NP10 the diminished role	kama huI BUmikA
+PP14 of neuroscience in deep learning research	gahana sIKa anusaMXAna meM nyUrosAiMsa kA
+NP16 neuroscience in deep learning research	gahana sIKa anusaMXAna meM nyUrosAiMsa
+NP17 neuroscience	nyUrosAiMsa
+PP19 in deep learning research	gahana sIKa anusaMXAna meM
+NP21 deep learning research	gahana sIKa anusaMXAna
+NML22 deep learning	gaharI sIKa
+NP-TMP26 today	Aja
+VP28_LWG is	hE
+SBAR30 that we simply do not have enough information about the brain to use it as a guide	hamAre pAsa basa eka gAida ke rUpa meM ise upayoga karane ke lie maswiRka ke bAre meM paryApwa jAnakArI nahIM hE
+S32 we simply do not have enough information about the brain to use it as a guide	hamAre pAsa basa eka gAida ke rUpa meM ise upayoga karane ke lie maswiRka ke bAre meM paryApwa jAnakArI nahIM hE
+NP33 we	hama
+ADVP35 simply	basa iwanA hI
+VP37_LWG do not have	na hoM
+NP42 enough information	paryApwa jAnakArI
+PP45 about the brain	maswiRka ke bAre meM
+NP47 the brain	maswiRka
+S50 to use it as a guide	ise gAida ke rUpa meM iswemAla karane ke lie
+VP51_LWG to use	iswemAla ke lie
+NP55 it	yaha
+PP57 as a guide	eka gAida ke rUpa meM
+NP59 a guide	eka gAida
+

@@ -1,0 +1,15 @@
+----
+139
+S1 There_1 are_2 two_3 main_4 ways_5 of_6 measuring_7 the_8 depth_9 of_10 a_11 model_12 ._13
+NP2 There_1
+VP4_LWG are_2
+NP6 two_3 main_4 ways_5 of_6 measuring_7 the_8 depth_9 of_10 a_11 model_12
+NP7 two_3 main_4 ways_5
+NNS10 ways_5
+PP11 of_6 measuring_7 the_8 depth_9 of_10 a_11 model_12
+S13 measuring_7 the_8 depth_9 of_10 a_11 model_12
+VP14_LWG measuring_7
+NP16 the_8 depth_9 of_10 a_11 model_12
+NP17 the_8 depth_9
+PP20 of_10 a_11 model_12
+NP22 a_11 model_12

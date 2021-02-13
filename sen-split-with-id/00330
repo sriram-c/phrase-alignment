@@ -1,0 +1,23 @@
+----
+330
+S1 While_1 some_2 deep_3 learning_4 researchers_5 cite_6 neuroscience_7 as_8 an_9 important_10 source_11 of_12 inspiration_13 ,_14 others_15 are_16 not_17 concerned_18 with_19 neuroscience_20 at_21 all_22 ._23
+SBAR2 While_1 some_2 deep_3 learning_4 researchers_5 cite_6 neuroscience_7 as_8 an_9 important_10 source_11 of_12 inspiration_13
+S4 some_2 deep_3 learning_4 researchers_5 cite_6 neuroscience_7 as_8 an_9 important_10 source_11 of_12 inspiration_13
+NP5 some_2 deep_3 learning_4 researchers_5
+NML7 deep_3 learning_4
+NNS10 researchers_5
+VP11_LWG cite_6
+NP13 neuroscience_7
+PP15 as_8 an_9 important_10 source_11 of_12 inspiration_13
+NP17 an_9 important_10 source_11 of_12 inspiration_13
+NP18 an_9 important_10 source_11
+PP22 of_12 inspiration_13
+NP24 inspiration_13
+,26 ,_14
+NP27 others_15
+NNS28 others_15
+VP29_LWG are_16 not_17 concerned_18
+PP34 with_19 neuroscience_20
+NP36 neuroscience_20
+PP38 at_21 all_22
+NP40 all_22

@@ -1,0 +1,25 @@
+----
+438
+S1 Unless_1 new_2 technologies_3 enable_4 faster_5 scaling_6 ,_7 artiﬁcial_8 neural_9 networks_10 will_11 not_12 have_13 the_14 same_15 number_16 of_17 neurons_18 as_19 the_20 human_21 brain_22 until_23 at_24 least_25 the_26 2050s_27 ._28
+SBAR2 Unless_1 new_2 technologies_3 enable_4 faster_5 scaling_6
+S4 new_2 technologies_3 enable_4 faster_5 scaling_6
+NP5 new_2 technologies_3
+NNS7 technologies_3
+VP8_LWG enable_4
+NP10 faster_5 scaling_6
+,13 ,_7
+NP14 artiﬁcial_8 neural_9 networks_10
+NNS17 networks_10
+VP18_LWG will_11 not_12 have_13
+NP23 the_14 same_15 number_16 of_17 neurons_18 as_19 the_20 human_21 brain_22
+NP24 the_14 same_15 number_16
+PP28 of_17 neurons_18 as_19 the_20 human_21 brain_22
+NP30 neurons_18 as_19 the_20 human_21 brain_22
+NP31 neurons_18
+NNS32 neurons_18
+PP33 as_19 the_20 human_21 brain_22
+NP35 the_20 human_21 brain_22
+PP39 until_23 at_24 least_25 the_26 2050s_27
+NP41 at_24 least_25 the_26 2050s_27
+QP42 at_24 least_25
+ADVP43 at_24 least_25

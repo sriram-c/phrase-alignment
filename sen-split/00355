@@ -1,0 +1,40 @@
+----
+00356	Another major accomplishment of the connectionist movement was the suc- cessful use of back-propagation to train deep neural networks with internal repre- sentations and the popularization of the back-propagation algorithm (Rumelhart et al., 1986a; LeCun, 1987).	 कनेक्शनिस्ट आंदोलन की एक अन्य प्रमुख उपलब्धि थी , आंतरिक उद्वेगों से युक्त गहन तंत्रिका नेटवर्कों को प्रशिक्षित करने के लिए बैकुंठ प्रयोग और बैकुंठ कलन विधि का लोकप्रियीकरण ( आरुमलहार्ट एट अल , 1987 , लेसन , 1986 ) ।		
+355	355
+S1 Another major accomplishment of the connectionist movement was the suc - cessful use of back - propagation to train deep neural networks with internal repre - sentations and the popularization of the back - propagation algorithm ( Rumelhart et al. , 1986a ; LeCun , 1987 ) .	कनेक्शनवादी आंदोलन की एक और बड़ी उपलब्धि थी- पीछे का उपयोग - आंतरिक पूर्ववर्तन के साथ गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने के लिए प्रचार
+NP2 Another major accomplishment of the connectionist movement	कनेक्शनवादी आंदोलन की एक और बड़ी उपलब्धि
+NP3 Another major accomplishment	एक और बड़ी उपलब्धि
+PP7 of the connectionist movement	कनेक्शनवादी आंदोलन का
+NP9 the connectionist movement	कनेक्शनवादी आंदोलन
+VP13_LWG was	था।
+NP15 the suc - cessful use of back - propagation	चूसो - पीछे का लापरवाही से उपयोग - प्रचार
+NP16 the suc - cessful use	चूसो- सावधानी से उपयोग
+NML18 suc - cessful	चूसो- सावधान
+PP23 of back - propagation	पीछे की - प्रचार
+NP25 back - propagation	वापस- प्रचार-प्रसार
+S29 to train deep neural networks with internal repre - sentations and the popularization of the back - propagation algorithm	आंतरिक पूर्ववर्तन के साथ गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने के लिए – भेजे जाने और पीछे के लोकप्रियकरण - प्रचार एल्गोरिदम
+VP30_LWG to train	ट्रेनिंग के लिए
+NP34 deep neural networks with internal repre - sentations and the popularization of the back - propagation algorithm	आंतरिक पूर्ववर्तन के साथ गहरे तंत्रिका नेटवर्क और पीछे के लोकप्रियकरण के साथ - प्रचार एल्गोरिदम
+NP35 deep neural networks with internal repre - sentations	आंतरिक पूर्ववर्तन के साथ गहरे तंत्रिका नेटवर्क- भेजे गए
+NP36 deep neural networks	गहरे तंत्रिका नेटवर्क
+NNS39 networks	नेटवर्क
+PP40 with internal repre - sentations	आंतरिक पूर्वाग्रह के साथ- भेजे गए आदेश
+NP42 internal repre - sentations	आंतरिक पूर्वाग्रह- भेजे गए आदेश
+NNS46 sentations	भेजे गए भत्ते
+CC47 and	और
+NP48 the popularization of the back - propagation algorithm	पीछे का लोकप्रियकरण- प्रचार एल्गोरिदम
+NP49 the popularization	लोकप्रियता
+PP52 of the back - propagation algorithm	पीछे की - प्रचार एल्गोरिदम
+NP54 the back - propagation algorithm	पीछे - प्रचार एल्गोरिदम
+NML56 back - propagation	वापस- प्रचार-प्रसार
+PRN61 ( Rumelhart et al. , 1986a ; LeCun , 1987 )	(रुमालहार्ट एट अल., 1986 ; लेकन, 1987 )
+FRAG63 Rumelhart et al. , 1986a	रूमालहार्ट एट अल., 1986a
+NP64 Rumelhart et al.	Rumelhart एट अल।
+ADVP66 et al.	एट अल।
+,69 ,	,
+NP70 1986a	1986a
+FRAG73 LeCun , 1987	लेकन, 1987
+NP74 LeCun	लेकन
+,76 ,	,
+NP77 1987	1987
+

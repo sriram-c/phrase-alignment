@@ -1,0 +1,19 @@
+----
+46
+S1 For_1 example_2 ,_3 when_4 logistic_5 regression_6 is_7 used_8 to_9 recommend_10 cesarean_11 delivery_12 ,_13 the_14 AI_15 system_16 does_17 not_18 examine_19 the_20 patient_21 directly_22 ._23
+PP2 For_1 example_2
+NP4 example_2
+,6 ,_3
+SBAR7 when_4 logistic_5 regression_6 is_7 used_8 to_9 recommend_10 cesarean_11 delivery_12
+WHADVP8 when_4
+S10 logistic_5 regression_6 is_7 used_8 to_9 recommend_10 cesarean_11 delivery_12
+NP11 logistic_5 regression_6
+VP14_LWG is_7 used_8
+S18 to_9 recommend_10 cesarean_11 delivery_12
+VP19_LWG to_9 recommend_10
+NP23 cesarean_11 delivery_12
+,26 ,_13
+NP27 the_14 AI_15 system_16
+VP31_LWG does_17 not_18 examine_19 directly_22
+NP36 the_20 patient_21
+ADVP39 directly_22

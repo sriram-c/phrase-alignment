@@ -1,0 +1,22 @@
+----
+193
+S1 Part_1 III_2 describes_3 more_4 speculative_5 ideas_6 that_7 are_8 widely_9 believed_10 to_11 be_12 important_13 for_14 future_15 research_16 in_17 deep_18 learning_19 ._20
+NP2 Part_1 III_2
+VP5_LWG describes_3
+NP7 more_4 speculative_5 ideas_6 that_7 are_8 widely_9 believed_10 to_11 be_12 important_13 for_14 future_15 research_16 in_17 deep_18 learning_19
+NP8 more_4 speculative_5 ideas_6
+ADJP9 more_4 speculative_5
+NNS12 ideas_6
+SBAR13 that_7 are_8 widely_9 believed_10 to_11 be_12 important_13 for_14 future_15 research_16 in_17 deep_18 learning_19
+WHNP14 that_7
+S16 are_8 widely_9 believed_10 to_11 be_12 important_13 for_14 future_15 research_16 in_17 deep_18 learning_19
+VP17_LWG are_8 widely_9 believed_10
+ADVP19 widely_9
+S23 to_11 be_12 important_13 for_14 future_15 research_16 in_17 deep_18 learning_19
+VP24_LWG to_11 be_12
+ADJP28 important_13 for_14 future_15 research_16 in_17 deep_18 learning_19
+PP30 for_14 future_15 research_16 in_17 deep_18 learning_19
+NP32 future_15 research_16 in_17 deep_18 learning_19
+NP33 future_15 research_16
+PP36 in_17 deep_18 learning_19
+NP38 deep_18 learning_19

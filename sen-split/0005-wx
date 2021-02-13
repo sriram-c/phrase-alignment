@@ -1,0 +1,26 @@
+----
+0006	We look to intelligent software to automate routine labor, understand speech or images, make diagnoses in medicine and support basic scientic research.	 hama sAmAnya kArya ko svacAliwa karane ke lie buxXimawwApUrNa soYPZtaveyara kI ora xeKawe hEM , BARaNa yA CaviyoM ko samaJawe hEM , cikiwsA meM nixAna karawe hEM Ora mUla vEjFAnika anusaMXAna ko samarWana xewe hEM 		
+5	5
+S1 We look to intelligent software to automate routine labor , understand speech or images , make diagnoses in medicine and support basic scientic research .	hama niyamiwa Srama ko svacAliwa karane ke lie buxXimAna soYPtaveyara ko xeKawe hEM, BARaNa yA CaviyAM samaJawe hEM, cikiwsA meM nixAna karawe hEM Ora buniyAxI vE
+NP2 We	hama
+VP4_LWG look	xeKo
+PP6 to intelligent software	buxXimAna soYPtaveyara ko
+NP8 intelligent software	buxXimAna soYPtaveyara
+S11 to automate routine labor , understand speech or images , make diagnoses in medicine and support basic scientic research	niyamiwa rUpa se Srama ko svacAliwa karane ke lie, BARaNa yA CaviyAM samaJeM, cikiwsA meM nixAna kareM Ora buniyAxI vEjFAnika anusaMXAna kA samarWana kareM
+VP12_LWG to automate understand make support	svacAliwa samaJane ke lie samarWana banAne ke lie
+NP17 routine labor	niyamiwa Srama
+,20 ,	,
+NP23 speech or images	BARaNa yA CaviyAM
+CC25 or	yA
+NN24 speech	BARaNa
+NNS26 images	CaviyAM
+,27 ,	,
+NP30 diagnoses	nixAna
+NNS31 diagnoses	nixAna
+PP32 in medicine	xavA meM
+NP34 medicine	xavA
+CC36 and	Ora
+VP28 make diagnoses in medicine	xavA meM kareM nixAna
+VP37 support basic scientic research	buniyAxI vEjFAnika anusaMXAna kA samarWana
+NP39 basic scientic research	buniyAxI vEjFAnika anusaMXAna
+

@@ -1,0 +1,21 @@
+----
+20
+S1 Chess_1 can_2 be_3 completely_4 described_5 by_6 a_7 very_8 brief_9 list_10 of_11 completely_12 formal_13 rules_14 ,_15 easily_16 provided_17 ahead_18 of_19 time_20 by_21 the_22 programmer_23 ._24
+NP2 Chess_1
+VP4_LWG can_2 be_3 completely_4 described_5 easily_16 provided_17 ahead_18
+ADVP9 completely_4
+PP13 by_6 a_7 very_8 brief_9 list_10 of_11 completely_12 formal_13 rules_14
+NP15 a_7 very_8 brief_9 list_10 of_11 completely_12 formal_13 rules_14
+NP16 a_7 very_8 brief_9 list_10
+ADJP18 very_8 brief_9
+PP22 of_11 completely_12 formal_13 rules_14
+NP24 completely_12 formal_13 rules_14
+ADJP25 completely_12 formal_13
+NNS28 rules_14
+,29 ,_15
+ADVP30 easily_16
+ADVP34 ahead_18 of_19 time_20
+PP36 of_19 time_20
+NP38 time_20
+PP40 by_21 the_22 programmer_23
+NP42 the_22 programmer_23

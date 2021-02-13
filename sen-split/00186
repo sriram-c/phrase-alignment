@@ -1,0 +1,39 @@
+----
+00187	A Venn diagram showing how deep learning is a kind of representation learning, which is in turn a kind of machine learning, which is used for many but not all approaches to AI.	 एक वेन आरेख यह दर्शाता है कि कितना गहरा शिक्षण एक प्रकार का प्रतिनिधित्व अधिगम है , जो बदले में एक प्रकार का मशीन अधिगम है , जो कई के लिए प्रयोग किया जाता है लेकिन सभी दृष्टिकोण एआई के लिए नहीं .		
+186	186
+S1 A Venn diagram showing how deep learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all approaches to AI .	एक वेन चित्र जिसमें दिखाया गया है कि कितनी गहरी सीख एक तरह की प्रतिनिधित्व सीखने की तरह है, जो एक तरह की मशीन सीखने की तरह है, जिसका इस
+NP2 A Venn diagram showing how deep learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	एक वेन निर्देशन जिसमें दिखाया गया है कि कितनी गहरी सीख एक तरह की प्रतिनिधित्व सीखने वाली सीख है, जो एक तरह की मशीन सीखने की तरह है,
+NP3 A Venn diagram	एक वेन चित्र
+VP7_LWG showing	दिखा रहा है।
+SBAR9 how deep learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	कितनी गहरी सीख एक तरह की प्रतिनिधित्व सीख है, जो कि एक तरह की मशीन सीखने की तरह है, जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन
+WHADJP10 how deep	कितना गहरा
+S13 learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	सीखना एक तरह का प्रतिनिधित्व सीखना है, जो एक तरह की मशीन सीखने की तरह है, जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन सभी नहीं
+NP14 learning	सीखना
+VP16_LWG is	है।
+NP18 a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	एक तरह की प्रतिनिधित्व सीख, जो एक तरह की मशीन सीखने की तरह है, जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन यह सब नहीं
+NP19 a kind of representation learning	एक तरह का प्रतिनिधित्व सीखना
+NP20 a kind	एक तरह का
+PP23 of representation learning	प्रतिनिधित्व की सीख
+NP25 representation learning	प्रतिनिधित्व सीखना
+,28 ,	,
+SBAR29 which is in turn a kind of machine learning , which is used for many but not all	जो कि बारी में है एक तरह की मशीन सीखने की, जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन सभी नहीं
+WHNP30 which	जो कि
+S32 is in turn a kind of machine learning , which is used for many but not all	एक तरह की मशीन सीखने की बारी है, जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन सभी नहीं
+VP33_LWG is	है।
+PP35 in turn	बारी-बारी में
+NP37 turn	बारी।
+NP39 a kind of machine learning , which is used for many but not all	एक तरह की मशीन सीख रही है, जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन सभी नहीं
+NP40 a kind of machine learning	एक तरह की मशीन सीख रही है
+NP41 a kind	एक तरह का
+PP44 of machine learning	मशीन सीखने की
+NP46 machine learning	मशीन सीखना
+,49 ,	,
+SBAR50 which is used for many but not all	जिसका इस्तेमाल कई लोगों के लिए किया जाता है लेकिन सभी नहीं
+WHNP51 which	जो कि
+S53 is used for many but not all	कई लोगों के लिए इस्तेमाल किया जाता है लेकिन सभी नहीं
+VP54_LWG is used	इस्तेमाल होता है
+PP58 for many but not all	कई लोगों के लिए लेकिन सभी नहीं
+NP60 many but not all	कई लेकिन सभी नहीं
+NP61 many	कई
+CONJP63 but not	लेकिन नहीं।
+

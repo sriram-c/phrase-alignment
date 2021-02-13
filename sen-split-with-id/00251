@@ -1,0 +1,18 @@
+----
+251
+NP1 0.000200_1 0.000250_2 Frequency_3 of_4 Word_5 or_6 Phrase_7 cybernetics_8 (_9 connectionism_10 +_11 neural_12 networks_13 )_14
+NP2 0.000200_1 0.000250_2 Frequency_3
+QP3 0.000200_1 0.000250_2
+PP7 of_4 Word_5 or_6 Phrase_7 cybernetics_8 (_9 connectionism_10 +_11 neural_12 networks_13 )_14
+NP9 Word_5 or_6 Phrase_7 cybernetics_8 (_9 connectionism_10 +_11 neural_12 networks_13 )_14
+NML10 Word_5 or_6 Phrase_7
+CC12 or_12
+NNP11 Word_5
+NNP13 Phrase_7
+NNS14 cybernetics_8
+PRN15 (_9 connectionism_10 +_11 neural_12 networks_13 )_14
+NP17 connectionism_10 +_11 neural_12 networks_13
+NP18 connectionism_10
+SYM20 +_11
+NP21 neural_12 networks_13
+NNS23 networks_13

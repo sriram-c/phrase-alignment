@@ -1,0 +1,21 @@
+----
+345
+S1 Several_1 key_2 concepts_3 arose_4 during_5 the_6 connectionism_7 movement_8 of_9 the_10 1980s_11 that_12 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19 ._20
+NP2 Several_1 key_2 concepts_3
+NNS5 concepts_3
+VP6_LWG arose_4
+PP8 during_5 the_6 connectionism_7 movement_8 of_9 the_10 1980s_11 that_12 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+NP10 the_6 connectionism_7 movement_8 of_9 the_10 1980s_11 that_12 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+NP11 the_6 connectionism_7 movement_8
+PP15 of_9 the_10 1980s_11 that_12 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+NP17 the_10 1980s_11 that_12 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+NP18 the_10 1980s_11
+NNS20 1980s_11
+SBAR21 that_12 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+WHNP22 that_12
+S24 remain_13 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+VP25_LWG remain_13
+NP27 central_14 to_15 today_16 ’s_17 deep_18 learning_19
+ADJP28 central_14 to_15 today_16 ’s_17
+PP30 to_15 today_16 ’s_17
+NP32 today_16 ’s_17

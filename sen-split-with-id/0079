@@ -1,0 +1,17 @@
+----
+79
+S1 They_1 also_2 enable_3 AI_4 systems_5 to_6 rapidly_7 adapt_8 to_9 new_10 tasks_11 ,_12 with_13 minimal_14 human_15 intervention_16 ._17
+NP2 They_1
+ADVP4 also_2
+VP6_LWG enable_3
+NP8 AI_4 systems_5
+NNS10 systems_5
+S11 to_6 rapidly_7 adapt_8 to_9 new_10 tasks_11 ,_12 with_13 minimal_14 human_15 intervention_16
+VP12_LWG to_6 rapidly_7 adapt_8
+ADVP14 rapidly_7
+PP18 to_9 new_10 tasks_11
+NP20 new_10 tasks_11
+NNS22 tasks_11
+,23 ,_12
+PP24 with_13 minimal_14 human_15 intervention_16
+NP26 minimal_14 human_15 intervention_16

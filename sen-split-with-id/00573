@@ -1,0 +1,19 @@
+----
+573
+S1 We_1 expect_2 deep_3 learning_4 to_5 appear_6 in_7 more_8 and_9 more_10 scientiﬁc_11 ﬁelds_12 in_13 the_14 future_15 ._16
+NP2 We_1
+VP4_LWG expect_2
+NP6 deep_3 learning_4
+S9 to_5 appear_6 in_7 more_8 and_9 more_10 scientiﬁc_11 ﬁelds_12 in_13 the_14 future_15
+VP10_LWG to_5 appear_6
+PP14 in_7 more_8 and_9 more_10 scientiﬁc_11 ﬁelds_12 in_13 the_14 future_15
+NP16 more_8 and_9 more_10 scientiﬁc_11 ﬁelds_12 in_13 the_14 future_15
+NP17 more_8 and_9 more_10 scientiﬁc_11 ﬁelds_12
+ADJP18 more_8 and_9 more_10 scientiﬁc_11
+ADVP19 more_8 and_9 more_10
+CC21 and_21
+RBR20 more_8
+RBR22 more_10
+NNS24 ﬁelds_12
+PP25 in_13 the_14 future_15
+NP27 the_14 future_15

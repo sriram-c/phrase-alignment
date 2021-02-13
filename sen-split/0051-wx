@@ -1,0 +1,27 @@
+----
+0052	If logistic regression were given an MRI scan of the patient, rather than the doctors formalized report, it would not be able to make useful predictions.	 yaxi rogI ko loYjistika rIgreSana emaAraAI skEna xiyA jAwA , bajAya cikiwsaka kI OpacArika riporta ke , wo vaha upayogI BaviRyavANiyAM nahIM kara sakegA 		
+51	51
+S1 If logistic regression were given an MRI scan of the patient , rather than the doctor s formalized report , it would not be able to make useful predictions .	yaxi loYjistika ripreSana ko marIja kA emaAraAI skEna xiyA gayA, wo doYktara kI PoYrmUlI riporta ke bajAya yaha upayogI BaviRyavANiyAM nahIM kara pAegA
+SBAR2 If logistic regression were given an MRI scan of the patient , rather than the doctor s formalized report	yaxi loYjistika ripreSana ko marIja kA emaAraAI skEna xiyA gayA, wo doYktara kI PoYrmUlI riporta ke bajAya
+S4 logistic regression were given an MRI scan of the patient , rather than the doctor s formalized report	loYjistika ripreSana ko marIja kA emaAraAI skEna xiyA gayA WA, balki doYktara kI PoYrmUlI riporta
+NP5 logistic regression	loYjistika prawiPala
+VP8_LWG were given	xie gae We
+NP12 an MRI	eka emaAraAI
+NP15 scan of the patient , rather than the doctor s formalized report	doYktara kI PoYrmUlI riporta ke bajAya rogI kA skEna,
+NP16 scan of the patient	marIja kA skEna
+NP17 scan	skEna kareM
+PP19 of the patient	marIja kA
+NP21 the patient	marIja
+,24 ,	,
+CONJP25 rather than	balki isase jyAxA
+NP28 the doctor s formalized report	doYktara kI PoYrmUlI riporta
+NML30 doctor s	doYktara kI
+,35 ,	,
+NP36 it	yaha
+VP38_LWG would not be	nahIM howA
+ADJP43 able to make useful predictions	upayogI BaviRyavANiyAM karane meM sakRama
+S45 to make useful predictions	upayogI BaviRyavANiyAM karane ke lie
+VP46_LWG to make	banAne ke lie
+NP50 useful predictions	upayogI BaviRyavANiyAM
+NNS52 predictions	BaviRyavANiyAM
+

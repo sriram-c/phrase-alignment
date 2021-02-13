@@ -1,0 +1,21 @@
+----
+555
+S1 This_1 self_2 -_3 programming_4 technology_5 is_6 in_7 its_8 infancy_9 ,_10 but_11 in_12 the_13 future_14 it_15 could_16 in_17 principle_18 be_19 applied_20 to_21 nearly_22 any_23 task_24 ._25
+S2 This_1 self_2 -_3 programming_4 technology_5 is_6 in_7 its_8 infancy_9
+NP3 This_1 self_2 -_3 programming_4 technology_5
+ADJP5 self_2 -_3 programming_4
+VP10_LWG is_6
+PP12 in_7 its_8 infancy_9
+NP14 its_8 infancy_9
+,17 ,_10
+CC18 but_18
+S19 in_12 the_13 future_14 it_15 could_16 in_17 principle_18 be_19 applied_20 to_21 nearly_22 any_23 task_24
+PP20 in_12 the_13 future_14
+NP22 the_13 future_14
+NP25 it_15
+VP27_LWG could_16 be_19 applied_20
+PP29 in_17 principle_18
+NP31 principle_18
+PP37 to_21 nearly_22 any_23 task_24
+NP39 nearly_22 any_23 task_24
+QP40 nearly_22 any_23

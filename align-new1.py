@@ -8,6 +8,8 @@ from simalign.simalign import *
 from nltk.tokenize import word_tokenize
 from util import *
 
+import  ast
+
 if __name__ == '__main__':
 
     uniq_sen = [l.strip('NMT:').strip('English -->').strip() for l in
@@ -15,9 +17,15 @@ if __name__ == '__main__':
                  len(l.strip('NMT:').strip('English -->').strip()) > 0]
     uniq_sen = [regex.sub("\\p{C}+", "", regex.sub("\\p{Separator}+", " ", sen)).strip() for sen in  uniq_sen]
 
-    #read all chunk translation
-
+    #read all chunk translation in  wx
     chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[3:-1]]
+
+
+    #read root dictionary processed earlier independently
+    with open(sys.argv[3], 'r') as f:
+        cont = f.readlines()
+
+    dic_root = ast.literal_eval(cont[0])
 
     # output_best = simalign_batch(best_sen, 'mai')
 
@@ -42,6 +50,29 @@ if __name__ == '__main__':
     for ch, ch_hnd in zip(chunk_sens[0], chunks):
         hnd_text = ch_hnd[2]
         ch.append(hnd_text)
+
+    #group smaller chunks inside larger ones.
+
+    group_chunk = {}
+    prev_ch_id = []
+    for ch in chunk_sens[0]:
+        if(ch[0] != 'S0'):
+            if set(ch[2]).issubset(set(prev_ch_id)):
+                if(ch[0] not in group_chunk):
+                    print(ch)
+                    group_chunk[prev_ch_phrase].append([ch[1], ch[2], ch[3]])
+            else:
+                if('CC' not in ch[0]):
+                    group_chunk[ch[0]] = []
+                    print(ch)
+                    group_chunk[ch[0]].append([ch[1], ch[2], ch[3]])
+                    prev_ch_id = ch[2]
+                    prev_ch_phrase = ch[0]
+
+
+    #align smaller chunk translation to bigger chunk by applying logic
+    align_chunk_logic(group_chunk, dic_root)
+
 
     filter_chunk_sens = filter_chunk(chunk_sens, chunk_size=5)
 

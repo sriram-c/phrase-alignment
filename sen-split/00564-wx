@@ -1,0 +1,24 @@
+----
+00565	Software libraries such as Theano (Bergstra et al., 2010; Bastien et al., 2012), PyLearn2 (Goodfellow et al.	 soYPtaveyara puswakAlaya jEse ki Theergtra eta ala , 2010 rutien eta ala , PyLearn2		
+564	564
+NP1 Software libraries such as Theano ( Bergstra et al. , 2010 ; Bastien et al. , 2012 ) , PyLearn2 ( Goodfellow et al. .	Weno (bargastrA eta ala., 2010 ; baswIna eta ala., 2012 ), pAilarna 2 (gudaPoYla eta ala..
+NP2 Software libraries such as Theano ( Bergstra et al. , 2010 ; Bastien et al. , 2012 )	Weno (bargastrA eta ala, 2010 ; baswIna ewa ala., 2012 )
+NP3 Software libraries	soYPtaveyara lAibrerI
+NNS5 libraries	puswakAlayoM
+PP6 such as Theano ( Bergstra et al. , 2010 ; Bastien et al. , 2012 )	jEse Weno (bargastrA eta ala., 2010 ; baswIna ewa ala., 2012 )
+NP9 Theano ( Bergstra et al. , 2010 ; Bastien et al. , 2012 )	Weno (bargastrA eta ala., 2010 ; baswIna eta ala., 2012 )
+PRN11 ( Bergstra et al. , 2010 ; Bastien et al. , 2012 )	(bargastrA eta ala., 2010 ; baswIna eta ala., 2012 )
+FRAG13 Bergstra et al. , 2010	bargarastrA eta ala., 2010
+NP14 Bergstra et al.	bargarastrA eta ala
+ADVP16 et al.	eta ala
+,19 ,	,
+NP20 2010	2010
+FRAG23 Bastien et al. , 2012	baswIna eta ala., 2012
+NP24 Bastien et al.	baswIna eta ala
+ADVP26 et al.	eta ala
+,29 ,	,
+NP30 2012	2012
+,33 ,	,
+NP34 PyLearn2 ( Goodfellow	pAilarna 2 ( gudaPoYlara
+ADVP38 et al.	eta ala
+

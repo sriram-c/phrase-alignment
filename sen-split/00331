@@ -1,0 +1,27 @@
+----
+00332	It is worth noting that the eﬀort to understand how the brain works on an algorithmic level is alive and well.	 गौरतलब है कि यह समझने का प्रयास कि मस्तिष्क एल्गोरिथम स्तर पर कैसे काम करता है , जीवित और अच्छी तरह से है ।		
+331	331
+S1 It is worth noting that the eﬀort to understand how the brain works on an algorithmic level is alive and well .	गौरतलब है कि यह समझने की कोशिश है कि एक एल्गोरिदमिक स्तर पर मस्तिष्क कैसे काम करता है वह जीवित और अच्छी तरह से जीवित है।
+NP2 It	यह
+VP4_LWG is	है।
+ADJP6 worth	लायक
+S8 noting that the eﬀort to understand how the brain works on an algorithmic level is alive and well	गौरतलब है कि यह समझने की कोशिश है कि एक एल्गोरिदमिक स्तर पर मस्तिष्क कैसे काम करता है वह जीवित और अच्छी तरह से
+VP9_LWG noting	गौर करना
+SBAR11 that the eﬀort to understand how the brain works on an algorithmic level is alive and well	यह समझने की कोशिश है कि एक एल्गोरिदमिक स्तर पर मस्तिष्क कैसे काम करता है वह जीवित और अच्छी तरह से
+S13 the eﬀort to understand how the brain works on an algorithmic level is alive and well	यह समझने की कोशिश है कि एक एल्गोरिदमिक स्तर पर मस्तिष्क कैसे काम करता है वह जीवित और अच्छी तरह से
+NP14 the eﬀort to understand how the brain works on an algorithmic level	यह समझने की कोशिश कि कैसे एक एल्गोरिदमिक स्तर पर मस्तिष्क काम करता है
+S17 to understand how the brain works on an algorithmic level	यह समझने के लिए कि एक एल्गोरिदमिक स्तर पर मस्तिष्क कैसे काम करता है
+VP18_LWG to understand	समझने के लिए।
+SBAR22 how the brain works on an algorithmic level	कैसे एक एल्गोरिदमिक स्तर पर काम करता है मस्तिष्क
+WHADVP23 how	कैसे
+S25 the brain works on an algorithmic level	मस्तिष्क एक एल्गोरिदमिक स्तर पर काम करता है
+NP26 the brain	मस्तिष्क
+VP29_LWG works	काम करता है।
+PP31 on an algorithmic level	एक एल्गोरिदमिक स्तर पर
+NP33 an algorithmic level	एक एल्गोरिदमिक स्तर
+VP37_LWG is	है।
+ADJP39 alive and well	जिंदा और अच्छी तरह से
+CC41 and	और
+JJ40 alive	जिंदा
+JJ42 well	अच्छी तरह से
+

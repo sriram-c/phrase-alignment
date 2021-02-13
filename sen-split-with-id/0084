@@ -1,0 +1,36 @@
+----
+84
+S1 Autoencoders_1 are_2 trained_3 to_4 preserve_5 as_6 much_7 information_8 as_9 possible_10 when_11 an_12 input_13 is_14 run_15 through_16 the_17 encoder_18 and_19 then_20 the_21 decoder_22 ,_23 but_24 they_25 are_26 also_27 trained_28 to_29 make_30 the_31 new_32 representation_33 have_34 various_35 nice_36 properties_37 ._38
+S2 Autoencoders_1 are_2 trained_3 to_4 preserve_5 as_6 much_7 information_8 as_9 possible_10 when_11 an_12 input_13 is_14 run_15 through_16 the_17 encoder_18 and_19 then_20 the_21 decoder_22
+NP3 Autoencoders_1
+NNS4 Autoencoders_1
+VP5_LWG are_2 trained_3
+S9 to_4 preserve_5 as_6 much_7 information_8 as_9 possible_10 when_11 an_12 input_13 is_14 run_15 through_16 the_17 encoder_18 and_19 then_20 the_21 decoder_22
+VP10_LWG to_4 preserve_5
+PP14 as_6 much_7 information_8 as_9 possible_10
+NP16 much_7 information_8 as_9 possible_10
+NP17 much_7 information_8
+ADJP20 as_9 possible_10
+SBAR23 when_11 an_12 input_13 is_14 run_15 through_16 the_17 encoder_18 and_19 then_20 the_21 decoder_22
+WHADVP24 when_11
+S26 an_12 input_13 is_14 run_15 through_16 the_17 encoder_18 and_19 then_20 the_21 decoder_22
+NP27 an_12 input_13
+VP30_LWG is_14 run_15
+PP34 through_16 the_17 encoder_18 and_19 then_20 the_21 decoder_22
+NP36 the_17 encoder_18 and_19 then_20 the_21 decoder_22
+NP37 the_17 encoder_18
+CC40 and_40
+NP41 then_20 the_21 decoder_22
+,45 ,_23
+CC46 but_46
+S47 they_25 are_26 also_27 trained_28 to_29 make_30 the_31 new_32 representation_33 have_34 various_35 nice_36 properties_37
+NP48 they_25
+VP50_LWG are_26 also_27 trained_28
+ADVP52 also_27
+S56 to_29 make_30 the_31 new_32 representation_33 have_34 various_35 nice_36 properties_37
+VP57_LWG to_29 make_30
+S61 the_31 new_32 representation_33 have_34 various_35 nice_36 properties_37
+NP62 the_31 new_32 representation_33
+VP66_LWG have_34
+NP68 various_35 nice_36 properties_37
+NNS71 properties_37

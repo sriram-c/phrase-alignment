@@ -1,0 +1,21 @@
+----
+00551	This sequence-to-sequence learning seems to be on the cusp of revolutionizing another application: machine translation (Sutskever et al.	 yaha anukrama - se - anukrama SikRaNa eka anya anuprayoga ke krAMwikaraNa ke muhAne para prawIwa howA hEH maSIna anuvAxa (Sutskever eta ala ) .		
+550	550
+S1 This sequence - to - sequence learning seems to be on the cusp of revolutionizing another application : machine translation ( Sutskever et al. .	yaha krama  se- anukrama sIKanA eka Ora Avexana ko krAMwikArI banAne ke aSuBa krama para lagawA hEH maSIna anuvAxa (sawsakevara eta ala..
+NP2 This sequence - to - sequence learning	yaha krama- se- anukrama sIKanA
+NML4 sequence - to - sequence	krama- se- krama
+VP11_LWG seems	lagawA hE lagawA hE
+S13 to be on the cusp of revolutionizing another application : machine translation ( Sutskever et al.	eka Ora Avexana ko krAMwikArI banAne ke aSuBa rUpa meM honA cAhieH maSIna anuvAxa (sawsakevara eta ala
+VP14_LWG to be	honA cAhie
+PP18 on the cusp of revolutionizing another application : machine translation ( Sutskever et al.	eka Ora Avexana ko krAMwikArI banAne ke aSuBa krama para maSIna anuvAxa (sawsakevara eta ala
+NP20 the cusp of revolutionizing another application : machine translation ( Sutskever et al.	eka Ora Avexana ko krAMwikArI banAne kA SuBaH maSIna anuvAxa (sawsakevara eta ala
+NP21 the cusp	aSuBa
+PP24 of revolutionizing another application : machine translation ( Sutskever et al.	eka Ora Avexana ko krAMwikArI karane ke lie maSIna anuvAxa (sawsakevara eta ala
+S26 revolutionizing another application : machine translation ( Sutskever et al.	eka Ora Avexana ko krAMwikArI - maSIna anuvAxa (sawsakevara eta ala
+VP27_LWG revolutionizing	krAMwikArI
+NP29 another application : machine translation ( Sutskever et al.	eka Ora Avexana H maSIna anuvAxa (sawsakevara eta ala
+NP30 another application : machine translation	eka Ora AvexanaH maSIna anuvAxa
+NML32 application : machine	AvexanaH maSIna
+NP38 Sutskever	sawaskevAra
+ADVP40 et al.	eta ala
+

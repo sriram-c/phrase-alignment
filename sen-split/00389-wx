@@ -1,0 +1,18 @@
+----
+00390	It is true that some skill is required to get good performance from a deep learning algorithm.	 yaha saca hE ki eka gaharI sIKane elgoriWma se acCA praxarSana prApwa karane ke lie kuCa kOSala kI AvaSyakawA hE .		
+389	389
+S1 It is true that some skill is required to get good performance from a deep learning algorithm .	yaha sawya hE ki gaharI sIKa elgorixama se acCA praxarSana pAne ke lie kuCa kOSala kI AvaSyakawA howI hE
+NP2 It	yaha
+VP4_LWG is	hE
+ADJP6 true	saca hE
+SBAR8 that some skill is required to get good performance from a deep learning algorithm	ki gaharI sIKa elgorixama se acCA praxarSana pAne ke lie kuCa kOSala kI jarUrawa hE
+S10 some skill is required to get good performance from a deep learning algorithm	gaharI sIKa elgorixama se acCA praxarSana pAne ke lie kuCa kOSala kI AvaSyakawA
+NP11 some skill	kuCa kOSala
+VP14_LWG is required	jarUrawa hE
+S18 to get good performance from a deep learning algorithm	gaharI sIKa elgorixama se acCA praxarSana pAne ke lie
+VP19_LWG to get	prApwa karane ke lie
+NP23 good performance	acCA praxarSana
+PP26 from a deep learning algorithm	eka gaharI sIKa elgorixama se
+NP28 a deep learning algorithm	eka gaharI sIKa elgorixama
+NML30 deep learning	gaharI sIKa
+

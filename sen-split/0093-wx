@@ -1,0 +1,29 @@
+----
+0094	When analyzing a speech recording, the factors of variation include the speakers age, their sex, their accent and the words they are speaking.	 jaba kisI BARaNa rikoYrdiMga kA viSleRaNa kiyA jAwA hE wo viBinnawA ke kArakoM meM vakwA kI Ayu , unakA liMga , unake lahaje Ora ve jo Sabxa bola rahe hEM SAmila hEM .		
+93	93
+S1 When analyzing a speech recording , the factors of variation include the speaker s age , their sex , their accent and the words they are speaking .	jaba eka BARaNa rikoYrdiMga kA viSleRaNa karawe hEM wo viviXawA ke kArakoM meM spIkara kI umra, unakA liMga, unakA uccAraNa Ora una SabxoM ko SAmila kiyA jAwA hE jo
+SBAR2 When analyzing a speech recording , the factors of variation include the speaker s age , their sex , their accent and the words	jaba eka BARaNa rikoYrdiMga kA viSleRaNa karawe hEM wo viviXawA ke kArakoM meM spIkara kI umra, unake liMga, unake uccAraNa Ora Sabxa SAmila hEM
+WHADVP3 When	kaba
+S5 analyzing a speech recording , the factors of variation include the speaker s age , their sex , their accent and the words	eka BARaNa rikoYrdiMga kA viSleRaNa karawe hue, vErieMteSana ke kArakoM meM spIkara kI umra, unake liMga, unake uccAraNa Ora Sabxa SAmila
+S6 analyzing a speech recording	eka BARaNa rikoYrdiMga kA viSleRaNa
+VP7_LWG analyzing	viSleRaNa
+NP9 a speech recording	eka BARaNa rikoYrdiMga
+,13 ,	,
+NP14 the factors of variation	viviXawA ke kAraka
+NP15 the factors	kAraKAne
+NNS17 factors	kAraKAne
+PP18 of variation	viviXawA kA
+NP20 variation	viviXawA
+VP22_LWG include	SAmila
+NP24 the speaker s age , their sex , their accent and the words	spIkara kI umra, unakA seksa, unakA uccAraNa Ora Sabxa
+NP25 the speaker s age	spIkara kI umra
+,30 ,	,
+NP31 their sex	unakA seksa
+,34 ,	,
+NP35 their accent	unakA lahajA
+CC38 and	Ora
+NP39 the words	Sabxa
+NNS41 words	Sabxa
+NP42 they	ve
+VP44_LWG are speaking	bola rahe hEM
+

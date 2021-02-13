@@ -1,0 +1,27 @@
+----
+00317	The basic idea of having many computational units that become intelligent only via their interactions with each other is inspired by the brain.	 कई कम्प्यूटेशनल इकाइयों के होने का मूल विचार जो केवल एक दूसरे के साथ उनकी बातचीत के माध्यम से बुद्धिमान बन जाते हैं , मस्तिष्क से प्रेरित होता है .		
+316	316
+S1 The basic idea of having many computational units that become intelligent only via their interactions with each other is inspired by the brain .	कई कम्प्यूटेशनल यूनिट्स होने का मूल विचार जो केवल एक दूसरे के साथ अपनी बातचीत के माध्यम से बुद्धिमान हो जाते हैं, वह मस्तिष्क से प्रेरित होता
+NP2 The basic idea of having many computational units that become intelligent only via their interactions with each other	कई कम्प्यूटेशनल यूनिट होने का मूल विचार जो एक दूसरे के साथ अपनी बातचीत के माध्यम से ही बुद्धिमान हो जाते हैं
+NP3 The basic idea	बुनियादी विचार
+PP7 of having many computational units that become intelligent only via their interactions with each other	कई कम्प्यूटेशनल यूनिट्स होने की जो एक दूसरे के साथ अपनी बातचीत के माध्यम से ही बुद्धिमान हो जाती हैं
+S9 having many computational units that become intelligent only via their interactions with each other	कई कम्प्यूटेशनल यूनिट्स होना जो एक दूसरे के साथ अपनी बातचीत के माध्यम से ही बुद्धिमान हो जाती हैं
+VP10_LWG having	हो रहा है।
+NP12 many computational units that become intelligent only via their interactions with each other	कई कम्प्यूटेशनल यूनिट जो एक दूसरे के साथ अपनी बातचीत के माध्यम से ही बुद्धिमान हो जाती हैं
+NP13 many computational units	कई कंप्यूटेशनल यूनिट
+NNS16 units	इकाइयां
+SBAR17 that become intelligent only via their interactions with each other	जो एक दूसरे के साथ अपनी बातचीत के माध्यम से ही बुद्धिमान हो जाता है
+WHNP18 that	वह
+S20 become intelligent only via their interactions with each other	एक दूसरे के साथ अपनी बातचीत के माध्यम से ही हो जाते हैं बुद्धिमान
+VP21_LWG become	बन गए।
+ADJP23 intelligent only via their interactions	अपनी बातचीत के माध्यम से ही बुद्धिमान
+PP25 only via their interactions	उनकी बातचीत के माध्यम से ही
+ADVP26 only	केवल
+NP29 their interactions	उनकी बातचीत
+NNS31 interactions	बातचीत
+PP32 with each other	एक दूसरे के साथ
+NP34 each other	एक दूसरे को
+VP37_LWG is inspired	प्रेरित है।
+PP41 by the brain	मस्तिष्क से
+NP43 the brain	मस्तिष्क
+

@@ -1,0 +1,27 @@
+----
+102
+S1 Deep_1 learning_2 solves_3 this_4 central_5 problem_6 in_7 representation_8 learning_9 by_10 intro_11 -_12 ducing_13 representations_14 that_15 are_16 expressed_17 in_18 terms_19 of_20 other_21 ,_22 simpler_23 representations_24 ._25
+NP2 Deep_1 learning_2
+VP5_LWG solves_3
+NP7 this_4 central_5 problem_6 in_7 representation_8 learning_9
+NP8 this_4 central_5 problem_6
+PP12 in_7 representation_8 learning_9
+NP14 representation_8 learning_9
+PP17 by_10 intro_11 -_12 ducing_13 representations_14 that_15 are_16 expressed_17 in_18 terms_19 of_20 other_21 ,_22 simpler_23 representations_24
+NP19 intro_11 -_12 ducing_13 representations_14 that_15 are_16 expressed_17 in_18 terms_19 of_20 other_21 ,_22 simpler_23 representations_24
+NP20 intro_11 -_12 ducing_13 representations_14
+NML21 intro_11 -_12 ducing_13
+NNS25 representations_14
+SBAR26 that_15 are_16 expressed_17 in_18 terms_19 of_20 other_21 ,_22 simpler_23 representations_24
+WHNP27 that_15
+S29 are_16 expressed_17 in_18 terms_19 of_20 other_21 ,_22 simpler_23 representations_24
+VP30_LWG are_16 expressed_17
+PP34 in_18 terms_19 of_20 other_21 ,_22 simpler_23 representations_24
+NP36 terms_19 of_20 other_21 ,_22 simpler_23 representations_24
+NP37 terms_19
+NNS38 terms_19
+PP39 of_20 other_21 ,_22 simpler_23 representations_24
+NP41 other_21 ,_22 simpler_23 representations_24
+,43 ,_22
+ADJP44 simpler_23
+NNS46 representations_24

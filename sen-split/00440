@@ -1,0 +1,29 @@
+----
+00441	In retrospect, it is not particularly surprising that neural networks with fewer neurons than a leech were unable to solve sophisticated artiﬁcial intelligence prob- lems.	 पूर्वव्यापी में , यह विशेष रूप से आश्चर्य की बात नहीं है कि जोंक की तुलना में कम न्यूरॉन्स वाले तंत्रिका नेटवर्क परिष्कृत कृत्रिम बुद्धि प्रोब - लेम्स को हल करने में असमर्थ थे .		
+440	440
+S1 In retrospect , it is not particularly surprising that neural networks with fewer neurons than a leech were unable to solve sophisticated artiﬁcial intelligence prob - lems .	रेट्रोस्पेक्ट में यह विशेष रूप से आश्चर्य की बात नहीं है कि लीच की तुलना में कम न्यूरोन्स वाले तंत्रिका नेटवर्क परिष्कृत कृत्रिम कृत्रिम बुद्धिमत्ता जांच
+PP2 In retrospect	रेट्रोस्पेक्ट में
+NP4 retrospect	रेट्रोस्पेक्ट
+,6 ,	,
+NP7 it	यह
+VP9_LWG is not	नहीं है।
+ADJP12 particularly surprising	खासकर हैरानी की बात
+SBAR15 that neural networks with fewer neurons than a leech were unable to solve sophisticated artiﬁcial intelligence prob - lems	लीच से कम न्यूरोन वाले तंत्रिका नेटवर्क परिष्कृत कृत्रिम कृत्रिम बुद्धिमत्ता जांच के लिए असमर्थ थे- लेम्स
+S17 neural networks with fewer neurons than a leech were unable to solve sophisticated artiﬁcial intelligence prob - lems	एक लीच से कम न्यूरोन वाले तंत्रिका नेटवर्क परिष्कृत कृत्रिम कृत्रिम बुद्धिमत्ता जांच के लिए असमर्थ थे- लेम्स
+NP18 neural networks with fewer neurons than a leech	लोच से कम न्यूरोन वाले तंत्रिका नेटवर्क
+NP19 neural networks	तंत्रिका नेटवर्क
+NNS21 networks	नेटवर्क
+PP22 with fewer neurons than a leech	लीच की तुलना में कम न्यूरोन के साथ
+NP24 fewer neurons than a leech	लीच की तुलना में कम न्यूरोन
+NP25 fewer neurons	कम न्यूरोन
+NNS27 neurons	न्यूरोन
+PP28 than a leech	लीच की तुलना में
+NP30 a leech	एक लीच
+VP33_LWG were	थे।
+ADJP35 unable to solve sophisticated artiﬁcial intelligence prob - lems	परिष्कृत कृत्रिम बुद्धिमत्ता परीक्षा का समाधान करने में असमर्थ - एलएमएस
+S37 to solve sophisticated artiﬁcial intelligence prob - lems	परिष्कृत कृत्रिम बुद्धिमत्ता परीक्षा के समाधान के लिए - लेम्स
+VP38_LWG to solve	हल करने के लिए
+NP42 sophisticated artiﬁcial intelligence prob - lems	परिष्कृत कृत्रिम बुद्धिमत्ता जांच - लेम्स
+NP43 sophisticated artiﬁcial intelligence	परिष्कृत कृत्रिम बुद्धिमत्ता
+ADJP47 prob - lems	जांच- लेम्स
+

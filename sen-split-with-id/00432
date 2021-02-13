@@ -1,0 +1,34 @@
+----
+432
+S1 As_1 seen_2 in_3 ﬁgure_4 1.10_5 ,_6 our_7 machine_8 learning_9 models_10 have_11 had_12 a_13 number_14 of_15 connections_16 per_17 neuron_18 within_19 an_20 order_21 of_22 magnitude_23 of_24 even_25 mammalian_26 brains_27 for_28 decades_29 ._30
+SBAR2 As_1 seen_2 in_3 ﬁgure_4 1.10_5
+S4 seen_2 in_3 ﬁgure_4 1.10_5
+VP5_LWG seen_2
+PP7 in_3 ﬁgure_4 1.10_5
+NP9 ﬁgure_4 1.10_5
+,12 ,_6
+NP13 our_7 machine_8 learning_9 models_10
+NML15 machine_8 learning_9
+NNS18 models_10
+VP19_LWG have_11 had_12
+NP23 a_13 number_14 of_15 connections_16 per_17 neuron_18
+NP24 a_13 number_14
+PP27 of_15 connections_16 per_17 neuron_18
+NP29 connections_16 per_17 neuron_18
+NP30 connections_16
+NNS31 connections_16
+PP32 per_17 neuron_18
+NP34 neuron_18
+PP36 within_19 an_20 order_21 of_22 magnitude_23 of_24 even_25 mammalian_26 brains_27 for_28 decades_29
+NP38 an_20 order_21 of_22 magnitude_23 of_24 even_25 mammalian_26 brains_27 for_28 decades_29
+NP39 an_20 order_21
+PP42 of_22 magnitude_23 of_24 even_25 mammalian_26 brains_27 for_28 decades_29
+NP44 magnitude_23 of_24 even_25 mammalian_26 brains_27 for_28 decades_29
+NP45 magnitude_23
+PP47 of_24 even_25 mammalian_26 brains_27 for_28 decades_29
+NP49 even_25 mammalian_26 brains_27 for_28 decades_29
+NP50 even_25 mammalian_26 brains_27
+NNS53 brains_27
+PP54 for_28 decades_29
+NP56 decades_29
+NNS57 decades_29

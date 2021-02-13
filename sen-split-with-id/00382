@@ -1,0 +1,22 @@
+----
+382
+S1 At_1 this_2 time_3 ,_4 deep_5 neural_6 networks_7 outperformed_8 competing_9 AI_10 systems_11 based_12 on_13 other_14 machine_15 learning_16 technologies_17 as_18 well_19 as_20 hand_21 -_22 designed_23 functionality_24 ._25
+PP2 At_1 this_2 time_3
+NP4 this_2 time_3
+,7 ,_4
+NP8 deep_5 neural_6 networks_7
+NNS11 networks_7
+VP12_LWG outperformed_8
+NP14 competing_9 AI_10 systems_11
+NNS17 systems_11
+PP18 based_12 on_13 other_14 machine_15 learning_16 technologies_17 as_18 well_19 as_20 hand_21 -_22 designed_23 functionality_24
+PP20 on_13 other_14 machine_15 learning_16 technologies_17 as_18 well_19 as_20 hand_21 -_22 designed_23 functionality_24
+NP22 other_14 machine_15 learning_16 technologies_17 as_18 well_19 as_20 hand_21 -_22 designed_23 functionality_24
+NP23 other_14 machine_15 learning_16 technologies_17
+NP24 other_14 machine_15
+VP27_LWG learning_16
+NP29 technologies_17
+NNS30 technologies_17
+CONJP31 as_18 well_19 as_20
+NP35 hand_21 -_22 designed_23 functionality_24
+ADJP36 hand_21 -_22 designed_23

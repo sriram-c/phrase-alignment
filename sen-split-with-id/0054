@@ -1,0 +1,29 @@
+----
+54
+S1 In_1 computer_2 science_3 ,_4 operations_5 such_6 as_7 searching_8 a_9 collection_10 of_11 data_12 can_13 proceed_14 exponentially_15 faster_16 if_17 the_18 collec_19 -_20 tion_21 is_22 structured_23 and_24 indexed_25 intelligently_26 ._27
+PP2 In_1 computer_2 science_3
+NP4 computer_2 science_3
+,7 ,_4
+NP8 operations_5 such_6 as_7 searching_8 a_9 collection_10 of_11 data_12
+NP9 operations_5
+NNS10 operations_5
+PP11 such_6 as_7 searching_8 a_9 collection_10 of_11 data_12
+S14 searching_8 a_9 collection_10 of_11 data_12
+VP15_LWG searching_8
+NP17 a_9 collection_10 of_11 data_12
+NP18 a_9 collection_10
+PP21 of_11 data_12
+NP23 data_12
+NNS24 data_12
+VP25_LWG can_13 proceed_14 exponentially_15 faster_16
+ADVP29 exponentially_15
+ADVP31 faster_16 if_17 the_18 collec_19 -_20 tion_21 is_22 structured_23 and_24 indexed_25 intelligently_26
+ADVP32 faster_16
+SBAR34 if_17 the_18 collec_19 -_20 tion_21 is_22 structured_23 and_24 indexed_25 intelligently_26
+S36 the_18 collec_19 -_20 tion_21 is_22 structured_23 and_24 indexed_25 intelligently_26
+NP37 the_18 collec_19 -_20 tion_21
+VP42_LWG is_22 structured_23 indexed_25 intelligently_26
+CC46 and_46
+VBN45 structured_23
+VBN47 indexed_25
+ADVP48 intelligently_26

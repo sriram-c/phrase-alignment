@@ -1,0 +1,29 @@
+----
+0077	One solution to this problem is to use machine learning to discover not only the mapping from representation to output but also the representation itself.	 isa samasyA kA eka samAXAna yaha hE ki na kevala prawiniXiwva se uwpAxana ke lie mAnaciwraNa kA pawA lagAne ke lie maSIna aXigama kA upayoga kiyA jAe , balki svayaM prawiniXiwva BI kiyA jAe 		
+76	76
+S1 One solution to this problem is to use machine learning to discover not only the mapping from representation to output but also the representation itself .	isa samasyA kA eka samAXAna maSIna sIKa kA upayoga na kevala prawiniXiwva se Autaputa balki prawiniXiwva ko BI Kojane ke lie hE
+NP2 One solution to this problem	isa samasyA kA eka samAXAna
+NP3 One solution	eka samAXAna
+PP6 to this problem	isa samasyA ko
+NP8 this problem	yaha samasyA
+VP11_LWG is	hE
+S13 to use machine learning to discover not only the mapping from representation to output but also the representation itself	prawiniXiwva se lekara Autaputa waka na kevala mEpiMga kA upayoga karane ke lie maSIna sIKane kA upayoga karanA
+VP14_LWG to use	iswemAla ke lie
+NP18 machine learning	maSIna sIKanA
+S21 to discover not only the mapping from representation to output but also the representation itself	prawiniXiwva se lekara Autaputa waka na kevala mEpiMga kI Koja karanA balki prawiniXiwva BI
+VP22_LWG to discover	Kojane ke lie
+NP26 not only the mapping from representation to output but also the representation itself	na kevala prawiniXiwva se lekara Autaputa ke lie mEpiMga balki prawiniXiwva BI svayaM
+CONJP27 not only	na kevala
+NP30 the mapping from representation to output	prawiniXiwva se lekara Autaputa waka mEpiMga
+NP31 the mapping	mEpiMga
+PP34 from representation to output	prawiniXiwva se lekara Autaputa waka
+NP36 representation to output	Autaputa kA prawiniXiwva
+NP37 representation	prawiniXiwva
+PP39 to output	Autaputa karane ke lie
+NP41 output	Autaputa
+CC43 but	lekina
+ADVP44 also	sAWa hI
+NP46 the representation itself	prawiniXiwva svayaM
+NP47 the representation	prawiniXiwva
+NP50 itself	hI Kuxa
+

@@ -1,0 +1,30 @@
+----
+81
+S1 Manually_1 designing_2 features_3 for_4 a_5 complex_6 task_7 requires_8 a_9 great_10 deal_11 of_12 human_13 time_14 and_15 eﬀort_16 ;_17 it_18 can_19 take_20 decades_21 for_22 an_23 entire_24 community_25 of_26 researchers_27 ._28
+S2 Manually_1 designing_2 features_3 for_4 a_5 complex_6 task_7 requires_8 a_9 great_10 deal_11 of_12 human_13 time_14 and_15 eﬀort_16
+ADVP3 Manually_1
+S5 designing_2 features_3 for_4 a_5 complex_6 task_7
+VP6_LWG designing_2
+NP8 features_3
+NNS9 features_3
+PP10 for_4 a_5 complex_6 task_7
+NP12 a_5 complex_6 task_7
+VP16_LWG requires_8
+NP18 a_9 great_10 deal_11 of_12 human_13 time_14 and_15 eﬀort_16
+NP19 a_9 great_10 deal_11
+PP23 of_12 human_13 time_14 and_15 eﬀort_16
+NP25 human_13 time_14 and_15 eﬀort_16
+CC28 and_28
+NN27 time_14
+NN29 eﬀort_16
+S31 it_18 can_19 take_20 decades_21 for_22 an_23 entire_24 community_25 of_26 researchers_27
+NP32 it_18
+VP34_LWG can_19 take_20
+NP38 decades_21
+NNS39 decades_21
+PP40 for_22 an_23 entire_24 community_25 of_26 researchers_27
+NP42 an_23 entire_24 community_25 of_26 researchers_27
+NP43 an_23 entire_24 community_25
+PP47 of_26 researchers_27
+NP49 researchers_27
+NNS50 researchers_27

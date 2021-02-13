@@ -1,0 +1,14 @@
+----
+00485	2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Sponge Roundworm Leech Ant Bee Frog Octopus Human Figure 1.11: Increasing neural network size over time.	 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 स्पंज गोलकृमि लीच चींटी 20 20 20 स्पंज ऑक्टोपस मानव चित्र 111 बढ़ती तंत्रिका नेटवर्क आकार समय के साथ		
+484	484
+NP1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Sponge Roundworm Leech Ant Bee Frog Octopus Human Figure 1.11 : Increasing neural network size over time .	2 3 4 5 6 7 8 9 10 11 12 13 14 14 17 17 18 19 20 स्पंज राउंडवर्म लेच एंटी बी फ्रोग ऑक्टोपस मानवीय आंकड़ा 1.11 - समय के साथ तंत्र
+NP2 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Sponge Roundworm Leech Ant Bee Frog Octopus Human Figure 1.11	2 3 4 5 6 7 8 9 10 11 12 13 14 14 17 17 18 19 20 स्पंज राउंडवर्म लेच एंटी बी फ्रोग ऑक्टोपस मानव आंकड़ा 1.16
+NP3 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20	2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+NP23 Sponge Roundworm Leech Ant Bee Frog Octopus Human	स्पंज राउंडवर्म लेच एंटी बी फ्रोग ऑक्टोपस मानव
+NP32 Figure 1.11	आंकड़ा  1.10
+NP36 Increasing neural network size over time	समय के साथ तंत्रिका नेटवर्क का बढ़ता आकार
+NP37 Increasing neural network size	बढ़ती तंत्रिका नेटवर्क का आकार
+NML39 neural network	तंत्रिका नेटवर्क
+PP43 over time	समय के साथ
+NP45 time	समय
+

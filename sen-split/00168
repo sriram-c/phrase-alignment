@@ -1,0 +1,31 @@
+----
+00169	However, deep learning can be safely regarded as the study of models that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does.	 हालांकि , गहरी सीखने सुरक्षित रूप से मॉडल है कि या तो सीखा कार्यों या पारंपरिक मशीन सीखने की तुलना में सीखा अवधारणाओं के संयोजन की एक अधिक राशि शामिल के अध्ययन के रूप में माना जा सकता है .		
+168	168
+S1 However , deep learning can be safely regarded as the study of models that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does .	हालांकि गहरी सीख को सुरक्षित रूप से मॉडलों के अध्ययन के रूप में माना जा सकता है जिसमें या तो सीखा हुआ कार्यों की रचना हो या फिर पारंपरिक मशीन
+ADVP2 However	हालांकि
+,4 ,	,
+NP5 deep learning	गहरी सीख
+VP8_LWG can be safely regarded	सुरक्षित रूप से हो सकता है संबंध
+ADVP12 safely	सुरक्षित
+PP16 as the study of models that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	जैसा कि मॉडलों का अध्ययन है जिसमें या तो सीखा हुआ कार्यों की रचना की अधिक मात्रा शामिल होती है या परंपरागत मशीन सीखने की तुलना में सीखी अव
+NP18 the study of models that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	मॉडलों का अध्ययन जिसमें या तो सीखा हुआ कार्यों की रचना हो या फिर पारंपरिक मशीन सीखने की तुलना में सीखी अवधाराओं की अधिक मात्रा होती है
+NP19 the study	अध्ययन
+PP22 of models that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	मॉडलों की जिनमें या तो सीखा हुआ कार्यों की रचना हो या परंपरागत मशीन सीखने की तुलना में सीखी अवधाराओं की अधिक मात्रा शामिल होती है
+NP24 models that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	मॉडल जिनमें या तो सीखा हुआ कार्यों की रचना हो या परंपरागत मशीन सीखने की तुलना में सीखी अवधाराओं की अधिक मात्रा होती है
+NP25 models	मॉडल
+NNS26 models	मॉडल
+SBAR27 that involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	जिसमें पारंपरिक मशीन सीखने की तुलना में या तो सीखा हुआ कार्यों की रचना अधिक मात्रा में शामिल है
+WHNP28 that	वह
+S30 involve a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	पारंपरिक मशीन सीखने की तुलना में या तो सीखे गए कार्यों की रचना अधिक मात्रा में शामिल
+VP31_LWG involve	शामिल
+SBAR33 a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	पारंपरिक मशीन सीखने की तुलना में या तो सीखे गए कार्यों या सीखे हुए अवधाराओं की रचना की अधिक मात्रा
+S34 a greater amount of composition of either learned functions or learned concepts than traditional machine learning does	पारंपरिक मशीन सीखने की तुलना में या तो सीखे गए कार्यों या सीखे हुए अवधाराओं की रचना की अधिक मात्रा
+NP35 a greater amount of composition of either learned functions or learned concepts than traditional machine learning	पारंपरिक मशीन सीखने की तुलना में या तो सीखे गए कार्यों की रचना की अधिक मात्रा
+NP36 a greater amount	अधिक राशि
+PP40 of composition of either learned functions or learned concepts than traditional machine learning	पारंपरिक मशीन सीखने की तुलना में या तो सीखा हुआ कार्यों या सीखा अवधारणा की रचना
+NP42 composition of either learned functions or learned concepts than traditional machine learning	परंपरागत मशीन सीखने की तुलना में या तो सीखे गए कार्यों की रचना या फिर सीखी अवधाराओं की रचना
+NP43 composition	रचना
+PP45 of either learned functions or learned concepts than traditional machine learning	परंपरागत मशीन सीखने की तुलना में या तो सीखे गए कार्य या अवधारित अवधाराओं की
+NP47 either learned functions or learned concepts than traditional machine learning	या तो सीखे हुए काम या परंपरागत मशीन सीखने की तुलना में सीखी अवधाराएं
+NML48 either learned functions or learned concepts than traditional machine	या तो सीखे हुए काम या परंपरागत मशीन की तुलना में सीखी अवधाराएं
+

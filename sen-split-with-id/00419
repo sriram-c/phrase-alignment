@@ -1,0 +1,29 @@
+----
+419
+S1 The_1 MNIST_2 dataset_3 consists_4 of_5 scans_6 of_7 handwritten_8 digits_9 and_10 associated_11 labels_12 describing_13 which_14 digit_15 0_16 –_17 9_18 is_19 contained_20 in_21 each_22 image_23 ._24
+NP2 The_1 MNIST_2 dataset_3
+VP6_LWG consists_4
+PP8 of_5 scans_6 of_7 handwritten_8 digits_9 and_10 associated_11 labels_12 describing_13 which_14 digit_15 0_16 –_17 9_18 is_19 contained_20 in_21 each_22 image_23
+NP10 scans_6 of_7 handwritten_8 digits_9 and_10 associated_11 labels_12 describing_13 which_14 digit_15 0_16 –_17 9_18 is_19 contained_20 in_21 each_22 image_23
+NP11 scans_6 of_7 handwritten_8 digits_9
+NP12 scans_6
+NNS13 scans_6
+PP14 of_7 handwritten_8 digits_9
+NP16 handwritten_8 digits_9
+NNS18 digits_9
+CC19 and_19
+NP20 associated_11 labels_12 describing_13 which_14 digit_15 0_16 –_17 9_18 is_19 contained_20 in_21 each_22 image_23
+NP21 associated_11 labels_12
+NNS23 labels_12
+VP24_LWG describing_13
+SBAR26 which_14 digit_15 0_16 –_17 9_18 is_19 contained_20 in_21 each_22 image_23
+WHNP27 which_14
+S29 digit_15 0_16 –_17 9_18 is_19 contained_20 in_21 each_22 image_23
+NP30 digit_15 0_16 –_17 9_18
+NP31 digit_15 0_16
+PP34 –_17 9_18
+SYM35 –_17
+NP36 9_18
+VP38_LWG is_19 contained_20
+PP42 in_21 each_22 image_23
+NP44 each_22 image_23

@@ -1,0 +1,34 @@
+----
+0004	When programmable computers were rst conceived, people wondered whether such machines might become intelligent, over a hundred years before one was built (Lovelace, 1842).	 jaba pahalI bAra progrAma yogya kaMpyUtaroM kI kalpanA kI gaI wo logoM ne socA ki kyA EsI maSIneM buxXimAna ho sakawI hEM , eka ke nirmANa se sO sAla pahale ( Lovlace , 1842 )		
+3	3
+S1 When programmable computers were rst conceived , people wondered whether such machines might become intelligent , over a hundred years before one was built ( Lovelace , 1842 ) .	jaba progrAmabala kaMpyUtaroM kI pahalI kalpanA kI gaI WI, wo logoM ne socA ki kyA EsI maSIneM buxXimAna ho sakawI hEM, jo eka sO sAla pahale bana sakawI hEM
+SBAR2 When programmable computers were rst conceived	jaba progrAmabala kaMpyUtaroM kI pahalI kalpanA kI gaI WI
+WHADVP3 When	kaba
+S5 programmable computers were rst conceived	progrAmabala kaMpyUtaroM kI pahalI kalpanA kI gaI WI
+NP6 programmable computers	progrAmabala kaMpyUtara
+NNS8 computers	kaMpyUtara
+VP9_LWG were	We
+ADJP11 rst conceived	pahalI kalpanA
+,14 ,	,
+NP15 people	logoM
+NNS16 people	logoM
+VP17_LWG wondered	socA
+SBAR19 whether such machines might become intelligent , over a hundred years before one was built ( Lovelace , 1842 )	cAhe EsI maSIneM buxXimAna ho sakawI hEM, cAhe eka sO sAla pahale (lavalesa, 1843)
+S21 such machines might become intelligent , over a hundred years before one was built ( Lovelace , 1842 )	EsI maSIneM buxXimAna ho sakawI hEM, eka sO sAla pahale hI (lavalesa, 1843)
+NP22 such machines	EsI maSIneM
+NNS24 machines	maSIneM
+VP25_LWG might become	bana sakawe hEM
+ADJP29 intelligent	buxXimAna
+,31 ,	,
+SBAR32 over a hundred years before one was built	banane se sO sAla pahale eka sO sAla se jyAxA
+NP33 over a hundred years	sO sAla se jyAxA
+QP34 over a hundred	sO se jyAxA
+NNS38 years	sAla-ba-ba-ba-ba-ba-ba-ba.
+S40 one was built	eka banAyA gayA WA
+NP41 one	eka
+VP43_LWG was built	banAyA gayA WA
+PRN47 ( Lovelace , 1842 )	(lavalIsa, 1843)
+NP49 Lovelace	lavalesa
+,51 ,	,
+NP52 1842	1843
+

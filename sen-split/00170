@@ -1,0 +1,30 @@
+----
+00171	Speciﬁcally, it is a type of machine learning, a technique that enables computer systems to improve with experience and data.	 विशेष रूप से , यह मशीन अधिगम का एक प्रकार है , एक तकनीक है जो कंप्यूटर प्रणालियों को अनुभव और डेटा के साथ सुधार करने में सक्षम बनाती है .		
+170	170
+S1 Speciﬁcally , it is a type of machine learning , a technique that enables computer systems to improve with experience and data .	विशेष रूप से, यह एक प्रकार का मशीन सीखने, एक तकनीक है जो कंप्यूटर सिस्टम को अनुभव और डेटा के साथ बेहतर करने में सक्षम बनाता है।
+ADVP2 Speciﬁcally	विशेष रूप से
+,4 ,	,
+NP5 it	यह
+VP7_LWG is	है।
+NP9 a type of machine learning , a technique that enables computer systems to improve with experience and data	एक प्रकार की मशीन सीखने, एक तकनीक जो अनुभव और डेटा के साथ कंप्यूटर सिस्टम को बेहतर बनाने में सक्षम बनाती है
+NP10 a type	एक प्रकार का
+PP13 of machine learning , a technique that enables computer systems to improve with experience and data	मशीन सीखने की, एक तकनीक जो अनुभव और डेटा के साथ कम्प्यूटर सिस्टम को बेहतर बनाने में सक्षम बनाती है
+NP15 machine learning , a technique that enables computer systems to improve with experience and data	मशीन सीखने, एक ऐसी तकनीक जो अनुभव और डेटा के साथ कंप्यूटर सिस्टम को बेहतर बनाने में सक्षम बनाती है
+NP16 machine learning	मशीन सीखना
+,19 ,	,
+NP20 a technique that enables computer systems to improve with experience and data	एक तकनीक जो अनुभव और डेटा के साथ कम्प्यूटर सिस्टम को बेहतर करने में सक्षम बनाता है
+NP21 a technique	एक तकनीक
+SBAR24 that enables computer systems to improve with experience and data	यह अनुभव और डेटा के साथ कम्प्यूटर सिस्टम को बेहतर बनाने में सक्षम
+WHNP25 that	वह
+S27 enables computer systems to improve with experience and data	अनुभव और डेटा के साथ सुधार करने में सक्षम कंप्यूटर सिस्टम
+VP28_LWG enables	सक्षम
+NP30 computer systems	कम्प्यूटर सिस्टम
+NNS32 systems	सिस्टम
+S33 to improve with experience and data	अनुभव और आंकड़ों के साथ सुधार करने के लिए
+VP34_LWG to improve	सुधार करने के लिए
+PP38 with experience and data	अनुभव और डाटा के साथ
+NP40 experience and data	अनुभव और डेटा
+CC42 and	और
+NN41 experience	अनुभव
+NNS43 data	डेटा
+

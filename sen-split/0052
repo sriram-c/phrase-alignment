@@ -1,0 +1,23 @@
+----
+0053	Individual pixels in an MRI scan have negligible correlation with any complications that might occur during delivery.	 एमआरआई स्कैन में व्यक्तिगत पिक्सल का प्रसव के दौरान होने वाली किसी भी जटिलताओं के साथ नगण्य सहसंबंध होता है ।		
+52	52
+S1 Individual pixels in an MRI scan have negligible correlation with any complications that might occur during delivery .	एमआरआई स्कैन में व्यक्तिगत पिक्सेल किसी भी जटिलताओं से संबंधित होता है जो डिलीवरी के दौरान हो सकती है।
+NP2 Individual pixels in an MRI scan	एमआरआई स्कैन में व्यक्तिगत पिक्सल
+NP3 Individual pixels	व्यक्तिगत पिक्सेल
+NNS5 pixels	पिक्सेल
+PP6 in an MRI scan	एमआरआई स्कैन में
+NP8 an MRI scan	एक एमआरआई स्कैन
+VP12_LWG have	पास है।
+NP14 negligible correlation with any complications that might occur during delivery	डिलीवरी के दौरान हो सकती है किसी जटिलताओं से लापरवाही का संबंध
+NP15 negligible correlation	योग्य संबंध
+PP18 with any complications that might occur during delivery	किसी भी जटिलताओं के साथ जो डिलीवरी के दौरान हो सकती है
+NP20 any complications that might occur during delivery	डिलीवरी के दौरान हो सकती है कोई जटिलताएं
+NP21 any complications	कोई जटिलताएं
+NNS23 complications	जटिलताएं
+SBAR24 that might occur during delivery	डिलीवरी के दौरान हो सकता है ऐसा
+WHNP25 that	वह
+S27 might occur during delivery	डिलीवरी के दौरान हो सकता है
+VP28_LWG might occur	हो सकता है
+PP32 during delivery	डिलीवरी के दौरान
+NP34 delivery	डिलीवरी
+

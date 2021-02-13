@@ -1,0 +1,14 @@
+----
+259
+S1 The_1 other_2 two_3 waves_4 similarly_5 appeared_6 in_7 book_8 form_9 much_10 later_11 than_12 the_13 corresponding_14 scientiﬁc_15 activity_16 occurred_17 ._18
+NP2 The_1 other_2 two_3 waves_4
+NNS6 waves_4
+ADVP7 similarly_5
+VP9_LWG appeared_6
+PP11 in_7 book_8 form_9
+NP13 book_8 form_9
+SBAR16 much_10 later_11 than_12 the_13 corresponding_14 scientiﬁc_15 activity_16 occurred_17
+ADVP17 much_10 later_11
+S21 the_13 corresponding_14 scientiﬁc_15 activity_16 occurred_17
+NP22 the_13 corresponding_14 scientiﬁc_15 activity_16
+VP27_LWG occurred_17

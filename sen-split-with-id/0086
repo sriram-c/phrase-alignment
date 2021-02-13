@@ -1,0 +1,32 @@
+----
+86
+S1 When_1 designing_2 features_3 or_4 algorithms_5 for_6 learning_7 features_8 ,_9 our_10 goal_11 is_12 usually_13 to_14 separate_15 the_16 factors_17 of_18 variation_19 that_20 explain_21 the_22 observed_23 data_24 ._25
+SBAR2 When_1 designing_2 features_3 or_4 algorithms_5 for_6 learning_7 features_8
+WHADVP3 When_1
+S5 designing_2 features_3 or_4 algorithms_5 for_6 learning_7 features_8
+VP6_LWG designing_2
+NP8 features_3 or_4 algorithms_5
+NNS9 features_3
+CC10 or_10
+NNS11 algorithms_5
+PP12 for_6 learning_7 features_8
+NP14 learning_7 features_8
+NNS16 features_8
+,17 ,_9
+NP18 our_10 goal_11
+VP21_LWG is_12 usually_13
+ADVP23 usually_13
+S25 to_14 separate_15 the_16 factors_17 of_18 variation_19 that_20 explain_21 the_22 observed_23 data_24
+VP26_LWG to_14 separate_15
+NP30 the_16 factors_17 of_18 variation_19 that_20 explain_21 the_22 observed_23 data_24
+NP31 the_16 factors_17
+NNS33 factors_17
+PP34 of_18 variation_19 that_20 explain_21 the_22 observed_23 data_24
+NP36 variation_19 that_20 explain_21 the_22 observed_23 data_24
+NP37 variation_19
+SBAR39 that_20 explain_21 the_22 observed_23 data_24
+WHNP40 that_20
+S42 explain_21 the_22 observed_23 data_24
+VP43_LWG explain_21
+NP45 the_22 observed_23 data_24
+NNS48 data_24

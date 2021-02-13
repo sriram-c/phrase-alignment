@@ -1,0 +1,15 @@
+----
+00247	Some basic context, however, is useful for understanding deep learning.	 कुछ मूल संदर्भ , तथापि , गहरी सीखने के लिए उपयोगी है .		
+246	246
+S1 Some basic context , however , is useful for understanding deep learning .	हालांकि कुछ मूल संदर्भ, गहरी सीख को समझने के लिए उपयोगी है।
+NP2 Some basic context	कुछ मूल संदर्भ
+,6 ,	,
+ADVP7 however	हालांकि
+,9 ,	,
+VP10_LWG is	है।
+ADJP12 useful for understanding deep learning	गहरी सीख समझने के लिए उपयोगी
+PP14 for understanding deep learning	गहरी सीख समझने के लिए
+S16 understanding deep learning	गहरी सीख समझना
+VP17_LWG understanding	समझ
+NP19 deep learning	गहरी सीख
+

@@ -1,0 +1,54 @@
+----
+00166	In this case, the graph of concepts includes only two layers—a layer for eyes and a layer for faces—but the graph of computations includes 2 n layers if we reﬁne our estimate of each concept given the other n times.	 इस मामले में , अवधारणाओं के ग्राफ में केवल दो परतें शामिल हैं - आंखों के लिए एक परत और चेहरों के लिए एक परत - लेकिन अभिकलन के ग्राफ में 2 n परतें शामिल हैं यदि हम अन्य n समय दिए गए प्रत्येक अवधारणा के अपने अनुमान को परिष्कृत करते हैं .		
+165	165
+S1 In this case , the graph of concepts includes only two layers — a layer for eyes and a layer for faces — but the graph of computations includes 2 n layers if we reﬁne our estimate of each concept given the other n times .	इस मामले में अवधाराओं के ग्राफ में केवल दो परतों की परतियां शामिल हैं—आंखों के लिए एक परत और चेहरे के लिए एक परत होती है— लेकिन कम्प्यूटेशन
+S2 In this case , the graph of concepts includes only two layers — a layer for eyes and a layer for faces	इस मामले में अवधारणाओं के ग्राफ में केवल दो परतें शामिल हैं—आंखों के लिए एक परत और चेहरे के लिए एक परत
+PP3 In this case	इस मामले में
+NP5 this case	यह मामला
+,8 ,	,
+NP9 the graph of concepts	अवधारणा का ग्राफ
+NP10 the graph	ग्राफ
+PP13 of concepts	अवधाराओं की
+NP15 concepts	अवधारणाएँ
+NNS16 concepts	अवधारणाएँ
+VP17_LWG includes	इसमें शामिल
+NP19 only two layers — a layer for eyes and a layer for faces	केवल दो परतों- आंखों के लिए एक परत और चेहरे के लिए एक परत
+NP20 only two layers — a layer for eyes	केवल दो परतों- आंखों के लिए एक परत
+NP21 only two layers	केवल दो परतें
+QP22 only two	केवल दो ही
+NNS25 layers	परतें
+NP27 a layer for eyes	आंखों की परत
+NP28 a layer	एक परत
+PP31 for eyes	आंखों के लिए
+NP33 eyes	आंखें
+NNS34 eyes	आंखें
+CC35 and	और
+NP36 a layer for faces	चेहरे के लिए एक परत
+NP37 a layer	एक परत
+PP40 for faces	चेहरे के लिए
+NP42 faces	चेहरे
+NNS43 faces	चेहरे
+,44 —	—
+CC45 but	लेकिन
+S46 the graph of computations includes 2 n layers if we reﬁne our estimate of each concept given the other n times	कम्प्यूटेशन के ग्राफ में 2 एन परतें शामिल हैं यदि हम एक-एक अवधारणा के अपने अनुमान को दूसरे एन समय में स्वीकृत करते हैं
+NP47 the graph of computations	कम्प्यूटेशन का ग्राफ
+NP48 the graph	ग्राफ
+PP51 of computations	कम्प्यूटेशन का
+NP53 computations	कम्प्यूटेशन
+NNS54 computations	कम्प्यूटेशन
+VP55_LWG includes	इसमें शामिल
+NP57 2 n layers	2 n परतें
+NNS60 layers	परतें
+SBAR61 if we reﬁne our estimate of each concept given the other n times	अगर हम दूसरे एन बार दिए गए प्रत्येक अवधारणा के अपने अनुमान को परिष्कृत करते हैं
+S63 we reﬁne our estimate of each concept given the other n times	हम दूसरे एन बार दिए गए प्रत्येक अवधारणा के अपने अनुमान को परिष्कृत करते हैं
+NP64 we	हम
+VP66_LWG reﬁne	रिफाइन
+NP68 our estimate of each concept given the other n times	दूसरे एन बार दिए गए प्रत्येक अवधारणा का हमारा अनुमान
+NP69 our estimate	हमारा अनुमान
+PP72 of each concept given the other n times	दूसरे एन समय में दी गई प्रत्येक अवधारणा की
+NP74 each concept given the other n times	दूसरे एन समय में दी गई प्रत्येक अवधारणा
+NP75 each concept	प्रत्येक अवधारणा
+VP78_LWG given	दिया गया
+NP-TMP80 the other n times	दूसरे एन बार
+NNS84 times	समय
+

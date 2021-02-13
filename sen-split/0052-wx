@@ -1,0 +1,23 @@
+----
+0053	Individual pixels in an MRI scan have negligible correlation with any complications that might occur during delivery.	 emaAraAI skEna meM vyakwigawa piksala kA prasava ke xOrAna hone vAlI kisI BI jatilawAoM ke sAWa nagaNya sahasaMbaMXa howA hE 		
+52	52
+S1 Individual pixels in an MRI scan have negligible correlation with any complications that might occur during delivery .	emaAraAI skEna meM vyakwigawa piksela kisI BI jatilawAoM se saMbaMXiwa howA hE jo dilIvarI ke xOrAna ho sakawI hE
+NP2 Individual pixels in an MRI scan	emaAraAI skEna meM vyakwigawa piksala
+NP3 Individual pixels	vyakwigawa piksela
+NNS5 pixels	piksela
+PP6 in an MRI scan	emaAraAI skEna meM
+NP8 an MRI scan	eka emaAraAI skEna
+VP12_LWG have	pAsa hE
+NP14 negligible correlation with any complications that might occur during delivery	dilIvarI ke xOrAna ho sakawI hE kisI jatilawAoM se lAparavAhI kA saMbaMXa
+NP15 negligible correlation	yogya saMbaMXa
+PP18 with any complications that might occur during delivery	kisI BI jatilawAoM ke sAWa jo dilIvarI ke xOrAna ho sakawI hE
+NP20 any complications that might occur during delivery	dilIvarI ke xOrAna ho sakawI hE koI jatilawAeM
+NP21 any complications	koI jatilawAeM
+NNS23 complications	jatilawAeM
+SBAR24 that might occur during delivery	dilIvarI ke xOrAna ho sakawA hE EsA
+WHNP25 that	vaha
+S27 might occur during delivery	dilIvarI ke xOrAna ho sakawA hE
+VP28_LWG might occur	ho sakawA hE
+PP32 during delivery	dilIvarI ke xOrAna
+NP34 delivery	dilIvarI
+

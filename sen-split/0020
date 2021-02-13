@@ -1,0 +1,23 @@
+----
+0021	Chess can be completely described by a very brief list of completely formal rules, easily provided ahead of time by the programmer.	 शतरंज पूरी तरह से पूरी तरह से औपचारिक नियमों की एक बहुत संक्षिप्त सूची द्वारा वर्णित किया जा सकता है , आसानी से प्रोग्रामर द्वारा समय से आगे प्रदान की .		
+20	20
+S1 Chess can be completely described by a very brief list of completely formal rules , easily provided ahead of time by the programmer .	पूरी तरह से औपचारिक नियमों की एक बहुत संक्षिप्त सूची से शतरंज को पूरी तरह से वर्णित किया जा सकता है, जिसे प्रोग्रामर द्वारा आसानी से समय से आगे
+NP2 Chess	शतरंज
+VP4_LWG can be completely described easily provided ahead	आगे आसानी से प्रदान किया जा सकता है पूरी तरह से वर्णित
+ADVP9 completely	पूरी तरह से
+PP13 by a very brief list of completely formal rules	पूरी तरह से औपचारिक नियमों की एक बहुत संक्षिप्त सूची से
+NP15 a very brief list of completely formal rules	पूरी तरह से औपचारिक नियमों की एक बहुत संक्षिप्त सूची
+NP16 a very brief list	एक बहुत ही संक्षिप्त सूची
+ADJP18 very brief	बहुत संक्षिप्त
+PP22 of completely formal rules	पूरी तरह से औपचारिक नियमों का
+NP24 completely formal rules	पूरी तरह से औपचारिक नियम
+ADJP25 completely formal	पूरी तरह से औपचारिक
+NNS28 rules	नियम
+,29 ,	,
+ADVP30 easily	आसानी से
+ADVP34 ahead of time	समय से आगे
+PP36 of time	समय की।
+NP38 time	समय
+PP40 by the programmer	प्रोग्रामर द्वारा
+NP42 the programmer	प्रोग्रामर
+

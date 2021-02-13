@@ -1,0 +1,27 @@
+----
+00439	Unless new technologies enable faster scaling, articial neural networks will not have the same number of neurons as the human brain until at least the 2050s.	 jaba waka naI prOxyogikiyAM wejI se skeliMga ko sakRama nahIM karawI hEM , kqwrima waMwrikA netavarkoM meM kama se kama 2050 ke xaSaka waka mAnava maswiRka ke samAna nyUroYnsa kI saMKyA nahIM hogI .		
+438	438
+S1 Unless new technologies enable faster scaling , articial neural networks will not have the same number of neurons as the human brain until at least the 2050s .	jaba waka naI prOxyogikAeM wejI se skeliMga karane meM sakRama nahIM hoMgI, kqwrima waMwrikA netavarka meM kama se kama 2025 waka mAnava maswiRka ke samAna saMKyA
+SBAR2 Unless new technologies enable faster scaling	jaba waka naI prOxyogikAeM weja skeliMga ko sakRama nahIM karawIM
+S4 new technologies enable faster scaling	naI wakanIkoM se ho sakawI hE weja skeliMga
+NP5 new technologies	naI wakanIkoM
+NNS7 technologies	wakanIkoM
+VP8_LWG enable	sakRama
+NP10 faster scaling	weja skeliMga
+,13 ,	,
+NP14 articial neural networks	kqwrima waMwrikA netavarka
+NNS17 networks	netavarka
+VP18_LWG will not have	nahIM hogA
+NP23 the same number of neurons as the human brain	mAnava maswiRka ke samAna saMKyA meM nyUrona
+NP24 the same number	vahI saMKyA
+PP28 of neurons as the human brain	mAnava maswiRka ke rUpa meM nyUrona kI
+NP30 neurons as the human brain	mAnava maswiRka ke rUpa meM nyUrona
+NP31 neurons	nyUrona
+NNS32 neurons	nyUrona
+PP33 as the human brain	mAnava maswiRka ke rUpa meM
+NP35 the human brain	mAnava maswiRka
+PP39 until at least the 2050s	kama se kama 2025 waka
+NP41 at least the 2050s	kama se kama 2025 ke xaSaka meM
+QP42 at least	kama se kama
+ADVP43 at least	kama se kama
+

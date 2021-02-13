@@ -1,0 +1,37 @@
+----
+00179	One of these target audiences is university students (under- graduate or graduate) learning about machine learning, including those who are beginning a career in deep learning and artiﬁcial intelligence research.	 इन लक्षित दर्शकों में से एक है विश्वविद्यालय के छात्र ( स्नातक या स्नातक की पढ़ाई मशीन सीखने के बारे में , उन लोगों सहित जो गहरी सीखने और कृत्रिम बुद्धि अनुसंधान में एक कैरियर की शुरुआत कर रहे हैं )		
+178	178
+S1 One of these target audiences is university students ( under - graduate or graduate ) learning about machine learning , including those who are beginning a career in deep learning and artiﬁcial intelligence research .	इनमें से एक लक्ष्य दर्शक विश्वविद्यालय के छात्र (- स्नातक या स्नातक) मशीन सीखने के बारे में सीख रहे हैं, जिनमें उन लोगों को गहरी सीख और कृत्रि
+NP2 One of these target audiences	इनमें से एक लक्ष्य दर्शक
+NP3 One	एक
+PP5 of these target audiences	इन लक्ष्य दर्शकों की
+NP7 these target audiences	ये लक्ष्य दर्शकों
+NNS10 audiences	दर्शक
+VP11_LWG is	है।
+NP13 university students ( under - graduate or graduate ) learning about machine learning , including those who are beginning a career in deep learning and artiﬁcial intelligence research	यूनिवर्सिटी के छात्र (- स्नातक या स्नातक) मशीन सीखने के बारे में सीख रहे हैं, जिनमें गहरी सीख और कृत्रिम खुफिया अनुसंधान में करियर शुरू
+NP14 university students ( under - graduate or graduate ) learning	विश्वविद्यालय के छात्र (अधीक्षक-ग्रेजुएट या स्नातक) की सीख
+NP15 university students	यूनिवर्सिटी के छात्र
+NNS17 students	छात्र-छात्राएं
+NML19 under - graduate or graduate	अंडर - स्नातक या स्नातक
+NML20 under - graduate	अंडर - स्नातक
+CC24 or	या।
+NML25 graduate	स्नातक
+PP29 about machine learning	मशीन सीखने के बारे में
+NP31 machine learning	मशीन सीखना
+,34 ,	,
+PP35 including those who are beginning a career in deep learning and artiﬁcial intelligence research	जिन लोगों को गहरी सीख और कृत्रिम खुफिया अनुसंधान में करिअर की शुरुआत हो रही है उनमें शामिल
+NP37 those who are beginning a career in deep learning and artiﬁcial intelligence research	जिन्हें गहरी सीख और कृत्रिम खुफिया अनुसंधान में करियर की शुरुआत कर रहे हैं
+NP38 those	उन लोगों
+SBAR40 who are beginning a career in deep learning and artiﬁcial intelligence research	जो गहरी सीख और कृत्रिम खुफिया अनुसंधान में करियर की शुरुआत कर रहे हैं
+WHNP41 who	कौन
+S43 are beginning a career in deep learning and artiﬁcial intelligence research	गहरी सीख और कृत्रिम खुफिया अनुसंधान में करियर की शुरुआत कर रहे हैं
+VP44_LWG are beginning	शुरू हो रहे हैं।
+NP48 a career in deep learning and artiﬁcial intelligence research	गहरी सीख और कृत्रिम खुफिया अनुसंधान में करिअर
+NP49 a career	एक करियर
+PP52 in deep learning and artiﬁcial intelligence research	गहरी सीख और कृत्रिम खुफिया अनुसंधान में
+NP54 deep learning and artiﬁcial intelligence research	गहरी सीख और कृत्रिम बुद्धिमत्ता अनुसंधान
+NML55 deep learning and artiﬁcial intelligence	गहरी सीख और कृत्रिम बुद्धिमत्ता
+NML56 deep learning	गहरी सीख
+CC59 and	और
+NML60 artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता
+

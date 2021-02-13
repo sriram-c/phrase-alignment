@@ -1,0 +1,21 @@
+----
+0033	Cyc is an inference engine and a database of statements in a language called CycL.	 sAika eka anumAna iMjana hE Ora eka sAita ( CycL ) nAmaka BARA meM kaWanoM kA detAbesa hE .		
+32	32
+S1 Cyc is an inference engine and a database of statements in a language called CycL .	sAika eka iMPekSana iMjana hE Ora sIAIsIela nAmaka BARA meM bayAna kA detAbesa hE
+S2 Cyc is an inference engine	sAika eka iMPekSana iMjana hE
+NP3 Cyc	sAika
+VP5_LWG is	hE
+NP7 an inference engine	eka iMPekSana iMjana
+CC11 and	Ora
+S12 a database of statements in a language called CycL	sIAIsIela nAmaka BARA meM bayAnoM kA detAbesa
+NP13 a database of statements in a language	eka BARA meM bayAnoM kA detAbesa
+NP14 a database	eka detAbesa
+PP17 of statements in a language	eka BARA meM bayAna
+NP19 statements in a language	eka BARA meM bayAna
+NP20 statements	bayAna
+NNS21 statements	bayAna
+PP22 in a language	eka BARA meM
+NP24 a language	eka BARA
+VP27_LWG called	bulAyA gayA
+NP29 CycL	sAikaela
+

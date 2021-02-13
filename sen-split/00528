@@ -1,0 +1,78 @@
+----
+00529	A dramatic moment in the meteoric rise of deep learning came when a convolutional network won this challenge for the ﬁrst time and by a wide margin, bringing down the state-of-the-art top-5 error rate from 26.1 percent to 15.3 percent (Krizhevsky et al., 2012), meaning that the convolutional network produces a ranked list of possible categories for each image, and the correct category appeared in the ﬁrst ﬁve entries of this list for all but 15.3 percent of the test examples.	 गहरे सीखने के मौसमी उत्थान में एक नाटकीय क्षण आया जब एक संवलयन नेटवर्क पहली बार इस चुनौती को जीता और एक व्यापक मार्जिन के द्वारा , नीचे लाने के लिए राज्य के शीर्ष - 5 त्रुटि दर 261 प्रतिशत से 153 प्रतिशत ( केरिजोत सूची )		
+528	528
+S1 A dramatic moment in the meteoric rise of deep learning came when a convolutional network won this challenge for the ﬁrst time and by a wide margin , bringing down the state - of - the - art top - 5 error rate from 26.1 percent to 15.3 percent ( Krizhevsky et al. , 2012 ) , meaning that the convolutional network produces a ranked list of possible categories for each image , and the correct category appeared in the ﬁrst ﬁve entries of this list for all but 15.3 percent of the test examples .	गहरी सीख के उल्कालिक उदय में एक नाटकीय क्षण उस समय आया जब एक संविलियन नेटवर्क ने पहली बार इस चुनौती को जीत लिया और व्यापक मार्जिन से राज्य
+S2 A dramatic moment in the meteoric rise of deep learning came when a convolutional network won this challenge for the ﬁrst time and by a wide margin , bringing down the state - of - the - art top - 5 error rate from 26.1 percent to 15.3 percent ( Krizhevsky et al. , 2012 ) , meaning that the convolutional network produces a ranked list of possible categories for each image	गहरी सीख के उल्कालिक उदय में एक नाटकीय पल उस समय आया जब एक संविलियन नेटवर्क ने पहली बार इस चुनौती को जीत लिया और व्यापक मार्जिन से राज्य
+NP3 A dramatic moment in the meteoric rise of deep learning	गहरी सीख के उल्कापात में एक नाटकीय पल
+NP4 A dramatic moment	एक नाटकीय पल
+PP8 in the meteoric rise of deep learning	गहरी सीख में उल्कापिंड की उछाल
+NP10 the meteoric rise of deep learning	गहरी सीख का उल्कापिंड उदय
+NP11 the meteoric rise	उल्कापात का उदय
+PP15 of deep learning	गहरी सीख का
+NP17 deep learning	गहरी सीख
+VP20_LWG came	आया था।
+SBAR22 when a convolutional network won this challenge for the ﬁrst time and by a wide margin , bringing down the state - of - the - art top - 5 error rate from 26.1 percent to 15.3 percent ( Krizhevsky et al. , 2012 ) , meaning that the convolutional network produces a ranked list of possible categories for each image	जब एक संविलियन नेटवर्क ने पहली बार इस चुनौती को जीत लिया और व्यापक अंतर से राज्य को नीचे लाते हुए -का-का-आर्ट टॉप- 5 त्रुटि
+WHADVP23 when	कब
+S25 a convolutional network won this challenge for the ﬁrst time and by a wide margin , bringing down the state - of - the - art top - 5 error rate from 26.1 percent to 15.3 percent ( Krizhevsky et al. , 2012 ) , meaning that the convolutional network produces a ranked list of possible categories for each image	एक संविलियन नेटवर्क ने पहली बार इस चुनौती को जीत लिया और व्यापक मार्जिन द्वारा राज्य को नीचे लाते हुए – - कला शीर्ष - 5 त्रुटि दर 26.1 प्रतिशत
+NP26 a convolutional network	एक संविलियन नेटवर्क
+VP30_LWG won	जीत गए।
+NP32 this challenge	यह चुनौती
+PP35 for the ﬁrst time and by a wide margin	पहली बार और चौड़ा अंतर से
+PP36 for the ﬁrst time	पहली बार
+NP38 the ﬁrst time	पहली बार
+CC42 and	और
+PP43 by a wide margin	व्यापक अंतर से
+NP45 a wide margin	व्यापक अंतर
+,49 ,	,
+S50 bringing down the state - of - the - art top - 5 error rate from 26.1 percent to 15.3 percent ( Krizhevsky et al. , 2012 ) , meaning that the convolutional network produces a ranked list of possible categories for each image	राज्य को नीचे लाते हुए - of- कला शीर्ष - 5 त्रुटि दर 26.1 प्रतिशत से 15.3 प्रतिशत (क्रिझ्वेस्की एट अल., 2012), अर्थात प्रत्येक छवि के
+VP51_LWG bringing down meaning	अर्थ लाना।
+PRT54 down	नीचे
+NP56 the state - of - the - art top - 5 error rate	राज्य - का - - कला शीर्ष - 5 त्रुटि दर
+ADJP58 state - of - the - art	राज्य - का - - कला
+NML66 top - 5	शीर्ष - 5
+PP72 from 26.1 percent	26.1 प्रतिशत से
+NP74 26.1 percent	26.1 प्रतिशत
+PP77 to 15.3 percent ( Krizhevsky et al. , 2012 )	15.3 प्रतिशत तक (क्रिझेवस्की एट अल., 2012 )
+NP79 15.3 percent ( Krizhevsky et al. , 2012 )	15.3 प्रतिशत (क्रिझेवस्की एट अल., 2012 )
+PRN82 ( Krizhevsky et al. , 2012 )	(क्रिझेवस्की एट अल., 2012 )
+NP84 Krizhevsky et al. , 2012	क्रिझेवस्की एट अल., 2012
+NP85 Krizhevsky et al.	क्रिझेवस्की एट अल।
+NP86 Krizhevsky	क्रिझेव्स्की
+ADVP88 et al.	एट अल।
+,91 ,	,
+NP92 2012	2012
+,95 ,	,
+SBAR98 that the convolutional network produces a ranked list of possible categories for each image	यह संविलियन नेटवर्क प्रत्येक छवि के लिए संभावित श्रेणियों की एक रैंकित सूची का उत्पादन करता है
+S100 the convolutional network produces a ranked list of possible categories for each image	विभाजनकारी नेटवर्क प्रत्येक छवि के लिए संभावित श्रेणियों की एक रैंकित सूची का उत्पादन करता है
+NP101 the convolutional network	विभाजनकारी नेटवर्क
+VP105_LWG produces	उत्पादन करता है
+NP107 a ranked list of possible categories for each image	प्रत्येक छवि के लिए संभावित श्रेणियों की एक रैंकित सूची
+NP108 a ranked list	एक रैंक्ड लिस्ट
+PP112 of possible categories for each image	प्रत्येक छवि के लिए संभावित श्रेणियों की
+NP114 possible categories for each image	प्रत्येक छवि के लिए संभावित श्रेणियां
+NP115 possible categories	संभावित श्रेणियों
+NNS117 categories	श्रेणियों
+PP118 for each image	प्रत्येक छवि के लिए
+NP120 each image	प्रत्येक छवि
+,123 ,	,
+CC124 and	और
+S125 the correct category appeared in the ﬁrst ﬁve entries of this list for all but 15.3 percent of the test examples	सभी के लिए इस सूची की पहली पांच में से सही श्रेणी दिखाई दी लेकिन परीक्षा उदाहरण के 15.3 प्रतिशत
+NP126 the correct category	सही श्रेणी
+VP130_LWG appeared	दिखाई दिया।
+PP132 in the ﬁrst ﬁve entries of this list	इस सूची की पहली पांच में शामिल
+NP134 the ﬁrst ﬁve entries of this list	इस सूची की पहली पांच प्रविष्टि
+NP135 the ﬁrst ﬁve entries	पहली पांच प्रविष्टि
+NNS139 entries	प्रविष्टि
+PP140 of this list	इस सूची की
+NP142 this list	यह लिस्ट
+PP145 for all but 15.3 percent of the test examples	सभी के लिए लेकिन 15.3 प्रतिशत परीक्षण उदाहरण
+NP147 all but 15.3 percent of the test examples	सभी लेकिन परीक्षा उदाहरण का 15.3 प्रतिशत
+NP148 all but 15.3 percent	सभी लेकिन 15.3 प्रतिशत
+QP149 all but 15.3	सभी लेकिन 15.3।
+CC151 but	लेकिन
+DT150 all	सभी
+CD152 15.3	15.3
+PP154 of the test examples	परीक्षा उदाहरणों की
+NP156 the test examples	परीक्षा उदाहरण
+NNS159 examples	उदाहरण
+

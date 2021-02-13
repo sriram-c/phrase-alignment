@@ -1,0 +1,27 @@
+----
+76
+S1 One_1 solution_2 to_3 this_4 problem_5 is_6 to_7 use_8 machine_9 learning_10 to_11 discover_12 not_13 only_14 the_15 mapping_16 from_17 representation_18 to_19 output_20 but_21 also_22 the_23 representation_24 itself_25 ._26
+NP2 One_1 solution_2 to_3 this_4 problem_5
+NP3 One_1 solution_2
+PP6 to_3 this_4 problem_5
+NP8 this_4 problem_5
+VP11_LWG is_6
+S13 to_7 use_8 machine_9 learning_10 to_11 discover_12 not_13 only_14 the_15 mapping_16 from_17 representation_18 to_19 output_20 but_21 also_22 the_23 representation_24 itself_25
+VP14_LWG to_7 use_8
+NP18 machine_9 learning_10
+S21 to_11 discover_12 not_13 only_14 the_15 mapping_16 from_17 representation_18 to_19 output_20 but_21 also_22 the_23 representation_24 itself_25
+VP22_LWG to_11 discover_12
+NP26 not_13 only_14 the_15 mapping_16 from_17 representation_18 to_19 output_20 but_21 also_22 the_23 representation_24 itself_25
+CONJP27 not_13 only_14
+NP30 the_15 mapping_16 from_17 representation_18 to_19 output_20
+NP31 the_15 mapping_16
+PP34 from_17 representation_18 to_19 output_20
+NP36 representation_18 to_19 output_20
+NP37 representation_18
+PP39 to_19 output_20
+NP41 output_20
+CC43 but_43
+ADVP44 also_22
+NP46 the_23 representation_24 itself_25
+NP47 the_23 representation_24
+NP50 itself_25

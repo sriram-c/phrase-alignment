@@ -1,0 +1,24 @@
+----
+00357	This algorithm has waxed and waned in popularity but, as of this writing, is the dominant approach to training deep models.	 isa elgoriWma ne lokapriyawA meM vqxXi kI hE Ora kamI AI hE , lekina isa leKana ke rUpa meM , gahare moYdaloM ke praSikRaNa kA pramuKa xqRtikoNa hE 		
+356	356
+S1 This algorithm has waxed and waned in popularity but , as of this writing , is the dominant approach to training deep models .	isa elgorixama ne lokapriyawA meM moma Ora vicaliwa kiyA hE lekina, isa leKana ke rUpa meM, gahare moYdaloM ko praSikRiwa karane kA pramuKa xqRtikoNa hE
+NP2 This algorithm	yaha elgorixama
+VP5_LWG has waxed waned as is	jEsA hE vEsA hI ladZaKadZA gayA hE jEsA ki
+CC10 and	Ora
+VBN9 waxed	momabawwI
+VBN11 waned	jAma kara xiyA gayA
+PP12 in popularity	lokapriyawA meM
+NP14 popularity	lokapriyawA
+CC16 but	lekina
+VP6 has waxed and waned in popularity	lokapriyawA meM moma Ora laharAyA hE
+,17 ,	,
+ADVP18 as of this writing	isa leKana ke rUpa meM
+PP20 of this writing	isa leKana kA
+NP22 this writing	yaha leKana
+,25 ,	,
+NP28 the dominant approach to training deep models	gahare moYdaloM ko praSikRiwa karane kA pramuKa xqRtikoNa
+NP29 the dominant approach	pramuKa xqRtikoNa
+PP33 to training deep models	gahare moYdaloM ko praSikRiwa karane ke lie
+NP35 training deep models	praSikRaNa gahare moYdala
+NNS38 models	moYdala
+

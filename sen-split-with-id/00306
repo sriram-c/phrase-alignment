@@ -1,0 +1,27 @@
+----
+306
+S1 INTRODUCTION_1 Today_2 ,_3 neuroscience_4 is_5 regarded_6 as_7 an_8 important_9 source_10 of_11 inspiration_12 for_13 deep_14 learning_15 researchers_16 ,_17 but_18 it_19 is_20 no_21 longer_22 the_23 predominant_24 guide_25 for_26 the_27 ﬁeld_28 ._29
+S2 INTRODUCTION_1 Today_2 ,_3 neuroscience_4 is_5 regarded_6 as_7 an_8 important_9 source_10 of_11 inspiration_12 for_13 deep_14 learning_15 researchers_16
+NP-TMP3 INTRODUCTION_1 Today_2
+,6 ,_3
+NP7 neuroscience_4
+VP9_LWG is_5 regarded_6
+PP13 as_7 an_8 important_9 source_10 of_11 inspiration_12
+NP15 an_8 important_9 source_10 of_11 inspiration_12
+NP16 an_8 important_9 source_10
+PP20 of_11 inspiration_12
+NP22 inspiration_12
+PP24 for_13 deep_14 learning_15 researchers_16
+NP26 deep_14 learning_15 researchers_16
+NML27 deep_14 learning_15
+NNS30 researchers_16
+,31 ,_17
+CC32 but_32
+S33 it_19 is_20 no_21 longer_22 the_23 predominant_24 guide_25 for_26 the_27 ﬁeld_28
+NP34 it_19
+VP36_LWG is_20 no_21
+ADVP38 no_21 longer_22
+NP41 the_23 predominant_24 guide_25 for_26 the_27 ﬁeld_28
+NP42 the_23 predominant_24 guide_25
+PP46 for_26 the_27 ﬁeld_28
+NP48 the_27 ﬁeld_28

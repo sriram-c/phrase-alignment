@@ -1,0 +1,20 @@
+----
+00333	This endeavor is primarily known as computational neuroscience and is a separate eld of study from deep learning.	 isa prayAsa ko muKya rUpa se " kampyUteSanala waMwrikA vijFAna " ke rUpa meM jAnA jAwA hE Ora yaha gahana SikRaNa se aXyayana kA eka alaga kRewra hE 		
+332	332
+S1 This endeavor is primarily known as  computational neuroscience  and is a separate eld of study from deep learning .	yaha prayAsa muKya rUpa se kampyUteSanala nyUrosAiMsa ke nAma se jAnA jAwA hE Ora yaha gaharI sIKa se aXyayana kA eka alaga kRewra hE
+NP2 This endeavor	yaha koSiSa
+VP5_LWG is primarily known is	muKya rUpa se jAnA jAwA hE
+ADVP8 primarily	muKya rUpa se
+PP12 as  computational neuroscience 	jEsA ki kampyUteSanala nyUrosAiMsa
+NP14  computational neuroscience 	kampyUteSanala nyUrosAiMsa
+CC19 and	Ora
+VP6 is primarily known as  computational neuroscience 	muKya rUpa se kampyUteSanala nyUrosAiMsa ke rUpa meM jAnA jAwA hE
+VP20 is a separate eld of study from deep learning	gaharI sIKa se aXyayana kA alaga kRewra hE
+NP22 a separate eld of study from deep learning	gaharI sIKa se aXyayana kA alaga kRewra
+NP23 a separate eld	eka alaga kRewra
+PP27 of study from deep learning	gaharI sIKa se paDZAI kI
+NP29 study from deep learning	gaharI sIKa se paDZAI
+NP30 study	aXyayana
+PP32 from deep learning	gaharI sIKa se
+NP34 deep learning	gaharI sIKa
+

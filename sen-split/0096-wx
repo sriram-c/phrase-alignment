@@ -1,0 +1,19 @@
+----
+0097	The individual pixels in an image of a red car might be very close to black at night.	 eka lAla kAra kI Cavi meM vyakwigawa piksala rAwa meM kAle ke bahuwa karIba ho sakawA hE .		
+96	96
+S1 The individual pixels in an image of a red car might be very close to black at night .	lAla kAra kI Cavi meM vyakwigawa piksala rAwa meM kAle raMga ke bahuwa karIba ho sakawe hEM
+NP2 The individual pixels in an image of a red car	lAla kAra kI Cavi meM vyakwigawa piksela
+NP3 The individual pixels	vyakwigawa piksela
+NNS6 pixels	piksela
+PP7 in an image of a red car	lAla kAra kI Cavi meM
+NP9 an image of a red car	lAla kAra kI Cavi
+NP10 an image	eka Cavi
+PP13 of a red car	lAla kAra kI
+NP15 a red car	eka lAla kAra
+VP19_LWG might be	ho sakawA hE
+ADJP23 very close to black	kAle raMga ke bahuwa karIba
+PP26 to black	kAle ko
+ADJP28 black	kAle raMga ke
+PP30 at night	rAwa ko
+NP32 night	rAwa
+

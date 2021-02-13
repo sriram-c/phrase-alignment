@@ -1,0 +1,39 @@
+----
+00124	These layers are called hidden because their values are not given in the data; instead the model must determine which concepts are useful for explaining the relationships in the observed data.	 ina parawoM ko hidden kahA jAwA hE kyoMki unake mUlya detA meM nahIM xie gae hEM , kyoMki moYdala ko una avaXAraNAoM kA nirXAraNa karanA cAhie jo prekRiwa AMkadZoM meM saMbaMXoM kI vyAKyA karane ke lie upayogI hEM .		
+123	123
+S1 These layers are called  hidden  because their values are not given in the data ; instead the model must determine which concepts are useful for explaining the relationships in the observed data .	ina parawoM ko  CipA huA kahA jAwA hE kyoMki unake mUlyoM ko AMkadZoM meM nahIM xiyA jAwA hE; isake bajAya moYdala nirXAriwa karanA cAhie ki nihiwa AMkadZe meM
+S2 These layers are called  hidden  because their values are not given in the data	ina parawoM ko  CipA huA kahA jAwA hE kyoMki unake mUlyoM ko AMkadZoM meM nahIM xiyA jAwA
+NP3 These layers	ye paraweM
+NNS5 layers	paraweM
+VP6_LWG are called	kahawe hEM
+S10  hidden 	 CipA huA
+ADJP11  hidden 	 CipA huA
+SBAR15 because their values are not given in the data	kyoMki unake mUlyoM ko AMkadZoM meM nahIM xiyA jAwA
+S17 their values are not given in the data	unake mUlyoM ko AMkadZoM meM nahIM xiyA jAwA
+NP18 their values	unake mUlya
+NNS20 values	mUlyoM
+VP21_LWG are not given	nahIM xiyA jAwA
+PP26 in the data	AMkadZoM meM
+NP28 the data	detA
+NNS30 data	detA
+S32 instead the model must determine which concepts are useful for explaining the relationships in the observed data	isake bajAya moYdala nirXAriwa karanA cAhie ki avalokiwa AMkadZoM meM riSwoM ko samaJAne ke lie kOna sI avaXArAez upayogI hEM
+ADVP33 instead	isake bajAya
+NP35 the model	moYdala
+VP38_LWG must determine	nirXAriwa karanA cAhie
+SBAR42 which concepts are useful for explaining the relationships in the observed data	nirIkRiwa AMkadZoM meM riSwoM ko samaJAne ke lie upayogI kOna sI avaXArAez upayogI
+WHNP43 which	jo ki
+S45 concepts are useful for explaining the relationships in the observed data	avaXAriwa AMkadZoM meM riSwoM ko samaJAne ke lie upayogI hEM avaXArAez
+NP46 concepts	avaXAraNAez
+NNS47 concepts	avaXAraNAez
+VP48_LWG are	hEM
+ADJP50 useful for explaining the relationships in the observed data	nirIkRiwa AMkadZoM meM riSwoM ko samaJAne ke lie upayogI
+PP52 for explaining the relationships in the observed data	avalokiwa AMkadZoM meM riSwoM ko samaJAne ke lie
+S54 explaining the relationships in the observed data	avalokiwa AMkadZoM meM saMbaMXoM kI vyAKyA
+VP55_LWG explaining	samaJAwe hue
+NP57 the relationships in the observed data	nirIkRiwa AMkadZoM meM riSwe
+NP58 the relationships	riSwoM
+NNS60 relationships	riSwoM
+PP61 in the observed data	avalokiwa AMkadZoM meM
+NP63 the observed data	avalokiwa AMkadZe
+NNS66 data	detA
+

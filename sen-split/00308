@@ -1,0 +1,36 @@
+----
+00309	To obtain a deep understanding of the actual algorithms used by the brain, we would need to be able to monitor the activity of (at the very least) thousands of interconnected neurons simultaneously.	 मस्तिष्क द्वारा प्रयोग किए जाने वाले वास्तविक एल्गोरिदम की गहरी समझ प्राप्त करने के लिए , हमें एक साथ ( कम से कम हजारों परस्पर संबद्ध न्यूरॉन्स की गतिविधि की निगरानी करने में सक्षम होना होगा ।		
+308	308
+S1 To obtain a deep understanding of the actual algorithms used by the brain , we would need to be able to monitor the activity of ( at the very least ) thousands of interconnected neurons simultaneously .	मस्तिष्क द्वारा उपयोग किए गए वास्तविक एल्गोरिदम की गहरी समझ प्राप्त करने के लिए हमें (बहुत कम से कम) हजारों इंटरकनेक्टेड न्यूरोन्स की गतिविधि
+S2 To obtain a deep understanding of the actual algorithms used by the brain	मस्तिष्क द्वारा उपयोग किए गए वास्तविक एल्गोरिदम की गहरी समझ पाने के लिए
+VP3_LWG To obtain	प्राप्त करने के लिए
+NP7 a deep understanding of the actual algorithms used by the brain	मस्तिष्क द्वारा उपयोग किए गए वास्तविक एल्गोरिदम की गहरी समझ
+NP8 a deep understanding	गहरी समझ
+PP12 of the actual algorithms used by the brain	मस्तिष्क द्वारा उपयोग किए गए वास्तविक एल्गोरिदम का
+NP14 the actual algorithms used by the brain	मस्तिष्क द्वारा इस्तेमाल किए गए वास्तविक एल्गोरिदम
+NP15 the actual algorithms	वास्तविक एल्गोरिदम
+NNS18 algorithms	एल्गोरिदम
+VP19_LWG used	इस्तेमाल
+PP21 by the brain	मस्तिष्क से
+NP23 the brain	मस्तिष्क
+,26 ,	,
+NP27 we	हम
+VP29_LWG would need	जरूरत होगी
+S33 to be able to monitor the activity of ( at the very least ) thousands of interconnected neurons simultaneously	(बहुत कम से कम) हजारों इंटरकनेक्टेड न्यूरोन्स की गतिविधि की निगरानी करने में सक्षम होना चाहिए
+VP34_LWG to be simultaneously	एक साथ होना है
+ADJP38 able to monitor the activity of ( at the very least ) thousands of interconnected neurons	(बहुत कम से कम) हजारों इंटरकनेक्टेड न्यूरोन की गतिविधि की निगरानी कर सकते हैं
+S40 to monitor the activity of ( at the very least ) thousands of interconnected neurons	(बहुत कम से कम) हजारों इंटरकनेक्टेड न्यूरोन की गतिविधि पर नजर रखने के लिए
+VP41_LWG to monitor the	निगरानी करने के लिए
+ADVP45 the activity of	की गतिविधि
+NP46 the activity	गतिविधि
+PP51 at the very least	बहुत कम से कम
+NP53 the very least	बहुत कम से कम
+ADJP55 very least	बहुत कम से कम
+NP59 thousands of interconnected neurons	हजारों इंटरकनेक्टेड न्यूरोन
+NP60 thousands	हजारों
+NNS61 thousands	हजारों
+PP62 of interconnected neurons	इंटरकनेक्टेड न्यूरोन की
+NP64 interconnected neurons	इंटरकनेक्टेड न्यूरोन
+NNS66 neurons	न्यूरोन
+ADVP67 simultaneously	एक साथ
+

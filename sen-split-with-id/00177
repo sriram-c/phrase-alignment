@@ -1,0 +1,25 @@
+----
+177
+S1 This_1 book_2 can_3 be_4 useful_5 for_6 a_7 variety_8 of_9 readers_10 ,_11 but_12 we_13 wrote_14 it_15 with_16 two_17 target_18 audiences_19 in_20 mind_21 ._22
+S2 This_1 book_2 can_3 be_4 useful_5 for_6 a_7 variety_8 of_9 readers_10
+NP3 This_1 book_2
+VP6_LWG can_3 be_4
+ADJP10 useful_5 for_6 a_7 variety_8 of_9 readers_10
+PP12 for_6 a_7 variety_8 of_9 readers_10
+NP14 a_7 variety_8 of_9 readers_10
+NP15 a_7 variety_8
+PP18 of_9 readers_10
+NP20 readers_10
+NNS21 readers_10
+,22 ,_11
+CC23 but_23
+S24 we_13 wrote_14 it_15 with_16 two_17 target_18 audiences_19 in_20 mind_21
+NP25 we_13
+VP27_LWG wrote_14
+NP29 it_15
+PP31 with_16 two_17 target_18 audiences_19 in_20 mind_21
+NP33 two_17 target_18 audiences_19 in_20 mind_21
+NP34 two_17 target_18 audiences_19
+NNS37 audiences_19
+PP38 in_20 mind_21
+NP40 mind_21

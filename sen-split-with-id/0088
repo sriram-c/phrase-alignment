@@ -1,0 +1,28 @@
+----
+88
+S1 INTRODUCTION_1 context_2 ,_3 we_4 use_5 the_6 word_7 “_8 factors_9 ”_10 simply_11 to_12 refer_13 to_14 separate_15 sources_16 of_17 inﬂuence_18 ;_19 the_20 factors_21 are_22 usually_23 not_24 combined_25 by_26 multiplication_27 ._28
+S2 INTRODUCTION_1 context_2 ,_3 we_4 use_5 the_6 word_7 “_8 factors_9 ”_10 simply_11 to_12 refer_13 to_14 separate_15 sources_16 of_17 inﬂuence_18
+NP3 INTRODUCTION_1 context_2
+,6 ,_3
+NP7 we_4
+VP9_LWG use_5 simply_11
+NP11 the_6 word_7 “_8 factors_9 ”_10
+NP12 the_6 word_7
+NP16 factors_9
+NNS17 factors_9
+ADVP19 simply_11
+S21 to_12 refer_13 to_14 separate_15 sources_16 of_17 inﬂuence_18
+VP22_LWG to_12 refer_13
+PP26 to_14 separate_15 sources_16 of_17 inﬂuence_18
+NP28 separate_15 sources_16 of_17 inﬂuence_18
+NP29 separate_15 sources_16
+NNS31 sources_16
+PP32 of_17 inﬂuence_18
+NP34 inﬂuence_18
+S37 the_20 factors_21 are_22 usually_23 not_24 combined_25 by_26 multiplication_27
+NP38 the_20 factors_21
+NNS40 factors_21
+VP41_LWG are_22 usually_23 not_24 combined_25
+ADVP43 usually_23
+PP48 by_26 multiplication_27
+NP50 multiplication_27

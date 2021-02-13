@@ -1,0 +1,25 @@
+----
+51
+S1 If_1 logistic_2 regression_3 were_4 given_5 an_6 MRI_7 scan_8 of_9 the_10 patient_11 ,_12 rather_13 than_14 the_15 doctor_16 ’s_17 formalized_18 report_19 ,_20 it_21 would_22 not_23 be_24 able_25 to_26 make_27 useful_28 predictions_29 ._30
+SBAR2 If_1 logistic_2 regression_3 were_4 given_5 an_6 MRI_7 scan_8 of_9 the_10 patient_11 ,_12 rather_13 than_14 the_15 doctor_16 ’s_17 formalized_18 report_19
+S4 logistic_2 regression_3 were_4 given_5 an_6 MRI_7 scan_8 of_9 the_10 patient_11 ,_12 rather_13 than_14 the_15 doctor_16 ’s_17 formalized_18 report_19
+NP5 logistic_2 regression_3
+VP8_LWG were_4 given_5
+NP12 an_6 MRI_7
+NP15 scan_8 of_9 the_10 patient_11 ,_12 rather_13 than_14 the_15 doctor_16 ’s_17 formalized_18 report_19
+NP16 scan_8 of_9 the_10 patient_11
+NP17 scan_8
+PP19 of_9 the_10 patient_11
+NP21 the_10 patient_11
+,24 ,_12
+CONJP25 rather_13 than_14
+NP28 the_15 doctor_16 ’s_17 formalized_18 report_19
+NML30 doctor_16 ’s_17
+,35 ,_20
+NP36 it_21
+VP38_LWG would_22 not_23 be_24
+ADJP43 able_25 to_26 make_27 useful_28 predictions_29
+S45 to_26 make_27 useful_28 predictions_29
+VP46_LWG to_26 make_27
+NP50 useful_28 predictions_29
+NNS52 predictions_29

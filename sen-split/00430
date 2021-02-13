@@ -1,0 +1,15 @@
+----
+00431	An individual neuron or small collection of neurons is not particularly useful.	 एक अलग न्यूरॉन या न्यूरॉन्स के छोटे संग्रह विशेष रूप से उपयोगी नहीं है .		
+430	430
+S1 An individual neuron or small collection of neurons is not particularly useful .	एक व्यक्तिगत न्यूरोन या न्यूरोन का छोटा सा संग्रह विशेष रूप से उपयोगी नहीं है।
+NP2 An individual neuron or small collection of neurons	एक व्यक्तिगत न्यूरोन या न्यूरोन का छोटा सा संग्रह
+NP3 An individual neuron	एक व्यक्ति न्यूरोन
+CC7 or	या।
+NP8 small collection of neurons	न्यूरोन का छोटा सा संग्रह
+NP9 small collection	छोटा संग्रह
+PP12 of neurons	न्यूरोन की
+NP14 neurons	न्यूरोन
+NNS15 neurons	न्यूरोन
+VP16_LWG is not	नहीं है।
+ADJP19 particularly useful	खासकर उपयोगी
+

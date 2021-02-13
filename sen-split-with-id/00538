@@ -1,0 +1,9 @@
+----
+538
+NP1 0.20_1 0.25_2 0.30_3 ILSVRC_4 classiﬁcation_5 error_6 rate_7 Figure_8 1.12_9 :_10 Decreasing_11 error_12 rate_13 over_14 time_15 ._16
+NP2 0.20_1 0.25_2 0.30_3 ILSVRC_4 classiﬁcation_5 error_6 rate_7 Figure_8 1.12_9
+NML3 0.20_1 0.25_2 0.30_3
+NP14 Decreasing_11 error_12 rate_13 over_14 time_15
+NP15 Decreasing_11 error_12 rate_13
+PP19 over_14 time_15
+NP21 time_15

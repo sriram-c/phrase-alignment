@@ -1,0 +1,29 @@
+----
+423
+S1 has_1 made_2 machine_3 learning_4 much_5 easier_6 because_7 the_8 key_9 burden_10 of_11 statistical_12 estimation_13 —_14 generalizing_15 well_16 to_17 new_18 data_19 after_20 observing_21 only_22 a_23 small_24 amount_25 of_26 data_27 —_28 has_29 been_30 considerably_31 lightened_32 ._33
+VP2_LWG has_1 made_2
+NP6 machine_3
+S8 learning_4 much_5 easier_6 because_7 the_8 key_9 burden_10 of_11 statistical_12 estimation_13 —_14 generalizing_15 well_16 to_17 new_18 data_19 after_20 observing_21 only_22 a_23 small_24 amount_25 of_26 data_27 —_28 has_29 been_30 considerably_31 lightened_32
+VP9_LWG learning_4 generalizing_15 well_16
+ADJP12 much_5 easier_6 because_7 the_8 key_9 burden_10 of_11 statistical_12 estimation_13
+ADJP13 much_5 easier_6
+PP16 because_7 the_8 key_9 burden_10 of_11 statistical_12 estimation_13
+NP18 the_8 key_9 burden_10 of_11 statistical_12 estimation_13
+NP19 the_8 key_9 burden_10
+PP23 of_11 statistical_12 estimation_13
+NP25 statistical_12 estimation_13
+ADVP31 well_16
+PP33 to_17 new_18 data_19
+NP35 new_18 data_19
+NNS37 data_19
+PP38 after_20 observing_21 only_22 a_23 small_24 amount_25 of_26 data_27 —_28 has_29 been_30 considerably_31 lightened_32
+S40 observing_21 only_22 a_23 small_24 amount_25 of_26 data_27 —_28 has_29 been_30 considerably_31 lightened_32
+VP41_LWG observing_21
+NP43 only_22 a_23 small_24 amount_25 of_26 data_27 —_28 has_29 been_30 considerably_31 lightened_32
+NP44 only_22 a_23 small_24 amount_25
+PP49 of_26 data_27 —_28 has_29 been_30 considerably_31 lightened_32
+S51 data_27 —_28 has_29 been_30 considerably_31 lightened_32
+NP52 data_27
+NNS53 data_27
+VP55_LWG has_29 been_30
+ADJP59 considerably_31 lightened_32

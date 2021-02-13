@@ -1,0 +1,26 @@
+----
+00321	The simplied modern version was developed incorporating ideas from many viewpoints, with Nair and Hinton (2010) and Glorot et al.	 saralIkqwa AXunika saMskaraNa kaI xqRtikoNoM se vicAroM ko samAhiwa karawe hue vikasiwa kiyA gayA WA , jisameM nAyara Ora hAinatana (2010 ) Ora glorota eta ala .		
+320	320
+S1 The simplied modern version was developed incorporating ideas from many viewpoints , with Nair and Hinton ( 2010 ) and Glorot et al. .	sarala AXunika saMskaraNa ko kaI xqRtikoNoM se vicAroM ko SAmila karawe hue vikasiwa kiyA gayA WA, jisameM nAyara Ora hiMtana ( 2010) Ora glorota eta ala
+NP2 The simplied modern version	sarala AXunika saMskaraNa
+VP7_LWG was developed Glorot et	vikasiwa kiyA gayA glorota eta
+S12 incorporating ideas from many viewpoints , with Nair and Hinton	kaI xqRtikoNoM se vicAroM ko SAmila karanA, nAyara Ora hiMtana ke sAWa
+VP13_LWG incorporating	SAmila
+NP15 ideas	vicAra
+NNS16 ideas	vicAra
+PP17 from many viewpoints	kaI xqRtikoNoM se
+NP19 many viewpoints	kaI xqRtikoNa
+NNS21 viewpoints	xqRtikoNa
+,22 ,	,
+PP23 with Nair and Hinton	nAyara Ora hiMtana ke sAWa
+NP25 Nair and Hinton	nAyara Ora hiMtana
+CC27 and	Ora
+NNP26 Nair	nAyara
+NNP28 Hinton	hiMtana
+PRN29 ( 2010 )	( 2010)
+NP31 2010	2010
+CC34 and	Ora
+VP10 developed incorporating ideas from many viewpoints , with Nair and Hinton ( 2010 )	kaI xqRtikoNoM se vicAroM ko SAmila karawe hue vikasiwa kiyA gayA, nAyara Ora hiMtana ( 2010)
+VP35 Glorot et al.	glorota eta ala
+ADVP37 et al.	eta ala
+

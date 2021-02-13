@@ -1,0 +1,25 @@
+----
+11
+S1 By_1 gathering_2 knowledge_3 from_4 experience_5 ,_6 this_7 approach_8 avoids_9 the_10 need_11 for_12 human_13 operators_14 to_15 formally_16 specify_17 all_18 the_19 knowledge_20 that_21 the_22 computer_23 needs_24 ._25
+PP2 By_1 gathering_2 knowledge_3 from_4 experience_5
+S4 gathering_2 knowledge_3 from_4 experience_5
+VP5_LWG gathering_2
+NP7 knowledge_3
+PP9 from_4 experience_5
+NP11 experience_5
+,13 ,_6
+NP14 this_7 approach_8
+VP17_LWG avoids_9
+NP19 the_10 need_11 for_12 human_13 operators_14
+NP20 the_10 need_11
+PP23 for_12 human_13 operators_14
+NP25 human_13 operators_14
+NNS27 operators_14
+S28 to_15 formally_16 specify_17 all_18 the_19 knowledge_20 that_21 the_22 computer_23 needs_24
+VP29_LWG to_15 formally_16 specify_17
+ADVP31 formally_16
+NP35 all_18 the_19 knowledge_20
+SBAR39 that_21 the_22 computer_23 needs_24
+S41 the_22 computer_23 needs_24
+NP42 the_22 computer_23
+VP45_LWG needs_24

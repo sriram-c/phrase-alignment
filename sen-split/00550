@@ -1,0 +1,21 @@
+----
+00551	This sequence-to-sequence learning seems to be on the cusp of revolutionizing another application: machine translation (Sutskever et al.	 यह अनुक्रम - से - अनुक्रम शिक्षण एक अन्य अनुप्रयोग के क्रांतिकरण के मुहाने पर प्रतीत होता हैः मशीन अनुवाद (Sutskever एट अल ) .		
+550	550
+S1 This sequence - to - sequence learning seems to be on the cusp of revolutionizing another application : machine translation ( Sutskever et al. .	यह क्रम – से- अनुक्रम सीखना एक और आवेदन को क्रांतिकारी बनाने के अशुभ क्रम पर लगता हैः मशीन अनुवाद (सत्सकेवर एट अल..
+NP2 This sequence - to - sequence learning	यह क्रम- से- अनुक्रम सीखना
+NML4 sequence - to - sequence	क्रम- से- क्रम
+VP11_LWG seems	लगता है लगता है।
+S13 to be on the cusp of revolutionizing another application : machine translation ( Sutskever et al.	एक और आवेदन को क्रांतिकारी बनाने के अशुभ रूप में होना चाहिएः मशीन अनुवाद (सत्सकेवर एट अल।
+VP14_LWG to be	होना चाहिए।
+PP18 on the cusp of revolutionizing another application : machine translation ( Sutskever et al.	एक और आवेदन को क्रांतिकारी बनाने के अशुभ क्रम पर मशीन अनुवाद (सत्सकेवर एट अल।
+NP20 the cusp of revolutionizing another application : machine translation ( Sutskever et al.	एक और आवेदन को क्रांतिकारी बनाने का शुभः मशीन अनुवाद (सत्सकेवर एट अल।
+NP21 the cusp	अशुभ
+PP24 of revolutionizing another application : machine translation ( Sutskever et al.	एक और आवेदन को क्रांतिकारी करने के लिए मशीन अनुवाद (सत्सकेवर एट अल।
+S26 revolutionizing another application : machine translation ( Sutskever et al.	एक और आवेदन को क्रांतिकारी - मशीन अनुवाद (सत्सकेवर एट अल।
+VP27_LWG revolutionizing	क्रांतिकारी
+NP29 another application : machine translation ( Sutskever et al.	एक और आवेदन ः मशीन अनुवाद (सत्सकेवर एट अल।
+NP30 another application : machine translation	एक और आवेदनः मशीन अनुवाद
+NML32 application : machine	आवेदनः मशीन
+NP38 Sutskever	सतस्केवार
+ADVP40 et al.	एट अल।
+

@@ -1,0 +1,25 @@
+----
+00139	It has nothing to do with the content of the input speciﬁcally, but it helps the model to organize its processing.	 इसका इनपुट की सामग्री के साथ विशेष रूप से कोई संबंध नहीं है , लेकिन यह मॉडल को अपने प्रसंस्करण को व्यवस्थित करने में मदद करता है .		
+138	138
+S1 It has nothing to do with the content of the input speciﬁcally , but it helps the model to organize its processing .	इसका विशेष रूप से इनपुट की सामग्री से कोई लेना-देना नहीं है, लेकिन यह मॉडल को इसके प्रोसेसिंग का आयोजन करने में मदद करता है।
+S2 It has nothing to do with the content of the input speciﬁcally	इसका इनपुट की सामग्री से कोई लेना-देना नहीं है खासकर
+NP3 It	यह
+VP5_LWG has	उसके पास है।
+NP7 nothing to do with the content of the input speciﬁcally	इनपुट की सामग्री से कोई लेना-देना नहीं
+S9 to do with the content of the input speciﬁcally	इनपुट की सामग्री से करना विशेष रूप से
+VP10_LWG to do	करने के लिए।
+PP14 with the content of the input speciﬁcally	इनपुट की सामग्री के साथ विशेष रूप से
+NP16 the content of the input speciﬁcally	इनपुट की सामग्री खास
+NP17 the content	सामग्री
+PP20 of the input speciﬁcally	इनपुट का विशेष रूप से
+NP22 the input speciﬁcally	विशेष रूप से इनपुट
+,26 ,	,
+CC27 but	लेकिन
+S28 it helps the model to organize its processing	यह मॉडल को इसके प्रसंस्करण का आयोजन करने में मदद करता है
+NP29 it	यह
+VP31_LWG helps	मदद करता है।
+NP33 the model	मॉडल
+S36 to organize its processing	इसके प्रसंस्करण का आयोजन करने के लिए
+VP37_LWG to organize	आयोजन के लिए
+NP41 its processing	इसका प्रसंस्करण
+

@@ -1,0 +1,31 @@
+----
+42
+S1 The_1 introduction_2 of_3 machine_4 learning_5 enabled_6 computers_7 to_8 tackle_9 problems_10 involving_11 knowledge_12 of_13 the_14 real_15 world_16 and_17 make_18 decisions_19 that_20 appear_21 subjective_22 ._23
+NP2 The_1 introduction_2 of_3 machine_4 learning_5
+NP3 The_1 introduction_2
+PP6 of_3 machine_4 learning_5
+NP8 machine_4 learning_5
+VP11_LWG enabled_6
+NP13 computers_7
+NNS14 computers_7
+S15 to_8 tackle_9 problems_10 involving_11 knowledge_12 of_13 the_14 real_15 world_16 and_17 make_18 decisions_19 that_20 appear_21 subjective_22
+VP16_LWG to_8 tackle_9 make_18
+NP21 problems_10 involving_11 knowledge_12 of_13 the_14 real_15 world_16
+NP22 problems_10
+NNS23 problems_10
+PP24 involving_11 knowledge_12 of_13 the_14 real_15 world_16
+NP26 knowledge_12 of_13 the_14 real_15 world_16
+NP27 knowledge_12
+PP29 of_13 the_14 real_15 world_16
+NP31 the_14 real_15 world_16
+CC35 and_35
+VP19 tackle_9 problems_10 involving_11 knowledge_12 of_13 the_14 real_15 world_16
+VP36 make_18 decisions_19 that_20 appear_21 subjective_22
+NP38 decisions_19 that_20 appear_21 subjective_22
+NP39 decisions_19
+NNS40 decisions_19
+SBAR41 that_20 appear_21 subjective_22
+WHNP42 that_20
+S44 appear_21 subjective_22
+VP45_LWG appear_21
+ADJP47 subjective_22

@@ -1,0 +1,30 @@
+----
+00232	We assume familiarity with programming, a basic understanding of computational performance issues, complexity theory, introductory level calculus and some of the terminology of graph theory.	 हम प्रोग्रामिंग से परिचित हैं , कम्प्यूटेशनल निष्पादन मुद्दों की एक बुनियादी समझ , जटिलता सिद्धांत , परिचयात्मक स्तर की पथरी और ग्राफ सिद्धांत की कुछ शब्दावली .		
+231	231
+S1 We assume familiarity with programming , a basic understanding of computational performance issues , complexity theory , introductory level calculus and some of the terminology of graph theory .	हम प्रोग्रामिंग के साथ परिचितता, कंप्यूटरीय प्रदर्शन के मुद्दों की एक मूल समझ, जटिलता सिद्धांत, परिचय स्तरीय गणना और ग्राफ सिद्धांत की कुछ अंतर्
+NP2 We	हम
+VP4_LWG assume	मान लीजिए।
+NP6 familiarity with programming , a basic understanding of computational performance issues , complexity theory , introductory level calculus and some of the terminology of graph theory	प्रोग्रामिंग से परिचितता, कम्प्यूटेशनल प्रदर्शन के मुद्दों की एक मूल समझ, जटिलता सिद्धांत, परिचय स्तरीय गणना और ग्राफ सिद्धांत की कुछ अवधारणा
+NP7 familiarity with programming	प्रोग्रामिंग से परिचितता
+NP8 familiarity	परिचितता
+PP10 with programming	प्रोग्रामिंग के साथ
+NP12 programming	प्रोग्रामिंग
+,14 ,	,
+NP15 a basic understanding of computational performance issues	कम्प्यूटेशनल प्रदर्शन के मुद्दों की बुनियादी समझ
+NP16 a basic understanding	एक बुनियादी समझ
+PP20 of computational performance issues	कम्प्यूटेशनल प्रदर्शन के मुद्दे
+NP22 computational performance issues	कम्प्यूटेशनल प्रदर्शन के मुद्दे
+NNS25 issues	मुद्दे
+,26 ,	,
+NP27 complexity theory	जटिलता सिद्धांत
+,30 ,	,
+NP31 introductory level calculus	परिचय स्तरीय गणना
+CC35 and	और
+NP36 some of the terminology of graph theory	ग्राफ सिद्धांत की कुछ समाप्ति
+NP37 some	कुछ
+PP39 of the terminology of graph theory	ग्राफ सिद्धांत की समाप्ति का
+NP41 the terminology of graph theory	ग्राफ सिद्धांत का अंतर्ज्ञान
+NP42 the terminology	अंतर्ज्ञान
+PP45 of graph theory	ग्राफ सिद्धांत का
+NP47 graph theory	ग्राफ सिद्धांत
+

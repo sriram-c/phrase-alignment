@@ -1,0 +1,33 @@
+----
+0043	The introduction of machine learning enabled computers to tackle problems involving knowledge of the real world and make decisions that appear subjective.	 मशीनी शिक्षण की शुरुआत ने कंप्यूटरों को वास्तविक दुनिया के ज्ञान से संबंधित समस्याओं से निपटने और व्यक्तिपरक दिखने वाले निर्णय लेने में सक्षम बनाया .		
+42	42
+S1 The introduction of machine learning enabled computers to tackle problems involving knowledge of the real world and make decisions that appear subjective .	मशीन सीखने के परिचय से कंप्यूटर वास्तविक दुनिया के ज्ञान से जुड़ी समस्याओं से निपटने के लिए सक्षम होते हैं और निर्णय लेते हैं जो विषयात्मक प्रती
+NP2 The introduction of machine learning	मशीन सीखने का परिचय
+NP3 The introduction	परिचय
+PP6 of machine learning	मशीन सीखने की
+NP8 machine learning	मशीन सीखना
+VP11_LWG enabled	सक्षम
+NP13 computers	कंप्यूटर
+NNS14 computers	कंप्यूटर
+S15 to tackle problems involving knowledge of the real world and make decisions that appear subjective	वास्तविक दुनिया के ज्ञान से जुड़ी समस्याओं से निपटने के लिए और निर्णय लेने के लिए जो विषयात्मक प्रतीत होते हैं
+VP16_LWG to tackle make	मुश्किल से निपटने के लिए
+NP21 problems involving knowledge of the real world	वास्तविक दुनिया के ज्ञान से जुड़ी समस्याएं
+NP22 problems	समस्याएं
+NNS23 problems	समस्याएं
+PP24 involving knowledge of the real world	वास्तविक दुनिया का ज्ञान शामिल
+NP26 knowledge of the real world	वास्तविक दुनिया का ज्ञान
+NP27 knowledge	ज्ञान
+PP29 of the real world	वास्तविक दुनिया की
+NP31 the real world	असली दुनिया
+CC35 and	और
+VP19 tackle problems involving knowledge of the real world	वास्तविक दुनिया के ज्ञान से जुड़ी मुश्किलें
+VP36 make decisions that appear subjective	ऐसे निर्णय करें जो विषयात्मक प्रतीत हों
+NP38 decisions that appear subjective	जो फैसले विषयात्मक दिखाई देते हैं
+NP39 decisions	फैसले
+NNS40 decisions	फैसले
+SBAR41 that appear subjective	वह विषयात्मक प्रतीत होता है
+WHNP42 that	वह
+S44 appear subjective	विषयात्मक दिखाई दें।
+VP45_LWG appear	दिखाई देते हैं।
+ADJP47 subjective	विषयात्मक
+

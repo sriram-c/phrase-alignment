@@ -1,0 +1,28 @@
+----
+156
+S1 The_1 computation_2 depicted_3 in_4 these_5 graphs_6 is_7 the_8 output_9 of_10 a_11 logistic_12 regression_13 model_14 ,_15 σ_16 (_17 w_18 T_19 x_20 )_21 ,_22 where_23 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29 ._30
+NP2 The_1 computation_2 depicted_3 in_4 these_5 graphs_6
+NP3 The_1 computation_2
+VP6_LWG depicted_3
+PP8 in_4 these_5 graphs_6
+NP10 these_5 graphs_6
+NNS12 graphs_6
+VP13_LWG is_7
+NP15 the_8 output_9 of_10 a_11 logistic_12 regression_13 model_14 ,_15 σ_16 (_17 w_18 T_19 x_20 )_21 ,_22 where_23 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29
+NP16 the_8 output_9
+PP19 of_10 a_11 logistic_12 regression_13 model_14 ,_15 σ_16 (_17 w_18 T_19 x_20 )_21 ,_22 where_23 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29
+NP21 a_11 logistic_12 regression_13 model_14 ,_15 σ_16 (_17 w_18 T_19 x_20 )_21 ,_22 where_23 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29
+NP22 a_11 logistic_12 regression_13 model_14
+,27 ,_15
+NP28 σ_16 (_17 w_18 T_19 x_20 )_21 ,_22 where_23 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29
+NP29 σ_16 (_17 w_18 T_19 x_20 )_21
+PRN31 (_17 w_18 T_19 x_20 )_21
+NP33 w_18 T_19 x_20
+SYM36 x_20
+,38 ,_22
+SBAR39 where_23 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29
+WHADVP40 where_23
+S42 σ_24 is_25 the_26 logistic_27 sigmoid_28 function_29
+NP43 σ_24
+VP45_LWG is_25
+NP47 the_26 logistic_27 sigmoid_28 function_29

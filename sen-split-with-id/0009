@@ -1,0 +1,12 @@
+----
+9
+S1 This_1 book_2 is_3 about_4 a_5 solution_6 to_7 these_8 more_9 intuitive_10 problems_11 ._12
+NP2 This_1 book_2
+VP5_LWG is_3
+PP7 about_4 a_5 solution_6 to_7 these_8 more_9 intuitive_10 problems_11
+NP9 a_5 solution_6 to_7 these_8 more_9 intuitive_10 problems_11
+NP10 a_5 solution_6
+PP13 to_7 these_8 more_9 intuitive_10 problems_11
+NP15 these_8 more_9 intuitive_10 problems_11
+ADJP17 more_9 intuitive_10
+NNS20 problems_11

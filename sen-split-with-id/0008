@@ -1,0 +1,24 @@
+----
+8
+S1 The_1 true_2 challenge_3 to_4 artiﬁcial_5 intelligence_6 proved_7 to_8 be_9 solving_10 the_11 tasks_12 that_13 are_14 easy_15 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45 ._46
+NP2 The_1 true_2 challenge_3 to_4 artiﬁcial_5 intelligence_6
+NP3 The_1 true_2 challenge_3
+PP7 to_4 artiﬁcial_5 intelligence_6
+NP9 artiﬁcial_5 intelligence_6
+VP12_LWG proved_7
+S14 to_8 be_9 solving_10 the_11 tasks_12 that_13 are_14 easy_15 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+VP15_LWG to_8 be_9 solving_10
+NP21 the_11 tasks_12 that_13 are_14 easy_15 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+NP22 the_11 tasks_12
+NNS24 tasks_12
+SBAR25 that_13 are_14 easy_15 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+WHNP26 that_13
+S28 are_14 easy_15 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+VP29_LWG are_14
+ADJP31 easy_15 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+PP33 for_16 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+NP35 people_17 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+NNS36 people_17
+S37 to_18 perform_19 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45
+VP38_LWG to_18 perform_19
+PP42 but_20 hard_21 for_22 people_23 to_24 describe_25 formally_26 —_27 problems_28 that_29 we_30 solve_31 intuitively_32 ,_33 that_34 feel_35 automatic_36 ,_37 like_38 recognizing_39 spoken_40 words_41 or_42 faces_43 in_44 images_45

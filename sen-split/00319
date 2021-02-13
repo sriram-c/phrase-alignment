@@ -1,0 +1,23 @@
+----
+00320	The original cognitron (Fukushima, 1975) introduced a more complicated version that was highly inspired by our knowledge of brain function.	 मूल cognitron ( Fukushima , 1975 ) ने एक अधिक जटिल संस्करण की शुरुआत की जो हमारे मस्तिष्क समारोह के ज्ञान से अत्यधिक प्रेरित था .		
+319	319
+S1 The original cognitron ( Fukushima , 1975 ) introduced a more complicated version that was highly inspired by our knowledge of brain function .	मूल संज्ञान (फुकुशिमा, 1975) ने एक और अधिक जटिल संस्करण पेश किया जो हमारे मस्तिष्क समारोह के हमारे ज्ञान से बहुत प्रेरित था।
+NP2 The original cognitron ( Fukushima , 1975 )	मूल संज्ञान (फुकुशिमा, 1975)
+PRN6 ( Fukushima , 1975 )	(फुकुशिमा, 1975)
+NP8 Fukushima , 1975	फुकुशिमा, 1975
+,10 ,	,
+VP13_LWG introduced	पेश किया गया
+NP15 a more complicated version that was highly inspired by our knowledge of brain function	एक और जटिल संस्करण जो हमारे मस्तिष्क समारोह के हमारे ज्ञान से बेहद प्रेरित था
+NP16 a more complicated version	एक और जटिल संस्करण
+ADJP18 more complicated	अधिक जटिल
+SBAR22 that was highly inspired by our knowledge of brain function	यह हमारे मस्तिष्क समारोह के हमारे ज्ञान से बहुत प्रेरित था
+WHNP23 that	वह
+S25 was highly inspired by our knowledge of brain function	मस्तिष्क समारोह के हमारे ज्ञान से बेहद प्रेरित था
+VP26_LWG was highly inspired	बेहद प्रेरणादायी थे।
+ADVP28 highly	अत्यधिक
+PP32 by our knowledge of brain function	मस्तिष्क समारोह के हमारे ज्ञान से
+NP34 our knowledge of brain function	मस्तिष्क समारोह का हमारा ज्ञान
+NP35 our knowledge	हमारा ज्ञान
+PP38 of brain function	मस्तिष्क समारोह की
+NP40 brain function	ब्रेन फंक्शन
+

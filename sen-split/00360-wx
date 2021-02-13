@@ -1,0 +1,24 @@
+----
+00361	Hochreiter and Schmidhuber (1997) introduced the long short-term memory (LSTM) network to resolve some of these diculties.	 hoPrItara Ora SammIxabara (1997 ) ne inameM se kuCa kaTinAiyoM ko xUra karane ke lie laMbI alpakAlika smqwi ( elaesatIema netavarka ) kI SurUAwa kI 		
+360	360
+S1 Hochreiter and Schmidhuber ( 1997 ) introduced the long short - term memory ( LSTM ) network to resolve some of these diculties .	hovarAitara Ora smiWahabara ( 1997) ne inameM se kuCa kaTinAiyoM ke samAXAna ke lie laMbe Cote- Sabxa kI smqwi (elaesatIema) netavarka ko peSa kiyA
+NP2 Hochreiter and Schmidhuber ( 1997 )	hovarAitara Ora smiWahabara ( 1997)
+CC4 and	Ora
+NNP3 Hochreiter	hoYvaretiveta
+NNP5 Schmidhuber	smiGababara
+PRN6 ( 1997 )	( 1997)
+NP8 1997	1997
+VP11_LWG introduced	peSa kiyA gayA
+NP13 the long short - term memory ( LSTM ) network	laMbI CotI- Sabxa kI smqwi (elaesatIema) netavarka
+NML16 short - term memory ( LSTM )	laGu - Sabxa kI smqwi (elaesatIema)
+NML17 short - term	laGu - Sabxa
+PRN22 ( LSTM )	(elaesatIema)
+NP24 LSTM	elaesatIema
+S28 to resolve some of these diculties	inameM se kuCa kaTinAiyoM kA samAXAna karane ke lie
+VP29_LWG to resolve	hala karane ke lie
+NP33 some of these diculties	inameM se kuCa kaTinAiyAM
+NP34 some	kuCa
+PP36 of these diculties	ina kaTinAiyoM kI
+NP38 these diculties	ye muSkileM
+NNS40 diculties	muSkileM
+

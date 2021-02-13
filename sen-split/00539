@@ -1,0 +1,34 @@
+----
+00540	Since deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge, they have consistently won the competition every year, yielding lower and lower error rates each time.	 चूंकि गहरे नेटवर्क इमेजनेट बड़े पैमाने पर दृश्य मान्यता चैलेंज में प्रतिस्पर्धा करने के लिए आवश्यक पैमाने पर पहुंचे , वे लगातार हर साल प्रतियोगिता जीत लिया है , हर बार कम और कम त्रुटि दरों का उत्पादन .		
+539	539
+S1 Since deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge , they have consistently won the competition every year , yielding lower and lower error rates each time .	चूंकि गहरे नेटवर्क इमेजनेट बड़े पैमाने पर विजुअल रिकॉर्डिंग चैलेंज में प्रतिस्पर्धा करने के लिए आवश्यक पैमाने पर पहुंच गए हैं, इस
+SBAR2 Since deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	चूंकि गहरे नेटवर्क इमेजनेट बड़े पैमाने पर विजुअल रिकार्डिंग चैलेंज में प्रतिस्पर्धा करने के लिए आवश्यक पैमाने पर पहुंच गए हैं
+S4 deep networks reached the scale necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	इमेजनेट बड़े पैमाने पर विजुअल रिकार्डिंग चैलेंज में प्रतिस्पर्धा के लिए जरूरी पैमाने पर पहुंचे गहरे नेटवर्क
+NP5 deep networks	गहरे नेटवर्क
+NNS7 networks	नेटवर्क
+VP8_LWG reached	पहुंच गए।
+NP10 the scale	पैमाना
+S13 necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	इमेजनेट बड़े पैमाने पर दृश्य पहचान चैलेंज में प्रतिस्पर्धा के लिए आवश्यक
+ADJP14 necessary to compete in the ImageNet Large Scale Visual Recognition Challenge	इमेजनेट बड़े पैमाने पर दृश्य पहचान चैलेंज में प्रतिस्पर्धा के लिए आवश्यक
+S16 to compete in the ImageNet Large Scale Visual Recognition Challenge	इमेजनेट बड़े पैमाने पर दृश्य पहचान चैलेंज में प्रतिस्पर्धा करने के लिए
+VP17_LWG to compete	मुकाबला करने के लिए
+PP21 in the ImageNet Large Scale Visual Recognition Challenge	इमेजनेट बड़े पैमाने पर दृश्य पहचान चैलेंज में
+NP23 the ImageNet Large Scale Visual Recognition Challenge	इमेजनेट बड़े पैमाने पर दृश्य पहचान चैलेंज
+NML26 Large Scale	बड़े पैमाने पर
+,32 ,	,
+NP33 they	वे
+VP35_LWG have consistently won	लगातार जीत चुके हैं।
+ADVP37 consistently	लगातार
+NP41 the competition	प्रतियोगिता
+NP-TMP44 every year	हर साल
+,47 ,	,
+S48 yielding lower and lower error rates each time	हर बार कम और कम त्रुटि की दरें कम
+VP49_LWG yielding	नौकरी करना।
+NP51 lower and lower error rates	कम और कम त्रुटि दरें
+ADJP52 lower and lower	कम और निम्न
+CC54 and	और
+JJR53 lower	निचले
+JJR55 lower	निचले
+NNS57 rates	दरें
+NP-TMP58 each time	हर बार
+

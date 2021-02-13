@@ -1,0 +1,27 @@
+----
+00178	This book can be useful for a variety of readers, but we wrote it with two target audiences in mind.	 यह पुस्तक पाठकों की एक किस्म के लिए उपयोगी हो सकता है , लेकिन हम मन में दो लक्षित दर्शकों के साथ लिखा था .		
+177	177
+S1 This book can be useful for a variety of readers , but we wrote it with two target audiences in mind .	यह किताब कई तरह के पाठकों के लिए उपयोगी हो सकती है, लेकिन हमने इसे दो टारगेट दर्शकों के मन में लिखा है।
+S2 This book can be useful for a variety of readers	यह किताब कई तरह के पाठकों के लिए उपयोगी हो सकती है
+NP3 This book	यह पुस्तक
+VP6_LWG can be	हो सकता है
+ADJP10 useful for a variety of readers	कई तरह के पाठकों के लिए उपयोगी
+PP12 for a variety of readers	कई तरह के पाठकों के लिए
+NP14 a variety of readers	कई तरह के पाठक
+NP15 a variety	एक किस्म की
+PP18 of readers	पाठकों की
+NP20 readers	पाठक
+NNS21 readers	पाठक
+,22 ,	,
+CC23 but	लेकिन
+S24 we wrote it with two target audiences in mind	हमने इसे दो टारगेट दर्शकों के मन में लिखा
+NP25 we	हम
+VP27_LWG wrote	लिखा था।
+NP29 it	यह
+PP31 with two target audiences in mind	दो टारगेट दर्शकों के मन में
+NP33 two target audiences in mind	दो निशाने पर दर्शकों का मन
+NP34 two target audiences	दो टारगेट दर्शकों
+NNS37 audiences	दर्शक
+PP38 in mind	ध्यान में रखें।
+NP40 mind	मन
+

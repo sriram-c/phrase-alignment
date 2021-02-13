@@ -1,0 +1,23 @@
+----
+0046	The performance of these simple machine learning algorithms depends heavily on the representation of the data they are given.	 ina sarala maSIna sIKane elgorixama kA praxarSana unheM xie gae detA ke prawiniXiwva para kAPI nirBara karawA hE .		
+45	45
+S1 The performance of these simple machine learning algorithms depends heavily on the representation of the data they are given .	ina sAXAraNa maSIna sIKane vAle elgorixama kA praxarSana una detA ke prawiniXiwva para BArI nirBara karawA hE jo unheM xiyA jAwA hE
+NP2 The performance of these simple machine learning algorithms	ina sAXAraNa maSIna sIKane ke elgorixama kA praxarSana
+NP3 The performance	praxarSana
+PP6 of these simple machine learning algorithms	ina sAXAraNa maSIna sIKane vAle elgorixama
+NP8 these simple machine learning algorithms	ye sAXAraNa maSIna sIKa rahe elgorixama
+NML11 machine learning	maSIna sIKanA
+NNS14 algorithms	elgorixama
+VP15_LWG depends heavily	BArI nirBara karawA hE
+ADVP17 heavily	BArI-Barakama
+PP19 on the representation of the data	AMkadZoM ke prawiniXiwva para
+NP21 the representation of the data	AMkadZoM kA prawiniXiwva
+NP22 the representation	prawiniXiwva
+PP25 of the data	detA kA
+NP27 the data	detA
+NNS29 data	detA
+SBAR30 they are given	unheM xiyA jAwA hE
+S31 they are given	unheM xiyA jAwA hE
+NP32 they	ve
+VP34_LWG are given	xie jAwe hEM
+

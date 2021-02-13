@@ -1,0 +1,19 @@
+----
+00480	Modern object recognition networks process rich high-resolution photographs and do not 22 CHAPTER 1.	 आधुनिक वस्तु अभिज्ञान नेटवर्क उच्च - विभेदन फोटो की प्रक्रिया करता है और 22 CHAPTER 1 नहीं करता है ।		
+479	479
+S1 Modern object recognition networks process rich high - resolution photographs and do not 22 CHAPTER 1 .	आधुनिक वस्तु मान्यता नेटवर्क उच्च-संकल्पित तस्वीरें प्रक्रिया करते हैं और 22 चैप्टर 1 नहीं करते हैं।
+NP2 Modern	आधुनिक
+VP4_LWG object	वस्तु
+S6 recognition networks process rich high - resolution photographs and do not 22 CHAPTER 1	मान्यता नेटवर्क प्रक्रिया उच्च - संकल्पित तस्वीरें और 22 अध्याय 1 नहीं
+NP7 recognition networks	मान्यता नेटवर्क
+NNS9 networks	नेटवर्क
+VP10_LWG process do	प्रक्रिया करते हैं।
+NP13 rich high - resolution photographs	अमीर उच्च-रिजोल्यूशन तस्वीरें
+NML15 high - resolution	उच्च - संकल्प
+NNS19 photographs	तस्वीरें
+CC20 and	और
+VP11 process rich high - resolution photographs	प्रक्रिया उच्च-रिजोल्यूशन तस्वीरें
+VP21 do not 22 CHAPTER 1	22 चैप्टर 1 न करें
+NP23 not 22 CHAPTER	22 चैप्टर नहीं
+NP27 1	1
+

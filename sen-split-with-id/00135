@@ -1,0 +1,30 @@
+----
+135
+S1 cording_1 to_2 this_3 view_4 of_5 deep_6 learning_7 ,_8 not_9 all_10 the_11 information_12 in_13 a_14 layer_15 ’s_16 activations_17 necessarily_18 encodes_19 factors_20 of_21 variation_22 that_23 explain_24 the_25 input_26 ._27
+S2 cording_1 to_2 this_3 view_4 of_5 deep_6 learning_7
+VP3_LWG cording_1
+PP5 to_2 this_3 view_4 of_5 deep_6 learning_7
+NP7 this_3 view_4 of_5 deep_6 learning_7
+NP8 this_3 view_4
+PP11 of_5 deep_6 learning_7
+NP13 deep_6 learning_7
+,16 ,_8
+NP17 not_9 all_10 the_11 information_12 in_13 a_14 layer_15 ’s_16 activations_17
+NP18 not_9 all_10 the_11 information_12
+PP23 in_13 a_14 layer_15 ’s_16 activations_17
+NP25 a_14 layer_15 ’s_16 activations_17
+NML27 layer_15 ’s_16
+NNS30 activations_17
+ADVP31 necessarily_18
+VP33_LWG encodes_19
+NP35 factors_20 of_21 variation_22 that_23 explain_24 the_25 input_26
+NP36 factors_20
+NNS37 factors_20
+PP38 of_21 variation_22 that_23 explain_24 the_25 input_26
+NP40 variation_22 that_23 explain_24 the_25 input_26
+NP41 variation_22
+SBAR43 that_23 explain_24 the_25 input_26
+WHNP44 that_23
+S46 explain_24 the_25 input_26
+VP47_LWG explain_24
+NP49 the_25 input_26

@@ -1,0 +1,18 @@
+----
+00111	Another perspective on deep learning is that depth enables the computer to learn a multistep computer program.	 गहरे सीखने पर एक और परिप्रेक्ष्य है कि गहराई कंप्यूटर को एक मल्टीस्टेप कंप्यूटर प्रोग्राम सीखने में सक्षम बनाता है .		
+110	110
+S1 Another perspective on deep learning is that depth enables the computer to learn a multistep computer program .	गहरी सीख पर एक और परिप्रेक्ष्य यह है कि गहराई कंप्यूटर को बहुआयामी कंप्यूटर प्रोग्राम सीखने में सक्षम बनाती है।
+NP2 Another perspective on deep learning	गहरी सीख पर एक और नजरिया
+NP3 Another perspective	एक और परिप्रेक्ष्य
+PP6 on deep learning	गहरी सीख पर
+NP8 deep learning	गहरी सीख
+VP11_LWG is	है।
+SBAR13 that depth enables the computer to learn a multistep computer program	यह गहराई कंप्यूटर को बहुआयामी कंप्यूटर प्रोग्राम सीखने में सक्षम बनाती है
+S15 depth enables the computer to learn a multistep computer program	कंप्यूटर को बहुआयामी कंप्यूटर प्रोग्राम सीखने में सक्षम बनाता है गहराई
+NP16 depth	गहराई
+VP18_LWG enables	सक्षम
+NP20 the computer	कंप्यूटर
+S23 to learn a multistep computer program	मल्टीस्ट्रेप कंप्यूटर प्रोग्राम सीखने के लिए
+VP24_LWG to learn	सीखने के लिए।
+NP28 a multistep computer program	एक बहुआयामी कंप्यूटर प्रोग्राम
+

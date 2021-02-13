@@ -1,0 +1,36 @@
+----
+00272	It appeals to a more general principle of learning multiple levels of composition, which can be applied in machine learning frameworks that are not necessarily neurally inspired.	 yaha saMyojana ke kaI swaroM ko sIKane ke eka aXika sAmAnya sixXAMwa ke lie apIla karawA hE , jo maSIna sIKane ke DAMce meM lAgU kiyA jA sakawA hE jo AvaSyaka rUpa se waMwrikA preriwa nahIM hEM .		
+271	271
+S1 It appeals to a more general principle of learning multiple levels of composition , which can be applied in machine learning frameworks that are not necessarily neurally inspired .	yaha racanA ke kaI swaroM ko sIKane ke eka aXika sAmAnya sixXAMwa kI apIla karawA hE, jise maSIna sIKane ke DAMce meM lAgU kiyA jA sakawA hE jo jarUrI nahIM hE
+NP2 It	yaha
+VP4_LWG appeals	apIla
+PP6 to a more general principle of learning multiple levels of composition , which can be applied in machine learning frameworks that are not necessarily neurally inspired	racanA ke kaI swaroM ko sIKane ke aXika sAmAnya sixXAMwa ke lie, jise maSIna sIKane ke DAMce meM lAgU kiyA jA sakawA hE jo jarUrI rUpa se preriwa nahIM howe
+NP8 a more general principle of learning multiple levels of composition , which can be applied in machine learning frameworks that are not necessarily neurally inspired	racanA ke kaI swara sIKane kA eka Ora sAmAnya sixXAMwa, jise maSIna sIKane ke DAMce meM lAgU kiyA jA sakawA hE jo jarUrI rUpa se preriwa nahIM howe
+NP9 a more general principle	eka Ora sAmAnya sixXAMwa
+ADJP11 more general	aXika sAmAnya
+PP15 of learning multiple levels of composition , which can be applied in machine learning frameworks that are not necessarily neurally inspired	racanA ke kaI swara sIKane ke, jise maSIna sIKane ke DAMce meM lagAyA jA sakawA hE jinheM jarUrI rUpa se preriwa nahIM kiyA jAwA
+S17 learning multiple levels of composition , which can be applied in machine learning frameworks that are not necessarily neurally inspired	racanA ke kaI swara sIKanA, jise maSIna sIKane ke DAMce meM lagAyA jA sakawA hE jo jarUrI nahIM honA jarUrI hE
+VP18_LWG learning	sIKanA
+NP20 multiple levels of composition , which can be applied in machine learning frameworks that are not necessarily neurally inspired	racanA ke kaI swara, jise maSIna sIKane ke DAMce meM lAgU kiyA jA sakawA hE jo jarUrI nahIM hE nyUrolI preriwa
+NP21 multiple levels of composition	racanA ke kaI swara
+NP22 multiple levels	kaI swara
+NNS24 levels	swara
+PP25 of composition	racanA kA
+NP27 composition	racanA
+,29 ,	,
+SBAR30 which can be applied in machine learning frameworks that are not necessarily neurally inspired	jise maSIna sIKane ke DAMce meM lagAyA jA sakawA hE jinheM jarUrI nahIM honA jarUrI hE
+WHNP31 which	jo ki
+S33 can be applied in machine learning frameworks that are not necessarily neurally inspired	maSIna sIKane ke DAMce meM lagAyA jA sakawA hE jo jarUrI nahIM hE nyUrolI preriwa
+VP34_LWG can be applied	lagAyA jA sakawA hE Avexana
+PP40 in machine learning frameworks that are not necessarily neurally inspired	maSIna sIKane ke DAMce meM jo jarUrI nahIM howe anivArya rUpa se preriwa
+NP42 machine learning frameworks that are not necessarily neurally inspired	maSIna sIKane ke DAMce jo jarUrI nahIM howe anivArya rUpa se preriwa
+NP43 machine learning frameworks	maSIna sIKane ke DAMce
+NML44 machine learning	maSIna sIKanA
+NNS47 frameworks	DAMce
+SBAR48 that are not necessarily neurally inspired	yaha jarUrI nahIM ki anivArya rUpa se preriwa hoM
+WHNP49 that	vaha
+S51 are not necessarily neurally inspired	jarUrI nahIM hE anivArya rUpa se preriwa
+VP52_LWG are not necessarily	jarUrI nahIM
+ADVP55 necessarily	jarUrI
+ADJP57 neurally inspired	anAvaSyaka rUpa se preriwa
+

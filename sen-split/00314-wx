@@ -1,0 +1,32 @@
+----
+00315	Today, these application communities are still separate, but it is common for deep learning research groups to study many or even all these application areas simultaneously.	 Aja , ina anuprayoga samuxAyoM aBI BI alaga hEM , lekina gahare sIKane anusaMXAna samUhoM ke lie eka sAWa kaI yA yahAM waka ki ina saBI anuprayoga kRewroM kA aXyayana karanA Ama bAwa hE .		
+314	314
+S1 Today , these application communities are still separate , but it is common for deep learning research groups to study many or even all these application areas simultaneously .	Aja yaha Avexana samuxAya aBI BI alaga hEM, lekina gahana sIKa anusaMXAna samUhoM ke lie ina saBI Avexana kRewroM kA eka sAWa aXyayana karanA Ama bAwa hE
+S2 Today , these application communities are still separate	Aja aba BI alaga hEM ye Avexana samuxAya
+NP-TMP3 Today	Aja
+,5 ,	,
+NP6 these application communities	ye Avexana samuxAya
+NNS9 communities	samuxAyoM
+VP10_LWG are still	aBI BI hEM
+ADVP12 still	aBI BI
+ADJP14 separate	alaga
+,16 ,	,
+CC17 but	lekina
+S18 it is common for deep learning research groups to study many or even all these application areas simultaneously	gahana sIKa anusaMXAna samUhoM ke lie yaha eka sAWa kaI yA ina saBI Avexana kRewroM kA aXyayana karanA Ama hE
+NP19 it	yaha
+VP21_LWG is	hE
+ADJP23 common for deep learning research groups	gahana sIKa anusaMXAna samUhoM ke lie Ama
+PP25 for deep learning research groups	gahana sIKa anusaMXAna samUhoM ke lie
+NP27 deep learning research groups	gahana sIKa anusaMXAna samUha
+NML29 learning research	sIKanA SoXa
+NNS32 groups	samUha
+S33 to study many or even all these application areas simultaneously	kaI yA yahAM waka ki ina saBI Avexana kRewroM kA eka sAWa aXyayana karane ke lie
+VP34_LWG to study simultaneously	eka sAWa paDZAI karane ke lie
+NP38 many or even all these application areas	kaI yA yahAM waka ki ye saBI Avexana kRewra
+UCP39 many or even all these application	kaI yA yahAM waka ki ye saBI Avexana
+ADJP40 many	kaI
+CC42 or	yA
+NP43 even all these application	yahAM waka ki ye saBI Avexana
+NNS48 areas	ilAke
+ADVP49 simultaneously	eka sAWa
+

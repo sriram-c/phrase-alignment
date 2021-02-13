@@ -1,0 +1,18 @@
+----
+00341	During the early 1980s, most cognitive scientists studied models of symbolic reasoning.	 1980 के दशक के प्रारंभ में , अधिकांश संज्ञानात्मक वैज्ञानिकों ने प्रतीकात्मक तर्क के मॉडलों का अध्ययन किया .		
+340	340
+S1 During the early 1980s , most cognitive scientists studied models of symbolic reasoning .	1980 के दशक के दौरान, अधिकांश संज्ञानात्मक वैज्ञानिकों ने सांकेतिक तर्क के मॉडल का अध्ययन किया।
+PP2 During the early 1980s	1980 के दशक के दौरान
+NP4 the early 1980s	1980 के दशक की शुरुआत में
+NNS7 1980s	1980 के दशक में
+,8 ,	,
+NP9 most cognitive scientists	सबसे संज्ञानात्मक वैज्ञानिक
+ADJP10 most cognitive	सबसे संज्ञानात्मक
+NNS13 scientists	वैज्ञानिकों
+VP14_LWG studied	पढ़ा-लिखा
+NP16 models of symbolic reasoning	प्रतीकात्मक तर्क के मॉडल
+NP17 models	मॉडल
+NNS18 models	मॉडल
+PP19 of symbolic reasoning	प्रतीकात्मक तर्क का
+NP21 symbolic reasoning	प्रतीकात्मक तर्क
+

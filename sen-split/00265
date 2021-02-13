@@ -1,0 +1,40 @@
+----
+00266	While the kinds of neural networks used for machine learning have sometimes been used to understand brain function (Hinton and Shallice, 1991), they are generally not designed to be realistic models of biological function.	 जबकि मशीनी शिक्षण के लिए प्रयुक्त तंत्रिका नेटवर्कों के प्रकारों का उपयोग कभी - कभी मस्तिष्क के कार्य को समझने के लिए किया गया है ( हैनटन और शैलिस , 1991 ) , वे आम तौर पर जैविक कार्य के वास्तविक मॉडल नहीं बनने के लिए डिज़ाइन किए गए हैं .		
+265	265
+S1 While the kinds of neural networks used for machine learning have sometimes been used to understand brain function ( Hinton and Shallice , 1991 ) , they are generally not designed to be realistic models of biological function .	जबकि मशीन सीखने के लिए इस्तेमाल होने वाले तंत्रिका नेटवर्क कभी-कभी ब्रेन फंक्शन (हिंटन और शाल्सी, 1991) को समझने के लिए
+SBAR2 While the kinds of neural networks used for machine learning have sometimes been used to understand brain function ( Hinton and Shallice , 1991 )	जबकि मशीन सीखने के लिए इस्तेमाल होने वाले तंत्रिका नेटवर्क कभी-कभी ब्रेन फंक्शन (हिंटन और शाल्सी, 1991) को समझने के लिए
+S4 the kinds of neural networks used for machine learning have sometimes been used to understand brain function ( Hinton and Shallice , 1991 )	मशीन सीखने के लिए इस्तेमाल होने वाले तंत्रिका नेटवर्क कभी-कभी ब्रेन फंक्शन (हिंटन और शाल्सी, 1991) को समझने के लिए इस्तेमाल
+NP5 the kinds of neural networks used for machine learning	मशीन सीखने के लिए इस्तेमाल किए गए तंत्रिका नेटवर्क
+NP6 the kinds	तरह-तरह की तरह
+NNS8 kinds	तरह-तरह की तरह
+PP9 of neural networks used for machine learning	मशीन सीखने के लिए इस्तेमाल किए गए तंत्रिका नेटवर्क के
+NP11 neural networks used for machine learning	मशीन सीखने के लिए इस्तेमाल हुआ तंत्रिका नेटवर्क
+NP12 neural networks	तंत्रिका नेटवर्क
+NNS14 networks	नेटवर्क
+VP15_LWG used	इस्तेमाल
+PP17 for machine learning	मशीन सीखने के लिए
+NP19 machine learning	मशीन सीखना
+VP22_LWG have sometimes been used	कभी कभी इस्तेमाल होता रहा है
+ADVP24 sometimes	कभी-कभी
+S30 to understand brain function	ब्रेन फंक्शन को समझने के लिए
+VP31_LWG to understand	समझने के लिए।
+NP35 brain function	ब्रेन फंक्शन
+PRN38 ( Hinton and Shallice , 1991 )	(हिंटन और शाल्सी, 1991)
+NP40 Hinton and Shallice	हिंटन और शाल्सी
+CC42 and	और
+NNP41 Hinton	हिंटन
+NNP43 Shallice	शैलीचे
+,44 ,	,
+NP45 1991	1991
+,48 ,	,
+NP49 they	वे
+VP51_LWG are generally not designed	आम तौर पर डिजाइन नहीं होते
+ADVP53 generally	आम तौर पर
+S58 to be realistic models of biological function	जैविक समारोह के यथार्थवादी मॉडल बनने के लिए
+VP59_LWG to be	होना चाहिए।
+NP63 realistic models of biological function	जैविक समारोह के यथार्थवादी मॉडल
+NP64 realistic models	यथार्थवादी मॉडल
+NNS66 models	मॉडल
+PP67 of biological function	जैविक समारोह का
+NP69 biological function	जैविक समारोह
+

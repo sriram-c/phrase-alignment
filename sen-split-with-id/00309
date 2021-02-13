@@ -1,0 +1,36 @@
+----
+309
+S1 Because_1 we_2 are_3 not_4 able_5 to_6 do_7 this_8 ,_9 we_10 are_11 far_12 from_13 understanding_14 even_15 some_16 of_17 the_18 most_19 simple_20 and_21 well_22 -_23 studied_24 parts_25 of_26 the_27 brain_28 (_29 Olshausen_30 and_31 Field_32 ,_33 2005_34 )_35 ._36
+SBAR2 Because_1 we_2 are_3 not_4 able_5 to_6 do_7 this_8
+S4 we_2 are_3 not_4 able_5 to_6 do_7 this_8
+NP5 we_2
+VP7_LWG are_3 not_4
+ADJP10 able_5 to_6 do_7 this_8
+S12 to_6 do_7 this_8
+VP13_LWG to_6 do_7
+NP17 this_8
+,19 ,_9
+NP20 we_10
+VP22_LWG are_11 far_12
+ADVP24 far_12 from_13 understanding_14 even_15
+PP26 from_13 understanding_14 even_15
+NP28 understanding_14 even_15
+NP31 some_16 of_17 the_18 most_19 simple_20 and_21 well_22 -_23 studied_24 parts_25 of_26 the_27 brain_28
+NP32 some_16
+PP34 of_17 the_18 most_19 simple_20 and_21 well_22 -_23 studied_24 parts_25 of_26 the_27 brain_28
+NP36 the_18 most_19 simple_20 and_21 well_22 -_23 studied_24 parts_25 of_26 the_27 brain_28
+NP37 the_18 most_19 simple_20 and_21 well_22 -_23 studied_24 parts_25
+ADJP39 most_19 simple_20 and_21 well_22 -_23 studied_24
+ADJP40 most_19 simple_20
+CC43 and_43
+ADJP44 well_22 -_23 studied_24
+NNS48 parts_25
+PP49 of_26 the_27 brain_28
+NP51 the_27 brain_28
+PRN54 (_29 Olshausen_30 and_31 Field_32 ,_33 2005_34 )_35
+NP56 Olshausen_30 and_31 Field_32
+CC58 and_58
+NNP57 Olshausen_30
+NNP59 Field_32
+,60 ,_33
+NP61 2005_34

@@ -1,0 +1,18 @@
+----
+198
+FRAG1 Hand_1 -_2 designed_3 features_4 Mapping_5 from_6 features_7 Output_8 Input_9 Features_10 Mapping_11 from_12 features_13 Output_14 Input_15
+NP2 Hand_1
+VP5_LWG designed_3
+NP7 features_4 Mapping_5 from_6 features_7 Output_8 Input_9 Features_10 Mapping_11 from_12 features_13 Output_14 Input_15
+NML8 features_4 Mapping_5 from_6 features_7
+NML9 features_4 Mapping_5
+NNS10 features_4
+PP12 from_6 features_7
+NP14 features_7
+NNS15 features_7
+NML17 Input_9 Features_10 Mapping_11 from_12 features_13
+NML18 Input_9 Features_10 Mapping_11
+NML19 Input_9 Features_10
+PP23 from_12 features_13
+NP25 features_13
+NNS26 features_13

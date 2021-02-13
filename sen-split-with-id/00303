@@ -1,0 +1,30 @@
+----
+303
+S1 Critics_1 who_2 observed_3 these_4 ﬂaws_5 in_6 linear_7 models_8 caused_9 a_10 backlash_11 against_12 biologically_13 inspired_14 learning_15 in_16 general_17 (_18 Minsky_19 and_20 Papert_21 ,_22 1969_23 )_24 ._25
+NP2 Critics_1 who_2 observed_3 these_4 ﬂaws_5 in_6 linear_7 models_8
+NP3 Critics_1
+NNS4 Critics_1
+SBAR5 who_2 observed_3 these_4 ﬂaws_5 in_6 linear_7 models_8
+WHNP6 who_2
+S8 observed_3 these_4 ﬂaws_5 in_6 linear_7 models_8
+VP9_LWG observed_3
+NP11 these_4 ﬂaws_5
+NNS13 ﬂaws_5
+PP14 in_6 linear_7 models_8
+NP16 linear_7 models_8
+NNS18 models_8
+VP19_LWG caused_9
+NP21 a_10 backlash_11 against_12 biologically_13 inspired_14 learning_15
+NP22 a_10 backlash_11
+PP25 against_12 biologically_13 inspired_14 learning_15
+NP27 biologically_13 inspired_14 learning_15
+ADJP28 biologically_13 inspired_14
+PP32 in_16 general_17
+NP34 general_17
+PRN36 (_18 Minsky_19 and_20 Papert_21 ,_22 1969_23 )_24
+NP38 Minsky_19 and_20 Papert_21
+CC40 and_40
+NNP39 Minsky_19
+NNP41 Papert_21
+,42 ,_22
+NP43 1969_23

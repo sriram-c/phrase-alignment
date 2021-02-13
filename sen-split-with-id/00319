@@ -1,0 +1,21 @@
+----
+319
+S1 The_1 original_2 cognitron_3 (_4 Fukushima_5 ,_6 1975_7 )_8 introduced_9 a_10 more_11 complicated_12 version_13 that_14 was_15 highly_16 inspired_17 by_18 our_19 knowledge_20 of_21 brain_22 function_23 ._24
+NP2 The_1 original_2 cognitron_3 (_4 Fukushima_5 ,_6 1975_7 )_8
+PRN6 (_4 Fukushima_5 ,_6 1975_7 )_8
+NP8 Fukushima_5 ,_6 1975_7
+,10 ,_6
+VP13_LWG introduced_9
+NP15 a_10 more_11 complicated_12 version_13 that_14 was_15 highly_16 inspired_17 by_18 our_19 knowledge_20 of_21 brain_22 function_23
+NP16 a_10 more_11 complicated_12 version_13
+ADJP18 more_11 complicated_12
+SBAR22 that_14 was_15 highly_16 inspired_17 by_18 our_19 knowledge_20 of_21 brain_22 function_23
+WHNP23 that_14
+S25 was_15 highly_16 inspired_17 by_18 our_19 knowledge_20 of_21 brain_22 function_23
+VP26_LWG was_15 highly_16 inspired_17
+ADVP28 highly_16
+PP32 by_18 our_19 knowledge_20 of_21 brain_22 function_23
+NP34 our_19 knowledge_20 of_21 brain_22 function_23
+NP35 our_19 knowledge_20
+PP38 of_21 brain_22 function_23
+NP40 brain_22 function_23

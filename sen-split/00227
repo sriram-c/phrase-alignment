@@ -1,0 +1,23 @@
+----
+00228	An arrow from one chapter to another indicates that the former chapter is prerequisite material for understanding the latter.	 एक अध्याय से दूसरे अध्याय तक का तीर इस बात का संकेत देता है कि पूर्व अध्याय उत्तरार्द्ध को समझने के लिए आवश्यक सामग्री है ।		
+227	227
+S1 An arrow from one chapter to another indicates that the former chapter is prerequisite material for understanding the latter .	एक अध्याय से दूसरे अध्याय तक एक तीर संकेत देता है कि पूर्व अध्याय पश्चात को समझने के लिए आवश्यक सामग्री है।
+NP2 An arrow from one chapter to another	एक अध्याय से दूसरे अध्याय तक एक तीर
+NP3 An arrow	एक तीर
+PP6 from one chapter to another	एक अध्याय से दूसरे अध्याय
+NP8 one chapter to another	एक अध्याय दूसरे को
+NP9 one chapter	एक अध्याय
+PP12 to another	दूसरे को
+NP14 another	एक और
+VP16_LWG indicates	इंगित करता है
+SBAR18 that the former chapter is prerequisite material for understanding the latter	पूर्व अध्याय बाद में समझने के लिए अनिवार्य सामग्री है
+S20 the former chapter is prerequisite material for understanding the latter	पूर्व अध्याय बाद में समझने के लिए अनिवार्य सामग्री है
+NP21 the former chapter	पूर्व अध्याय
+VP25_LWG is	है।
+NP27 prerequisite material for understanding the latter	बाद में समझने के लिए आवश्यक सामग्री
+NP28 prerequisite material	आवश्यक सामग्री
+PP31 for understanding the latter	बाद में समझने के लिए
+S33 understanding the latter	बाद में समझना
+VP34_LWG understanding	समझ
+NP36 the latter	बाद में
+

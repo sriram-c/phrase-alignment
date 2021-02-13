@@ -1,0 +1,12 @@
+----
+00489	Perceptron (Rosenblatt, 1958, 1962) 2.	 parseptoYna (Rosenblatt , 1958 , 1962 ) 2		
+488	488
+NP1 Perceptron ( Rosenblatt , 1958 , 1962 ) 2 .	paraseptaroYna (rosenableta, 1958, 1962) 2
+NP2 Perceptron ( Rosenblatt , 1958 , 1962 )	paraseptaroYna (rosenableta, 1958, 1962)
+PRN4 ( Rosenblatt , 1958 , 1962 )	(rosenableta, 1958, 1962)
+NP6 Rosenblatt	rosenableta
+,8 ,	,
+NP9 1958 , 1962	1958, 1962
+,11 ,	,
+NP14 2	2
+

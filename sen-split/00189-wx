@@ -1,0 +1,45 @@
+----
+00190	Deep learning has already proved useful in many soft- ware disciplines, including computer vision, speech and audio processing, natural language processing, robotics, bioinformatics and chemistry, video games, search engines, online advertising and nance.	 dIpa larniMga pahale se hI kaI soYPta veyara viXAoM meM upayogI sAbiwa huI hE , jisameM kaMpyUtara vijana , BARaNa Ora oYdiyo prosesiMga , prAkqwika BARA saMsAXana , robotiksa , jEva sUcanA vijFAna Ora rasAyana vijFAna , vIdiyo gema , Koja iMjana , oYnalAina vijFApana Ora viwwa SAmila hEM .		
+189	189
+S1 Deep learning has already proved useful in many soft - ware disciplines , including computer vision , speech and audio processing , natural language processing , robotics , bioinformatics and chemistry , video games , search engines , online advertising and nance .	gaharI sIKa pahale se hI kaI narama - veyara anuSAsanoM meM upayogI sAbiwa huI hE, jisameM kaMpyUtara vijana, BARaNa Ora oYdiyo prosesiMga, prAkqwika
+NP2 Deep learning	gaharI sIKa
+VP5_LWG has already proved	pahale hI sAbiwa ho cukA hE
+ADVP7 already	pahale se hI
+S11 useful	upayogI
+ADJP12 useful	upayogI
+PP14 in many soft - ware disciplines	kaI narama - jAgarUka anuSAsanoM meM
+NP16 many soft - ware disciplines	kaI narama - jAgarUka anuSAsana
+NML18 soft - ware	narama - veyara
+NNS22 disciplines	anuSAsana
+,23 ,	,
+PP24 including computer vision , speech and audio processing , natural language processing , robotics , bioinformatics and chemistry , video games , search engines , online advertising and nance	jisameM kaMpyUtara vijana, BARaNa Ora oYdiyo prosesiMga, prAkqwika BARA prasaMskaraNa, robotiksa, bAyoteknomika Ora kemistrI, vIdiyo gema, sarca iM
+NP26 computer vision , speech and audio processing , natural language processing , robotics , bioinformatics and chemistry , video games , search engines , online advertising and nance	kaMpyUtara xqRti, BARaNa Ora oYdiyo prosesiMga, prAkqwika BARA prasaMskaraNa, robotiksa, bAyo iMtaranetiksa Ora kemistrI, vIdiyo gema, sarca iMjana,
+NP27 computer vision	kaMpyUtara kI xqRti
+,30 ,	,
+NP31 speech and audio processing	BARaNa Ora oYdiyo prasaMskaraNa
+NML32 speech and audio	BARaNa Ora oYdiyo
+CC34 and	Ora
+NN33 speech	BARaNa
+NN35 audio	oYdiyo
+,37 ,	,
+NP38 natural language processing	prAkqwika BARA prasaMskaraNa
+NML39 natural language	prAkqwika BARA
+,43 ,	,
+NP44 robotics	robotiksa
+NNS45 robotics	robotiksa
+,46 ,	,
+NP47 bioinformatics and chemistry	bAyo iMtaranetiksa Ora kemistrI
+CC49 and	Ora
+NN48 bioinformatics	bAyo iMtaraPaMkSanika
+NN50 chemistry	rasAyana vijFAna
+,51 ,	,
+NP52 video games	vIdiyo gema
+NNS54 games	Kela
+,55 ,	,
+NP56 search engines	Koja iMjana
+NNS58 engines	iMjana
+,59 ,	,
+NP60 online advertising	oYnalAina vijFApana
+CC63 and	Ora
+NP64 nance	viwwa
+

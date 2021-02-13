@@ -1,0 +1,25 @@
+----
+00165	After detecting that a face is present, the system can then infer that a second eye is probably present as well.	 yaha pawA lagAne ke bAxa ki eka ceharA mOjUxa hE , sistama waba anumAna lagA sakawA hE ki eka xUsarI AMKa SAyaxa BI mOjUxa hE .		
+164	164
+S1 After detecting that a face is present , the system can then infer that a second eye is probably present as well .	eka ceharA mOjUxa hE, isakA pawA lagAne ke bAxa sistama waba anumAna lagA sakawA hE ki xUsarI AMKa SAyaxa mOjUxa hE
+PP2 After detecting that a face is present	yaha pawA lagAne ke bAxa ki ceharA mOjUxa hE
+S4 detecting that a face is present	yaha pawA lagAwe hue ki ceharA mOjUxa hE
+VP5_LWG detecting	kA pawA lagAnA
+SBAR7 that a face is present	ki eka ceharA mOjUxa
+S9 a face is present	eka ceharA mOjUxa
+NP10 a face	eka ceharA
+VP13_LWG is	hE
+ADJP15 present	mOjUxa
+,17 ,	,
+NP18 the system	sistama
+VP21_LWG can then infer	Pira anumAna lagA sakawe hEM
+ADVP23 then	Pira
+SBAR27 that a second eye is probably present as well	ki xUsarI AMKa SAyaxa mOjUxa hE
+S29 a second eye is probably present as well	eka xUsarI AMKa SAyaxa mOjUxa hE
+NP30 a second eye	eka xUsarI AMKa
+VP34_LWG is probably	SAyaxa hE
+ADVP36 probably	SAyaxa
+ADJP38 present as well	sAWa hI mOjUxa
+PP40 as well	sAWa hI
+ADVP42 well	acCI waraha se
+

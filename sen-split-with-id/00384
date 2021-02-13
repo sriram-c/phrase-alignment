@@ -1,0 +1,48 @@
+----
+384
+S1 The_1 third_2 wave_3 began_4 with_5 a_6 focus_7 on_8 new_9 unsupervised_10 learning_11 techniques_12 and_13 the_14 ability_15 of_16 deep_17 models_18 to_19 generalize_20 well_21 from_22 small_23 datasets_24 ,_25 but_26 today_27 there_28 is_29 more_30 interest_31 in_32 much_33 older_34 supervised_35 learning_36 algorithms_37 and_38 the_39 ability_40 of_41 deep_42 models_43 to_44 leverage_45 large_46 labeled_47 datasets_48 ._49
+S2 The_1 third_2 wave_3 began_4 with_5 a_6 focus_7 on_8 new_9 unsupervised_10 learning_11 techniques_12 and_13 the_14 ability_15 of_16 deep_17 models_18 to_19 generalize_20 well_21 from_22 small_23 datasets_24
+NP3 The_1 third_2 wave_3
+VP7_LWG began_4
+PP9 with_5 a_6 focus_7 on_8 new_9 unsupervised_10 learning_11 techniques_12 and_13 the_14 ability_15 of_16 deep_17 models_18
+NP11 a_6 focus_7 on_8 new_9 unsupervised_10 learning_11 techniques_12 and_13 the_14 ability_15 of_16 deep_17 models_18
+NP12 a_6 focus_7 on_8 new_9 unsupervised_10 learning_11 techniques_12
+NP13 a_6 focus_7
+PP16 on_8 new_9 unsupervised_10 learning_11 techniques_12
+NP18 new_9 unsupervised_10 learning_11 techniques_12
+NNS22 techniques_12
+CC23 and_23
+NP24 the_14 ability_15 of_16 deep_17 models_18
+NP25 the_14 ability_15
+PP28 of_16 deep_17 models_18
+NP30 deep_17 models_18
+NNS32 models_18
+S33 to_19 generalize_20 well_21 from_22 small_23 datasets_24
+VP34_LWG to_19 generalize_20 well_21
+ADVP38 well_21
+PP40 from_22 small_23 datasets_24
+NP42 small_23 datasets_24
+NNS44 datasets_24
+,45 ,_25
+CC46 but_46
+S47 today_27 there_28 is_29 more_30 interest_31 in_32 much_33 older_34 supervised_35 learning_36 algorithms_37 and_38 the_39 ability_40 of_41 deep_42 models_43 to_44 leverage_45 large_46 labeled_47 datasets_48
+NP-TMP48 today_27
+NP50 there_28
+VP52_LWG is_29
+NP54 more_30 interest_31 in_32 much_33 older_34 supervised_35 learning_36 algorithms_37 and_38 the_39 ability_40 of_41 deep_42 models_43
+NP55 more_30 interest_31 in_32 much_33 older_34 supervised_35 learning_36 algorithms_37
+NP56 more_30 interest_31
+PP59 in_32 much_33 older_34 supervised_35 learning_36 algorithms_37
+NP61 much_33 older_34 supervised_35 learning_36 algorithms_37
+ADJP62 much_33 older_34
+NNS67 algorithms_37
+CC68 and_68
+NP69 the_39 ability_40 of_41 deep_42 models_43
+NP70 the_39 ability_40
+PP73 of_41 deep_42 models_43
+NP75 deep_42 models_43
+NNS77 models_43
+S78 to_44 leverage_45 large_46 labeled_47 datasets_48
+VP79_LWG to_44 leverage_45
+NP83 large_46 labeled_47 datasets_48
+NNS86 datasets_48

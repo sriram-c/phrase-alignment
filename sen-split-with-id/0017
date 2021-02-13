@@ -1,0 +1,19 @@
+----
+17
+S1 For_1 example_2 ,_3 IBM_4 ’s_5 Deep_6 Blue_7 chess_8 -_9 playing_10 system_11 defeated_12 world_13 champion_14 Garry_15 Kasparov_16 in_17 1997_18 (_19 Hsu_20 ,_21 2002_22 )_23 ._24
+PP2 For_1 example_2
+NP4 example_2
+,6 ,_3
+NP7 IBM_4 ’s_5 Deep_6 Blue_7 chess_8 -_9 playing_10 system_11
+NP8 IBM_4 ’s_5 Deep_6 Blue_7
+NP13 chess_8 -_9 playing_10 system_11
+VP18_LWG defeated_12
+NP20 world_13 champion_14 Garry_15 Kasparov_16 in_17 1997_18
+NP21 world_13 champion_14 Garry_15 Kasparov_16
+NML22 world_13 champion_14
+PP27 in_17 1997_18
+NP29 1997_18
+PRN31 (_19 Hsu_20 ,_21 2002_22 )_23
+NP33 Hsu_20
+,35 ,_21
+NP36 2002_22

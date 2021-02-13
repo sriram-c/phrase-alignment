@@ -1,0 +1,25 @@
+----
+00202	Readers should feel free to skip parts that are not relevant given their interests or background.	 पाठकों को उन हिस्सों को छोड़ने के लिए स्वतंत्र महसूस करना चाहिए जो उनके हितों या पृष्ठभूमि को ध्यान में रखते हुए प्रासंगिक नहीं हैं .		
+201	201
+S1 Readers should feel free to skip parts that are not relevant given their interests or background .	पाठकों को उन हिस्सों को छोड़ने के लिए स्वतंत्र महसूस करना चाहिए जो अपने हित या पृष्ठभूमि को दिए गए नहीं हैं।
+NP2 Readers	पाठक
+NNS3 Readers	पाठक
+VP4_LWG should feel	महसूस करना चाहिए।
+ADJP8 free to skip parts that are not relevant	भागों को छोड़ने के लिए स्वतंत्र जो प्रासंगिक नहीं हैं
+S10 to skip parts that are not relevant	ऐसे हिस्सों को छोड़ने के लिए जो प्रासंगिक नहीं हैं
+VP11_LWG to skip	छोड़ने के लिए
+NP15 parts that are not relevant	ऐसे हिस्से जो प्रासंगिक नहीं हैं
+NP16 parts	भागों
+NNS17 parts	भागों
+SBAR18 that are not relevant	वो प्रासंगिक नहीं
+WHNP19 that	वह
+S21 are not relevant	प्रासंगिक नहीं हैं
+VP22_LWG are not	नहीं हैं।
+ADJP25 relevant	प्रासंगिक
+PP27 given their interests or background	अपने हितों या पृष्ठभूमि को देखते हुए
+NP29 their interests or background	उनके हित या पृष्ठभूमि
+NP30 their interests	उनके हित
+NNS32 interests	हितों
+CC33 or	या।
+NP34 background	पृष्ठभूमि
+

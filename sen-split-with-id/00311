@@ -1,0 +1,37 @@
+----
+311
+S1 Neuroscientists_1 have_2 found_3 that_4 ferrets_5 can_6 learn_7 to_8 “_9 see_10 ”_11 with_12 the_13 auditory_14 processing_15 region_16 of_17 their_18 brain_19 if_20 their_21 brains_22 are_23 rewired_24 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31 (_32 Von_33 Melchner_34 et_35 al._36 ,_37 2000_38 )_39 ._40
+NP2 Neuroscientists_1
+NNS3 Neuroscientists_1
+VP4_LWG have_2 found_3
+SBAR8 that_4 ferrets_5 can_6 learn_7 to_8 “_9 see_10 ”_11 with_12 the_13 auditory_14 processing_15 region_16 of_17 their_18 brain_19 if_20 their_21 brains_22 are_23 rewired_24 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31
+S10 ferrets_5 can_6 learn_7 to_8 “_9 see_10 ”_11 with_12 the_13 auditory_14 processing_15 region_16 of_17 their_18 brain_19 if_20 their_21 brains_22 are_23 rewired_24 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31
+NP11 ferrets_5
+NNS12 ferrets_5
+VP13_LWG can_6 learn_7
+S17 to_8 “_9 see_10 ”_11 with_12 the_13 auditory_14 processing_15 region_16 of_17 their_18 brain_19
+VP18_LWG to_8 see_10
+PP24 with_12 the_13 auditory_14 processing_15 region_16 of_17 their_18 brain_19
+NP26 the_13 auditory_14 processing_15 region_16 of_17 their_18 brain_19
+NP27 the_13 auditory_14 processing_15 region_16
+PP32 of_17 their_18 brain_19
+NP34 their_18 brain_19
+SBAR37 if_20 their_21 brains_22 are_23 rewired_24 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31
+S39 their_21 brains_22 are_23 rewired_24 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31
+NP40 their_21 brains_22
+NNS42 brains_22
+VP43_LWG are_23
+ADJP45 rewired_24 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31
+S47 to_25 send_26 visual_27 signals_28 to_29 that_30 area_31
+VP48_LWG to_25 send_26
+NP52 visual_27 signals_28
+NNS54 signals_28
+PP55 to_29 that_30 area_31
+NP57 that_30 area_31
+PRN60 (_32 Von_33 Melchner_34 et_35 al._36 ,_37 2000_38 )_39
+NP62 Von_33 Melchner_34 et_35 al._36 ,_37 2000_38
+NP63 Von_33 Melchner_34 et_35 al._36
+NP64 Von_33 Melchner_34
+ADVP67 et_35 al._36
+,70 ,_37
+NP71 2000_38

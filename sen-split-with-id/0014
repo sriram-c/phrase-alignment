@@ -1,0 +1,19 @@
+----
+14
+S1 INTRODUCTION_1 are_2 built_3 on_4 top_5 of_6 each_7 other_8 ,_9 the_10 graph_11 is_12 deep_13 ,_14 with_15 many_16 layers_17 ._18
+S2 INTRODUCTION_1 are_2 built_3 on_4 top_5 of_6 each_7 other_8
+NP3 INTRODUCTION_1
+VP5_LWG are_2 built_3
+PP9 on_4 top_5 of_6 each_7 other_8
+NP11 top_5 of_6 each_7 other_8
+NP12 top_5
+PP14 of_6 each_7 other_8
+NP16 each_7 other_8
+,19 ,_9
+NP20 the_10 graph_11
+VP23_LWG is_12
+ADJP25 deep_13
+,27 ,_14
+PP28 with_15 many_16 layers_17
+NP30 many_16 layers_17
+NNS32 layers_17

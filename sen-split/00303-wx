@@ -1,0 +1,32 @@
+----
+00304	Critics who observed these aws in linear models caused a backlash against biologically inspired learning in general (Minsky and Papert, 1969).	 rEKika moYdaloM meM ina KAmiyoM ko xeKane vAle AlocakoM ne sAmAnya rUpa se jEvika rUpa se preriwa sIKane ke KilAPa bEkalESa kiyA ( Minsky Ora pepareta , 1969 )		
+303	303
+S1 Critics who observed these aws in linear models caused a backlash against biologically inspired learning in general ( Minsky and Papert , 1969 ) .	jina AlocakoM ne lAinara moYdala meM ina KAmiyoM kA avalokana kiyA, unase vEjFAnika rUpa se preriwa sIKa (miMskI Ora peparata, 1969) meM bEkalESa
+NP2 Critics who observed these aws in linear models	ina KAmiyoM ko lAinara moYdaloM meM xeKane vAle Alocaka
+NP3 Critics	Alocaka
+NNS4 Critics	Alocaka
+SBAR5 who observed these aws in linear models	jinhoMne lAinara moYdala meM ina KAmiyoM kA kiyA avalokana
+WHNP6 who	kOna
+S8 observed these aws in linear models	lAinara moYdala meM xeKe ye KAmiyAM
+VP9_LWG observed	kiyA gayA avalokana
+NP11 these aws	ye KAmiyAM
+NNS13 aws	KAmiyAM
+PP14 in linear models	lAinara moYdala meM
+NP16 linear models	lAinara moYdala
+NNS18 models	moYdala
+VP19_LWG caused	kAraNa
+NP21 a backlash against biologically inspired learning	jEvika rUpa se preriwa sIKa ke KilAPa bEkaleSa
+NP22 a backlash	eka bEkaleSa
+PP25 against biologically inspired learning	vEjFAnika rUpa se preriwa sIKa ke KilAPa
+NP27 biologically inspired learning	jEvika rUpa se preriwa sIKa
+ADJP28 biologically inspired	AnuvaMSika rUpa se preriwa
+PP32 in general	sAmAnya wOra para
+NP34 general	sAmAnya
+PRN36 ( Minsky and Papert , 1969 )	(miMskI Ora peparata, 1969)
+NP38 Minsky and Papert	miniskI Ora peparata
+CC40 and	Ora
+NNP39 Minsky	miniskI
+NNP41 Papert	kAgaja
+,42 ,	,
+NP43 1969	1969
+

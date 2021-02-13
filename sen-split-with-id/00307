@@ -1,0 +1,29 @@
+----
+307
+S1 The_1 main_2 reason_3 for_4 the_5 diminished_6 role_7 of_8 neuroscience_9 in_10 deep_11 learning_12 research_13 today_14 is_15 that_16 we_17 simply_18 do_19 not_20 have_21 enough_22 information_23 about_24 the_25 brain_26 to_27 use_28 it_29 as_30 a_31 guide_32 ._33
+NP2 The_1 main_2 reason_3 for_4 the_5 diminished_6 role_7 of_8 neuroscience_9 in_10 deep_11 learning_12 research_13
+NP3 The_1 main_2 reason_3
+PP7 for_4 the_5 diminished_6 role_7 of_8 neuroscience_9 in_10 deep_11 learning_12 research_13
+NP9 the_5 diminished_6 role_7 of_8 neuroscience_9 in_10 deep_11 learning_12 research_13
+NP10 the_5 diminished_6 role_7
+PP14 of_8 neuroscience_9 in_10 deep_11 learning_12 research_13
+NP16 neuroscience_9 in_10 deep_11 learning_12 research_13
+NP17 neuroscience_9
+PP19 in_10 deep_11 learning_12 research_13
+NP21 deep_11 learning_12 research_13
+NML22 deep_11 learning_12
+NP-TMP26 today_14
+VP28_LWG is_15
+SBAR30 that_16 we_17 simply_18 do_19 not_20 have_21 enough_22 information_23 about_24 the_25 brain_26 to_27 use_28 it_29 as_30 a_31 guide_32
+S32 we_17 simply_18 do_19 not_20 have_21 enough_22 information_23 about_24 the_25 brain_26 to_27 use_28 it_29 as_30 a_31 guide_32
+NP33 we_17
+ADVP35 simply_18
+VP37_LWG do_19 not_20 have_21
+NP42 enough_22 information_23
+PP45 about_24 the_25 brain_26
+NP47 the_25 brain_26
+S50 to_27 use_28 it_29 as_30 a_31 guide_32
+VP51_LWG to_27 use_28
+NP55 it_29
+PP57 as_30 a_31 guide_32
+NP59 a_31 guide_32

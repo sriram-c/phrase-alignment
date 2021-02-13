@@ -1,0 +1,24 @@
+----
+523
+S1 GoogLeNet_1 (_2 Szegedy_3 et_4 al._5 ,_6 2014a_7 )_8 have_9 a_10 requirement_11 that_12 the_13 photo_14 be_15 cropped_16 near_17 the_18 object_19 to_20 be_21 recognized_22 (_23 Krizhevsky_24 et_25 al._26 ,_27 2012_28 )_29 ._30
+NP2 GoogLeNet_1 (_2 Szegedy_3 et_4 al._5 ,_6 2014a_7 )_8
+NP3 GoogLeNet_1 (_2 Szegedy_3
+ADVP7 et_4 al._5
+PRN10 ,_6 2014a_7 )_8
+,11 ,_6
+NP12 2014a_7
+VP15_LWG have_9
+NP17 a_10 requirement_11
+SBAR20 that_12 the_13 photo_14 be_15 cropped_16 near_17 the_18 object_19 to_20 be_21 recognized_22 (_23 Krizhevsky_24 et_25 al._26 ,_27 2012_28 )_29
+S22 the_13 photo_14 be_15 cropped_16 near_17 the_18 object_19 to_20 be_21 recognized_22 (_23 Krizhevsky_24 et_25 al._26 ,_27 2012_28 )_29
+NP23 the_13 photo_14
+VP26_LWG be_15 cropped_16
+PP30 near_17 the_18 object_19
+NP32 the_18 object_19
+S35 to_20 be_21 recognized_22
+VP36_LWG to_20 be_21 recognized_22
+PRN42 (_23 Krizhevsky_24 et_25 al._26 ,_27 2012_28 )_29
+ADVP44 Krizhevsky_24 et_25 al._26
+ADVP45 Krizhevsky_24
+,49 ,_27
+NP50 2012_28

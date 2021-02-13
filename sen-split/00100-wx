@@ -1,0 +1,30 @@
+----
+00101	Many of these factors of variation, such as a speakers accent, can be identied only using sophisticated, nearly human-level understanding of the data.	 inameM se bahuwa se kAraka , jEse ki vakwA ke lahaje , kI pahacAna kevala pariRkqwa , lagaBaga mAnava - swara kI detA kI samaJa kA upayoga karake kI jA sakawI hE .		
+100	100
+S1 Many of these factors of variation , such as a speaker s accent , can be identied only using sophisticated , nearly human - level understanding of the data .	viviXawA ke inameM se kaI kAraka, jEse ki eka spIkara kA uccAraNa, kevala pariRkqwa rUpa se upayoga karake pahacAna kI jA sakawI hE, lagaBaga mAnava - detA
+NP2 Many of these factors of variation , such as a speaker s accent ,	viviXawA ke inameM se kaI kAraka, jEse ki eka spIkara kA uccAraNa,
+NP3 Many	kaI
+PP5 of these factors of variation	viviXawA ke ina kAraka
+NP7 these factors of variation	viviXawA ke ye kAraka
+NP8 these factors	ye kAraka
+NNS10 factors	kAraKAne
+PP11 of variation	viviXawA kA
+NP13 variation	viviXawA
+,15 ,	,
+PP16 such as a speaker s accent	jEse ki eka spIkara kA lahajA
+NP19 a speaker s accent	eka spIkara kA lahajA
+NML21 speaker s	spIkara kI
+,25 ,	,
+VP26_LWG can be identied	pahacAna kI jA sakawI hE
+S32 only using sophisticated , nearly human - level understanding of the data	kevala pariRkqwa, lagaBaga mAnava - detA kI swarIya samaJa
+ADVP33 only	kevala
+VP35_LWG using	iswemAla karanA
+UCP37 sophisticated , nearly human - level understanding	pariRkqwa, lagaBaga mAnava-swarIya samaJa
+ADJP38 sophisticated	pariRkqwa
+,40 ,	,
+NP41 nearly human - level understanding	lagaBaga mAnava-swarIya samaJa
+NML43 human - level	mAnava-swara
+PP48 of the data	detA kA
+NP50 the data	detA
+NNS52 data	detA
+

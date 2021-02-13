@@ -1,0 +1,24 @@
+----
+00264	As a result, one of the names that deep learning has gone by is artiﬁcial neural networks (ANNs).	 एक परिणाम के रूप में , एक नाम है कि गहरी सीखने के द्वारा चला गया है कृत्रिम तंत्रिका नेटवर्क ( एएनएनएस )		
+263	263
+S1 As a result , one of the names that deep learning has gone by is artiﬁcial neural networks ( ANNs ) .	परिणामस्वरूप जिन नामों से गहरी सीख गई है उनमें से एक कृत्रिम तंत्रिका नेटवर्क (एएनएन) है।
+PP2 As a result	फलस्वरूप
+NP4 a result	एक परिणाम
+,7 ,	,
+NP8 one of the names that deep learning has gone by	जिन नामों से गहरी सीख चली गई है उनमें से एक
+NP9 one	एक
+PP11 of the names that deep learning has gone by	जिन नामों की गहरी सीख चली गई है उनका
+NP13 the names that deep learning has gone by	जिन नामों से गहरी सीख चली गई है वो
+NP14 the names	नाम
+NNS16 names	नाम
+SBAR17 that deep learning has gone by	कि गहरी सीख चली गई है।
+S19 deep learning has gone by	गहरी सीख चली गई है
+NP20 deep learning	गहरी सीख
+VP23_LWG has gone	चला गया है।
+PP27 by	द्वारा
+VP29_LWG is	है।
+NP31 artiﬁcial neural networks ( ANNs )	कृत्रिम तंत्रिका नेटवर्क (एएनएन)
+NP32 artiﬁcial neural networks	कृत्रिम तंत्रिका नेटवर्क
+NNS35 networks	नेटवर्क
+NP37 ANNs	एएनएन
+

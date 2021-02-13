@@ -1,0 +1,37 @@
+----
+00127	Given the rst hidden layers description of the edges, the second hidden layer can easily search for corners and extended contours, which are recognizable as collections of edges.	 kinAroM ke pahale CipA parawa ke varNana ko xeKawe hue , xUsarI CipA parawa AsAnI se konoM Ora viswAriwa contours ke lie Koja kara sakawe hEM , jo kinAroM ke saMgraha ke rUpa meM pahacAnane yogya hEM .		
+126	126
+S1 Given the rst hidden layer s description of the edges , the second hidden layer can easily search for corners and extended contours , which are recognizable as collections of edges .	pahalI CipI huI parawa ke kinAroM kA vivaraNa xeKawe hue xUsarI CipI huI parawa AsAnI se konoM Ora viswAriwa kroYuMda kI walASa kara sakawI hE, jo kinAroM
+PP2 Given the rst hidden layer s description of the edges	pahalI CipI huI parawa ke kinAroM kA vivaraNa xeKawe hue
+NP4 the rst hidden layer s description of the edges	pahalI CipI huI parawa kA kinAroM kA vivaraNa
+NP5 the rst hidden layer s description	pahalI CipI huI parawa kA vivaraNa
+NML8 hidden layer	CipI huI parawa
+PP13 of the edges	kinAroM kI
+NP15 the edges	kinAroM
+NNS17 edges	kinAroM
+,18 ,	,
+NP19 the second hidden layer	xUsarI CipI huI parawa
+VP24_LWG can easily search	AsAnI se Koja sakawe hEM
+ADVP26 easily	AsAnI se
+PP30 for corners and extended contours , which are recognizable as collections of edges	konoM ke lie Ora viswAriwa parisaroM ke lie, jo ki kinAroM ke saMgraha ke rUpa meM mAnyawA prApwa hEM
+NP32 corners and extended contours , which are recognizable as collections of edges	kone Ora viswAriwa parisara, jo ki kinAroM ke saMgraha ke rUpa meM mAnyawA prApwa hEM
+NP33 corners and extended contours	konoM Ora viswAriwa kroYuMda
+NP34 corners	kone-kone
+NNS35 corners	kone-kone
+CC36 and	Ora
+NP37 extended contours	viswAriwa parisara
+NNS39 contours	wahaKAne
+,40 ,	,
+SBAR41 which are recognizable as collections of edges	jo ki kinAroM ke saMgraha ke rUpa meM mAnyawA prApwa hEM
+WHNP42 which	jo ki
+S44 are recognizable as collections of edges	kinAroM ke saMgraha ke rUpa meM mAnyawA prApwa hEM
+VP45_LWG are	hEM
+ADJP47 recognizable as collections of edges	kinAroM ke saMgraha ke rUpa meM mAnyawA prApwa
+PP49 as collections of edges	kinAroM ke saMgraha ke rUpa meM
+NP51 collections of edges	kinAroM ke saMgraha
+NP52 collections	saMgraha
+NNS53 collections	saMgraha
+PP54 of edges	kinAroM kI
+NP56 edges	kinAroM
+NNS57 edges	kinAroM
+

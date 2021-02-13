@@ -1,0 +1,24 @@
+----
+0048	Instead, the doctor tells the system several pieces of relevant information, such as the presence or absence of a uterine scar.	 इसके बजाय , चिकित्सक इस प्रणाली को प्रासंगिक जानकारी के कई टुकड़े बताता है , जैसे गर्भाशय के निशान की उपस्थिति या अनुपस्थिति .		
+47	47
+S1 Instead , the doctor tells the system several pieces of relevant information , such as the presence or absence of a uterine scar .	इसके बजाय डॉक्टर संबंधित सूचनाओं के कई टुकड़े बताते हैं, जैसे कि उपस्थिति या अनाड़ी निशान की अनुपस्थिति।
+ADVP2 Instead	इसके बजाय
+,4 ,	,
+NP5 the doctor	डॉक्टर
+VP8_LWG tells	बताता है।
+NP10 the system	सिस्टम
+NP13 several pieces of relevant information , such as the presence or absence of a uterine scar	प्रासंगिक सूचनाओं के कई टुकड़े, जैसे कि आनुवंशिक निशान की मौजूदगी या अनुपस्थिति
+NP14 several pieces	कई टुकड़े
+NNS16 pieces	टुकड़े
+PP17 of relevant information	प्रासंगिक जानकारी का
+NP19 relevant information	प्रासंगिक जानकारी
+,22 ,	,
+PP23 such as the presence or absence of a uterine scar	जैसे कि आनुवंशिक निशान की मौजूदगी या अनुपस्थिति
+NP26 the presence or absence of a uterine scar	आनुवंशिक निशान की उपस्थिति या अनुपस्थिति
+NP27 the presence or absence	उपस्थिति या अनुपस्थिति
+CC30 or	या।
+NN29 presence	मौजूदगी
+NN31 absence	अनुपस्थिति
+PP32 of a uterine scar	एक गर्भाशय निशान की
+NP34 a uterine scar	एक गर्भाशय निशान
+

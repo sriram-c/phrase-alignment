@@ -1,0 +1,21 @@
+----
+560
+S1 Deep_1 learning_2 has_3 also_4 signiﬁcantly_5 improved_6 the_7 performance_8 of_9 reinforcement_10 learning_11 for_12 robotics_13 (_14 Finn_15 et_16 al._17 ,_18 2015_19 )_20 ._21
+NP2 Deep_1 learning_2
+VP5_LWG has_3 also_4 signiﬁcantly_5 improved_6
+ADVP7 also_4
+ADVP9 signiﬁcantly_5
+NP13 the_7 performance_8 of_9 reinforcement_10 learning_11
+NP14 the_7 performance_8
+PP17 of_9 reinforcement_10 learning_11
+NP19 reinforcement_10 learning_11
+PP22 for_12 robotics_13
+NP24 robotics_13
+NNS25 robotics_13
+PRN26 (_14 Finn_15 et_16 al._17 ,_18 2015_19 )_20
+NP28 Finn_15 et_16 al._17 ,_18 2015_19
+NP29 Finn_15 et_16 al._17
+NP30 Finn_15
+ADVP32 et_16 al._17
+,35 ,_18
+NP36 2015_19

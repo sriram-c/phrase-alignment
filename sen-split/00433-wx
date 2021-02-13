@@ -1,0 +1,29 @@
+----
+00434	In terms of the total number of neurons, neural networks have been astonishingly small until quite recently, as shown in gure 1.11.	 nyUroYnsa kI kula saMKyA ke saMxarBa meM , waMwrikA netavarka AScaryajanaka rUpa se kAPI hAla hI meM Cote rahe hEM , jEsA ki AMkadZA 1 . 11 meM xiKAyA gayA hE 		
+433	433
+S1 In terms of the total number of neurons , neural networks have been astonishingly small until quite recently , as shown in gure 1.11 .	nyUrona kI kula saMKyA ke mAmale meM, waMwrikA netavarka hAla hI meM kAPI Cote rahA hE, jEsA ki AMkadZe  1.10 meM xiKAyA gayA hE
+PP2 In terms of the total number of neurons	nyUrona kI kula saMKyA ke mAmale meM
+NP4 terms of the total number of neurons	nyUrona kI kula saMKyA kI SarweM
+NP5 terms	SarwoM
+NNS6 terms	SarwoM
+PP7 of the total number of neurons	nyUrona kI kula saMKyA
+NP9 the total number of neurons	nyUrona kI kula saMKyA
+NP10 the total number	kula saMKyA
+PP14 of neurons	nyUrona kI
+NP16 neurons	nyUrona
+NNS17 neurons	nyUrona
+,18 ,	,
+NP19 neural networks	waMwrikA netavarka
+NNS21 networks	netavarka
+VP22_LWG have been	kara cuke hEM
+ADJP26 astonishingly small	AScaryajanaka rUpa se CotA
+PP29 until quite recently , as shown in gure 1.11	hAla hI meM kAPI hAla waka, jEsA ki AMkadZe meM xiKAyA gayA hE
+ADVP31 quite recently , as shown in gure 1.11	kAPI hAla hI meM, jEsA ki AMkadZe meM xiKAyA gayA hE
+ADVP32 quite recently	kAPI hAla hI meM
+,35 ,	,
+SBAR36 as shown in gure 1.11	jEsA ki AMkadZe  1.10 meM xiKAyA gayA
+S38 shown in gure 1.11	AMkadZe  1.10 meM xiKAyA gayA
+VP39_LWG shown	xiKAyA gayA
+PP41 in gure 1.11	AMkadZe  1.10
+NP43 gure 1.11	AMkadZA  1.10
+

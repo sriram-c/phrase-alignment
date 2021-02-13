@@ -1,0 +1,25 @@
+----
+0044	A simple machine learning algorithm called logistic regression can determine whether to recommend cesarean delivery (Mor-Yosef et al., 1990).	 eka sarala maSIna aXigama elgoriWma jise saMBAra prawigamana kahA jAwA hE , yaha nirXAriwa kara sakawA hE ki kyA sIjeriyana dilIvarI kI siPAriSa kI jAe ( Mor -Ysef eta ala , 1990 )		
+43	43
+S1 A simple machine learning algorithm called logistic regression can determine whether to recommend cesarean delivery ( Mor - Yosef et al. , 1990 ) .	loYjistika prawiPala nAmaka eka sAXAraNa maSIna sIKane vAlA elgorixama nirXAriwa kara sakawA hE ki kyA sIjZariyana dilIvarI (mora-yosePa eta ala, 1990) kI si
+NP2 A simple machine learning algorithm	eka sAXAraNa maSIna sIKa rahA elgorixama
+NML5 machine learning	maSIna sIKanA
+VP9_LWG called	bulAyA gayA
+SBAR11 logistic regression can determine whether to recommend cesarean delivery ( Mor - Yosef et al. , 1990 )	loYjistika prawiPala nirXAriwa kara sakawA hE ki kyA sIjZariyana dilIvarI (mora-yosePa eta ala, 1990) kI siPAriSa karanA hE
+S12 logistic regression can determine whether to recommend cesarean delivery ( Mor - Yosef et al. , 1990 )	loYjistika prawiPala nirXAriwa kara sakawA hE ki kyA sIjZariyana dilIvarI (mora-yosePa eta ala, 1990) kI siPAriSa karanA hE
+NP13 logistic regression	loYjistika prawiPala
+VP16_LWG can determine	nirXAriwa kara sakawe hEM
+SBAR20 whether to recommend cesarean delivery ( Mor - Yosef et al. , 1990 )	kyA sIjZariyana dilIvarI kI siPAriSa karanA hE (mora-yosePa eta ala, 1990)
+S22 to recommend cesarean delivery ( Mor - Yosef et al. , 1990 )	sijeriyana dilIvarI kI siPAriSa karane ke lie (mora-yosePa eta ala, 1990)
+VP23_LWG to recommend	siPAriSa karane ke lie
+NP27 cesarean delivery ( Mor - Yosef et al. , 1990 )	sIjZariyana dilIvarI (mora- yosePa eta ala, 1990)
+PRN30 ( Mor - Yosef et al. , 1990 )	(mora- yosePa eta ala, 1990)
+NP32 Mor - Yosef et al.	mora  yosePa eta ala
+NP33 Mor	mora
+PP35 - Yosef	- yosePa
+SYM36 -	-
+NP37 Yosef	yosePa
+ADVP39 et al.	eta ala
+,42 ,	,
+NP43 1990	1990
+

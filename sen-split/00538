@@ -1,0 +1,11 @@
+----
+00539	0.20 0.25 0.30 ILSVRC classiﬁcation error rate Figure 1.12: Decreasing error rate over time.	 0 .20 025 0 .30 ILSVRC वर्गीकरण त्रुटि दर चित्र 1 . 12 : समय के साथ त्रुटि दर में कमी		
+538	538
+NP1 0.20 0.25 0.30 ILSVRC classiﬁcation error rate Figure 1.12 : Decreasing error rate over time .	0.20 0.2 0.30 आईएलएसवीआरसी क्लासेशन त्रुटि दर 1.12 ः समय के साथ कम हो रही त्रुटि दर।
+NP2 0.20 0.25 0.30 ILSVRC classiﬁcation error rate Figure 1.12	0.20 0.2 0.30 आईएलएसवीआरसी क्लासेशन त्रुटि दर 1.20
+NML3 0.20 0.25 0.30	0.20 0 0.30
+NP14 Decreasing error rate over time	समय के साथ कम हो रही त्रुटि दर
+NP15 Decreasing error rate	घटती त्रुटि दर
+PP19 over time	समय के साथ
+NP21 time	समय
+

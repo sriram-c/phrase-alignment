@@ -1,0 +1,72 @@
+----
+00407	In the 1950s through the 1980s, the pioneers of biologically inspired machine learning often worked with small synthetic datasets, such as low-resolution bitmaps of letters, that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions (Widrow and Hoﬀ, 1960; Rumelhart et al., 1986b).	 १९५० के दशक में , जैविक रूप से प्रेरित मशीनी शिक्षण के अग्रदूत अक्सर छोटे संश्लेषित डेटासेट , जैसे निम्न संश्लेषित अक्षरों के बिटमैप के साथ काम करते थे , जो निम्न संगणनात्मक लागत और १९६० के दशक को प्रदर्शित करते थे कि तंत्रिका तंत्र विशिष्ट प्रकार के कार्य सीखने में सक्षम थे (		
+406	406
+S1 In the 1950s through the 1980s , the pioneers of biologically inspired machine learning often worked with small synthetic datasets , such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b ) .	1980 के दशक के दौर में जैविक रूप से प्रेरित मशीन सीखने वाले पहलवान अक्सर छोटे सिंथेटिक डेटाबेट्स के साथ काम करते थे, जैसे कि पत्रों के कम
+PP2 In the 1950s through the 1980s	1950 के दशक में 1980 के दशक के दौर में
+NP4 the 1950s through the 1980s	1950 के दशक के दशक में 1980 के दशक के दौर
+NP5 the 1950s	1950 के दशक में
+NNS7 1950s	1950 के दशक में
+PP8 through the 1980s	1980 के दशक के दौरान
+NP10 the 1980s	1980 के दशक
+NNS12 1980s	1980 के दशक में
+,13 ,	,
+NP14 the pioneers of biologically inspired machine learning	आनुवंशिक रूप से प्रेरित मशीन सीखने के अग्रणी
+NP15 the pioneers	अग्रणी
+NNS17 pioneers	अग्रणी
+PP18 of biologically inspired machine learning	जैविक रूप से प्रेरित मशीन सीखने की
+NP20 biologically inspired machine learning	आनुवंशिक रूप से प्रेरित मशीन सीख रही
+ADJP21 biologically inspired	आनुवंशिक रूप से प्रेरित
+ADVP26 often	अक्सर
+VP28_LWG worked	काम किया।
+PP30 with small synthetic datasets , such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	छोटे-छोटे सिंथेटिक डेटाबेस के साथ, जैसे कि लो-रिजोल्यूशन बिटमैक्स, जिन्हें कम कंप्यूटिशनल कॉस्ट खर्च करने के लिए डिजाइन किया
+NP32 small synthetic datasets , such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	छोटे-छोटे सिंथेटिक डेटाबेस, जैसे कि लो-रिजोल्यूशन बिटमैक्स, जिन्हें कम कंप्यूटिशनल कॉस्ट खर्च करने के लिए डिजाइन किया गया था
+NP33 small synthetic datasets	छोटे-छोटे सिंथेटिक डेटाबेट
+NNS36 datasets	डेटाबेस
+,37 ,	,
+PP38 such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	जैसे कि कम - संकल्पित पत्रों के संकल्प बिटकुले, जिन्हें कम कंप्यूटरिक लागत खर्च करने के लिए डिज़ाइन किया गया था और यह प्रदर्शित किया ग
+NP41 low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	कम - संकल्पित पत्रों के संकल्प बिटकुले, जिन्हें कम कंप्यूटरिक लागत खर्च करने के लिए डिज़ाइन किया गया था और यह प्रदर्शित किया गया कि तंत्र
+NP42 low - resolution bitmaps of letters	कम - पत्रों का संकल्प बिटनक्श
+NP43 low - resolution bitmaps	कम - रिजोल्यूशन बिटमैक्स
+NML44 low - resolution	कम - संकल्प
+NNS48 bitmaps	बिटमैक्स
+PP49 of letters	अक्षरों की
+NP51 letters	अक्षर
+NNS52 letters	अक्षर
+,53 ,	,
+SBAR54 that were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	यह कम कंप्यूटरिक लागत खर्च करने के लिए डिजाइन किया गया था और यह प्रदर्शन करता था कि तंत्रिका नेटवर्क विशिष्ट प्रकार के कार्य (विड्रो एंड हॉ
+WHNP55 that	वह
+S57 were designed to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	कम कंप्यूटरिक लागत खर्च करने के लिए डिजाइन किया गया और यह प्रदर्शित किया गया कि तंत्रिका नेटवर्क विशिष्ट प्रकार के कार्यों (विड्रो एंड हॉ
+VP58_LWG were designed	थे डिजाइन
+S62 to incur low computational cost and demonstrate that neural networks were able to learn speciﬁc kinds of functions	कम कंप्यूटेशनल कॉस्ट खर्च करने के लिए और प्रदर्शित करने के लिए कि तंत्रिका नेटवर्क विशिष्ट प्रकार के कार्य सीख सकते थे
+VP63_LWG to incur demonstrate	प्रदर्शन करने के लिए
+NP68 low computational cost	कम कम्प्यूटेशनल लागत
+CC72 and	और
+VP66 incur low computational cost	कम कंप्यूटिशनल लागत खर्च
+VP73 demonstrate that neural networks were able to learn speciﬁc kinds of functions	प्रदर्शन करें कि तंत्रिका नेटवर्क विशिष्ट प्रकार के कार्य सीख सकते थे
+SBAR75 that neural networks were able to learn speciﬁc kinds of functions	उस तंत्रिका नेटवर्क को सीखने में सक्षम थे विशिष्ट प्रकार के कार्य
+S77 neural networks were able to learn speciﬁc kinds of functions	विशिष्ट प्रकार के कार्य सीख सकते थे तंत्रिका नेटवर्क
+NP78 neural networks	तंत्रिका नेटवर्क
+NNS80 networks	नेटवर्क
+VP81_LWG were	थे।
+ADJP83 able to learn speciﬁc kinds of functions	विशिष्ट प्रकार के कार्य सीखने में सक्षम
+S85 to learn speciﬁc kinds of functions	विशिष्ट प्रकार के कार्य सीखने के लिए
+VP86_LWG to learn	सीखने के लिए।
+NP90 speciﬁc kinds of functions	विशिष्ट प्रकार के कार्य
+NP91 speciﬁc kinds	विशिष्ट प्रकार के
+NNS93 kinds	तरह-तरह की तरह
+PP94 of functions	कार्यों का
+NP96 functions	समारोह
+NNS97 functions	समारोह
+PRN98 ( Widrow and Hoﬀ , 1960 ; Rumelhart et al. , 1986b )	(विड्रो एंड हॉफ, 1960 ; रुमेलहार्ट एट अल., 1986b)
+NP100 Widrow and Hoﬀ	विड्रो और हॉफ
+CC102 and	और
+NNP101 Widrow	विद्रो
+NNP103 Hoﬀ	हॉफ
+,104 ,	,
+NP105 1960	1960
+FRAG108 Rumelhart et al. , 1986b	रूमालहार्ट एट अल., 1986b
+NP109 Rumelhart et al.	Rumelhart एट अल।
+ADVP111 et al.	एट अल।
+,114 ,	,
+NP115 1986b	1986b
+

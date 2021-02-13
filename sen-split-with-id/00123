@@ -1,0 +1,37 @@
+----
+123
+S1 These_1 layers_2 are_3 called_4 “_5 hidden_6 ”_7 because_8 their_9 values_10 are_11 not_12 given_13 in_14 the_15 data_16 ;_17 instead_18 the_19 model_20 must_21 determine_22 which_23 concepts_24 are_25 useful_26 for_27 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34 ._35
+S2 These_1 layers_2 are_3 called_4 “_5 hidden_6 ”_7 because_8 their_9 values_10 are_11 not_12 given_13 in_14 the_15 data_16
+NP3 These_1 layers_2
+NNS5 layers_2
+VP6_LWG are_3 called_4
+S10 “_5 hidden_6 ”_7
+ADJP11 “_5 hidden_6 ”_7
+SBAR15 because_8 their_9 values_10 are_11 not_12 given_13 in_14 the_15 data_16
+S17 their_9 values_10 are_11 not_12 given_13 in_14 the_15 data_16
+NP18 their_9 values_10
+NNS20 values_10
+VP21_LWG are_11 not_12 given_13
+PP26 in_14 the_15 data_16
+NP28 the_15 data_16
+NNS30 data_16
+S32 instead_18 the_19 model_20 must_21 determine_22 which_23 concepts_24 are_25 useful_26 for_27 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34
+ADVP33 instead_18
+NP35 the_19 model_20
+VP38_LWG must_21 determine_22
+SBAR42 which_23 concepts_24 are_25 useful_26 for_27 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34
+WHNP43 which_23
+S45 concepts_24 are_25 useful_26 for_27 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34
+NP46 concepts_24
+NNS47 concepts_24
+VP48_LWG are_25
+ADJP50 useful_26 for_27 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34
+PP52 for_27 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34
+S54 explaining_28 the_29 relationships_30 in_31 the_32 observed_33 data_34
+VP55_LWG explaining_28
+NP57 the_29 relationships_30 in_31 the_32 observed_33 data_34
+NP58 the_29 relationships_30
+NNS60 relationships_30
+PP61 in_31 the_32 observed_33 data_34
+NP63 the_32 observed_33 data_34
+NNS66 data_34

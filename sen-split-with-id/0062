@@ -1,0 +1,21 @@
+----
+62
+S1 For_1 example_2 ,_3 suppose_4 that_5 we_6 would_7 like_8 to_9 write_10 a_11 program_12 to_13 detect_14 cars_15 in_16 photographs_17 ._18
+PP2 For_1 example_2
+NP4 example_2
+,6 ,_3
+VP7_LWG suppose_4
+SBAR9 that_5 we_6 would_7 like_8 to_9 write_10 a_11 program_12 to_13 detect_14 cars_15 in_16 photographs_17
+S11 we_6 would_7 like_8 to_9 write_10 a_11 program_12 to_13 detect_14 cars_15 in_16 photographs_17
+NP12 we_6
+VP14_LWG would_7 like_8
+S18 to_9 write_10 a_11 program_12 to_13 detect_14 cars_15 in_16 photographs_17
+VP19_LWG to_9 write_10
+NP23 a_11 program_12
+S26 to_13 detect_14 cars_15 in_16 photographs_17
+VP27_LWG to_13 detect_14
+NP31 cars_15
+NNS32 cars_15
+PP33 in_16 photographs_17
+NP35 photographs_17
+NNS36 photographs_17

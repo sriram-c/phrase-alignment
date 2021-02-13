@@ -1,0 +1,23 @@
+----
+138
+S1 It_1 has_2 nothing_3 to_4 do_5 with_6 the_7 content_8 of_9 the_10 input_11 speciﬁcally_12 ,_13 but_14 it_15 helps_16 the_17 model_18 to_19 organize_20 its_21 processing_22 ._23
+S2 It_1 has_2 nothing_3 to_4 do_5 with_6 the_7 content_8 of_9 the_10 input_11 speciﬁcally_12
+NP3 It_1
+VP5_LWG has_2
+NP7 nothing_3 to_4 do_5 with_6 the_7 content_8 of_9 the_10 input_11 speciﬁcally_12
+S9 to_4 do_5 with_6 the_7 content_8 of_9 the_10 input_11 speciﬁcally_12
+VP10_LWG to_4 do_5
+PP14 with_6 the_7 content_8 of_9 the_10 input_11 speciﬁcally_12
+NP16 the_7 content_8 of_9 the_10 input_11 speciﬁcally_12
+NP17 the_7 content_8
+PP20 of_9 the_10 input_11 speciﬁcally_12
+NP22 the_10 input_11 speciﬁcally_12
+,26 ,_13
+CC27 but_27
+S28 it_15 helps_16 the_17 model_18 to_19 organize_20 its_21 processing_22
+NP29 it_15
+VP31_LWG helps_16
+NP33 the_17 model_18
+S36 to_19 organize_20 its_21 processing_22
+VP37_LWG to_19 organize_20
+NP41 its_21 processing_22

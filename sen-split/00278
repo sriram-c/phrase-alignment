@@ -1,0 +1,21 @@
+----
+00279	, w n and compute their output f ( x, w ) =	 w n और उनके आउटपुट f ( x , w ) =		
+278	278
+NP1 , w n and compute their output f ( x , w ) =	, w n और उनके आउटपुट f (x, w ) का गणना करें =
+FRAG2 , w n and compute their output f ( x , w ) =	, w n और उनके आउटपुट f (x, w ) का गणना करें =
+,3 ,	,
+PP4 w n and compute their output f ( x , w )	w n और उनके आउटपुट f (x, w ) का कंप्यूटर करें
+NP6 n and compute their output f ( x , w )	n और उनके आउटपुट f (x, w ) का कनवर्ट करें
+NP7 n and compute	एन और कंप्यूटर
+CC9 and	और
+NN8 n	n
+NN10 compute	गणना
+NP11 their output f	उनका आउटपुट f
+NML13 output f	आउटपुट f
+PRN16 ( x , w )	(x, w )
+NP18 x	एक्स
+SYM19 x	एक्स
+,20 ,	,
+NP21 w	डब्ल्यू
+,24 =	=
+

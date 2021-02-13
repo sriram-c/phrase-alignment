@@ -1,0 +1,19 @@
+----
+0080	They also enable AI systems to rapidly adapt to new tasks, with minimal human intervention.	 वे भी एआई प्रणालियों को नए कार्यों के लिए तेजी से अनुकूलित करने में सक्षम बनाता है , कम से कम मानवीय हस्तक्षेप के साथ .		
+79	79
+S1 They also enable AI systems to rapidly adapt to new tasks , with minimal human intervention .	वे एआई प्रणालियों को भी कम से कम मानवीय हस्तक्षेप के साथ नए कार्यों के लिए तेजी से अनुकूल बनाने में सक्षम बनाते हैं।
+NP2 They	उन्होंने
+ADVP4 also	साथ ही।
+VP6_LWG enable	सक्षम
+NP8 AI systems	एआई सिस्टम
+NNS10 systems	सिस्टम
+S11 to rapidly adapt to new tasks , with minimal human intervention	नए कार्यों के लिए तेजी से अनुकूल बनाने के लिए, न्यूनतम मानवीय हस्तक्षेप के साथ
+VP12_LWG to rapidly adapt	तेजी से अनुकूलन करने के लिए
+ADVP14 rapidly	तेजी से
+PP18 to new tasks	नए कार्यों को
+NP20 new tasks	नए कार्य
+NNS22 tasks	कार्यों
+,23 ,	,
+PP24 with minimal human intervention	कम से कम मानवीय हस्तक्षेप के साथ
+NP26 minimal human intervention	न्यूनतम मानवीय हस्तक्षेप
+

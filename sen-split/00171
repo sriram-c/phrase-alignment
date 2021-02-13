@@ -1,0 +1,26 @@
+----
+00172	We contend that machine learning is the only viable approach to building AI systems that can operate in complicated real-world environments.	 हम तर्क देते हैं कि मशीनी शिक्षा ही एआई प्रणालियों के निर्माण का एकमात्र व्यवहार्य तरीका है जो जटिल वास्तविक दुनिया के वातावरण में कार्य कर सकता है ।		
+171	171
+S1 We contend that machine learning is the only viable approach to building AI systems that can operate in complicated real - world environments .	हम दावा करते हैं कि मशीन सीखना एआई प्रणालियों के निर्माण के लिए एकमात्र वैद्यकीय दृष्टिकोण है जो जटिल वास्तविक - विश्व वातावरण में काम कर सकता है
+NP2 We	हम
+VP4_LWG contend	दावेदार
+SBAR6 that machine learning is the only viable approach to building AI systems that can operate in complicated real - world environments	वह मशीन सीखना एआई प्रणालियों के निर्माण के लिए एकमात्र वैद्यकीय दृष्टिकोण है जो जटिल वास्तविक - विश्व पर्यावरण में संचालित कर सकता है
+S8 machine learning is the only viable approach to building AI systems that can operate in complicated real - world environments	मशीन सीखना एआई प्रणालियों के निर्माण के लिए एकमात्र वैद्यकीय दृष्टिकोण है जो जटिल वास्तविक रूप में संचालित कर सकता है - विश्व पर्यावरण
+NP9 machine learning	मशीन सीखना
+VP12_LWG is	है।
+NP14 the only viable approach to building AI systems that can operate in complicated real - world environments	एआई सिस्टम बनाने के लिए एकमात्र विश्वसनीय दृष्टिकोण जो जटिल वास्तविक - विश्व पर्यावरण में काम कर सकता है
+NP15 the only viable approach to building AI systems	एआई सिस्टम बनाने के लिए एकमात्र वैद्यकीय दृष्टिकोण
+NP16 the only viable approach	एकमात्र वैद्यकीय दृष्टिकोण
+ADJP18 only viable	केवल व्यवहार्य
+NP23 building AI systems	एआई सिस्टम का निर्माण
+NML24 building AI	निर्माण एआई
+NNS27 systems	सिस्टम
+SBAR28 that can operate in complicated real - world environments	जो जटिल वास्तविक - विश्व वातावरण में संचालित कर सकता है
+WHNP29 that	वह
+S31 can operate in complicated real - world environments	जटिल वास्तविक में संचालन कर सकते हैं - विश्व वातावरण
+VP32_LWG can operate	संचालन कर सकते हैं
+PP36 in complicated real - world environments	जटिल वास्तविक - विश्व वातावरण
+NP38 complicated real - world environments	जटिल वास्तविक - विश्व वातावरण
+NML40 real - world	असली-दुनिया
+NNS44 environments	पर्यावरण
+

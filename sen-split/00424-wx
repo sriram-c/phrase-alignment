@@ -1,0 +1,33 @@
+----
+00425	As of 2016, a rough rule of thumb is that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1.	 ke rUpa meM 2016 , aMgUTe kA eka mote niyama hE ki eka paryavekRiwa gaharI aXigama elgoriWma AmawOra para lagaBaga 5 , 000 lebala uxAharaNa prawi varga ke sAWa svIkArya praxarSana prApwa karegA Ora mEca yA 20 aXyAya 1 .		
+424	424
+S1 As of 2016 , a rough rule of thumb is that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1 .	2016 ke rUpa meM aMgUTe kA eka motA niyama hE ki eka nirIkRaka gaharI sIKa elgorixama AmawOra para prawi SreNI ke lagaBaga 5,000 lebala vAle uxAharaNoM ke sAWa
+PP2 As of 2016	2016 ke anusAra
+PP4 of 2016	2016 kA
+NP6 2016	2016
+,8 ,	,
+NP9 a rough rule of thumb	aMgUTe kA motA niyama
+NP10 a rough rule	eka motA niyama
+PP14 of thumb	aMgUTe kI
+NP16 thumb	aMgUTI
+VP18_LWG is	hE
+SBAR20 that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1	yaha ki eka nirIkRaka gaharA sIKa elgorixama AmawOra para prawi SreNI ke lagaBaga 5,000 lebala vAle uxAharaNoM ke sAWa svIkArya praxarSana hAsila karegA Ora vaha prawiyoga
+S22 a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1	eka nirIkRaka gaharA sIKa elgorixama AmawOra para prawi SreNI ke lagaBaga 5,000 lebala vAle uxAharaNoM ke sAWa svIkArya praxarSana hAsila karegA Ora yaha mEca yA 20 ca
+NP23 a supervised deep learning algorithm	eka nirIkRaka gahana sIKa elgorixama
+NML26 deep learning	gaharI sIKa
+VP30_LWG will generally achieve will match	Ama wOra para hAsila kareMge mEca
+ADVP33 generally	Ama wOra para
+NP37 acceptable performance	svIkArya praxarSana
+PP40 with around 5,000 labeled examples per category	lagaBaga 5,000 lebala vAle uxAharaNa prawi SreNI
+NP42 around 5,000 labeled examples per category	prawi SreNI ke lagaBaga 5,000 lebala xie gae uxAharaNa
+NP43 around 5,000 labeled examples	lagaBaga 5,000 lebala vAle uxAharaNa
+QP44 around 5,000	karIba 5,000
+NNS48 examples	uxAharaNa
+PP49 per category	prawi SreNI
+NP51 category	SreNI
+CC53 and	Ora
+VP31 will generally achieve acceptable performance with around 5,000 labeled examples per category	AmawOra para prawi SreNI ke lagaBaga 5,000 lebala vAle uxAharaNoM ke sAWa svIkArya praxarSana hAsila kareMge
+VP54 will match or 20 CHAPTER 1	mEca hogA yA 20 ceptara 1
+NP58 or 20 CHAPTER 1	yA 20 cEptara 1
+QP59 or 20	yA 20
+

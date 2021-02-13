@@ -1,0 +1,21 @@
+----
+00201	Shaded boxes indicate components that are able to learn from data.	 छायांकित बक्से उन घटकों को सूचित करते हैं जो डेटा से सीखने में सक्षम होते हैं ।		
+200	200
+S1 Shaded boxes indicate components that are able to learn from data .	छाया हुआ बक्से उन घटकों को इंगित करता है जो डेटा से सीख सकते हैं।
+NP2 Shaded boxes	छाया हुआ बक्से
+NNS4 boxes	बक्से
+VP5_LWG indicate	संकेत
+NP7 components that are able to learn from data	घटक जो डेटा से सीख पा रहे हैं
+NP8 components	घटक
+NNS9 components	घटक
+SBAR10 that are able to learn from data	जो डेटा से सीख पा रहे हैं
+WHNP11 that	वह
+S13 are able to learn from data	डेटा से सीख पा रहे हैं
+VP14_LWG are	हैं।
+ADJP16 able to learn from data	डेटा से सीख पा रहे हैं।
+S18 to learn from data	डेटा से सीखने के लिए
+VP19_LWG to learn	सीखने के लिए।
+PP23 from data	आंकड़ों से
+NP25 data	डेटा
+NNS26 data	डेटा
+

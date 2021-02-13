@@ -1,0 +1,16 @@
+----
+340
+S1 During_1 the_2 early_3 1980s_4 ,_5 most_6 cognitive_7 scientists_8 studied_9 models_10 of_11 symbolic_12 reasoning_13 ._14
+PP2 During_1 the_2 early_3 1980s_4
+NP4 the_2 early_3 1980s_4
+NNS7 1980s_4
+,8 ,_5
+NP9 most_6 cognitive_7 scientists_8
+ADJP10 most_6 cognitive_7
+NNS13 scientists_8
+VP14_LWG studied_9
+NP16 models_10 of_11 symbolic_12 reasoning_13
+NP17 models_10
+NNS18 models_10
+PP19 of_11 symbolic_12 reasoning_13
+NP21 symbolic_12 reasoning_13

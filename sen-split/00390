@@ -1,0 +1,22 @@
+----
+00391	Fortunately, the amount of skill required reduces as the amount of training data increases.	 सौभाग्य से , आवश्यक कौशल की मात्रा कम हो जाती है क्योंकि प्रशिक्षण डेटा की मात्रा बढ़ जाती है .		
+390	390
+S1 Fortunately , the amount of skill required reduces as the amount of training data increases .	सौभाग्य से प्रशिक्षण आंकड़े की राशि बढ़ने के साथ ही कौशल की राशि कम हो जाती है।
+ADVP2 Fortunately	सौभाग्य से
+,4 ,	,
+NP5 the amount of skill required	कौशल की राशि आवश्यक
+NP6 the amount	राशि
+PP9 of skill required	कौशल की आवश्यकता
+NP11 skill required	कौशल आवश्यक
+NP12 skill	कौशल
+VP14_LWG required	आवश्यक
+VP16_LWG reduces	कम होता है।
+SBAR18 as the amount of training data increases	जैसे प्रशिक्षण के आंकड़ों की मात्रा बढ़ी
+S20 the amount of training data increases	प्रशिक्षण आंकड़े की मात्रा बढ़ी
+NP21 the amount of training data	प्रशिक्षण आंकड़े की राशि
+NP22 the amount	राशि
+PP25 of training data	प्रशिक्षण के आंकड़े
+NP27 training data	प्रशिक्षण का आंकड़ा
+NNS29 data	डेटा
+VP30_LWG increases	बढ़ता जाता है
+

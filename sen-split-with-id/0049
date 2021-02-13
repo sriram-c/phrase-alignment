@@ -1,0 +1,20 @@
+----
+49
+S1 Logistic_1 regression_2 learns_3 how_4 each_5 of_6 these_7 features_8 of_9 the_10 patient_11 correlates_12 with_13 various_14 outcomes_15 ._16
+NP2 Logistic_1 regression_2
+VP5_LWG learns_3
+SBAR7 how_4 each_5 of_6 these_7 features_8 of_9 the_10 patient_11 correlates_12 with_13 various_14 outcomes_15
+WHADVP8 how_4
+S10 each_5 of_6 these_7 features_8 of_9 the_10 patient_11 correlates_12 with_13 various_14 outcomes_15
+NP11 each_5 of_6 these_7 features_8 of_9 the_10 patient_11
+NP12 each_5
+PP14 of_6 these_7 features_8 of_9 the_10 patient_11
+NP16 these_7 features_8 of_9 the_10 patient_11
+NP17 these_7 features_8
+NNS19 features_8
+PP20 of_9 the_10 patient_11
+NP22 the_10 patient_11
+VP25_LWG correlates_12
+PP27 with_13 various_14 outcomes_15
+NP29 various_14 outcomes_15
+NNS31 outcomes_15

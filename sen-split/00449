@@ -1,0 +1,42 @@
+----
+00450	Some artiﬁcial neural networks have nearly as many connections per neuron as a cat, and it is quite common for other neural networks to have as many connections per neuron as smaller mammals like mice.	 कुछ कृत्रिम तंत्रिका नेटवर्क एक बिल्ली के रूप में न्यूरॉन प्रति कई कनेक्शन के रूप में लगभग है , और यह अन्य तंत्रिका नेटवर्क के लिए काफी आम है कि चूहों जैसे छोटे स्तनधारियों के रूप में न्यूरॉन प्रति कई कनेक्शन है .		
+449	449
+S1 Some artiﬁcial neural networks have nearly as many connections per neuron as a cat , and it is quite common for other neural networks to have as many connections per neuron as smaller mammals like mice .	कुछ कृत्रिम तंत्रिका नेटवर्कों में एक बिल्ली के रूप में प्रति न्यूरोन के लिए लगभग कनेक्शन होते हैं, और अन्य तंत्रिका नेटवर्कों के लिए यह चू
+S2 Some artiﬁcial neural networks have nearly as many connections per neuron as a cat	कुछ कृत्रिम तंत्रिका नेटवर्कों में बिल्ली के रूप में प्रति न्यूरोन के लगभग कनेक्शन होते हैं
+NP3 Some artiﬁcial neural networks	कुछ कृत्रिम तंत्रिका नेटवर्क
+NNS7 networks	नेटवर्क
+VP8_LWG have	पास है।
+NP10 nearly as many connections per neuron as a cat	बिल्ली के रूप में प्रति न्यूरोनॉल के लगभग जितने कनेक्शन
+NP11 nearly as many connections	लगभग इतने कनेक्शन
+QP12 nearly as many	लगभग उतने ही
+NNS16 connections	कनेक्शन
+PP17 per neuron as a cat	बिल्ली के रूप में प्रति न्यूरोन
+NP19 neuron as a cat	बिल्ली के रूप में न्यूरोन
+NP20 neuron	न्यूरोन
+PP22 as a cat	बिल्ली के रूप में
+NP24 a cat	एक बिल्ली
+,27 ,	,
+CC28 and	और
+S29 it is quite common for other neural networks to have as many connections per neuron as smaller mammals like mice	अन्य तंत्रिका नेटवर्क के लिए चूहों की तरह छोटे स्तनधारियों के रूप में प्रति न्यूरोन के लिए उतना ही कनेक्शन होना काफी सामान्य है
+NP30 it	यह
+VP32_LWG is	है।
+ADJP34 quite common for other neural networks	अन्य तंत्रिका नेटवर्क के लिए काफी आम
+PP37 for other neural networks	अन्य तंत्रिका नेटवर्क के लिए
+NP39 other neural networks	अन्य तंत्रिका नेटवर्क
+NNS42 networks	नेटवर्क
+S43 to have as many connections per neuron as smaller mammals like mice	चूहों की तरह छोटे स्तनधारियों के रूप में प्रति न्यूरोनॉल के पास उतने ही कनेक्शन होने के लिए
+VP44_LWG to have	करने के लिए।
+PP48 as many connections per neuron	प्रति न्यूरोन के जितने कनेक्शन
+NP50 many connections per neuron	प्रति न्यूरोन के कई कनेक्शन
+NP51 many connections	कई कनेक्शन
+NNS53 connections	कनेक्शन
+PP54 per neuron	प्रति न्यूरोन
+NP56 neuron	न्यूरोन
+PP58 as smaller mammals like mice	चूहों की तरह छोटे-छोटे स्तनधारी
+NP60 smaller mammals like mice	चूहों की तरह छोटे स्तनधारी
+NP61 smaller mammals	छोटे स्तनधारी
+NNS63 mammals	स्तनधारी
+PP64 like mice	चूहों की तरह
+NP66 mice	चूहे
+NNS67 mice	चूहे
+

@@ -1,0 +1,55 @@
+----
+00335	The ﬁeld of deep learning is primarily concerned with how to build computer systems that are able to successfully solve tasks requiring intelligence, while the ﬁeld of computational neuroscience is primarily concerned with building more accurate models of how the brain actually works.	 गहन अध्ययन का क्षेत्र मुख्य रूप से कंप्यूटर सिस्टम का निर्माण करने से संबंधित है जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल करने में सक्षम है , जबकि कम्प्यूटेशनल तंत्रिका विज्ञान का क्षेत्र मुख्य रूप से मस्तिष्क वास्तव में कैसे काम करता है के अधिक सटीक मॉडल के निर्माण से संबंधित है .		
+334	334
+S1 The ﬁeld of deep learning is primarily concerned with how to build computer systems that are able to successfully solve tasks requiring intelligence , while the ﬁeld of computational neuroscience is primarily concerned with building more accurate models of how the brain actually works .	गहरी सीख का क्षेत्र मुख्य रूप से यह चिंतित है कि कम्प्यूटर सिस्टम कैसे बनाया जा सकता है जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल करने में सक्ष
+NP2 The ﬁeld of deep learning	गहरी सीख का क्षेत्र
+NP3 The ﬁeld	खेत
+PP6 of deep learning	गहरी सीख का
+NP8 deep learning	गहरी सीख
+VP11_LWG is	है।
+ADJP13 primarily concerned with how to build computer systems that are able to successfully solve tasks requiring intelligence	मुख्य रूप से कम्प्यूटर सिस्टम कैसे बनाया जाए, जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल करने में सक्षम हैं
+PP16 with how to build computer systems that are able to successfully solve tasks requiring intelligence	कम्प्यूटर सिस्टम कैसे बनाया जाए जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल कर पाते हैं
+SBAR18 how to build computer systems that are able to successfully solve tasks requiring intelligence	कम्प्यूटर सिस्टम कैसे बनाए जाएं जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल कर पाते हैं
+WHADVP19 how	कैसे
+S21 to build computer systems that are able to successfully solve tasks requiring intelligence	कम्प्यूटर सिस्टम बनाने के लिए जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल कर पाते हैं
+VP22_LWG to build	बनाने के लिए
+NP26 computer systems that are able to successfully solve tasks requiring intelligence	कम्प्यूटर सिस्टम जो बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल कर पाते हैं
+NP27 computer systems	कम्प्यूटर सिस्टम
+NNS29 systems	सिस्टम
+SBAR30 that are able to successfully solve tasks requiring intelligence	जो बुद्धि की आवश्यकता रखने वाले कार्यों को सफलतापूर्वक हल कर पा रहे हैं
+WHNP31 that	वह
+S33 are able to successfully solve tasks requiring intelligence	बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल कर पा रहे हैं
+VP34_LWG are	हैं।
+ADJP36 able to successfully solve tasks requiring intelligence	बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल करने में सक्षम
+S38 to successfully solve tasks requiring intelligence	बुद्धि की आवश्यकता वाले कार्यों को सफलतापूर्वक हल करने के लिए
+VP39_LWG to successfully solve	सफलतापूर्वक हल करने के लिए
+ADVP41 successfully	सफलतापूर्वक
+NP45 tasks	कार्यों
+NNS46 tasks	कार्यों
+S47 requiring intelligence	बुद्धिमत्ता की आवश्यकता
+VP48_LWG requiring	आवश्यकता
+NP50 intelligence	बुद्धिमत्ता
+,52 ,	,
+SBAR53 while the ﬁeld of computational neuroscience is primarily concerned with building more accurate models of how the brain actually works	जबकि कंप्यूटर न्यूरोसाइंस का क्षेत्र मुख्य रूप से अधिक सटीक मॉडल बनाने से चिंतित है कि कैसे वास्तव में मस्तिष्क काम करता है
+S55 the ﬁeld of computational neuroscience is primarily concerned with building more accurate models of how the brain actually works	कंप्यूटर न्यूरोसाइंस का क्षेत्र मुख्य रूप से अधिक सटीक मॉडल बनाने से चिंतित है कि वास्तव में मस्तिष्क कैसे काम करता है
+NP56 the ﬁeld of computational neuroscience	कंप्यूटर न्यूरोसाइंस का क्षेत्र
+NP57 the ﬁeld	खेत
+PP60 of computational neuroscience	कंप्यूटर न्यूरोसाइंस का
+NP62 computational neuroscience	कंप्यूटर न्यूरोसाइंस
+VP65_LWG is	है।
+ADJP67 primarily concerned with building more accurate models of how the brain actually works	मुख्य रूप से मस्तिष्क वास्तव में कैसे काम करता है इसके अधिक सटीक मॉडल बनाने से संबंधित
+PP70 with building more accurate models of how the brain actually works	और अधिक सटीक मॉडल बनाने के साथ मस्तिष्क वास्तव में कैसे काम करता है
+S72 building more accurate models of how the brain actually works	वास्तव में कैसे काम करता है मस्तिष्क के अधिक सटीक मॉडल बनाना
+VP73_LWG building	बिल्डिंग
+NP75 more accurate models of how the brain actually works	मस्तिष्क वास्तव में कैसे काम करता है इसके अधिक सटीक मॉडल
+NP76 more accurate models	अधिक सटीक मॉडल
+ADJP77 more accurate	अधिक सटीक
+NNS80 models	मॉडल
+PP81 of how the brain actually works	वास्तव में मस्तिष्क कैसे काम करता है
+SBAR83 how the brain actually works	वास्तव में मस्तिष्क कैसे काम करता है
+WHADVP84 how	कैसे
+S86 the brain actually works	मस्तिष्क वास्तव में काम करता है
+NP87 the brain	मस्तिष्क
+ADVP90 actually	वास्तव में
+VP92_LWG works	काम करता है।
+

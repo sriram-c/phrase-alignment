@@ -1,0 +1,20 @@
+----
+348
+FRAG1 For_1 example_2 ,_3 suppose_4 we_5 have_6 a_7 vision_8 system_9 that_10 can_11 recognize_12 16_13 CHAPTER_14 1_15 ._16
+S2 For_1 example_2 ,_3 suppose_4 we_5 have_6 a_7 vision_8 system_9 that_10 can_11 recognize_12 16_13
+PP3 For_1 example_2
+NP5 example_2
+,7 ,_3
+VP8_LWG suppose_4
+SBAR10 we_5 have_6 a_7 vision_8 system_9 that_10 can_11 recognize_12 16_13
+S11 we_5 have_6 a_7 vision_8 system_9 that_10 can_11 recognize_12 16_13
+NP12 we_5
+VP14_LWG have_6
+NP16 a_7 vision_8 system_9 that_10 can_11 recognize_12 16_13
+NP17 a_7 vision_8 system_9
+SBAR21 that_10 can_11 recognize_12 16_13
+WHNP22 that_10
+S24 can_11 recognize_12 16_13
+VP25_LWG can_11 recognize_12
+NP29 16_13
+NP31 CHAPTER_14 1_15

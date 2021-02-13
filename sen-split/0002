@@ -1,0 +1,42 @@
+----
+0003	The mythical ﬁgures Pygmalion, Daedalus, and Hephaestus may all be interpreted as legendary inventors, and Galatea, Talos, and Pandora may all be regarded as artiﬁcial life (Ovid and Martin, 2004; Sparkes, 1996; Tandy, 1997).	 मिथकीय आंकड़े पिग्मलियन , दादलस , और हेफेस्टस सभी को प्रख्यात आविष्कारक और गैलेटा , टैलोस , और पांडोरा सभी को कृत्रिम जीवन माना जा सकता है ( ओविड और मार्टिन , 1997 , काउन्टी , 1996 )		
+2	2
+S1 The mythical ﬁgures Pygmalion , Daedalus , and Hephaestus may all be interpreted as legendary inventors , and Galatea , Talos , and Pandora may all be regarded as artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 ) .	पौराणिक आंकड़े पायगमाइलियन, डेडलस, और हेफेस्टस सभी को महान आविष्कारक के रूप में व्याख्या किया जा सकता है, और गैलेटा, टैलो,
+S2 The mythical ﬁgures Pygmalion , Daedalus , and Hephaestus may all be interpreted as legendary inventors	पौराणिक आंकड़े पायगमाइलियन, दादालस, और हेफेस्टस सभी को महान आविष्कारक के रूप में माना जा सकता है
+NP3 The mythical ﬁgures Pygmalion , Daedalus , and Hephaestus	पौराणिक आंकड़े पायगमलीयन, दादालस और हेफैस्टस
+NP4 The mythical ﬁgures	पौराणिक आंकड़े
+NNS7 ﬁgures	आंकड़े
+NP8 Pygmalion , Daedalus , and Hephaestus	पायगमिनीयन, दादालस, और हेफेस्टस
+,10 ,	,
+,12 ,	,
+CC13 and	और
+NNP14 Hephaestus	हेफेस्टस
+VP15_LWG may all be interpreted	सभी की व्याख्या हो सकती है
+PP22 as legendary inventors	महान आविष्कारक के रूप में
+NP24 legendary inventors	महान आविष्कारक
+NNS26 inventors	आविष्कारक
+,27 ,	,
+CC28 and	और
+S29 Galatea , Talos , and Pandora may all be regarded as artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	गैलेटा, तालोस, और पैंद्रा सभी को कृत्रिम जीवन (ओविड और मार्टिन, 2004) के रूप में माना जा सकता है; स्पार्क्स, 1996 ; टांडी, 1997
+NP30 Galatea , Talos , and Pandora	गैलेटा, तालोस, और पैंद्रा
+,32 ,	,
+,34 ,	,
+CC35 and	और
+NNP36 Pandora	पैंद्रा
+VP37_LWG may all be regarded	हो सकता है सभी का संबंध
+PP44 as artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	कृत्रिम जीवन (ओविड और मार्टिन, 2004 ; स्पार्क्स, 1996 ; टांडी, 1997 )
+NP46 artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	कृत्रिम जीवन (ओविड और मार्टिन, 2004 ; स्पार्क्स, 1996 ; टांडी, 1997 )
+PRN49 ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	(ओविड और मार्टिन, 2004 ; स्पार्क्स, 1996 ; टांडी, 1997 )
+NP51 Ovid and Martin	ओविड और मार्टिन
+CC53 and	और
+NNP52 Ovid	ओविड
+NNP54 Martin	मार्टिन
+,55 ,	,
+NP56 2004	2004
+NP59 Sparkes	स्पार्क
+,61 ,	,
+NP62 1996	1996
+NP65 Tandy	टंडी
+,67 ,	,
+NP68 1997	1997
+

@@ -1,0 +1,39 @@
+----
+00312	Neuroscientists have found that ferrets can learn to “see” with the auditory processing region of their brain if their brains are rewired to send visual signals to that area (Von Melchner et al., 2000).	 तंत्रिका विज्ञानियों ने पाया है कि नृट्स अपने मस्तिष्क के श्रवण संसाधन क्षेत्र के साथ “सांख्य” सीख सकते हैं यदि उनके मस्तिष्क को उस क्षेत्र में दृश्य संकेत भेजने के लिए पुनरावर्तित किया जाता है ( वान मेल्चर एट अल 2000 ) .		
+311	311
+S1 Neuroscientists have found that ferrets can learn to “ see ” with the auditory processing region of their brain if their brains are rewired to send visual signals to that area ( Von Melchner et al. , 2000 ) .	न्यूरो वैज्ञानिकों ने पाया है कि अगर उनके दिमाग के ऑडिटोररी प्रोसेसिंग क्षेत्र के साथ उनके मस्तिष्क को फिर से भेजा जाता है तो उनके दिमाग को उस क्षेत्र (वो
+NP2 Neuroscientists	न्यूरो वैज्ञानिक
+NNS3 Neuroscientists	न्यूरो वैज्ञानिक
+VP4_LWG have found	पाया है।
+SBAR8 that ferrets can learn to “ see ” with the auditory processing region of their brain if their brains are rewired to send visual signals to that area	यदि उनके मस्तिष्क के ऑडिटोररी प्रोसेसिंग क्षेत्र के साथ उनके मस्तिष्क के साथ “देखें” सीख सकते हैं यदि उनके दिमाग को उस क्षेत्र में दृश्य संक
+S10 ferrets can learn to “ see ” with the auditory processing region of their brain if their brains are rewired to send visual signals to that area	फेरेट्स अपने मस्तिष्क के ऑडिटोररी प्रोसेसिंग क्षेत्र के साथ “देखें” सीख सकते हैं अगर उनके दिमाग को उस क्षेत्र में दृश्य संकेत भेजने के लिए फिर
+NP11 ferrets	फेरेट्स
+NNS12 ferrets	फेरेट्स
+VP13_LWG can learn	सीख सकते हैं।
+S17 to “ see ” with the auditory processing region of their brain	उनके मस्तिष्क के ऑडिटोरिटी प्रोसेसिंग क्षेत्र के साथ “देखें”
+VP18_LWG to see	देखने के लिए।
+PP24 with the auditory processing region of their brain	उनके मस्तिष्क के ऑडिटोरिटी प्रोसेसिंग क्षेत्र के साथ
+NP26 the auditory processing region of their brain	उनके मस्तिष्क का ऑडिटरी प्रोसेसिंग क्षेत्र
+NP27 the auditory processing region	ऑडिटरी प्रसंस्करण क्षेत्र
+PP32 of their brain	उनके मस्तिष्क की
+NP34 their brain	उनका मस्तिष्क
+SBAR37 if their brains are rewired to send visual signals to that area	अगर उनके दिमाग को उस क्षेत्र को दृश्य संकेत भेजने के लिए फिर से भेज दिया जाता है
+S39 their brains are rewired to send visual signals to that area	उस क्षेत्र को दृश्य संकेत भेजने के लिए उनके दिमाग को फिर से जारी किया जाता है
+NP40 their brains	उनके दिमाग़
+NNS42 brains	दिमाग़
+VP43_LWG are	हैं।
+ADJP45 rewired to send visual signals to that area	उस क्षेत्र को दृश्य संकेत भेजने के लिए किया गया पुनर्मिलन
+S47 to send visual signals to that area	उस क्षेत्र को दृश्य संकेत भेजने के लिए
+VP48_LWG to send	भेजने के लिए
+NP52 visual signals	दृश्य संकेत
+NNS54 signals	संकेत
+PP55 to that area	उस क्षेत्र को
+NP57 that area	वह इलाका
+PRN60 ( Von Melchner et al. , 2000 )	(वोन मेलचैन एट अल।, 2000)
+NP62 Von Melchner et al. , 2000	वॉन मेल्चनर एट अल।, 2000
+NP63 Von Melchner et al.	वॉन मेल्चनर एट अल।
+NP64 Von Melchner	वॉन मेल्चनर
+ADVP67 et al.	एट अल।
+,70 ,	,
+NP71 2000	2000
+

@@ -1,0 +1,27 @@
+----
+117
+S1 It_1 is_2 diﬃcult_3 for_4 a_5 computer_6 to_7 understand_8 the_9 meaning_10 of_11 raw_12 sensory_13 input_14 data_15 ,_16 such_17 as_18 this_19 image_20 represented_21 as_22 a_23 collection_24 of_25 pixel_26 values_27 ._28
+NP2 It_1
+VP4_LWG is_2
+ADJP6 diﬃcult_3 for_4 a_5 computer_6
+PP8 for_4 a_5 computer_6
+NP10 a_5 computer_6
+S13 to_7 understand_8 the_9 meaning_10 of_11 raw_12 sensory_13 input_14 data_15
+VP14_LWG to_7 understand_8
+NP18 the_9 meaning_10 of_11 raw_12 sensory_13 input_14 data_15
+NP19 the_9 meaning_10
+PP22 of_11 raw_12 sensory_13 input_14 data_15
+NP24 raw_12 sensory_13 input_14 data_15
+NML26 sensory_13 input_14
+NNS29 data_15
+,30 ,_16
+SBAR31 such_17 as_18 this_19 image_20 represented_21 as_22 a_23 collection_24 of_25 pixel_26 values_27
+S34 this_19 image_20 represented_21 as_22 a_23 collection_24 of_25 pixel_26 values_27
+NP35 this_19 image_20
+VP38_LWG represented_21
+PP40 as_22 a_23 collection_24 of_25 pixel_26 values_27
+NP42 a_23 collection_24 of_25 pixel_26 values_27
+NP43 a_23 collection_24
+PP46 of_25 pixel_26 values_27
+NP48 pixel_26 values_27
+NNS50 values_27

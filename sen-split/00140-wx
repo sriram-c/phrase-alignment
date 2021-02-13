@@ -1,0 +1,21 @@
+----
+00141	The rst view is based on the number of sequential instructions that must be executed to evaluate the architecture.	 pahalA xqSya anukramika anuxeSoM kI saMKyA para AXAriwa hE jise vAswukalA kA mUlyAMkana karane ke lie niRpAxiwa kiyA jAnA cAhie .		
+140	140
+S1 The rst view is based on the number of sequential instructions that must be executed to evaluate the architecture .	pahalA xqSya kramika nirxeSoM kI saMKyA para AXAriwa hE jise vAswukalA kA mUlyAMkana karane ke lie niRpAxiwa kiyA jAnA cAhie
+NP2 The rst view	pahalA najArA
+VP6_LWG is based	AXAriwa
+PP10 on the number of sequential instructions that must be executed to evaluate the architecture	vAswukalA ke mUlyAMkana ke lie jo wawkAla nirxeSoM kI saMKyA ko aMjAma xiyA jAnA cAhie, usa para
+NP12 the number of sequential instructions that must be executed to evaluate the architecture	vAswukalA kA mUlyAMkana karane ke lie jina wawkAla nirxeSoM kI saMKyA ko aMjAma xiyA jAnA cAhie
+NP13 the number	naMbara
+PP16 of sequential instructions that must be executed to evaluate the architecture	wawkAla nirxeSoM kA jise vAswukalA kA mUlyAMkana karane ke lie niRpAxiwa kiyA jAnA cAhie
+NP18 sequential instructions that must be executed to evaluate the architecture	BaviRyavANI kA mUlyAMkana karane ke lie wawkAla nirxeSoM ko niRpAxiwa kiyA jAnA cAhie
+NP19 sequential instructions	wawkAla nirxeSa
+NNS21 instructions	nirxeSa
+SBAR22 that must be executed to evaluate the architecture	vAswukalA kA mUlyAMkana karane ke lie niRpAxiwa kiyA jAnA cAhie
+WHNP23 that	vaha
+S25 must be executed to evaluate the architecture	vAswukalA kA mUlyAMkana karane ke lie niRpAxiwa kiyA jAnA cAhie
+VP26_LWG must be executed	niRpAxiwa honA cAhie
+S32 to evaluate the architecture	vAswukalA kA mUlyAMkana karane ke lie
+VP33_LWG to evaluate	mUlyAMkana ke lie
+NP37 the architecture	vAswukalA
+

@@ -1,0 +1,28 @@
+----
+00102	When it is nearly as dicult to obtain a representation as to solve the original problem, representation learning does not, at rst glance, seem to help us.	 jaba mUla samasyA ko hala karane ke lie prawiniXiwva prApwa karanA lagaBaga uwanA hI kaTina howA hE , waba aByAvexana SikRaNa pahalI najara meM hamArI sahAyawA nahIM karawA 		
+101	101
+S1 When it is nearly as dicult to obtain a representation as to solve the original problem , representation learning does not , at rst glance , seem to help us .	jaba mUla samasyA ke samAXAna ke lie prawiniXiwva prApwa karanA lagaBaga muSkila howA hE, wo pahalI najara meM prawiniXiwva sIKane se hamArI maxaxa milawI hE
+SBAR2 When it is nearly as dicult to obtain a representation as to solve the original problem	jaba mUla samasyA ke samAXAna ke lie prawiniXiwva prApwa karanA lagaBaga uwanA hI muSkila howA hE
+WHADVP3 When	kaba
+S5 it is nearly as dicult to obtain a representation as to solve the original problem	mUla samasyA ke samAXAna ke lie prawiniXiwva prApwa karanA lagaBaga uwanA hI muSkila hE
+NP6 it	yaha
+VP8_LWG is	hE
+ADJP10 nearly as dicult to obtain a representation as to solve the original problem	mUla samasyA ke samAXAna ke lie prawiniXiwva prApwa karanA lagaBaga uwanA hI muSkila
+S14 to obtain a representation as to solve the original problem	mUla samasyA ke samAXAna ke lie prawiniXiwva prApwa karane ke lie
+VP15_LWG to obtain	prApwa karane ke lie
+NP19 a representation	eka prawiniXiwva
+SBAR22 as to solve the original problem	mUla samasyA ke samAXAna ke lie
+S24 to solve the original problem	mUla samasyA kA samAXAna karane ke lie
+VP25_LWG to solve	hala karane ke lie
+NP29 the original problem	mUla samasyA
+,33 ,	,
+NP34 representation learning	prawiniXiwva sIKanA
+VP37_LWG does not seem	EsA nahIM lagawA
+,41 ,	,
+PP42 at rst glance	pahalI najara meM
+NP44 rst glance	pahalI najara
+,47 ,	,
+S49 to help us	hamArI maxaxa karane ke lie
+VP50_LWG to help	maxaxa ke lie
+NP54 us	hameM
+

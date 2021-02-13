@@ -1,0 +1,44 @@
+----
+262
+S1 Some_1 of_2 the_3 earliest_4 learning_5 algorithms_6 we_7 recognize_8 today_9 were_10 intended_11 to_12 be_13 computational_14 models_15 of_16 biological_17 learning_18 ,_19 that_20 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33 ._34
+NP2 Some_1 of_2 the_3 earliest_4 learning_5 algorithms_6 we_7 recognize_8 today_9
+NP3 Some_1
+PP5 of_2 the_3 earliest_4 learning_5 algorithms_6 we_7 recognize_8 today_9
+NP7 the_3 earliest_4 learning_5 algorithms_6 we_7 recognize_8 today_9
+NP8 the_3 earliest_4 learning_5 algorithms_6
+NNS12 algorithms_6
+SBAR13 we_7 recognize_8 today_9
+S14 we_7 recognize_8 today_9
+NP15 we_7
+VP17_LWG recognize_8
+NP-TMP19 today_9
+VP21_LWG were_10 intended_11
+S25 to_12 be_13 computational_14 models_15 of_16 biological_17 learning_18 ,_19 that_20 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+VP26_LWG to_12 be_13
+NP30 computational_14 models_15 of_16 biological_17 learning_18 ,_19 that_20 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+NP31 computational_14 models_15
+NNS33 models_15
+PP34 of_16 biological_17 learning_18 ,_19 that_20 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+NP36 biological_17 learning_18 ,_19 that_20 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+NP37 biological_17 learning_18
+,40 ,_19
+SBAR41 that_20 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+WHNP42 that_20
+S44 is_21 ,_22 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+VP45_LWG is_21
+,47 ,_22
+FRAG48 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+NP49 models_23 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+NP50 models_23
+NNS51 models_23
+PP52 of_24 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+SBAR54 how_25 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+WHADVP55 how_25
+S57 learning_26 happens_27 or_28 could_29 happen_30 in_31 the_32 brain_33
+NP58 learning_26
+VP60_LWG happens_27 could_29 happen_30
+CC63 or_63
+VP61 happens_27
+VP64 could_29 happen_30 in_31 the_32 brain_33
+PP68 in_31 the_32 brain_33
+NP70 the_32 brain_33

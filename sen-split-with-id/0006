@@ -1,0 +1,35 @@
+----
+6
+S1 In_1 the_2 early_3 days_4 of_5 artiﬁcial_6 intelligence_7 ,_8 the_9 ﬁeld_10 rapidly_11 tackled_12 and_13 solved_14 problems_15 that_16 are_17 intellectually_18 diﬃcult_19 for_20 human_21 beings_22 but_23 relatively_24 straight_25 -_26 forward_27 for_28 computers_29 —_30
+PP2 In_1 the_2 early_3 days_4 of_5 artiﬁcial_6 intelligence_7
+NP4 the_2 early_3 days_4 of_5 artiﬁcial_6 intelligence_7
+NP5 the_2 early_3 days_4
+NNS8 days_4
+PP9 of_5 artiﬁcial_6 intelligence_7
+NP11 artiﬁcial_6 intelligence_7
+,14 ,_8
+NP15 the_9 ﬁeld_10
+ADVP18 rapidly_11
+VP20_LWG tackled_12 solved_14
+CC22 and_22
+VBD21 tackled_12
+VBD23 solved_14
+NP24 problems_15 that_16 are_17 intellectually_18 diﬃcult_19 for_20 human_21 beings_22 but_23 relatively_24 straight_25 -_26 forward_27 for_28 computers_29
+NP25 problems_15
+NNS26 problems_15
+SBAR27 that_16 are_17 intellectually_18 diﬃcult_19 for_20 human_21 beings_22 but_23 relatively_24 straight_25 -_26 forward_27 for_28 computers_29
+WHNP28 that_16
+S30 are_17 intellectually_18 diﬃcult_19 for_20 human_21 beings_22 but_23 relatively_24 straight_25 -_26 forward_27 for_28 computers_29
+VP31_LWG are_17
+ADJP33 intellectually_18 diﬃcult_19 for_20 human_21 beings_22 but_23 relatively_24 straight_25 -_26 forward_27
+ADJP34 intellectually_18 diﬃcult_19 for_20 human_21 beings_22
+PP37 for_20 human_21 beings_22
+NP39 human_21 beings_22
+NNS41 beings_22
+CC42 but_42
+RB43 relatively_24
+ADJP44 straight_25 -_26 forward_27
+PP48 for_28 computers_29
+NP50 computers_29
+NNS51 computers_29
+,52 —_30

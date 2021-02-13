@@ -1,0 +1,43 @@
+----
+00381	The other CIFAR-aliated research groups quickly showed that the same strategy could be used to train many other kinds of deep networks (Bengio et al., 2007; Ranzato et al., 2007a) and systematically helped to improve generalization on test examples.	 anya saMbaxXa anusaMXAna SIGrawA se usI raNanIwi kA prayoga kiyA jA sakawA hE ( CIFAR ) usI raNanIwi kA prayoga kiyA jA sakawA hE ( CIFAR ) usI raNanIwi kA prayoga kiyA jA sakawA hE ( CIFAR ) usI raNanIwi kA prayoga kiyA jA sakawA hE ( CIFAR ) usI praNAlI kA prayoga kiyA jA sakawA hE , jisa praNAlI kA prayoga kiyA gayA WA 		
+380	380
+S1 The other CIFAR - aliated research groups quickly showed that the same strategy could be used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a ) and systematically helped to improve generalization on test examples .	xUsare sIAIePaeAra- saMbaxXa anusaMXAna samUhoM ne jalxI se yaha xiKAyA ki kaI anya prakAra ke gahare netavarka (beMgiyo eta ala, 2007 ; raNa
+NP2 The other CIFAR - aliated research groups	anya CIFAR- saMbaxXa anusaMXAna samUha
+ADJP4 other CIFAR - aliated	anya CIFAR- saMbaxXa
+NP5 other CIFAR	anya CIFAR
+NNS11 groups	samUha
+ADVP12 quickly	jalxI se
+VP14_LWG showed	xiKAyA gayA
+SBAR16 that the same strategy could be used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a ) and systematically helped to improve generalization on test examples	yaha BI raNanIwi kA iswemAla kaI anya prakAra ke gahare netavarka (beMgiyo eta ala, 2007 ; raNajAwo eta ala., 2007a) ko praSikRiwa karane ke
+S18 the same strategy could be used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a ) and systematically helped to improve generalization on test examples	isI raNanIwi kA iswemAla kaI anya prakAra ke gahare netavarka (beMgiyo eta ala, 2007 ; raNajAwo eta ala., 2007a) ko praSikRiwa karane ke lie
+NP19 the same strategy	vahI raNanIwi
+VP23_LWG could be used systematically helped	vyavasWiwa rUpa se iswemAla kiyA jA sakawA hE maxaxa
+S30 to train many other kinds of deep networks	kaI anya prakAra ke gahare netavarka ko praSikRiwa karane ke lie
+VP31_LWG to train	treniMga ke lie
+NP35 many other kinds of deep networks	kaI anya prakAra ke gahare netavarka
+NP36 many other kinds	kaI anya waraha ke
+NNS39 kinds	waraha-waraha kI waraha
+PP40 of deep networks	gahare netavarkoM kI
+NP42 deep networks	gahare netavarka
+NNS44 networks	netavarka
+PRN45 ( Bengio et al. , 2007 ; Ranzato et al. , 2007a )	(beMgiyo eta ala., 2007 ; raNajAwo eta ala., 2007a)
+FRAG47 Bengio et al. , 2007	beMgiyo eta ala, 2007
+NP48 Bengio et al.	beMjiyo eta ala
+ADVP50 et al.	eta ala
+,53 ,	,
+NP54 2007	2007
+FRAG57 Ranzato et al. , 2007a	raNajAwo eta ala., 2007 e
+NP58 Ranzato et al.	raNajAwo eta ala
+ADVP60 et al.	eta ala
+,63 ,	,
+NP64 2007a	2007 e.
+CC67 and	Ora
+VP28 used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a )	kaI anya prakAra ke gahare netavarka (beMgiyo eta ala., 2007 ; raNajAwo eta ala., 2007a)
+ADVP68 systematically	vyavasWiwa rUpa se
+S72 to improve generalization on test examples	parIkRaNa uxAharaNoM para sAmAnyakaraNa meM suXAra lAne ke lie
+VP73_LWG to improve	suXAra karane ke lie
+NP77 generalization	AmIkaraNa
+PP79 on test examples	parIkRaNa uxAharaNoM para
+NP81 test examples	parIkRaNa uxAharaNa
+NNS83 examples	uxAharaNa
+

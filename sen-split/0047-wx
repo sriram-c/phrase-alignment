@@ -1,0 +1,24 @@
+----
+0048	Instead, the doctor tells the system several pieces of relevant information, such as the presence or absence of a uterine scar.	 isake bajAya , cikiwsaka isa praNAlI ko prAsaMgika jAnakArI ke kaI tukadZe bawAwA hE , jEse garBASaya ke niSAna kI upasWiwi yA anupasWiwi .		
+47	47
+S1 Instead , the doctor tells the system several pieces of relevant information , such as the presence or absence of a uterine scar .	isake bajAya doYktara saMbaMXiwa sUcanAoM ke kaI tukadZe bawAwe hEM, jEse ki upasWiwi yA anAdZI niSAna kI anupasWiwi
+ADVP2 Instead	isake bajAya
+,4 ,	,
+NP5 the doctor	doYktara
+VP8_LWG tells	bawAwA hE
+NP10 the system	sistama
+NP13 several pieces of relevant information , such as the presence or absence of a uterine scar	prAsaMgika sUcanAoM ke kaI tukadZe, jEse ki AnuvaMSika niSAna kI mOjUxagI yA anupasWiwi
+NP14 several pieces	kaI tukadZe
+NNS16 pieces	tukadZe
+PP17 of relevant information	prAsaMgika jAnakArI kA
+NP19 relevant information	prAsaMgika jAnakArI
+,22 ,	,
+PP23 such as the presence or absence of a uterine scar	jEse ki AnuvaMSika niSAna kI mOjUxagI yA anupasWiwi
+NP26 the presence or absence of a uterine scar	AnuvaMSika niSAna kI upasWiwi yA anupasWiwi
+NP27 the presence or absence	upasWiwi yA anupasWiwi
+CC30 or	yA
+NN29 presence	mOjUxagI
+NN31 absence	anupasWiwi
+PP32 of a uterine scar	eka garBASaya niSAna kI
+NP34 a uterine scar	eka garBASaya niSAna
+

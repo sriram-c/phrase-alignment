@@ -1,0 +1,18 @@
+----
+00375	INTRODUCTION also included neuroscientists and experts in human and computer vision.	 INTRODUCING में तंत्रिका विज्ञानी और मानव और कंप्यूटर दृष्टि के विशेषज्ञ भी शामिल थे ।		
+374	374
+S1 INTRODUCTION also included neuroscientists and experts in human and computer vision .	परिचय में मानव और कंप्यूटर दृष्टि में न्यूरो वैज्ञानिकों और विशेषज्ञों को भी शामिल किया गया।
+NP2 INTRODUCTION	परिचय
+ADVP4 also	साथ ही।
+VP6_LWG included	शामिल
+NP8 neuroscientists and experts	न्यूरो वैज्ञानिक और विशेषज्ञ
+NNS9 neuroscientists	न्यूरो वैज्ञानिक
+CC10 and	और
+NNS11 experts	विशेषज्ञों
+PP12 in human and computer vision	मानव और कंप्यूटर दृष्टि में
+NP14 human and computer vision	मानव और कंप्यूटर दृष्टि
+UCP15 human and computer	इंसान और कंप्यूटर
+CC17 and	और
+JJ16 human	मानव
+NN18 computer	कंप्यूटर
+

@@ -1,0 +1,45 @@
+----
+253
+S1 Two_1 of_2 the_3 three_4 historical_5 waves_6 of_7 artiﬁcial_8 neural_9 nets_10 research_11 ,_12 as_13 measured_14 by_15 the_16 frequency_17 of_18 the_19 phrases_20 “_21 cybernetics_22 ”_23 and_24 “_25 connectionism_26 ”_27 or_28 “_29 neural_30 networks_31 ,_32 ”_33 according_34 to_35 Google_36 Books_37 (_38 the_39 third_40 wave_41 is_42 too_43 recent_44 to_45 appear_46 )_47 ._48
+NP2 Two_1 of_2 the_3 three_4 historical_5 waves_6 of_7 artiﬁcial_8 neural_9 nets_10
+NP3 Two_1
+PP5 of_2 the_3 three_4 historical_5 waves_6 of_7 artiﬁcial_8 neural_9 nets_10
+NP7 the_3 three_4 historical_5 waves_6 of_7 artiﬁcial_8 neural_9 nets_10
+NP8 the_3 three_4 historical_5 waves_6
+NNS12 waves_6
+PP13 of_7 artiﬁcial_8 neural_9 nets_10
+NP15 artiﬁcial_8 neural_9 nets_10
+NNS18 nets_10
+VP19_LWG research_11
+,21 ,_12
+SBAR22 as_13 measured_14 by_15 the_16 frequency_17 of_18 the_19 phrases_20 “_21 cybernetics_22 ”_23 and_24 “_25 connectionism_26 ”_27 or_28 “_29 neural_30 networks_31 ,_32 ”_33 according_34 to_35 Google_36 Books_37
+S24 measured_14 by_15 the_16 frequency_17 of_18 the_19 phrases_20 “_21 cybernetics_22 ”_23 and_24 “_25 connectionism_26 ”_27 or_28 “_29 neural_30 networks_31 ,_32 ”_33 according_34 to_35 Google_36 Books_37
+VP25_LWG measured_14
+PP27 by_15 the_16 frequency_17 of_18 the_19 phrases_20 “_21 cybernetics_22 ”_23 and_24 “_25 connectionism_26 ”_27 or_28 “_29 neural_30 networks_31
+NP29 the_16 frequency_17 of_18 the_19 phrases_20 “_21 cybernetics_22 ”_23 and_24 “_25 connectionism_26 ”_27 or_28 “_29 neural_30 networks_31
+NP30 the_16 frequency_17
+PP33 of_18 the_19 phrases_20
+NP35 the_19 phrases_20
+NNS37 phrases_20
+NP39 cybernetics_22
+NNS40 cybernetics_22
+CC42 and_42
+''41 ”_23
+``43 “_25
+NP44 connectionism_26
+CC47 or_47
+''46 ”_27
+``48 “_29
+NP49 neural_30 networks_31
+NNS51 networks_31
+,52 ,_32
+PP54 according_34 to_35 Google_36 Books_37
+PP56 to_35 Google_36 Books_37
+NP58 Google_36 Books_37
+PRN61 (_38 the_39 third_40 wave_41 is_42 too_43 recent_44 to_45 appear_46 )_47
+S63 the_39 third_40 wave_41 is_42 too_43 recent_44 to_45 appear_46
+NP64 the_39 third_40 wave_41
+VP68_LWG is_42
+ADJP70 too_43 recent_44
+S73 to_45 appear_46
+VP74_LWG to_45 appear_46

@@ -1,0 +1,17 @@
+----
+283
+S1 The_1 McCulloch_2 -_3 Pitts_4 neuron_5 (_6 McCulloch_7 and_8 Pitts_9 ,_10 1943_11 )_12 was_13 an_14 early_15 model_16 of_17 brain_18 function_19 ._20
+NP2 The_1 McCulloch_2 -_3 Pitts_4 neuron_5 (_6 McCulloch_7 and_8 Pitts_9 ,_10 1943_11 )_12
+NML4 McCulloch_2 -_3 Pitts_4
+PRN9 (_6 McCulloch_7 and_8 Pitts_9 ,_10 1943_11 )_12
+NP11 McCulloch_7 and_8 Pitts_9
+CC13 and_13
+NNP12 McCulloch_7
+NNP14 Pitts_9
+,15 ,_10
+NP16 1943_11
+VP19_LWG was_13
+NP21 an_14 early_15 model_16 of_17 brain_18 function_19
+NP22 an_14 early_15 model_16
+PP26 of_17 brain_18 function_19
+NP28 brain_18 function_19

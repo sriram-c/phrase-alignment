@@ -1,0 +1,23 @@
+----
+00532	After improving throughout the 1990s, the error rates for speech recognition stagnated starting in about 2000.	 1990 ke xaSaka Bara meM suXAra ke bAxa , BARaNa mAnyawA ke lie wruti xaroM lagaBaga 2000 meM SurU ho gayA .		
+531	531
+S1 After improving throughout the 1990s , the error rates for speech recognition stagnated starting in about 2000 .	1990 ke xaSaka meM suXAra ke bAxa lagaBaga 2000 meM BARaNa mAnyawA ke lie wruti xareM SurU ho gaIM
+PP2 After improving throughout the 1990s	pUre 1990 ke xaSaka meM suXAra ke bAxa
+S4 improving throughout the 1990s	pUre 1990 ke xaSaka meM suXAra
+VP5_LWG improving	suXAra
+PP7 throughout the 1990s	pUre 1990 ke xaSaka meM
+NP9 the 1990s	1990 ke xaSaka
+NNS11 1990s	1990 ke xaSaka
+,12 ,	,
+NP13 the error rates for speech recognition	spIca mAnyawA ke lie wruti kI xareM
+NP14 the error rates	wruti kI xareM
+NNS17 rates	xareM
+PP18 for speech recognition	BARaNa mAnyawA ke lie
+NP20 speech recognition	BARaNa mAnyawA
+VP23_LWG stagnated	Tapa
+S25 starting in about 2000	lagaBaga 2000 meM SurU
+VP26_LWG starting	SuruAwa
+PP28 in about 2000	lagaBaga 2000 meM
+NP30 about 2000	lagaBaga 2000
+QP31 about 2000	lagaBaga 2000
+

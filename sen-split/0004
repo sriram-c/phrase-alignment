@@ -1,0 +1,21 @@
+----
+0005	Today, artiﬁcial intelligence (AI) is a thriving ﬁeld with many practical applications and active research topics.	 आज , कृत्रिम बुद्धि ( एएआई ) एक फलता - फूलता क्षेत्र है जिसमें कई व्यावहारिक अनुप्रयोग और सक्रिय अनुसंधान विषय हैं ।		
+4	4
+S1 Today , artiﬁcial intelligence ( AI ) is a thriving ﬁeld with many practical applications and active research topics .	आज कृत्रिम बुद्धिमत्ता (एआई) कई व्यावहारिक आवेदन और सक्रिय अनुसंधान विषयों के साथ एक संपन्न क्षेत्र है।
+NP-TMP2 Today	आज
+,4 ,	,
+NP5 artiﬁcial intelligence ( AI )	कृत्रिम बुद्धिमत्ता (एआई)
+NP6 artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता
+NP10 AI	ऐ.आई.
+VP13_LWG is	है।
+NP15 a thriving ﬁeld with many practical applications and active research topics	कई व्यावहारिक आवेदन और सक्रिय अनुसंधान विषयों के साथ संपन्न क्षेत्र
+NP16 a thriving ﬁeld	एक संपन्न क्षेत्र
+PP20 with many practical applications and active research topics	कई व्यावहारिक आवेदन और सक्रिय अनुसंधान विषयों के साथ
+NP22 many practical applications and active research topics	कई व्यावहारिक आवेदन और सक्रिय अनुसंधान विषय
+NML24 practical applications and active research	व्यावहारिक आवेदन और सक्रिय शोध
+NML25 practical applications	व्यावहारिक आवेदन
+NNS27 applications	आवेदन
+CC28 and	और
+NML29 active research	सक्रिय शोध
+NNS32 topics	विषय
+

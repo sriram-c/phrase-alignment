@@ -1,0 +1,47 @@
+----
+00254	Two of the three historical waves of artiﬁcial neural nets research, as measured by the frequency of the phrases “cybernetics” and “connectionism” or “neural networks,” according to Google Books (the third wave is too recent to appear).	 कृत्रिम तंत्रिका जाल अनुसंधान की तीन ऐतिहासिक तरंगों में से दो , जैसा कि वाक्यांशों की आवृत्ति से मापा जाता है “साइबरनेटिक्स” और “संयोजन” या “नेरल नेटवर्क” , गूगल बुक्स के अनुसार ( तीसरी लहर अभी हाल ही में प्रकट हुई है )		
+253	253
+S1 Two of the three historical waves of artiﬁcial neural nets research , as measured by the frequency of the phrases “ cybernetics ” and “ connectionism ” or “ neural networks , ” according to Google Books ( the third wave is too recent to appear ) .	कृत्रिम तंत्रिका नेटर्स अनुसंधान की तीन ऐतिहासिक लहरों में से दो, जैसा कि शब्दों की आवृत्ति “साइबरनेटिक्स” और “कनेक्शनवाद” या “तंत्रिका ने
+NP2 Two of the three historical waves of artiﬁcial neural nets	कृत्रिम तंत्रिका जाल की तीन ऐतिहासिक लहरों में से दो
+NP3 Two	दो
+PP5 of the three historical waves of artiﬁcial neural nets	कृत्रिम तंत्रिका जाल की तीन ऐतिहासिक लहरों की
+NP7 the three historical waves of artiﬁcial neural nets	कृत्रिम तंत्रिका जाल की तीन ऐतिहासिक लहरें
+NP8 the three historical waves	तीन ऐतिहासिक लहरें
+NNS12 waves	लहरें
+PP13 of artiﬁcial neural nets	कृत्रिम तंत्रिका जाल का
+NP15 artiﬁcial neural nets	कृत्रिम तंत्रिका जाल
+NNS18 nets	जाल
+VP19_LWG research	शोध
+,21 ,	,
+SBAR22 as measured by the frequency of the phrases “ cybernetics ” and “ connectionism ” or “ neural networks , ” according to Google Books	जैसा कि गूगल पुस्तकों के अनुसार “साइबरनेटिक्स” और “कनेक्शनवाद” या “तंत्रिका नेटवर्क,” शब्दों की आवृत्ति से मापा गया
+S24 measured by the frequency of the phrases “ cybernetics ” and “ connectionism ” or “ neural networks , ” according to Google Books	गूगल पुस्तकों के अनुसार “साइबरनेटिक्स” और “कनेक्शनवाद” या “तंत्रिका नेटवर्क,” शब्दों की आवृत्ति से मापा गया
+VP25_LWG measured	माप लिया गया
+PP27 by the frequency of the phrases “ cybernetics ” and “ connectionism ” or “ neural networks	वाक्यांशों की आवृत्ति से “साइबरनेटिक्स” और “कनेक्शनवाद” या “तंत्रिका नेटवर्क
+NP29 the frequency of the phrases “ cybernetics ” and “ connectionism ” or “ neural networks	वाक्यांशों की आवृत्ति “साइबरनेटिक्स” और “कनेक्शनवाद” या “तंत्रिका नेटवर्क”
+NP30 the frequency	आवृत्ति
+PP33 of the phrases	वाक्यांशों का
+NP35 the phrases	वाक्यांश
+NNS37 phrases	वाक्यांश
+NP39 cybernetics	साइबरनेटिक
+NNS40 cybernetics	साइबरनेटिक
+CC42 and	और
+''41 ”	“
+``43 “	“
+NP44 connectionism	कनेक्शनवाद
+CC47 or	या।
+''46 ”	“
+``48 “	“
+NP49 neural networks	तंत्रिका नेटवर्क
+NNS51 networks	नेटवर्क
+,52 ,	,
+PP54 according to Google Books	गूगल बुक्स के अनुसार
+PP56 to Google Books	गूगल बुक्स को
+NP58 Google Books	गूगल बुक्स
+PRN61 ( the third wave is too recent to appear )	(दर्शने के लिए तीसरी लहर बहुत हाल ही में है)
+S63 the third wave is too recent to appear	दिखने के लिए तीसरी लहर बहुत हाल ही में है
+NP64 the third wave	तीसरी लहर
+VP68_LWG is	है।
+ADJP70 too recent	बहुत हाल ही में
+S73 to appear	दिखने के लिए।
+VP74_LWG to appear	दिखने के लिए।
+

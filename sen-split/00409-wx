@@ -1,0 +1,47 @@
+----
+00410	Toward the end of that decade and throughout the rst half of the 2010s, signicantly larger datasets, containing hundreds of thousands to tens of millions of examples, completely changed what was possible with deep learning.	 usa xaSaka ke aMwa meM Ora 2010 ke xaSaka ke pUrvArXa meM , ulleKanIya rUpa se badZe detAseta , jisameM sEkadZoM hajAroM se xasiyoM lAKa uxAharaNa We , pUrI waraha se baxala gayA jo gaharI sIKane ke sAWa saMBava WA .		
+409	409
+S1 Toward the end of that decade and throughout the rst half of the 2010s , signicantly larger datasets , containing hundreds of thousands to tens of millions of examples , completely changed what was possible with deep learning .	usa xaSaka ke aMwa kI ora Ora 2010 ke xaSaka ke pUre pahale hAPa meM, kAPI badZe detAbetsa, jinameM sEkadZoM hajAroM se lekara lAKoM uxAharaNa SAmila hEM,
+PP2 Toward the end of that decade and throughout the rst half of the 2010s	usa xaSaka ke aMwa kI ora Ora 2010 ke pUre pahale hAPa kI ora
+PP3 Toward the end of that decade	usa xaSaka ke aMwa kI ora
+NP5 the end of that decade	usa xaSaka kA aMwa
+NP6 the end	aMwa
+PP9 of that decade	usa xaSaka kI
+NP11 that decade	vaha xaSaka
+CC14 and	Ora
+PP15 throughout the rst half of the 2010s	2010 ke pUre pahale hAPa meM
+NP17 the rst half of the 2010s	2010 kA pahalA AXA hissA
+NP18 the rst half	pahalA hAPa
+PP22 of the 2010s	2010 ke xaSaka ke
+NP24 the 2010s	2010 ke xaSaka
+,27 ,	,
+NP28 signicantly larger datasets , containing hundreds of thousands to tens of millions of examples ,	mahawvapUrNa rUpa se badZe detAbesa, jinameM sEkadZoM hajAra se lekara lAKoM uxAharaNa SAmila hEM,
+NP29 signicantly larger datasets	KAsa wOra para badZA detAbeta
+ADJP30 signicantly larger	kAPI badZA
+NNS33 datasets	detAbesa
+,34 ,	,
+VP35_LWG containing	jisameM
+NP37 hundreds of thousands	sEkadZoM hajAroM
+QP38 hundreds of thousands	sEkadZoM hajAroM
+NNS39 hundreds	sEkadZoM
+NNS41 thousands	hajAroM
+PP42 to tens of millions of examples	lAKoM uxAharaNoM waka
+NP44 tens of millions of examples	lAKoM uxAharaNa
+NP45 tens of millions	lAKoM kI saMKyA
+QP46 tens of millions	lAKoM kI saMKyA
+NNS47 tens	xasiyoM
+NNS49 millions	lAKoM
+PP50 of examples	uxAharaNoM kI
+NP52 examples	uxAharaNa
+NNS53 examples	uxAharaNa
+,54 ,	,
+ADVP55 completely	pUrI waraha se
+VP57_LWG changed	baxala gayA
+SBAR59 what was possible with deep learning	gaharI sIKa se kyA huA saMBava
+WHNP60 what	kyA
+S62 was possible with deep learning	gaharI sIKa se saMBava WA
+VP63_LWG was	WA
+ADJP65 possible with deep learning	gaharI sIKa se saMBava
+PP67 with deep learning	gaharI sIKa ke sAWa
+NP69 deep learning	gaharI sIKa
+

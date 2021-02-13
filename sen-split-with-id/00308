@@ -1,0 +1,34 @@
+----
+308
+S1 To_1 obtain_2 a_3 deep_4 understanding_5 of_6 the_7 actual_8 algorithms_9 used_10 by_11 the_12 brain_13 ,_14 we_15 would_16 need_17 to_18 be_19 able_20 to_21 monitor_22 the_23 activity_24 of_25 (_26 at_27 the_28 very_29 least_30 )_31 thousands_32 of_33 interconnected_34 neurons_35 simultaneously_36 ._37
+S2 To_1 obtain_2 a_3 deep_4 understanding_5 of_6 the_7 actual_8 algorithms_9 used_10 by_11 the_12 brain_13
+VP3_LWG To_1 obtain_2
+NP7 a_3 deep_4 understanding_5 of_6 the_7 actual_8 algorithms_9 used_10 by_11 the_12 brain_13
+NP8 a_3 deep_4 understanding_5
+PP12 of_6 the_7 actual_8 algorithms_9 used_10 by_11 the_12 brain_13
+NP14 the_7 actual_8 algorithms_9 used_10 by_11 the_12 brain_13
+NP15 the_7 actual_8 algorithms_9
+NNS18 algorithms_9
+VP19_LWG used_10
+PP21 by_11 the_12 brain_13
+NP23 the_12 brain_13
+,26 ,_14
+NP27 we_15
+VP29_LWG would_16 need_17
+S33 to_18 be_19 able_20 to_21 monitor_22 the_23 activity_24 of_25 (_26 at_27 the_28 very_29 least_30 )_31 thousands_32 of_33 interconnected_34 neurons_35 simultaneously_36
+VP34_LWG to_18 be_19 simultaneously_36
+ADJP38 able_20 to_21 monitor_22 the_23 activity_24 of_25 (_26 at_27 the_28 very_29 least_30 )_31 thousands_32 of_33 interconnected_34 neurons_35
+S40 to_21 monitor_22 the_23 activity_24 of_25 (_26 at_27 the_28 very_29 least_30 )_31 thousands_32 of_33 interconnected_34 neurons_35
+VP41_LWG to_21 monitor_22 the_23
+ADVP45 the_23 activity_24 of_25
+NP46 the_23 activity_24
+PP51 at_27 the_28 very_29 least_30
+NP53 the_28 very_29 least_30
+ADJP55 very_29 least_30
+NP59 thousands_32 of_33 interconnected_34 neurons_35
+NP60 thousands_32
+NNS61 thousands_32
+PP62 of_33 interconnected_34 neurons_35
+NP64 interconnected_34 neurons_35
+NNS66 neurons_35
+ADVP67 simultaneously_36

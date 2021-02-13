@@ -1,0 +1,39 @@
+----
+00389	Deep learning has been successfully used in commercial applications since the 1990s but was often regarded as being more of an art than a technology and something that only an expert could use, until recently.	 gahana aXyayana saPalawApUrvaka 1990 ke xaSaka ke bAxa se vANijyika anuprayogoM meM iswemAla kiyA gayA hE , lekina aksara eka prOxyogikI Ora kuCa hE ki kevala eka viSeRajFa kA upayoga kara sakawA hE kI wulanA meM eka kalA ke aXika mAnA jAwA WA , hAla hI waka .		
+388	388
+S1 Deep learning has been successfully used in commercial applications since the 1990s but was often regarded as being more of an art than a technology and something that only an expert could use , until recently .	1990 ke xaSaka se vANijyika AvexanoM meM gaharI sIKa kA saPala iswemAla howA rahA hE lekina aksara eka wakanIka kI wulanA meM aXika kalA Ora kuCa EsA jisakA upayoga sirPa
+NP2 Deep learning	gaharI sIKa
+VP5_LWG has been successfully used was often regarded	saPalawApUrvaka iswemAla kiyA jAwA hE aksara mAnA jAwA WA
+ADVP10 successfully	saPalawApUrvaka
+PP14 in commercial applications	vANijyika AvexanoM meM
+NP16 commercial applications	vANijyika Avexana
+NNS18 applications	Avexana
+PP19 since the 1990s	1990 ke xaSaka se
+NP21 the 1990s	1990 ke xaSaka
+NNS23 1990s	1990 ke xaSaka
+CC24 but	lekina
+VP6 has been successfully used in commercial applications since the 1990s	1990 ke xaSaka se vANijyika AvexanoM meM saPalawApUrvaka iswemAla kiyA gayA hE
+VP25 was often regarded as being more of an art than a technology and something that only an expert could use , until recently	aksara eka wakanIka kI wulanA meM eka kalA se aXika hone Ora kuCa EsA jisakA upayoga kevala eka viSeRajFa kara sakawA hE, hAla waka
+ADVP28 often	aksara
+PP31 as being more of an art than a technology and something that only an expert could use	eka wakanIka kI wulanA meM eka kalA se aXika hone Ora kuCa EsA jisakA upayoga kevala eka viSeRajFa kara sakawA hE
+S33 being more of an art than a technology and something that only an expert could use	eka wakanIka kI wulanA meM eka kalA se aXika honA Ora kuCa EsA jisakA upayoga sirPa eka viSeRajFa kara sakawA hE
+VP34_LWG being	hone ke nAwe
+ADJP36 more of an art than a technology and something that only an expert could use	eka wakanIka kI wulanA meM eka kalA kA aXika Ora kuCa EsA jisakA upayoga kevala eka viSeRajFa kara sakawA hE
+ADJP37 more of an art than a technology and something	eka wakanIka se jyAxA kalA Ora kuCa Ora
+PP39 of an art than a technology and something	eka wakanIka kI wulanA meM eka kalA Ora kuCa Ora
+NP41 an art than a technology and something	eka wakanIka kI wulanA meM eka kalA Ora kuCa Ora
+NP42 an art	eka kalA
+PP45 than a technology and something	eka wakanIka kI wulanA meM Ora kuCa Ora
+NP47 a technology and something	eka wakanIka Ora kuCa
+CC50 and	Ora
+NN49 technology	wakanIka
+NN51 something	kuCa
+SBAR52 that only an expert could use	ki sirPa eka viSeRajFa iswemAla kara sakawA hE
+S54 only an expert could use	kevala eka viSeRajFa iswemAla kara sakawA WA
+NP55 only an expert	kevala eka viSeRajFa
+VP59_LWG could use	iswemAla kara sakawe hEM
+,63 ,	,
+SBAR64 until recently	hAla hI meM waka
+FRAG66 recently	hAla hI meM
+ADVP67 recently	hAla hI meM
+

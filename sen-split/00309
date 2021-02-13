@@ -1,0 +1,38 @@
+----
+00310	Because we are not able to do this, we are far from understanding even some of the most simple and well-studied parts of the brain (Olshausen and Field, 2005).	 क्योंकि हम ऐसा नहीं कर पा रहे हैं , हम मस्तिष्क के कुछ सबसे सरल और अच्छी तरह से ज्ञात भागों को भी समझने से दूर हैं ( ओलशसन और फील्ड , 2005 )		
+309	309
+S1 Because we are not able to do this , we are far from understanding even some of the most simple and well - studied parts of the brain ( Olshausen and Field , 2005 ) .	क्योंकि हम ऐसा करने में सक्षम नहीं हैं, हम मस्तिष्क के कुछ सबसे सरल और अच्छी तरह से पढ़े गए कुछ हिस्सों को भी समझने से बहुत दूर
+SBAR2 Because we are not able to do this	क्योंकि हम ऐसा नहीं कर पा रहे हैं
+S4 we are not able to do this	ऐसा नहीं कर पा रहे हैं हम
+NP5 we	हम
+VP7_LWG are not	नहीं हैं।
+ADJP10 able to do this	ऐसा कर पा रहे हैं।
+S12 to do this	ऐसा करने के लिए
+VP13_LWG to do	करने के लिए।
+NP17 this	यह
+,19 ,	,
+NP20 we	हम
+VP22_LWG are far	बहुत दूर हैं।
+ADVP24 far from understanding even	समझ से भी दूर
+PP26 from understanding even	समझ से भी
+NP28 understanding even	समझदारी भी
+NP31 some of the most simple and well - studied parts of the brain	कुछ सबसे सरल और अच्छी तरह से- मस्तिष्क के कुछ हिस्सों का अध्ययन
+NP32 some	कुछ
+PP34 of the most simple and well - studied parts of the brain	सबसे सरल और अच्छी तरह से- मस्तिष्क के अध्ययनित हिस्सों का
+NP36 the most simple and well - studied parts of the brain	सबसे सरल और अच्छी तरह से- मस्तिष्क के कुछ हिस्सों का अध्ययन
+NP37 the most simple and well - studied parts	सबसे सरल और अच्छी तरह से पढ़े-लिखे हिस्सों
+ADJP39 most simple and well - studied	सबसे सरल और अच्छी तरह से पढ़ा-
+ADJP40 most simple	सबसे सरल
+CC43 and	और
+ADJP44 well - studied	अच्छी तरह से पढ़ा-
+NNS48 parts	भागों
+PP49 of the brain	मस्तिष्क का
+NP51 the brain	मस्तिष्क
+PRN54 ( Olshausen and Field , 2005 )	(ओलहसन और फील्ड, 2005)
+NP56 Olshausen and Field	ऑलहसन और फील्ड
+CC58 and	और
+NNP57 Olshausen	ऑलशुआन
+NNP59 Field	फील्ड
+,60 ,	,
+NP61 2005	2005
+

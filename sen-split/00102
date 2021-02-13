@@ -1,0 +1,29 @@
+----
+00103	Deep learning solves this central problem in representation learning by intro- ducing representations that are expressed in terms of other, simpler representations.	 गहन अध्ययन इस केंद्रीय समस्या का समाधान करता है प्रतिनिधित्व सीखने में आत्मनिरीक्षण द्वारा , जो अन्य , सरल निरूपण के संदर्भ में व्यक्त किए जाते हैं .		
+102	102
+S1 Deep learning solves this central problem in representation learning by intro - ducing representations that are expressed in terms of other , simpler representations .	गहरी सीख अंतर्दृष्टि से सीखने वाले प्रतिनिधित्व में इस केंद्रीय समस्या का समाधान करता है – कमजोर प्रतिनिधित्व जो अन्य, सरल प्रतिनिधित्व के मामले में व्यक्त किए जाते
+NP2 Deep learning	गहरी सीख
+VP5_LWG solves	हल करता है।
+NP7 this central problem in representation learning	प्रतिनिधित्व सीखने में यह केंद्रीय समस्या
+NP8 this central problem	यह केंद्रीय समस्या
+PP12 in representation learning	प्रतिनिधित्व में सीख
+NP14 representation learning	प्रतिनिधित्व सीखना
+PP17 by intro - ducing representations that are expressed in terms of other , simpler representations	द्वारा - दूसरे, साधारण प्रतिनिधित्व के मामले में व्यक्त किए जाते हैं उच्च प्रतिनिधित्व
+NP19 intro - ducing representations that are expressed in terms of other , simpler representations	इंट्रो - दूसरे, सरल प्रतिनिधित्व के मामले में व्यक्त किये जाते हैं वो कमजोर प्रतिनिधित्व
+NP20 intro - ducing representations	इंट्रो - कमजोर प्रतिनिधित्व
+NML21 intro - ducing	इंटरव्यू- लिंगन
+NNS25 representations	प्रतिनिधित्व
+SBAR26 that are expressed in terms of other , simpler representations	जिन्हें दूसरे, साधारण प्रतिनिधित्व के मामले में व्यक्त किया जाता है
+WHNP27 that	वह
+S29 are expressed in terms of other , simpler representations	दूसरे, साधारण प्रतिनिधित्व के मामले में व्यक्त किये जाते हैं
+VP30_LWG are expressed	व्यक्त किये जाते हैं।
+PP34 in terms of other , simpler representations	दूसरे के मामले में, साधारण प्रतिनिधित्व
+NP36 terms of other , simpler representations	अन्य, सरल प्रतिनिधित्व की शर्तें
+NP37 terms	शर्तों
+NNS38 terms	शर्तों
+PP39 of other , simpler representations	दूसरे की, साधारण प्रतिनिधित्व
+NP41 other , simpler representations	अन्य, सरल प्रतिनिधित्व
+,43 ,	,
+ADJP44 simpler	सरल
+NNS46 representations	प्रतिनिधित्व
+

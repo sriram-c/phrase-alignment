@@ -1,0 +1,23 @@
+----
+00419	The “M” stands for “modiﬁed,” since the data has been preprocessed for easier use with machine learning algorithms.	 “M” “मॉडेड” के लिए खड़ा है , क्योंकि डेटा मशीन सीखने एल्गोरिदम के साथ आसान उपयोग के लिए पूर्वप्रक्रमित किया गया है .		
+418	418
+S1 The “ M ” stands for “ modiﬁed , ” since the data has been preprocessed for easier use with machine learning algorithms .	“एम” “संशोधित,” के लिए खड़ा है, क्योंकि मशीन सीख एल्गोरिदम के साथ आसान उपयोग के लिए डेटा को पूर्वनिर्धारित किया गया है।
+NP2 The “ M ”	“एम”
+VP7_LWG stands	खड़े होकर खड़े हो जाते हैं।
+PP9 for “ modiﬁed , ” since the data has been preprocessed for easier use with machine learning algorithms	"संशोधित, ” चूंकि मशीन सीख एल्गोरिदम के साथ आसान उपयोग के लिए आंकड़े का प्रत्यारोप किया गया है
+NP11 “ modiﬁed , ” since the data has been preprocessed for easier use with machine learning algorithms	“संशोधित, ” चूंकि मशीन सीखने के एल्गोरिदम के साथ आसान उपयोग के लिए आंकड़े का प्रत्यारोप किया गया है
+NP13 modiﬁed	संशोधित
+,15 ,	,
+SBAR17 since the data has been preprocessed for easier use with machine learning algorithms	चूंकि मशीन सीखने के एल्गोरिदम के साथ आसान इस्तेमाल के लिए डेटा को किया गया है पहले से
+S19 the data has been preprocessed for easier use with machine learning algorithms	मशीन लर्निंग एल्गोरिदम के साथ आसान इस्तेमाल के लिए डाटा को किया गया है पहले से
+NP20 the data	डेटा
+NNS22 data	डेटा
+VP23_LWG has been preprocessed	पहले से ही हो चुका है
+PP29 for easier use with machine learning algorithms	मशीन सीखने के एल्गोरिदम के साथ आसान उपयोग के लिए
+NP31 easier use with machine learning algorithms	मशीन सीखने के एल्गोरिदम के साथ आसान उपयोग
+NP32 easier use	आसान इस्तेमाल
+PP35 with machine learning algorithms	मशीन सीखने के एल्गोरिदम के साथ
+NP37 machine learning algorithms	मशीन सीख रहे एल्गोरिदम
+NML38 machine learning	मशीन सीखना
+NNS41 algorithms	एल्गोरिदम
+

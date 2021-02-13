@@ -1,0 +1,39 @@
+----
+0038	Its inference engine detected an inconsistency in the story: it knew that people do not have electrical parts, but because Fred was holding an electric razor, it believed the entity “FredWhileShaving” contained electrical parts.	 इसके अनुमान इंजन ने कहानी में एक असंगति का पता लगायाः यह जानता था कि लोगों के पास बिजली के पुर्जे नहीं हैं , लेकिन चूंकि फ्रेड एक बिजली का रेज़र लगा रहा था , इसलिए यह विश्वास करता था कि यह इकाई “फ़ेडवाहिलशिंग” में विद्युत पुर्जे थे .		
+37	37
+S1 Its inference engine detected an inconsistency in the story : it knew that people do not have electrical parts , but because Fred was holding an electric razor , it believed the entity “ FredWhileShaving ” contained electrical parts .	इसके अंतर्ज्ञान इंजन ने कहानी में एक असंतोष का पता लगाया ः यह जानता था कि लोगों के पास बिजली के हिस्से नहीं हैं, लेकिन क्योंकि फ्रेड एक इलेक्ट
+S2 Its inference engine detected an inconsistency in the story	इसके इंफेक्शन इंजन ने कहानी में एक असंतोष का पता लगाया
+NP3 Its inference engine	इसकी इंफेक्शन इंजन
+VP7_LWG detected	पता चला
+NP9 an inconsistency	एक असंतोष
+PP12 in the story	कहानी में
+NP14 the story	कहानी
+S18 it knew that people do not have electrical parts , but because Fred was holding an electric razor , it believed the entity “ FredWhileShaving ” contained electrical parts	यह जानता था कि लोगों के पास बिजली के अंग नहीं हैं, लेकिन क्योंकि फ्रेड एक इलेक्ट्रिक रेजर पकड़े हुए थे, इसलिए यह मानता था कि इकाई “
+S19 it knew that people do not have electrical parts	यह जानता था कि लोगों के पास बिजली के अंग नहीं हैं
+NP20 it	यह
+VP22_LWG knew	जानते थे।
+SBAR24 that people do not have electrical parts	कि लोगों के पास बिजली के हिस्से नहीं हैं
+S26 people do not have electrical parts	लोगों के पास इलेक्ट्रिकल पार्ट्स नहीं हैं
+NP27 people	लोगों
+NNS28 people	लोगों
+VP29_LWG do not have	न हों।
+NP34 electrical parts	बिजली के हिस्से
+NNS36 parts	भागों
+,37 ,	,
+CC38 but	लेकिन
+S39 because Fred was holding an electric razor , it believed the entity “ FredWhileShaving ” contained electrical parts	क्योंकि फ्रेड एक इलेक्ट्रिक रेजर पकड़े हुए थे, इसका मानना था कि इकाई “फ्रेडविशिंग शेविंग” में बिजली के अंग शामिल थे
+SBAR40 because Fred was holding an electric razor	क्योंकि फ्रेड एक इलेक्ट्रिक रेजर पकड़े हुए थे
+S42 Fred was holding an electric razor	फ्रेड एक इलेक्ट्रिक रेजर पकड़े हुए थे
+NP43 Fred	फ्रेड
+VP45_LWG was holding	पकड़े हुए थे।
+NP49 an electric razor	एक बिजली रेजर
+,53 ,	,
+NP54 it	यह
+VP56_LWG believed	माना जाता
+SBAR58 the entity “ FredWhileShaving ” contained electrical parts	इकाई “फ्रेडविथिंग शेविंग” में बिजली के अंग शामिल
+S59 the entity “ FredWhileShaving ” contained electrical parts	इकाई “फ्रेडविथिंग शेविंग” में बिजली के अंग शामिल
+NP60 the entity “ FredWhileShaving ”	इकाई “फ्रेडविशिंग्सविंग”
+VP66_LWG contained	शामिल
+NP68 electrical parts	बिजली के हिस्से
+NNS70 parts	भागों
+

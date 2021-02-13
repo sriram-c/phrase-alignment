@@ -1,0 +1,17 @@
+----
+0051	However, it cannot inﬂuence how features are deﬁned in any way.	 हालांकि , यह प्रभाव नहीं कर सकता कि लक्षणों को किसी भी तरह परिभाषित किया जाता है .		
+50	50
+S1 However , it can not inﬂuence how features are deﬁned in any way .	हालांकि, यह प्रभाव नहीं डाल सकता कि विशेषताएं किसी भी तरह से परिभाषित की जाती हैं।
+ADVP2 However	हालांकि
+,4 ,	,
+NP5 it	यह
+VP7_LWG can not inﬂuence	प्रभाव नहीं डाल सकते
+SBAR12 how features are deﬁned in any way	कितने फीचर्स को किसी भी तरह से परिभाषित किया जाता है
+WHADVP13 how	कैसे
+S15 features are deﬁned in any way	फीचर्स को किसी भी तरह से परिभाषित किया जाता है
+NP16 features	फीचर्स
+NNS17 features	फीचर्स
+VP18_LWG are deﬁned	परिभाषित हैं
+PP22 in any way	किसी भी तरह से
+NP24 any way	किसी भी तरह से
+

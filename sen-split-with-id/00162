@@ -1,0 +1,20 @@
+----
+162
+S1 This_1 is_2 because_3 the_4 system_5 ’s_6 understanding_7 of_8 the_9 simpler_10 concepts_11 can_12 be_13 reﬁned_14 given_15 information_16 about_17 the_18 more_19 complex_20 concepts_21 ._22
+NP2 This_1
+VP4_LWG is_2
+SBAR6 because_3 the_4 system_5 ’s_6 understanding_7 of_8 the_9 simpler_10 concepts_11 can_12 be_13 reﬁned_14 given_15 information_16 about_17 the_18 more_19 complex_20 concepts_21
+S8 the_4 system_5 ’s_6 understanding_7 of_8 the_9 simpler_10 concepts_11 can_12 be_13 reﬁned_14 given_15 information_16 about_17 the_18 more_19 complex_20 concepts_21
+NP9 the_4 system_5 ’s_6 understanding_7 of_8 the_9 simpler_10 concepts_11
+NP10 the_4 system_5 ’s_6 understanding_7
+PP15 of_8 the_9 simpler_10 concepts_11
+NP17 the_9 simpler_10 concepts_11
+NNS20 concepts_11
+VP21_LWG can_12 be_13 reﬁned_14
+PP27 given_15 information_16 about_17 the_18 more_19 complex_20 concepts_21
+NP29 information_16 about_17 the_18 more_19 complex_20 concepts_21
+NP30 information_16
+PP32 about_17 the_18 more_19 complex_20 concepts_21
+NP34 the_18 more_19 complex_20 concepts_21
+ADJP36 more_19 complex_20
+NNS39 concepts_21

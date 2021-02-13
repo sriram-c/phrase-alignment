@@ -1,0 +1,38 @@
+----
+265
+S1 While_1 the_2 kinds_3 of_4 neural_5 networks_6 used_7 for_8 machine_9 learning_10 have_11 sometimes_12 been_13 used_14 to_15 understand_16 brain_17 function_18 (_19 Hinton_20 and_21 Shallice_22 ,_23 1991_24 )_25 ,_26 they_27 are_28 generally_29 not_30 designed_31 to_32 be_33 realistic_34 models_35 of_36 biological_37 function_38 ._39
+SBAR2 While_1 the_2 kinds_3 of_4 neural_5 networks_6 used_7 for_8 machine_9 learning_10 have_11 sometimes_12 been_13 used_14 to_15 understand_16 brain_17 function_18 (_19 Hinton_20 and_21 Shallice_22 ,_23 1991_24 )_25
+S4 the_2 kinds_3 of_4 neural_5 networks_6 used_7 for_8 machine_9 learning_10 have_11 sometimes_12 been_13 used_14 to_15 understand_16 brain_17 function_18 (_19 Hinton_20 and_21 Shallice_22 ,_23 1991_24 )_25
+NP5 the_2 kinds_3 of_4 neural_5 networks_6 used_7 for_8 machine_9 learning_10
+NP6 the_2 kinds_3
+NNS8 kinds_3
+PP9 of_4 neural_5 networks_6 used_7 for_8 machine_9 learning_10
+NP11 neural_5 networks_6 used_7 for_8 machine_9 learning_10
+NP12 neural_5 networks_6
+NNS14 networks_6
+VP15_LWG used_7
+PP17 for_8 machine_9 learning_10
+NP19 machine_9 learning_10
+VP22_LWG have_11 sometimes_12 been_13 used_14
+ADVP24 sometimes_12
+S30 to_15 understand_16 brain_17 function_18
+VP31_LWG to_15 understand_16
+NP35 brain_17 function_18
+PRN38 (_19 Hinton_20 and_21 Shallice_22 ,_23 1991_24 )_25
+NP40 Hinton_20 and_21 Shallice_22
+CC42 and_42
+NNP41 Hinton_20
+NNP43 Shallice_22
+,44 ,_23
+NP45 1991_24
+,48 ,_26
+NP49 they_27
+VP51_LWG are_28 generally_29 not_30 designed_31
+ADVP53 generally_29
+S58 to_32 be_33 realistic_34 models_35 of_36 biological_37 function_38
+VP59_LWG to_32 be_33
+NP63 realistic_34 models_35 of_36 biological_37 function_38
+NP64 realistic_34 models_35
+NNS66 models_35
+PP67 of_36 biological_37 function_38
+NP69 biological_37 function_38

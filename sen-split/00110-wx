@@ -1,0 +1,18 @@
+----
+00111	Another perspective on deep learning is that depth enables the computer to learn a multistep computer program.	 gahare sIKane para eka Ora pariprekRya hE ki gaharAI kaMpyUtara ko eka maltIstepa kaMpyUtara progrAma sIKane meM sakRama banAwA hE .		
+110	110
+S1 Another perspective on deep learning is that depth enables the computer to learn a multistep computer program .	gaharI sIKa para eka Ora pariprekRya yaha hE ki gaharAI kaMpyUtara ko bahuAyAmI kaMpyUtara progrAma sIKane meM sakRama banAwI hE
+NP2 Another perspective on deep learning	gaharI sIKa para eka Ora najariyA
+NP3 Another perspective	eka Ora pariprekRya
+PP6 on deep learning	gaharI sIKa para
+NP8 deep learning	gaharI sIKa
+VP11_LWG is	hE
+SBAR13 that depth enables the computer to learn a multistep computer program	yaha gaharAI kaMpyUtara ko bahuAyAmI kaMpyUtara progrAma sIKane meM sakRama banAwI hE
+S15 depth enables the computer to learn a multistep computer program	kaMpyUtara ko bahuAyAmI kaMpyUtara progrAma sIKane meM sakRama banAwA hE gaharAI
+NP16 depth	gaharAI
+VP18_LWG enables	sakRama
+NP20 the computer	kaMpyUtara
+S23 to learn a multistep computer program	maltIstrepa kaMpyUtara progrAma sIKane ke lie
+VP24_LWG to learn	sIKane ke lie
+NP28 a multistep computer program	eka bahuAyAmI kaMpyUtara progrAma
+

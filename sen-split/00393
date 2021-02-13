@@ -1,0 +1,25 @@
+----
+00394	The most important new development is that today we can provide these algorithms with the resources they need to succeed.	 सबसे महत्वपूर्ण नया विकास है कि आज हम इन एल्गोरिदम वे सफल होने की जरूरत संसाधनों के साथ प्रदान कर सकते हैं .		
+393	393
+S1 The most important new development is that today we can provide these algorithms with the resources they need to succeed .	सबसे महत्वपूर्ण नया विकास यह है कि आज हम इन एल्गोरिदम को उन संसाधनों के साथ उपलब्ध करवा सकते हैं, जिनकी उन्हें सफल होने की जरूरत है
+NP2 The most important new development	सबसे महत्वपूर्ण नया विकास
+ADJP4 most important	सबसे महत्वपूर्ण
+VP9_LWG is	है।
+SBAR11 that today we can provide these algorithms with the resources they need to succeed	कि आज हम इन एल्गोरिदम को उन संसाधनों के साथ उपलब्ध करवा सकते हैं जिन्हें सफल होने की जरूरत है
+S13 today we can provide these algorithms with the resources they need to succeed	आज हम इन एल्गोरिदम को उन संसाधनों के साथ उपलब्ध करवा सकते हैं जिन्हें सफल होने की जरूरत है
+NP-TMP14 today	आज
+NP16 we	हम
+VP18_LWG can provide	उपलब्ध करवा सकते हैं।
+NP22 these algorithms	ये एल्गोरिदम
+NNS24 algorithms	एल्गोरिदम
+PP25 with the resources they need to succeed	संसाधनों के साथ उन्हें सफल होने की जरूरत है
+NP27 the resources they need to succeed	जिन संसाधनों की उन्हें सफलता की जरूरत है
+NP28 the resources	संसाधन
+NNS30 resources	संसाधन
+SBAR31 they need to succeed	उन्हें सफल होने की जरूरत है
+S32 they need to succeed	उन्हें सफल होने की जरूरत है
+NP33 they	वे
+VP35_LWG need	जरूरत
+S37 to succeed	सफल होने के लिए
+VP38_LWG to succeed	सफल होने के लिए
+

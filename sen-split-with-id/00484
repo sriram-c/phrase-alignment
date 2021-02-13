@@ -1,0 +1,12 @@
+----
+484
+NP1 2_1 3_2 4_3 5_4 6_5 7_6 8_7 9_8 10_9 11_10 12_11 13_12 14_13 15_14 16_15 17_16 18_17 19_18 20_19 Sponge_20 Roundworm_21 Leech_22 Ant_23 Bee_24 Frog_25 Octopus_26 Human_27 Figure_28 1.11_29 :_30 Increasing_31 neural_32 network_33 size_34 over_35 time_36 ._37
+NP2 2_1 3_2 4_3 5_4 6_5 7_6 8_7 9_8 10_9 11_10 12_11 13_12 14_13 15_14 16_15 17_16 18_17 19_18 20_19 Sponge_20 Roundworm_21 Leech_22 Ant_23 Bee_24 Frog_25 Octopus_26 Human_27 Figure_28 1.11_29
+NP3 2_1 3_2 4_3 5_4 6_5 7_6 8_7 9_8 10_9 11_10 12_11 13_12 14_13 15_14 16_15 17_16 18_17 19_18 20_19
+NP23 Sponge_20 Roundworm_21 Leech_22 Ant_23 Bee_24 Frog_25 Octopus_26 Human_27
+NP32 Figure_28 1.11_29
+NP36 Increasing_31 neural_32 network_33 size_34 over_35 time_36
+NP37 Increasing_31 neural_32 network_33 size_34
+NML39 neural_32 network_33
+PP43 over_35 time_36
+NP45 time_36

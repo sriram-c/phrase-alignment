@@ -1,0 +1,18 @@
+----
+7
+NP1 problems_1 that_2 can_3 be_4 described_5 by_6 a_7 list_8 of_9 formal_10 ,_11 math_12 -_13 ematical_14 rules_15 ._16
+NP2 problems_1
+NNS3 problems_1
+SBAR4 that_2 can_3 be_4 described_5 by_6 a_7 list_8 of_9 formal_10 ,_11 math_12 -_13 ematical_14 rules_15
+WHNP5 that_2
+S7 can_3 be_4 described_5 by_6 a_7 list_8 of_9 formal_10 ,_11 math_12 -_13 ematical_14 rules_15
+VP8_LWG can_3 be_4 described_5
+PP14 by_6 a_7 list_8 of_9 formal_10 ,_11 math_12 -_13 ematical_14 rules_15
+NP16 a_7 list_8 of_9 formal_10 ,_11 math_12 -_13 ematical_14 rules_15
+NP17 a_7 list_8
+PP20 of_9 formal_10 ,_11 math_12 -_13 ematical_14 rules_15
+NP22 formal_10 ,_11 math_12 -_13 ematical_14 rules_15
+,24 ,_11
+ADJP25 math_12 -_13 ematical_14
+NP26 math_12
+NNS30 rules_15

@@ -1,0 +1,19 @@
+----
+435
+S1 This_1 growth_2 is_3 driven_4 by_5 faster_6 computers_7 with_8 larger_9 memory_10 and_11 by_12 the_13 availability_14 of_15 larger_16 datasets_17 ._18
+NP2 This_1 growth_2
+VP5_LWG is_3 driven_4
+PP9 by_5 faster_6 computers_7 with_8 larger_9 memory_10 and_11 by_12 the_13 availability_14 of_15 larger_16 datasets_17
+PP10 by_5 faster_6 computers_7 with_8 larger_9 memory_10
+NP12 faster_6 computers_7 with_8 larger_9 memory_10
+NP13 faster_6 computers_7
+NNS15 computers_7
+PP16 with_8 larger_9 memory_10
+NP18 larger_9 memory_10
+CC21 and_21
+PP22 by_12 the_13 availability_14 of_15 larger_16 datasets_17
+NP24 the_13 availability_14 of_15 larger_16 datasets_17
+NP25 the_13 availability_14
+PP28 of_15 larger_16 datasets_17
+NP30 larger_16 datasets_17
+NNS32 datasets_17

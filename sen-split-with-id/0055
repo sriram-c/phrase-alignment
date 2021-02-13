@@ -1,0 +1,22 @@
+----
+55
+S1 People_1 can_2 easily_3 perform_4 arithmetic_5 on_6 Arabic_7 numerals_8 but_9 ﬁnd_10 arithmetic_11 on_12 Roman_13 numerals_14 much_15 more_16 time_17 consuming_18 ._19
+NP2 People_1
+NNS3 People_1
+VP4_LWG can_2 easily_3 perform_4 ﬁnd_10
+ADVP6 easily_3
+NP11 arithmetic_5
+PP13 on_6 Arabic_7 numerals_8
+NP15 Arabic_7 numerals_8
+NNS17 numerals_8
+CC18 but_18
+VP9 perform_4 arithmetic_5 on_6 Arabic_7 numerals_8
+VP19 ﬁnd_10 arithmetic_11 on_12 Roman_13 numerals_14 much_15 more_16 time_17 consuming_18
+NP21 arithmetic_11
+PP23 on_12 Roman_13 numerals_14 much_15 more_16 time_17 consuming_18
+NP25 Roman_13 numerals_14 much_15 more_16 time_17 consuming_18
+NP26 Roman_13 numerals_14 much_15 more_16
+NP27 Roman_13 numerals_14
+NNS29 numerals_14
+ADJP30 much_15 more_16
+ADJP33 time_17 consuming_18

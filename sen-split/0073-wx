@@ -1,0 +1,26 @@
+----
+0074	In the plot on the left, we represent some data using Cartesian coordinates, and the task is impossible.	 bAIM ora ke BUKaMda meM , hama kArtesiyana nirxeSAMka kA upayoga kara kuCa detA kA prawiniXiwva karawe hEM , Ora kArya asaMBava hE .		
+73	73
+S1 In the plot on the left , we represent some data using Cartesian coordinates , and the task is impossible .	bAIM ora BUKaMda meM, hama kArtesiyAna nirxeSAMka kA upayoga karake kuCa detA kA prawiniXiwva karawe hEM, Ora kArya asaMBava hE
+S2 In the plot on the left , we represent some data using Cartesian coordinates	bAIM ora BUKaMda meM, hama kArtesiyAna nirxeSAMka kA upayoga karake kuCa detA kA prawiniXiwva karawe hEM
+PP3 In the plot on the left	bAIM ora plAta meM
+NP5 the plot on the left	bAIM ora sAjiSa
+NP6 the plot	plAta
+PP9 on the left	bAIM ora
+NP11 the left	bAIM ora
+,14 ,	,
+NP15 we	hama
+VP17_LWG represent	prawiniXiwva
+NP19 some data	kuCa dAtA
+NNS21 data	detA
+S22 using Cartesian coordinates	kArtesiyAna nirxeSAMka kA upayoga karanA
+VP23_LWG using	iswemAla karanA
+NP25 Cartesian coordinates	kArtesiyAna nirxeSAMka
+NNS27 coordinates	nirxeSAMka
+,28 ,	,
+CC29 and	Ora
+S30 the task is impossible	kAma asaMBava hE
+NP31 the task	tAska
+VP34_LWG is	hE
+ADJP36 impossible	asaMBava
+

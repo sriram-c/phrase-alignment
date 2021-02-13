@@ -1,0 +1,18 @@
+----
+476
+S1 The_1 earliest_2 deep_3 models_4 were_5 used_6 to_7 recognize_8 individual_9 objects_10 in_11 tightly_12 cropped_13 ,_14 extremely_15 small_16 images_17 (_18
+NP2 The_1 earliest_2 deep_3 models_4
+NNS6 models_4
+VP7_LWG were_5 used_6
+S11 to_7 recognize_8 individual_9 objects_10 in_11 tightly_12 cropped_13 ,_14 extremely_15 small_16 images_17 (_18
+VP12_LWG to_7 recognize_8
+NP16 individual_9 objects_10
+NNS18 objects_10
+PP19 in_11 tightly_12 cropped_13 ,_14 extremely_15 small_16 images_17 (_18
+NP21 tightly_12 cropped_13 ,_14 extremely_15 small_16 images_17 (_18
+NP22 tightly_12 cropped_13 ,_14 extremely_15 small_16 images_17
+ADJP23 tightly_12 cropped_13 ,_14 extremely_15 small_16
+ADJP24 tightly_12 cropped_13
+,27 ,_14
+ADJP28 extremely_15 small_16
+NNS31 images_17

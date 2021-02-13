@@ -1,0 +1,22 @@
+----
+47
+S1 Instead_1 ,_2 the_3 doctor_4 tells_5 the_6 system_7 several_8 pieces_9 of_10 relevant_11 information_12 ,_13 such_14 as_15 the_16 presence_17 or_18 absence_19 of_20 a_21 uterine_22 scar_23 ._24
+ADVP2 Instead_1
+,4 ,_2
+NP5 the_3 doctor_4
+VP8_LWG tells_5
+NP10 the_6 system_7
+NP13 several_8 pieces_9 of_10 relevant_11 information_12 ,_13 such_14 as_15 the_16 presence_17 or_18 absence_19 of_20 a_21 uterine_22 scar_23
+NP14 several_8 pieces_9
+NNS16 pieces_9
+PP17 of_10 relevant_11 information_12
+NP19 relevant_11 information_12
+,22 ,_13
+PP23 such_14 as_15 the_16 presence_17 or_18 absence_19 of_20 a_21 uterine_22 scar_23
+NP26 the_16 presence_17 or_18 absence_19 of_20 a_21 uterine_22 scar_23
+NP27 the_16 presence_17 or_18 absence_19
+CC30 or_30
+NN29 presence_17
+NN31 absence_19
+PP32 of_20 a_21 uterine_22 scar_23
+NP34 a_21 uterine_22 scar_23

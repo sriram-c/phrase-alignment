@@ -1,0 +1,23 @@
+----
+00368	These two factors led to a decline in the popularity of neural networks that lasted until 2007.	 इन दो कारणों से तंत्रिका नेटवर्क की लोकप्रियता में गिरावट आई जो 2007 तक चली ।		
+367	367
+S1 These two factors led to a decline in the popularity of neural networks that lasted until 2007 .	इन दोनों कारकों की वजह से तंत्रिका नेटवर्क की लोकप्रियता में गिरावट आई जो 2007 तक चली।
+NP2 These two factors	ये दो कारक
+NNS5 factors	कारखाने
+VP6_LWG led	नेतृत्व
+PP8 to a decline	गिरावट के लिए
+NP10 a decline	एक गिरावट
+PP13 in the popularity of neural networks that lasted until 2007	2007 तक चले तंत्रिका नेटवर्क की लोकप्रियता में
+NP15 the popularity of neural networks that lasted until 2007	तंत्रिका नेटवर्क की लोकप्रियता जो 2007 तक चली
+NP16 the popularity	लोकप्रियता
+PP19 of neural networks that lasted until 2007	तंत्रिका नेटवर्कों की जो 2007 तक चली
+NP21 neural networks that lasted until 2007	तंत्रिका नेटवर्क जो 2007 तक चले
+NP22 neural networks	तंत्रिका नेटवर्क
+NNS24 networks	नेटवर्क
+SBAR25 that lasted until 2007	वह 2007 तक चली थी
+WHNP26 that	वह
+S28 lasted until 2007	2007 तक चली थी।
+VP29_LWG lasted	चला गया।
+PP31 until 2007	2007 तक
+NP33 2007	2007
+

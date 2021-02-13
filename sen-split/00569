@@ -1,0 +1,25 @@
+----
+00570	Modern convolu- tional networks for object recognition provide a model of visual processing that neuroscientists can study (DiCarlo, 2013).	 वस्तु मान्यता के लिए आधुनिक संवलित नेटवर्क दृश्य प्रक्रमण का एक मॉडल प्रदान करते हैं जिसका तंत्रिका विज्ञानी अध्ययन कर सकते हैं (DiCarlo , 2013 )		
+569	569
+S1 Modern convolu - tional networks for object recognition provide a model of visual processing that neuroscientists can study ( DiCarlo , 2013 ) .	आधुनिक कंवेल्यू - वस्तु मान्यता के लिए विभाजनकारी नेटवर्क दृश्य प्रसंस्करण का एक मॉडल उपलब्ध कराते हैं जो न्यूरो वैज्ञानिक अध्ययन कर सकते हैं (डि
+NP2 Modern convolu - tional networks for object recognition	आधुनिक कंवेल्यू - वस्तु मान्यता के लिए विभाजनकारी नेटवर्क
+NP3 Modern convolu - tional networks	आधुनिक कंट्रोल- टेलियन नेटवर्क
+NML5 convolu - tional	कंवोलु- शनिवार
+NNS9 networks	नेटवर्क
+PP10 for object recognition	वस्तु मान्यता के लिए
+NP12 object recognition	वस्तु मान्यता
+VP15_LWG provide	प्रदान करें।
+NP17 a model of visual processing	दृश्य प्रसंस्करण का मॉडल
+NP18 a model	एक मॉडल
+PP21 of visual processing	दृश्य प्रसंस्करण का
+NP23 visual processing	दृश्य प्रसंस्करण
+SBAR26 that neuroscientists can study	वो न्यूरो वैज्ञानिक पढ़ सकते हैं
+S28 neuroscientists can study	न्यूरो वैज्ञानिक कर सकते हैं अध्ययन
+NP29 neuroscientists	न्यूरो वैज्ञानिक
+NNS30 neuroscientists	न्यूरो वैज्ञानिक
+VP31_LWG can study	पढ़ाई कर सकते हैं।
+PRN35 ( DiCarlo , 2013 )	(डि कार्लो, 2013)
+NP37 DiCarlo	डि कार्लो
+,39 ,	,
+NP40 2013	2013
+

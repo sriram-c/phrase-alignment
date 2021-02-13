@@ -1,0 +1,20 @@
+----
+53
+S1 This_1 dependence_2 on_3 representations_4 is_5 a_6 general_7 phenomenon_8 that_9 appears_10 throughout_11 computer_12 science_13 and_14 even_15 daily_16 life_17 ._18
+NP2 This_1 dependence_2 on_3 representations_4
+NP3 This_1 dependence_2
+PP6 on_3 representations_4
+NP8 representations_4
+NNS9 representations_4
+VP10_LWG is_5
+NP12 a_6 general_7 phenomenon_8 that_9 appears_10 throughout_11 computer_12 science_13 and_14 even_15 daily_16 life_17
+NP13 a_6 general_7 phenomenon_8
+SBAR17 that_9 appears_10 throughout_11 computer_12 science_13 and_14 even_15 daily_16 life_17
+WHNP18 that_9
+S20 appears_10 throughout_11 computer_12 science_13 and_14 even_15 daily_16 life_17
+VP21_LWG appears_10
+PP23 throughout_11 computer_12 science_13 and_14 even_15 daily_16 life_17
+NP25 computer_12 science_13 and_14 even_15 daily_16 life_17
+NP26 computer_12 science_13
+CC29 and_29
+NP30 even_15 daily_16 life_17

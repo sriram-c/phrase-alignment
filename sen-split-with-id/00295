@@ -1,0 +1,29 @@
+----
+295
+S1 These_1 models_2 remain_3 some_4 of_5 the_6 most_7 widely_8 used_9 machine_10 learning_11 models_12 ,_13 though_14 in_15 many_16 cases_17 they_18 are_19 trained_20 in_21 diﬀerent_22 ways_23 than_24 the_25 original_26 models_27 were_28 trained_29 ._30
+NP2 These_1 models_2
+NNS4 models_2
+VP5_LWG remain_3
+NP7 some_4 of_5 the_6 most_7 widely_8 used_9 machine_10 learning_11 models_12
+NP8 some_4
+PP10 of_5 the_6 most_7 widely_8 used_9 machine_10 learning_11 models_12
+NP12 the_6 most_7 widely_8 used_9 machine_10 learning_11 models_12
+ADJP14 most_7 widely_8 used_9
+NML18 machine_10 learning_11
+NNS21 models_12
+,22 ,_13
+SBAR23 though_14 in_15 many_16 cases_17 they_18 are_19 trained_20 in_21 diﬀerent_22 ways_23 than_24 the_25 original_26 models_27 were_28 trained_29
+S25 in_15 many_16 cases_17 they_18 are_19 trained_20 in_21 diﬀerent_22 ways_23 than_24 the_25 original_26 models_27 were_28 trained_29
+PP26 in_15 many_16 cases_17
+NP28 many_16 cases_17
+NNS30 cases_17
+NP31 they_18
+VP33_LWG are_19 trained_20
+PP37 in_21 diﬀerent_22 ways_23
+NP39 diﬀerent_22 ways_23
+NNS41 ways_23
+SBAR42 than_24 the_25 original_26 models_27 were_28 trained_29
+S44 the_25 original_26 models_27 were_28 trained_29
+NP45 the_25 original_26 models_27
+NNS48 models_27
+VP49_LWG were_28 trained_29

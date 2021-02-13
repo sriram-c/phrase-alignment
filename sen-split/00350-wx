@@ -1,0 +1,42 @@
+----
+00351	One way of representing these inputs would be to have a separate neuron or hidden unit that activates for each of the nine possible combinations: red truck, red car, red bird, green truck, and so on.	 ina AxAnoM kA prawiniXiwva karane kA eka warIkA yaha hogA ki eka alaga nyUroYna yA CupI ikAI ho jo nO saMBava saMyojanoM meM se prawyeka ke lie sakriya ho : lAla traka , lAla kAra , lAla pakRI , hare traka , Axi .		
+350	350
+S1 One way of representing these inputs would be to have a separate neuron or hidden unit that activates for each of the nine possible combinations : red truck , red car , red bird , green truck , and so on .	ina inaputa kA prawiniXiwva karane kA eka warIkA eka alaga nyUrona yA CipI huI yUnita hogA jo nO saMBAviwa saMyojanoM meM se prawyeka ke lie sakriya howI hE H lAla
+NP2 One way of representing these inputs	ina inaputa kA prawiniXiwva karane kA eka warIkA
+NP3 One way	eka waraha se
+PP6 of representing these inputs	ina inaputa kA prawiniXiwva karane kI
+S8 representing these inputs	ina inaputa kA prawiniXiwva karawe hue
+VP9_LWG representing	prawiniXiwva karawe hue
+NP11 these inputs	ye inaputa
+NNS13 inputs	inaputa
+VP14_LWG would be	howA.
+S18 to have a separate neuron or hidden unit that activates for each of the nine possible combinations : red truck , red car , red bird , green truck , and so on	eka alaga nyUrona yA CipI huI yUnita honA jo nO saMBAviwa saMyojanoM meM se prawyeka ke lie sakriya howA hE H lAla traka, lAla kAra, lAla pakRI, harI
+VP19_LWG to have	karane ke lie
+NP23 a separate neuron or hidden unit that activates for each of the nine possible combinations : red truck , red car , red bird , green truck , and so on	eka alaga nyUrona yA CipI huI yUnita jo nO saMBAviwa saMyojanoM meM se prawyeka ke lie sakriya howI hE H lAla traka, lAla kAra, lAla pakRI, harI traka
+NP24 a separate neuron or hidden unit	eka alaga nyUrona yA CipI huI yUnita
+NP25 a separate neuron	eka alaga nyUrona
+CC29 or	yA
+NP30 hidden unit	CipI huI yUnita
+SBAR33 that activates for each of the nine possible combinations : red truck , red car , red bird , green truck , and so on	yaha nO saMBAviwa saMyojanoM meM se prawyeka ke lie sakriya howA hE H lAla traka, lAla kAra, lAla pakRI, harI traka, Ora isa prakAra
+WHNP34 that	vaha
+S36 activates for each of the nine possible combinations : red truck , red car , red bird , green truck , and so on	nO saMBAviwa saMyojanoM meM se prawyeka ke lie sakriya howA hEH lAla traka, lAla kAra, lAla pakRI, hare raMga kA traka, Ora isa prakAra
+VP37_LWG activates	sakriya
+PP39 for each of the nine possible combinations : red truck , red car , red bird , green truck , and so on	nO saMBAviwa saMyojanoM meM se prawyeka ke lie lAla traka, lAla kAra, lAla pakRI, hare raMga kA traka, Ora isa prakAra
+NP41 each of the nine possible combinations : red truck , red car , red bird , green truck , and so on	nO saMBAviwa saMyojanoM meM se prawyekaH lAla traka, lAla kAra, lAla pakRI, hare raMga kA traka, Ora isI waraha
+NP42 each of the nine possible combinations	nO saMBAviwa saMyojanoM meM se prawyeka
+NP43 each	prawyeka
+PP45 of the nine possible combinations	nO saMBAviwa saMyojanoM kI
+NP47 the nine possible combinations	nO saMBAviwa saMyojana
+NNS51 combinations	saMyojana
+UCP53 red truck , red car , red bird , green truck , and so on	lAla traka, lAla kAra, lAla pakRI, hare raMga kA traka, Ora isI waraha se
+NML54 red truck	lAla traka
+,57 ,	,
+NML58 red car	lAla kAra
+,61 ,	,
+NML62 red bird	lAla pakRI
+,65 ,	,
+NML66 green truck	hare traka
+,69 ,	,
+CC70 and	Ora
+ADJP71 so on	Ese para
+

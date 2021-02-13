@@ -1,0 +1,39 @@
+----
+00406	In the early 1900s, statisticians studied datasets using hundreds or thousands of manually compiled measurements (Garson, 1900; Gosset, 1908; Anderson, 1935; Fisher, 1936).	 mEnyuala rUpa se saMkaliwa AMkadZoM ke sEkadZoM ke upayoga kA prayoga karawe hue sAMKyikIvixoM ne 1900 ke AraMBika AMkadZoM kA aXyayana kiyA ( gasarasana yA 1900 ke prAraMBika AMkadZe mApane vAle hajAroM gosEta 1908 , mawsya eMdarasana , 1935		
+405	405
+S1 In the early 1900s , statisticians studied datasets using hundreds or thousands of manually compiled measurements ( Garson , 1900 ; Gosset , 1908 ; Anderson , 1935 ; Fisher , 1936 ) .	prAraMBika 1950 ke xaSaka meM, sAMKyika logoM ne sEkadZoM yA hajAroM kA prayoga karake detAbesa kA aXyayana kiyA jo mEnuala rUpa se saMkaliwa mApa (gArsana,
+PP2 In the early 1900s	prAraMBika 1950 ke xaSaka meM
+NP4 the early 1900s	prAraMBika 1400 ke xaSaka kI SuruAwa
+NNS7 1900s	1400 ke xaSaka
+,8 ,	,
+NP9 statisticians	sAMKyikAoM
+NNS10 statisticians	sAMKyikAoM
+VP11_LWG studied	paDZA-liKA
+NP13 datasets	detAbesa
+NNS14 datasets	detAbesa
+S15 using hundreds or thousands of manually compiled measurements ( Garson , 1900 ; Gosset , 1908 ; Anderson , 1935 ; Fisher , 1936 )	sEkadZoM yA hajAroM kA upayoga karake mEnuala rUpa se saMkaliwa mApa (gArsana, 2100; goseta,; eMdarasana, 1936 ; PiSara, 1936 ; PiSara, 1936 )
+VP16_LWG using	iswemAla karanA
+NP18 hundreds or thousands of manually compiled measurements ( Garson , 1900 ; Gosset , 1908 ; Anderson , 1935 ; Fisher , 1936 )	sEkadZoM yA hajAroM mEnuala rUpa se saMkaliwa mApa (gArsana, 2100 ; goseta, 1907 ; eMdarasana, 1936 ; PiSara, 1936 ; PiSara, 1936 )
+NP19 hundreds or thousands	sEkadZoM yA hajAroM
+QP20 hundreds or thousands	sEkadZoM yA hajAroM
+NNS21 hundreds	sEkadZoM
+CC22 or	yA
+NNS23 thousands	hajAroM
+PP24 of manually compiled measurements ( Garson , 1900 ; Gosset , 1908 ; Anderson , 1935 ; Fisher , 1936 )	mEnuala rUpa se saMkaliwa mApa (gArsana, 2100 ; goseta, 1907 ; eMdarasana, 1936 ; PiSara, 1936 )
+NP26 manually compiled measurements ( Garson , 1900 ; Gosset , 1908 ; Anderson , 1935 ; Fisher , 1936 )	mEnuala rUpa se saMkaliwa mApa (gArsana, 2100 ; goseta, 1907 ; eMdarasana, 1936 ; PiSara, 1936 )
+ADJP27 manually compiled	mEnuala rUpa se saMkaliwa
+NNS30 measurements	mApa
+PRN31 ( Garson , 1900 ; Gosset , 1908 ; Anderson , 1935 ; Fisher , 1936 )	(gArsana, 1800 ; goseta, 1907 ; eMdarasana, 1936 ; PiSara, 1936 )
+NP33 Garson	gArsana
+,35 ,	,
+NP36 1900	1400 ke xOrAna
+NP39 Gosset	godaseta
+,41 ,	,
+NP42 1908	1928
+NP45 Anderson	eMdarasana
+,47 ,	,
+NP48 1935	1936
+NP51 Fisher	PiSara
+,53 ,	,
+NP54 1936	1936
+

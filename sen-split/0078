@@ -1,0 +1,19 @@
+----
+0079	Learned representations often result in much better performance than can be obtained with hand-designed representations.	 विद्वत अभ्यावेदनों का परिणाम अक्सर हस्तलेखित अभ्यावेदनों से प्राप्त किए जा सकने की तुलना में कहीं बेहतर प्रदर्शन होता है .		
+78	78
+S1 Learned representations often result in much better performance than can be obtained with hand - designed representations .	सीखे हुए प्रतिनिधित्व अक्सर हाथ से प्राप्त किए जा सकते हैं ज्यादा बेहतर प्रदर्शन का परिणाम बनते हैं- डिजाइन किए गए प्रतिनिधित्व।
+NP2 Learned representations	सीखा प्रतिनिधित्व
+NNS4 representations	प्रतिनिधित्व
+ADVP5 often	अक्सर
+VP7_LWG result	परिणाम
+PP9 in much better performance	बहुत बेहतर प्रदर्शन में
+NP11 much better performance	बहुत बेहतर प्रदर्शन
+ADJP12 much better	बहुत बेहतर
+SBAR16 than can be obtained with hand - designed representations	हाथ से प्राप्त की जा सकती है - डिजाइन प्रतिनिधित्व
+S18 can be obtained with hand - designed representations	हाथ से प्राप्त किया जा सकता है- डिजाइन किए गए प्रतिनिधित्व
+VP19_LWG can be obtained	प्राप्त हो सकता है
+PP25 with hand - designed representations	हाथ से - डिजाइन प्रतिनिधित्व
+NP27 hand - designed representations	हाथ- डिजाइन प्रतिनिधित्व
+ADJP28 hand - designed	हाथ- डिजाइन
+NNS32 representations	प्रतिनिधित्व
+

@@ -1,0 +1,27 @@
+----
+00440	Biological neurons may represent more complicated functions than current articial neurons, so biological neural networks may be even larger than this plot portrays.	 jEvika nyUroYnsa varwamAna kqwrima nyUroYnsa kI wulanA meM aXika jatila kAryoM kA prawiniXiwva kara sakawe hEM , isalie jEvika waMwrikA netavarka isa sAjiSa ciwraNa se BI badZA ho sakawA hE .		
+439	439
+S1 Biological neurons may represent more complicated functions than current articial neurons , so biological neural networks may be even larger than this plot portrays .	jEvika nyUrojZa mOjUxA kqwrima nyUrojana kI wulanA meM aXika jatila kAryoM kA prawiniXiwva kara sakawe hEM, isalie jEvika waMwrikA netavarka isa plAta portarI se
+S2 Biological neurons may represent more complicated functions than current articial neurons	jEvika nyUrojZa mOjUxA kqwrima nyUronsa kI wulanA meM aXika jatila kAryoM kA prawiniXiwva kara sakawe hEM
+NP3 Biological neurons	jEvika nyUrona
+NNS5 neurons	nyUrona
+VP6_LWG may represent	ho sakawA hE prawiniXiwva
+NP10 more complicated functions	aXika jatila kArya
+ADJP11 more complicated	aXika jatila
+NNS14 functions	samAroha
+PP15 than current articial neurons	mOjUxA kqwrima nyUrona kI wulanA meM
+NP17 current articial neurons	varwamAna kqwrima nyUrona
+NNS20 neurons	nyUrona
+,21 ,	,
+CC22 so	Ese meM
+S23 biological neural networks may be even larger than this plot portrays	jEvika waMwrikA netavarka isa plAta portare se BI badZe ho sakawe hEM
+NP24 biological neural networks	jEvika waMwrikA netavarka
+NNS27 networks	netavarka
+VP28_LWG may be	ho sakawA hE
+ADJP32 even larger than this plot portrays	isa plAta portare se BI badZA
+ADJP33 even larger	yahAM waka ki badZA
+SBAR36 than this plot portrays	isa plAta portare kI wulanA meM
+S38 this plot portrays	yaha plAta portare
+NP39 this plot	yaha BUKaMda
+VP42_LWG portrays	portare
+

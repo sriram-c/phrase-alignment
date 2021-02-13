@@ -1,0 +1,20 @@
+----
+390
+S1 Fortunately_1 ,_2 the_3 amount_4 of_5 skill_6 required_7 reduces_8 as_9 the_10 amount_11 of_12 training_13 data_14 increases_15 ._16
+ADVP2 Fortunately_1
+,4 ,_2
+NP5 the_3 amount_4 of_5 skill_6 required_7
+NP6 the_3 amount_4
+PP9 of_5 skill_6 required_7
+NP11 skill_6 required_7
+NP12 skill_6
+VP14_LWG required_7
+VP16_LWG reduces_8
+SBAR18 as_9 the_10 amount_11 of_12 training_13 data_14 increases_15
+S20 the_10 amount_11 of_12 training_13 data_14 increases_15
+NP21 the_10 amount_11 of_12 training_13 data_14
+NP22 the_10 amount_11
+PP25 of_12 training_13 data_14
+NP27 training_13 data_14
+NNS29 data_14
+VP30_LWG increases_15

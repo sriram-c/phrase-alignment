@@ -1,0 +1,21 @@
+----
+00170	To summarize, deep learning, the subject of this book, is an approach to AI.	 संक्षेप करने के लिए , गहरी सीखने , इस पुस्तक का विषय है , एआई के लिए एक दृष्टिकोण है .		
+169	169
+S1 To summarize , deep learning , the subject of this book , is an approach to AI .	वर्णन करने के लिए, गहरी सीख, इस पुस्तक का विषय, एआई का दृष्टिकोण है।
+S2 To summarize	वर्णन करने के लिए
+VP3_LWG To summarize	वर्णन करने के लिए
+,7 ,	,
+NP8 deep learning , the subject of this book ,	गहरी सीख, इस पुस्तक का विषय,
+NP9 deep learning	गहरी सीख
+,12 ,	,
+NP13 the subject of this book	इस पुस्तक का विषय
+NP14 the subject	विषय
+PP17 of this book	इस पुस्तक की
+NP19 this book	यह पुस्तक
+,22 ,	,
+VP23_LWG is	है।
+NP25 an approach to AI	एआई का दृष्टिकोण
+NP26 an approach	एक दृष्टिकोण
+PP29 to AI	एआई को
+NP31 AI	ऐ.आई.
+

@@ -1,0 +1,29 @@
+----
+264
+S1 The_1 corresponding_2 perspective_3 on_4 deep_5 learning_6 models_7 is_8 that_9 they_10 are_11 engineered_12 systems_13 inspired_14 by_15 the_16 biological_17 brain_18 (_19 whether_20 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29 )_30 ._31
+NP2 The_1 corresponding_2 perspective_3 on_4 deep_5 learning_6 models_7
+NP3 The_1 corresponding_2 perspective_3
+PP7 on_4 deep_5 learning_6 models_7
+NP9 deep_5 learning_6 models_7
+NML10 deep_5 learning_6
+NNS13 models_7
+VP14_LWG is_8
+SBAR16 that_9 they_10 are_11 engineered_12 systems_13 inspired_14 by_15 the_16 biological_17 brain_18 (_19 whether_20 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29 )_30
+S18 they_10 are_11 engineered_12 systems_13 inspired_14 by_15 the_16 biological_17 brain_18 (_19 whether_20 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29 )_30
+NP19 they_10
+VP21_LWG are_11
+NP23 engineered_12 systems_13 inspired_14 by_15 the_16 biological_17 brain_18 (_19 whether_20 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29 )_30
+NP24 engineered_12 systems_13
+NNS26 systems_13
+VP27_LWG inspired_14
+PP29 by_15 the_16 biological_17 brain_18
+NP31 the_16 biological_17 brain_18
+SBAR35 (_19 whether_20 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29 )_30
+FRAG38 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29
+NP39 the_21 human_22 brain_23 or_24 the_25 brain_26 of_27 another_28 animal_29
+NP40 the_21 human_22 brain_23
+CC44 or_44
+NP45 the_25 brain_26 of_27 another_28 animal_29
+NP46 the_25 brain_26
+PP49 of_27 another_28 animal_29
+NP51 another_28 animal_29

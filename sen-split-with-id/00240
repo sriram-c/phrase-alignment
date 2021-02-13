@@ -1,0 +1,13 @@
+----
+240
+UCP1 The_1 Many_2 Names_3 and_4 Changing_5 Fortunes_6 of_7 Neural_8 Net_9 -_10 works_11
+NP2 The_1 Many_2 Names_3
+NNS5 Names_3
+CC6 and_6
+S7 Changing_5 Fortunes_6 of_7 Neural_8 Net_9 -_10 works_11
+VP8_LWG Changing_5
+NP10 Fortunes_6 of_7 Neural_8 Net_9 -_10 works_11
+NP11 Fortunes_6
+PP13 of_7 Neural_8 Net_9 -_10 works_11
+NP15 Neural_8 Net_9 -_10 works_11
+NNS19 works_11

@@ -1,0 +1,27 @@
+----
+00440	Biological neurons may represent more complicated functions than current artiﬁcial neurons, so biological neural networks may be even larger than this plot portrays.	 जैविक न्यूरॉन्स वर्तमान कृत्रिम न्यूरॉन्स की तुलना में अधिक जटिल कार्यों का प्रतिनिधित्व कर सकते हैं , इसलिए जैविक तंत्रिका नेटवर्क इस साजिश चित्रण से भी बड़ा हो सकता है .		
+439	439
+S1 Biological neurons may represent more complicated functions than current artiﬁcial neurons , so biological neural networks may be even larger than this plot portrays .	जैविक न्यूरोज़ मौजूदा कृत्रिम न्यूरोजन की तुलना में अधिक जटिल कार्यों का प्रतिनिधित्व कर सकते हैं, इसलिए जैविक तंत्रिका नेटवर्क इस प्लाट पोर्टरी से
+S2 Biological neurons may represent more complicated functions than current artiﬁcial neurons	जैविक न्यूरोज़ मौजूदा कृत्रिम न्यूरोन्स की तुलना में अधिक जटिल कार्यों का प्रतिनिधित्व कर सकते हैं
+NP3 Biological neurons	जैविक न्यूरोन
+NNS5 neurons	न्यूरोन
+VP6_LWG may represent	हो सकता है प्रतिनिधित्व
+NP10 more complicated functions	अधिक जटिल कार्य
+ADJP11 more complicated	अधिक जटिल
+NNS14 functions	समारोह
+PP15 than current artiﬁcial neurons	मौजूदा कृत्रिम न्यूरोन की तुलना में
+NP17 current artiﬁcial neurons	वर्तमान कृत्रिम न्यूरोन
+NNS20 neurons	न्यूरोन
+,21 ,	,
+CC22 so	ऐसे में
+S23 biological neural networks may be even larger than this plot portrays	जैविक तंत्रिका नेटवर्क इस प्लाट पोर्टरे से भी बड़े हो सकते हैं
+NP24 biological neural networks	जैविक तंत्रिका नेटवर्क
+NNS27 networks	नेटवर्क
+VP28_LWG may be	हो सकता है
+ADJP32 even larger than this plot portrays	इस प्लाट पोर्टरे से भी बड़ा
+ADJP33 even larger	यहां तक कि बड़ा
+SBAR36 than this plot portrays	इस प्लाट पोर्टरे की तुलना में
+S38 this plot portrays	यह प्लाट पोर्टरे
+NP39 this plot	यह भूखंड
+VP42_LWG portrays	पोर्टरे
+

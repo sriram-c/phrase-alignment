@@ -1,0 +1,16 @@
+----
+276
+S1 These_1 models_2 would_3 learn_4 a_5 set_6 of_7 weights_8 w_9 1_10 ,_11 ._12 ._13
+S2 These_1 models_2 would_3 learn_4 a_5 set_6 of_7 weights_8 w_9 1_10
+NP3 These_1 models_2
+NNS5 models_2
+VP6_LWG would_3 learn_4
+NP10 a_5 set_6 of_7 weights_8
+NP11 a_5 set_6
+PP14 of_7 weights_8
+NP16 weights_8
+NNS17 weights_8
+PP18 w_9 1_10
+NP20 1_10
+,22 ,_11
+S23 ._12

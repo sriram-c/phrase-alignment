@@ -1,0 +1,37 @@
+----
+00127	Given the ﬁrst hidden layer’s description of the edges, the second hidden layer can easily search for corners and extended contours, which are recognizable as collections of edges.	 किनारों के पहले छिपा परत के वर्णन को देखते हुए , दूसरी छिपा परत आसानी से कोनों और विस्तारित contours के लिए खोज कर सकते हैं , जो किनारों के संग्रह के रूप में पहचानने योग्य हैं .		
+126	126
+S1 Given the ﬁrst hidden layer ’s description of the edges , the second hidden layer can easily search for corners and extended contours , which are recognizable as collections of edges .	पहली छिपी हुई परत के किनारों का विवरण देखते हुए दूसरी छिपी हुई परत आसानी से कोनों और विस्तारित क्रॉउंड की तलाश कर सकती है, जो किनारों
+PP2 Given the ﬁrst hidden layer ’s description of the edges	पहली छिपी हुई परत के किनारों का विवरण देखते हुए
+NP4 the ﬁrst hidden layer ’s description of the edges	पहली छिपी हुई परत का किनारों का विवरण
+NP5 the ﬁrst hidden layer ’s description	पहली छिपी हुई परत का विवरण
+NML8 hidden layer	छिपी हुई परत
+PP13 of the edges	किनारों की
+NP15 the edges	किनारों
+NNS17 edges	किनारों
+,18 ,	,
+NP19 the second hidden layer	दूसरी छिपी हुई परत
+VP24_LWG can easily search	आसानी से खोज सकते हैं
+ADVP26 easily	आसानी से
+PP30 for corners and extended contours , which are recognizable as collections of edges	कोनों के लिए और विस्तारित परिसरों के लिए, जो कि किनारों के संग्रह के रूप में मान्यता प्राप्त हैं
+NP32 corners and extended contours , which are recognizable as collections of edges	कोने और विस्तारित परिसर, जो कि किनारों के संग्रह के रूप में मान्यता प्राप्त हैं
+NP33 corners and extended contours	कोनों और विस्तारित क्रॉउंड
+NP34 corners	कोने-कोने
+NNS35 corners	कोने-कोने
+CC36 and	और
+NP37 extended contours	विस्तारित परिसर
+NNS39 contours	तहखाने
+,40 ,	,
+SBAR41 which are recognizable as collections of edges	जो कि किनारों के संग्रह के रूप में मान्यता प्राप्त हैं
+WHNP42 which	जो कि
+S44 are recognizable as collections of edges	किनारों के संग्रह के रूप में मान्यता प्राप्त हैं
+VP45_LWG are	हैं।
+ADJP47 recognizable as collections of edges	किनारों के संग्रह के रूप में मान्यता प्राप्त
+PP49 as collections of edges	किनारों के संग्रह के रूप में
+NP51 collections of edges	किनारों के संग्रह
+NP52 collections	संग्रह
+NNS53 collections	संग्रह
+PP54 of edges	किनारों की
+NP56 edges	किनारों
+NNS57 edges	किनारों
+

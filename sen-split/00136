@@ -1,0 +1,26 @@
+----
+00137	The representation also stores state information that helps to execute a program that can make sense of the input.	 अभ्यावेदन राज्य सूचना को भी संग्रहित करता है जो एक ऐसे प्रोग्राम को निष्पादित करने में मदद करता है जो इनपुट का बोध करा सकता है .		
+136	136
+S1 The representation also stores state information that helps to execute a program that can make sense of the input .	प्रतिनिधित्व राज्य की जानकारी को भी भंडार करता है जो एक कार्यक्रम को निष्पादित करने में मदद करता है जो इनपुट का अर्थ बना सकता है।
+NP2 The representation	प्रतिनिधित्व
+ADVP5 also	साथ ही।
+VP7_LWG stores	स्टोर
+NP9 state information that helps to execute a program that can make sense of the input	राज्य जानकारी जो एक कार्यक्रम को निष्पादित करने में मदद करता है जो इनपुट का अर्थ बना सकता है
+NP10 state information	राज्य सूचनाएं
+SBAR13 that helps to execute a program that can make sense of the input	यह एक कार्यक्रम को निष्पादित करने में मदद करता है जो इनपुट की भावना बना सकता है
+WHNP14 that	वह
+S16 helps to execute a program that can make sense of the input	एक कार्यक्रम को निष्पादित करने में मदद करता है जो इनपुट की भावना बना सकता है
+VP17_LWG helps	मदद करता है।
+S19 to execute a program that can make sense of the input	एक कार्यक्रम को निष्पादित करने के लिए जो इनपुट का अर्थ बना सकता है
+VP20_LWG to execute	निष्पादित करने के लिए
+NP24 a program that can make sense of the input	एक कार्यक्रम जो इनपुट की भावना बना सकता है
+NP25 a program	एक कार्यक्रम
+SBAR28 that can make sense of the input	जो इनपुट की भावना बना सकता है
+WHNP29 that	वह
+S31 can make sense of the input	इनपुट की भावना बना सकते हैं
+VP32_LWG can make	बना सकते हैं।
+NP36 sense of the input	इनपुट की भावना
+NP37 sense	समझदारी
+PP39 of the input	इनपुट का
+NP41 the input	इनपुट
+

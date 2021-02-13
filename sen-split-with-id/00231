@@ -1,0 +1,28 @@
+----
+231
+S1 We_1 assume_2 familiarity_3 with_4 programming_5 ,_6 a_7 basic_8 understanding_9 of_10 computational_11 performance_12 issues_13 ,_14 complexity_15 theory_16 ,_17 introductory_18 level_19 calculus_20 and_21 some_22 of_23 the_24 terminology_25 of_26 graph_27 theory_28 ._29
+NP2 We_1
+VP4_LWG assume_2
+NP6 familiarity_3 with_4 programming_5 ,_6 a_7 basic_8 understanding_9 of_10 computational_11 performance_12 issues_13 ,_14 complexity_15 theory_16 ,_17 introductory_18 level_19 calculus_20 and_21 some_22 of_23 the_24 terminology_25 of_26 graph_27 theory_28
+NP7 familiarity_3 with_4 programming_5
+NP8 familiarity_3
+PP10 with_4 programming_5
+NP12 programming_5
+,14 ,_6
+NP15 a_7 basic_8 understanding_9 of_10 computational_11 performance_12 issues_13
+NP16 a_7 basic_8 understanding_9
+PP20 of_10 computational_11 performance_12 issues_13
+NP22 computational_11 performance_12 issues_13
+NNS25 issues_13
+,26 ,_14
+NP27 complexity_15 theory_16
+,30 ,_17
+NP31 introductory_18 level_19 calculus_20
+CC35 and_35
+NP36 some_22 of_23 the_24 terminology_25 of_26 graph_27 theory_28
+NP37 some_22
+PP39 of_23 the_24 terminology_25 of_26 graph_27 theory_28
+NP41 the_24 terminology_25 of_26 graph_27 theory_28
+NP42 the_24 terminology_25
+PP45 of_26 graph_27 theory_28
+NP47 graph_27 theory_28

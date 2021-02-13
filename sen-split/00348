@@ -1,0 +1,22 @@
+----
+00349	For example, suppose we have a vision system that can recognize 16 CHAPTER 1.	 उदाहरण के लिए , मान लीजिए कि हमारे पास एक दृष्टि प्रणाली है जो 16 CHAPTER 1 को पहचान सकती है ।		
+348	348
+FRAG1 For example , suppose we have a vision system that can recognize 16 CHAPTER 1 .	उदाहरण के लिए, मान लीजिए कि हमारे पास एक दृष्टि प्रणाली है जो 16 अध्याय 1 को पहचान सकती है।
+S2 For example , suppose we have a vision system that can recognize 16	उदाहरण के लिए, मान लीजिए कि हमारे पास एक दृष्टि प्रणाली है जो 16 को पहचान सकती है
+PP3 For example	उदाहरण के लिए
+NP5 example	उदाहरण
+,7 ,	,
+VP8_LWG suppose	मान लीजिए।
+SBAR10 we have a vision system that can recognize 16	हमारे पास एक दृष्टि प्रणाली है जो 16 को पहचान सकती है
+S11 we have a vision system that can recognize 16	हमारे पास एक दृष्टि प्रणाली है जो 16 को पहचान सकती है
+NP12 we	हम
+VP14_LWG have	पास है।
+NP16 a vision system that can recognize 16	एक दृष्टि प्रणाली जो 16 को पहचान सकती है
+NP17 a vision system	एक दृष्टि प्रणाली
+SBAR21 that can recognize 16	जो 16 को पहचान सकता है
+WHNP22 that	वह
+S24 can recognize 16	16 को पहचान सकते हैं
+VP25_LWG can recognize	पहचान सकते हैं।
+NP29 16	16
+NP31 CHAPTER 1	चैप्टर 1
+

@@ -1,0 +1,18 @@
+----
+0036	People struggle to devise formal rules with enough complexity to accurately describe the world.	 लोग दुनिया का सही वर्णन करने के लिए पर्याप्त जटिलता के साथ औपचारिक नियम बनाने के लिए संघर्ष करते हैं .		
+35	35
+S1 People struggle to devise formal rules with enough complexity to accurately describe the world .	लोग विश्व को सटीक रूप से वर्णन करने के लिए पर्याप्त जटिलता के साथ औपचारिक नियम बनाने के लिए संघर्ष करते हैं।
+NP2 People	लोगों
+NNS3 People	लोगों
+VP4_LWG struggle	संघर्ष
+S6 to devise formal rules with enough complexity to accurately describe the world	दुनिया का सटीक वर्णन करने के लिए पर्याप्त जटिलता के साथ औपचारिक नियम बनाने के लिए
+VP7_LWG to devise	तैयार करने के लिए
+NP11 formal rules	औपचारिक नियम
+NNS13 rules	नियम
+PP14 with enough complexity	पर्याप्त जटिलता के साथ
+NP16 enough complexity	पर्याप्त जटिलता
+S19 to accurately describe the world	दुनिया का सटीक वर्णन करने के लिए
+VP20_LWG to accurately describe	सटीक रूप से वर्णन करने के लिए
+ADVP22 accurately	सटीक तरीके से
+NP26 the world	दुनिया
+

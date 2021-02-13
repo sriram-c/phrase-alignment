@@ -1,0 +1,38 @@
+----
+00423	Geoﬀrey Hinton has described it as “the drosophila of machine learning,” meaning that it enables machine learning researchers to study their algorithms in controlled laboratory conditions, much as biologists often study fruit ﬂies.	 जेफ्री हाइनटन ने इसे “ मशीनी शिक्षण का डेरोसोफिला” कहा है , जिसका अर्थ है कि यह मशीनी शिक्षण शोधकर्ताओं को नियंत्रित प्रयोगशाला परिस्थितियों में उनके एल्गोरिदम का अध्ययन करने में सक्षम बनाता है , बहुत कुछ जीवविज्ञानी अक्सर फल मक्खियों का अध्ययन करते हैं .		
+422	422
+S1 Geoﬀrey Hinton has described it as “ the drosophila of machine learning , ” meaning that it enables machine learning researchers to study their algorithms in controlled laboratory conditions , much as biologists often study fruit ﬂies .	जेफ्री हिंटन ने इसे “मशीन सीखने का डोरोफिफा,” बताया है, अर्थात यह अनुसंधानकर्ताओं को नियंत्रित प्रयोगशाला परिस्थितियों में अपने एल्गोरिदम का अध्य
+NP2 Geoﬀrey Hinton	जेफ्री हिंटन
+VP5_LWG has described	वर्णित किया है
+NP9 it	यह
+PP11 as “ the drosophila of machine learning , ” meaning that it enables machine learning researchers to study their algorithms in controlled laboratory conditions , much as biologists often study fruit ﬂies	जैसा कि “मशीन सीखने का डोरोफिफा, “का अर्थ है कि यह मशीन सीखने वाले अनुसंधानकर्ताओं को नियंत्रित प्रयोगशाला परिस्थितियों में अपने एल्गोरिदम
+NP13 “ the drosophila of machine learning , ” meaning that it enables machine learning researchers to study their algorithms in controlled laboratory conditions , much as biologists often study fruit ﬂies	“मशीन सीखने का डोरोफिफा,” अर्थ है कि यह मशीन सीखने वाले अनुसंधानकर्ताओं को नियंत्रित प्रयोगशाला की परिस्थितियों में अपने एल्गोरिदम का अध्ययन कर
+NP14 “ the drosophila of machine learning , ”	“मशीन सीखने का डोरोफिला,”
+NP16 the drosophila	डोरोफिला
+PP19 of machine learning	मशीन सीखने की
+NP21 machine learning	मशीन सीखना
+,24 ,	,
+VP26_LWG meaning	मतलब
+SBAR28 that it enables machine learning researchers to study their algorithms in controlled laboratory conditions , much as biologists often study fruit ﬂies	यह मशीन सीखने वाले अनुसंधानकर्ताओं को नियंत्रित प्रयोगशाला की परिस्थितियों में अपने एल्गोरिदम का अध्ययन करने में सक्षम बनाता है, क्योंकि जीवविज्ञानी अक्
+S30 it enables machine learning researchers to study their algorithms in controlled laboratory conditions , much as biologists often study fruit ﬂies	यह मशीन सीखने वाले अनुसंधानकर्ताओं को नियंत्रित प्रयोगशाला की परिस्थितियों में अपने एल्गोरिदम का अध्ययन करने में सक्षम बनाता है, क्योंकि जीवविज्ञानी अक्
+NP31 it	यह
+VP33_LWG enables	सक्षम
+NP35 machine learning researchers	मशीन सीख अनुसंधानकर्ताओं
+NML36 machine learning	मशीन सीखना
+NNS39 researchers	शोधकर्ताओं
+S40 to study their algorithms in controlled laboratory conditions , much as biologists often study fruit ﬂies	नियंत्रित प्रयोगशाला परिस्थितियों में अपने एल्गोरिदम का अध्ययन करने के लिए, बहुत अधिक जीवविज्ञानी अक्सर फलों की मक्खियों का अध्ययन करते हैं
+VP41_LWG to study much often study	बहुत बार पढ़ाई करने के लिए पढ़ाई
+NP46 their algorithms	उनके एल्गोरिदम
+NNS48 algorithms	एल्गोरिदम
+PP49 in controlled laboratory conditions	नियंत्रित प्रयोगशाला परिस्थितियों में
+NP51 controlled laboratory conditions	नियंत्रित प्रयोगशाला की स्थिति
+NNS54 conditions	शर्तें
+,55 ,	,
+ADVP56 much as biologists	बहुत जैसे बायोलॉजिस्ट
+PP58 as biologists	जीवविज्ञानी के रूप में
+NP60 biologists	बायोलॉजिस्ट
+NNS61 biologists	बायोलॉजिस्ट
+ADVP62 often	अक्सर
+NP66 fruit ﬂies	फलों की उड़न
+NNS68 ﬂies	मक्खियों
+

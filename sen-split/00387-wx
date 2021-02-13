@@ -1,0 +1,28 @@
+----
+00388	One may wonder why deep learning has only recently become recognized as a crucial technology even though the rst experiments with articial neural networks were conducted in the 1950s.	 AScarya ho sakawA hE ki hAla hI meM gahana aXyayana ko eka mahawvapUrNa prOxyogikI ke rUpa meM mAnyawA kyoM xI gaI hE , hAlAMki kqwrima waMwrikA netavarkoM ke sAWa praWama prayoga 1950 ke xaSaka meM kie gae We 		
+387	387
+S1 One may wonder why deep learning has only recently become recognized as a crucial technology even though the rst experiments with articial neural networks were conducted in the 1950s .	eka AScarya ho sakawA hE ki gaharI sIKa kevala hAla hI meM mahawvapUrNa wakanIka ke rUpa meM mAnya ho gaI hE, Bale hI 1950 ke xaSaka meM kqwrima waMwrikA netavarka
+NP2 One	eka
+VP4_LWG may wonder	AScarya ho sakawA hE
+SBAR8 why deep learning has only recently become recognized as a crucial technology even though the rst experiments with articial neural networks were conducted in the 1950s	kyoM gaharI sIKa hAla hI meM mahawvapUrNa wakanIka ke rUpa meM mAnya ho gaI hE Bale hI 1950 ke xaSaka meM kqwrima waMwrikA netavarka ke sAWa pahale prayoga kie ga
+WHADVP9 why	kyoM
+S11 deep learning has only recently become recognized as a crucial technology even though the rst experiments with articial neural networks were conducted in the 1950s	gaharI sIKa hAla hI meM mahawvapUrNa wakanIka ke rUpa meM mAnya ho gaI hE Bale hI 1950 ke xaSaka meM kqwrima waMwrikA netavarka ke sAWa pahale prayoga kie gae
+NP12 deep learning	gaharI sIKa
+VP15_LWG has only recently become recognized	hAla hI meM mAnyawA prApwa huI hE
+ADVP17 only	kevala
+ADVP20 recently	hAla hI meM
+PP25 as a crucial technology	eka mahawvapUrNa wakanIka ke rUpa meM
+NP27 a crucial technology	eka mahawvapUrNa wakanIka
+SBAR31 even though the rst experiments with articial neural networks were conducted in the 1950s	Bale hI 1950 ke xaSaka meM kqwrima waMwrikA netavarka ke sAWa pahale prayoga kie gae
+S34 the rst experiments with articial neural networks were conducted in the 1950s	kqwrima waMwrikA netavarka ke sAWa pahale prayoga 1950 ke xaSaka meM kie gae
+NP35 the rst experiments with articial neural networks	kqwrima waMwrikA netavarka ke sAWa pahalA prayoga
+NP36 the rst experiments	pahale prayoga
+NNS39 experiments	prayoga
+PP40 with articial neural networks	kqwrima waMwrikA netavarka ke sAWa
+NP42 articial neural networks	kqwrima waMwrikA netavarka
+NNS45 networks	netavarka
+VP46_LWG were conducted	Ayojiwa kiyA gayA
+PP50 in the 1950s	1950 ke xaSaka meM
+NP52 the 1950s	1950 ke xaSaka meM
+NNS54 1950s	1950 ke xaSaka meM
+

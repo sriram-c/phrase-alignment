@@ -1,0 +1,23 @@
+----
+569
+S1 Modern_1 convolu_2 -_3 tional_4 networks_5 for_6 object_7 recognition_8 provide_9 a_10 model_11 of_12 visual_13 processing_14 that_15 neuroscientists_16 can_17 study_18 (_19 DiCarlo_20 ,_21 2013_22 )_23 ._24
+NP2 Modern_1 convolu_2 -_3 tional_4 networks_5 for_6 object_7 recognition_8
+NP3 Modern_1 convolu_2 -_3 tional_4 networks_5
+NML5 convolu_2 -_3 tional_4
+NNS9 networks_5
+PP10 for_6 object_7 recognition_8
+NP12 object_7 recognition_8
+VP15_LWG provide_9
+NP17 a_10 model_11 of_12 visual_13 processing_14
+NP18 a_10 model_11
+PP21 of_12 visual_13 processing_14
+NP23 visual_13 processing_14
+SBAR26 that_15 neuroscientists_16 can_17 study_18
+S28 neuroscientists_16 can_17 study_18
+NP29 neuroscientists_16
+NNS30 neuroscientists_16
+VP31_LWG can_17 study_18
+PRN35 (_19 DiCarlo_20 ,_21 2013_22 )_23
+NP37 DiCarlo_20
+,39 ,_21
+NP40 2013_22

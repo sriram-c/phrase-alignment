@@ -1,0 +1,27 @@
+----
+0012	By gathering knowledge from experience, this approach avoids the need for human operators to formally specify all the knowledge that the computer needs.	 अनुभव से ज्ञान इकट्ठा करके , यह दृष्टिकोण मानव ऑपरेटरों के लिए उन सभी ज्ञान को औपचारिक रूप से निर्दिष्ट करने की आवश्यकता से बचता है जिनकी कंप्यूटर को आवश्यकता होती है .		
+11	11
+S1 By gathering knowledge from experience , this approach avoids the need for human operators to formally specify all the knowledge that the computer needs .	अनुभव से ज्ञान जुटाकर, यह दृष्टिकोण मानव संचालकों की आवश्यकता से बचता है कि वह सभी ज्ञान को औपचारिक रूप से विशिष्ट करे जो कंप्यूटर की जरूरत है।
+PP2 By gathering knowledge from experience	अनुभव से ज्ञान जुटाकर
+S4 gathering knowledge from experience	अनुभव से ज्ञान जुटाना
+VP5_LWG gathering	इकट्ठा होना
+NP7 knowledge	ज्ञान
+PP9 from experience	अनुभव से
+NP11 experience	अनुभव
+,13 ,	,
+NP14 this approach	यह दृष्टिकोण
+VP17_LWG avoids	इससे बचते हैं।
+NP19 the need for human operators	मानव संचालकों की जरूरत
+NP20 the need	जरूरत
+PP23 for human operators	मानव संचालकों के लिए
+NP25 human operators	मानव संचालक
+NNS27 operators	संचालक
+S28 to formally specify all the knowledge that the computer needs	औपचारिक रूप से उन सभी ज्ञानों को विशिष्ट करने के लिए जिन्हें कंप्यूटर को चाहिए
+VP29_LWG to formally specify	औपचारिक रूप से विशिष्टता के लिए
+ADVP31 formally	औपचारिक तौर पर
+NP35 all the knowledge	सारा ज्ञान
+SBAR39 that the computer needs	कि कंप्यूटर की जरूरत
+S41 the computer needs	कंप्यूटर की जरूरत
+NP42 the computer	कंप्यूटर
+VP45_LWG needs	जरूरतें
+

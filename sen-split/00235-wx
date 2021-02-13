@@ -1,0 +1,32 @@
+----
+00236	 Deep learning has had a long and rich history, but has gone by many names, reecting dierent philosophical viewpoints, and has waxed and waned in popularity.	  gahana aXyayana kA eka laMbA Ora samqxXa iwihAsa rahA hE , lekina kaI nAmoM se calA gayA hE , viBinna xArSanika xqRtikoNoM ko prawibiMbiwa , Ora lokapriyawA meM vqxXi huI hE Ora icCuka hE .		
+235	235
+S1  Deep learning has had a long and rich history , but has gone by many names , reecting dierent philosophical viewpoints , and has waxed and waned in popularity .	 gaharI sIKa kA laMbA Ora samqxXa iwihAsa rahA hE, lekina kaI nAmoM se calA gayA hE, alaga-alaga xArSanika xqRtikoNoM ko xarSAwA hE, Ora
+NP2  Deep learning	 gaharI sIKa
+NML3  Deep	 gaharA
+VP7_LWG has had has gone has waxed waned	calA gayA hE calA gayA hE moma laharAyA
+NP12 a long and rich history	eka laMbe Ora samqxXa iwihAsa
+ADJP14 long and rich	laMbe Ora amIra
+CC16 and	Ora
+JJ15 long	laMbe samaya waka
+JJ17 rich	amIra
+,19 ,	,
+CC20 but	lekina
+VP21 has gone by many names , reecting dierent philosophical viewpoints	kaI nAmoM se calA gayA hE, alaga-alaga xArSanika xqRtikoNoM ko xarSAwe hue
+PP25 by many names	kaI nAmoM se
+NP27 many names	kaI nAma
+NNS29 names	nAma
+,30 ,	,
+S31 reecting dierent philosophical viewpoints	alaga-alaga xArSanika xqRtikoNoM ko prawibiMbiwa karanA
+VP32_LWG reecting	prawibiMbiwa
+NP34 dierent philosophical viewpoints	alaga-alaga xArSanika xqRtikoNa
+NNS37 viewpoints	xqRtikoNa
+,38 ,	,
+CC39 and	Ora
+VP40 has waxed and waned in popularity	lokapriyawA meM moma Ora laharAyA hE
+CC44 and	Ora
+VBN43 waxed	momabawwI
+VBN45 waned	jAma kara xiyA gayA
+PP46 in popularity	lokapriyawA meM
+NP48 popularity	lokapriyawA
+

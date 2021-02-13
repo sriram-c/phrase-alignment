@@ -1,0 +1,27 @@
+----
+00558	In the context of reinforcement learning, an autonomous agent must learn to perform a task by trial and error, without any guidance from the human operator.	 pravarwana sIKane ke saMxarBa meM , eka svAyawwa ejeMta ko parIkRaNa Ora wruti ke xvArA eka kArya karanA sIKanA cAhie , mAnava oYparetara se kisI mArgaxarSana ke binA .		
+557	557
+S1 In the context of reinforcement learning , an autonomous agent must learn to perform a task by trial and error , without any guidance from the human operator .	pravarwana sIKa ke saMxarBa meM, eka svAyawwa ejeMta ko mAnava saMcAlaka se binA kisI mArgaxarSana ke, trAyala Ora wruti xvArA kArya karanA sIKanA cAhie
+PP2 In the context of reinforcement learning	suxqDZIkaraNa sIKane ke saMxarBa meM
+NP4 the context of reinforcement learning	suxqDIkaraNa sIKane kA saMxarBa
+NP5 the context	saMxarBa
+PP8 of reinforcement learning	suxqDIkaraNa sIKane kI
+NP10 reinforcement learning	suxqDIkaraNa sIKanA
+,13 ,	,
+NP14 an autonomous agent	eka svAyawwa ejeMta
+VP18_LWG must learn	sIKanA cAhie
+S22 to perform a task by trial and error , without any guidance from the human operator	trAyala Ora wruti xvArA kArya karanA, mAnava saMcAlaka se binA kisI mArgaxarSana ke
+VP23_LWG to perform	praxarSana karane ke lie
+NP27 a task	eka tAska
+PP30 by trial and error	trAyala Ora wruti se
+NP32 trial and error	trAyala Ora wruti
+CC34 and	Ora
+NN33 trial	trAyala
+NN35 error	wruti
+,36 ,	,
+PP37 without any guidance from the human operator	mAnava saMcAlaka se binA kisI mArgaxarSana ke
+NP39 any guidance from the human operator	mAnava saMcAlaka se koI mArgaxarSana
+NP40 any guidance	koI mArgaxarSana
+PP43 from the human operator	mAnava saMcAlaka se
+NP45 the human operator	mAnava saMcAlaka
+

@@ -1,0 +1,24 @@
+----
+171
+S1 We_1 contend_2 that_3 machine_4 learning_5 is_6 the_7 only_8 viable_9 approach_10 to_11 building_12 AI_13 systems_14 that_15 can_16 operate_17 in_18 complicated_19 real_20 -_21 world_22 environments_23 ._24
+NP2 We_1
+VP4_LWG contend_2
+SBAR6 that_3 machine_4 learning_5 is_6 the_7 only_8 viable_9 approach_10 to_11 building_12 AI_13 systems_14 that_15 can_16 operate_17 in_18 complicated_19 real_20 -_21 world_22 environments_23
+S8 machine_4 learning_5 is_6 the_7 only_8 viable_9 approach_10 to_11 building_12 AI_13 systems_14 that_15 can_16 operate_17 in_18 complicated_19 real_20 -_21 world_22 environments_23
+NP9 machine_4 learning_5
+VP12_LWG is_6
+NP14 the_7 only_8 viable_9 approach_10 to_11 building_12 AI_13 systems_14 that_15 can_16 operate_17 in_18 complicated_19 real_20 -_21 world_22 environments_23
+NP15 the_7 only_8 viable_9 approach_10 to_11 building_12 AI_13 systems_14
+NP16 the_7 only_8 viable_9 approach_10
+ADJP18 only_8 viable_9
+NP23 building_12 AI_13 systems_14
+NML24 building_12 AI_13
+NNS27 systems_14
+SBAR28 that_15 can_16 operate_17 in_18 complicated_19 real_20 -_21 world_22 environments_23
+WHNP29 that_15
+S31 can_16 operate_17 in_18 complicated_19 real_20 -_21 world_22 environments_23
+VP32_LWG can_16 operate_17
+PP36 in_18 complicated_19 real_20 -_21 world_22 environments_23
+NP38 complicated_19 real_20 -_21 world_22 environments_23
+NML40 real_20 -_21 world_22
+NNS44 environments_23

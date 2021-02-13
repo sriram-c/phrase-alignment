@@ -1,0 +1,15 @@
+----
+89
+S1 Such_1 factors_2 are_3 often_4 not_5 quantities_6 that_7 are_8 directly_9 observed_10 ._11
+NP2 Such_1 factors_2
+NNS4 factors_2
+VP5_LWG are_3 often_4
+ADVP7 often_4 not_5
+NP10 quantities_6 that_7 are_8 directly_9 observed_10
+NP11 quantities_6
+NNS12 quantities_6
+SBAR13 that_7 are_8 directly_9 observed_10
+WHNP14 that_7
+S16 are_8 directly_9 observed_10
+VP17_LWG are_8 directly_9 observed_10
+ADVP19 directly_9

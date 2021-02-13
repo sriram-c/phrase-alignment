@@ -1,0 +1,47 @@
+----
+00410	Toward the end of that decade and throughout the ﬁrst half of the 2010s, signiﬁcantly larger datasets, containing hundreds of thousands to tens of millions of examples, completely changed what was possible with deep learning.	 उस दशक के अंत में और 2010 के दशक के पूर्वार्ध में , उल्लेखनीय रूप से बड़े डेटासेट , जिसमें सैकड़ों हजारों से दसियों लाख उदाहरण थे , पूरी तरह से बदल गया जो गहरी सीखने के साथ संभव था .		
+409	409
+S1 Toward the end of that decade and throughout the ﬁrst half of the 2010s , signiﬁcantly larger datasets , containing hundreds of thousands to tens of millions of examples , completely changed what was possible with deep learning .	उस दशक के अंत की ओर और 2010 के दशक के पूरे पहले हाफ में, काफी बड़े डेटाबेट्स, जिनमें सैकड़ों हजारों से लेकर लाखों उदाहरण शामिल हैं,
+PP2 Toward the end of that decade and throughout the ﬁrst half of the 2010s	उस दशक के अंत की ओर और 2010 के पूरे पहले हाफ की ओर
+PP3 Toward the end of that decade	उस दशक के अंत की ओर
+NP5 the end of that decade	उस दशक का अंत
+NP6 the end	अंत
+PP9 of that decade	उस दशक की
+NP11 that decade	वह दशक
+CC14 and	और
+PP15 throughout the ﬁrst half of the 2010s	2010 के पूरे पहले हाफ में
+NP17 the ﬁrst half of the 2010s	2010 का पहला आधा हिस्सा
+NP18 the ﬁrst half	पहला हाफ
+PP22 of the 2010s	2010 के दशक के
+NP24 the 2010s	2010 के दशक
+,27 ,	,
+NP28 signiﬁcantly larger datasets , containing hundreds of thousands to tens of millions of examples ,	महत्वपूर्ण रूप से बड़े डेटाबेस, जिनमें सैकड़ों हजार से लेकर लाखों उदाहरण शामिल हैं,
+NP29 signiﬁcantly larger datasets	खास तौर पर बड़ा डेटाबेट
+ADJP30 signiﬁcantly larger	काफी बड़ा
+NNS33 datasets	डेटाबेस
+,34 ,	,
+VP35_LWG containing	जिसमें
+NP37 hundreds of thousands	सैकड़ों हजारों
+QP38 hundreds of thousands	सैकड़ों हजारों
+NNS39 hundreds	सैकड़ों
+NNS41 thousands	हजारों
+PP42 to tens of millions of examples	लाखों उदाहरणों तक
+NP44 tens of millions of examples	लाखों उदाहरण
+NP45 tens of millions	लाखों की संख्या
+QP46 tens of millions	लाखों की संख्या
+NNS47 tens	दसियों
+NNS49 millions	लाखों
+PP50 of examples	उदाहरणों की
+NP52 examples	उदाहरण
+NNS53 examples	उदाहरण
+,54 ,	,
+ADVP55 completely	पूरी तरह से
+VP57_LWG changed	बदल गया।
+SBAR59 what was possible with deep learning	गहरी सीख से क्या हुआ संभव
+WHNP60 what	क्या
+S62 was possible with deep learning	गहरी सीख से संभव था
+VP63_LWG was	था।
+ADJP65 possible with deep learning	गहरी सीख से संभव
+PP67 with deep learning	गहरी सीख के साथ
+NP69 deep learning	गहरी सीख
+

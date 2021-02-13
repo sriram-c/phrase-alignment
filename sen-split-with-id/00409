@@ -1,0 +1,45 @@
+----
+409
+S1 Toward_1 the_2 end_3 of_4 that_5 decade_6 and_7 throughout_8 the_9 ﬁrst_10 half_11 of_12 the_13 2010s_14 ,_15 signiﬁcantly_16 larger_17 datasets_18 ,_19 containing_20 hundreds_21 of_22 thousands_23 to_24 tens_25 of_26 millions_27 of_28 examples_29 ,_30 completely_31 changed_32 what_33 was_34 possible_35 with_36 deep_37 learning_38 ._39
+PP2 Toward_1 the_2 end_3 of_4 that_5 decade_6 and_7 throughout_8 the_9 ﬁrst_10 half_11 of_12 the_13 2010s_14
+PP3 Toward_1 the_2 end_3 of_4 that_5 decade_6
+NP5 the_2 end_3 of_4 that_5 decade_6
+NP6 the_2 end_3
+PP9 of_4 that_5 decade_6
+NP11 that_5 decade_6
+CC14 and_14
+PP15 throughout_8 the_9 ﬁrst_10 half_11 of_12 the_13 2010s_14
+NP17 the_9 ﬁrst_10 half_11 of_12 the_13 2010s_14
+NP18 the_9 ﬁrst_10 half_11
+PP22 of_12 the_13 2010s_14
+NP24 the_13 2010s_14
+,27 ,_15
+NP28 signiﬁcantly_16 larger_17 datasets_18 ,_19 containing_20 hundreds_21 of_22 thousands_23 to_24 tens_25 of_26 millions_27 of_28 examples_29 ,_30
+NP29 signiﬁcantly_16 larger_17 datasets_18
+ADJP30 signiﬁcantly_16 larger_17
+NNS33 datasets_18
+,34 ,_19
+VP35_LWG containing_20
+NP37 hundreds_21 of_22 thousands_23
+QP38 hundreds_21 of_22 thousands_23
+NNS39 hundreds_21
+NNS41 thousands_23
+PP42 to_24 tens_25 of_26 millions_27 of_28 examples_29
+NP44 tens_25 of_26 millions_27 of_28 examples_29
+NP45 tens_25 of_26 millions_27
+QP46 tens_25 of_26 millions_27
+NNS47 tens_25
+NNS49 millions_27
+PP50 of_28 examples_29
+NP52 examples_29
+NNS53 examples_29
+,54 ,_30
+ADVP55 completely_31
+VP57_LWG changed_32
+SBAR59 what_33 was_34 possible_35 with_36 deep_37 learning_38
+WHNP60 what_33
+S62 was_34 possible_35 with_36 deep_37 learning_38
+VP63_LWG was_34
+ADJP65 possible_35 with_36 deep_37 learning_38
+PP67 with_36 deep_37 learning_38
+NP69 deep_37 learning_38

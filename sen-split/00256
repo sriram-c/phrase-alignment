@@ -1,0 +1,27 @@
+----
+00257	The current and third wave, deep learning, started around 2006 (Hinton et al., 2006; Bengio et al.	 वर्तमान तीसरी लहर , गहन अध्ययन , 2006 के आसपास शुरू हुआ ( एचिन एट अल , 2006 बेंजियो एट		
+256	256
+S1 The current and third wave , deep learning , started around 2006 ( Hinton et al. , 2006 ; Bengio et al. .	मौजूदा और तीसरी लहर, गहरी सीख, 2006 के आसपास शुरू हुई (हिंटन एट अल, 2006 ; बेंगियो एट अल.
+NP2 The current and third wave , deep learning ,	मौजूदा और तीसरी लहर, गहरी सीख,
+NP3 The current and third wave	मौजूदा और तीसरी लहर
+NML5 current and third	वर्तमान और तीसरा
+CC7 and	और
+JJ6 current	वर्तमान
+JJ8 third	तीसरा
+,10 ,	,
+NP11 deep learning	गहरी सीख
+,14 ,	,
+VP15_LWG started	शुरू
+PP17 around 2006	2006 के आसपास
+NP19 2006	2006
+PRN21 ( Hinton et al. , 2006 ; Bengio et al.	(हिंटन एट अल, 2006 ; बेंगियो एट अल।
+FRAG23 Hinton et al. , 2006	हिंटन एट अल., 2006
+NP24 Hinton et al.	हिंटन एट अल।
+ADVP26 et al.	एट अल।
+,29 ,	,
+NP30 2006	2006
+FRAG33 Bengio et al.	बेंजियो एट अल।
+NP34 Bengio et	बेंजियो एट
+ADVP36 et	एत.
+ADVP38 al.	अल।
+

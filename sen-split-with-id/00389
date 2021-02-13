@@ -1,0 +1,16 @@
+----
+389
+S1 It_1 is_2 true_3 that_4 some_5 skill_6 is_7 required_8 to_9 get_10 good_11 performance_12 from_13 a_14 deep_15 learning_16 algorithm_17 ._18
+NP2 It_1
+VP4_LWG is_2
+ADJP6 true_3
+SBAR8 that_4 some_5 skill_6 is_7 required_8 to_9 get_10 good_11 performance_12 from_13 a_14 deep_15 learning_16 algorithm_17
+S10 some_5 skill_6 is_7 required_8 to_9 get_10 good_11 performance_12 from_13 a_14 deep_15 learning_16 algorithm_17
+NP11 some_5 skill_6
+VP14_LWG is_7 required_8
+S18 to_9 get_10 good_11 performance_12 from_13 a_14 deep_15 learning_16 algorithm_17
+VP19_LWG to_9 get_10
+NP23 good_11 performance_12
+PP26 from_13 a_14 deep_15 learning_16 algorithm_17
+NP28 a_14 deep_15 learning_16 algorithm_17
+NML30 deep_15 learning_16

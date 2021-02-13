@@ -1,0 +1,22 @@
+----
+00349	For example, suppose we have a vision system that can recognize 16 CHAPTER 1.	 uxAharaNa ke lie , mAna lIjie ki hamAre pAsa eka xqRti praNAlI hE jo 16 CHAPTER 1 ko pahacAna sakawI hE 		
+348	348
+FRAG1 For example , suppose we have a vision system that can recognize 16 CHAPTER 1 .	uxAharaNa ke lie, mAna lIjie ki hamAre pAsa eka xqRti praNAlI hE jo 16 aXyAya 1 ko pahacAna sakawI hE
+S2 For example , suppose we have a vision system that can recognize 16	uxAharaNa ke lie, mAna lIjie ki hamAre pAsa eka xqRti praNAlI hE jo 16 ko pahacAna sakawI hE
+PP3 For example	uxAharaNa ke lie
+NP5 example	uxAharaNa
+,7 ,	,
+VP8_LWG suppose	mAna lIjie
+SBAR10 we have a vision system that can recognize 16	hamAre pAsa eka xqRti praNAlI hE jo 16 ko pahacAna sakawI hE
+S11 we have a vision system that can recognize 16	hamAre pAsa eka xqRti praNAlI hE jo 16 ko pahacAna sakawI hE
+NP12 we	hama
+VP14_LWG have	pAsa hE
+NP16 a vision system that can recognize 16	eka xqRti praNAlI jo 16 ko pahacAna sakawI hE
+NP17 a vision system	eka xqRti praNAlI
+SBAR21 that can recognize 16	jo 16 ko pahacAna sakawA hE
+WHNP22 that	vaha
+S24 can recognize 16	16 ko pahacAna sakawe hEM
+VP25_LWG can recognize	pahacAna sakawe hEM
+NP29 16	16
+NP31 CHAPTER 1	cEptara 1
+

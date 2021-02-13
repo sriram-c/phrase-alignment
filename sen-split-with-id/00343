@@ -1,0 +1,22 @@
+----
+343
+S1 The_1 central_2 idea_3 in_4 connectionism_5 is_6 that_7 a_8 large_9 number_10 of_11 simple_12 computational_13 units_14 can_15 achieve_16 intelligent_17 behavior_18 when_19 networked_20 together_21 ._22
+NP2 The_1 central_2 idea_3 in_4 connectionism_5
+NP3 The_1 central_2 idea_3
+PP7 in_4 connectionism_5
+NP9 connectionism_5
+VP11_LWG is_6
+SBAR13 that_7 a_8 large_9 number_10 of_11 simple_12 computational_13 units_14 can_15 achieve_16 intelligent_17 behavior_18 when_19 networked_20 together_21
+S15 a_8 large_9 number_10 of_11 simple_12 computational_13 units_14 can_15 achieve_16 intelligent_17 behavior_18 when_19 networked_20 together_21
+NP16 a_8 large_9 number_10 of_11 simple_12 computational_13 units_14
+NP17 a_8 large_9 number_10
+PP21 of_11 simple_12 computational_13 units_14
+NP23 simple_12 computational_13 units_14
+NNS26 units_14
+VP27_LWG can_15 achieve_16
+NP31 intelligent_17 behavior_18
+SBAR34 when_19 networked_20 together_21
+WHADVP35 when_19
+S37 networked_20 together_21
+VP38_LWG networked_20 together_21
+ADVP40 together_21

@@ -1,0 +1,37 @@
+----
+0007	In the early days of artiﬁcial intelligence, the ﬁeld rapidly tackled and solved problems that are intellectually diﬃcult for human beings but relatively straight- forward for computers—	 कृत्रिम बुद्धि के प्रारंभिक दिनों में , क्षेत्र तेजी से हल किया और समस्याओं है कि बौद्धिक रूप से मानव के लिए मुश्किल है , लेकिन कंप्यूटर के लिए अपेक्षाकृत सीधे आगे -		
+6	6
+S1 In the early days of artiﬁcial intelligence , the ﬁeld rapidly tackled and solved problems that are intellectually diﬃcult for human beings but relatively straight - forward for computers —	कृत्रिम बुद्धिमत्ता के प्रारंभिक दिनों में, क्षेत्र ने तेजी से निपटकर समस्याओं का समाधान किया जो मनुष्यों के लिए बौद्धिक रूप से मुश्किल हैं लेकिन अपेक्षाकृत
+PP2 In the early days of artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता के शुरुआती दिनों में
+NP4 the early days of artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता के शुरुआती दिन
+NP5 the early days	शुरुआती दिन
+NNS8 days	दिन-ब-ब-ब-ब-ब-ब-ब-ब-ब-ब.
+PP9 of artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता का
+NP11 artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता
+,14 ,	,
+NP15 the ﬁeld	खेत
+ADVP18 rapidly	तेजी से
+VP20_LWG tackled solved	निपटा हुआ हल
+CC22 and	और
+VBD21 tackled	निपटा
+VBD23 solved	हल हुआ।
+NP24 problems that are intellectually diﬃcult for human beings but relatively straight - forward for computers	ऐसी समस्याएं जो इंसानों के लिए बौद्धिक रूप से मुश्किल हैं लेकिन अपेक्षाकृत सीधे- कंप्यूटरों के लिए आगे
+NP25 problems	समस्याएं
+NNS26 problems	समस्याएं
+SBAR27 that are intellectually diﬃcult for human beings but relatively straight - forward for computers	यह इंसानों के लिए बौद्धिक रूप से मुश्किल हैं लेकिन अपेक्षाकृत सीधे- कंप्यूटरों के लिए आगे
+WHNP28 that	वह
+S30 are intellectually diﬃcult for human beings but relatively straight - forward for computers	इंसानों के लिए बौद्धिक रूप से मुश्किल हैं लेकिन अपेक्षाकृत सीधा- कंप्यूटरों के लिए आगे
+VP31_LWG are	हैं।
+ADJP33 intellectually diﬃcult for human beings but relatively straight - forward	इंसानों के लिए बौद्धिक रूप से मुश्किल लेकिन अपेक्षाकृत सीधा-आगे
+ADJP34 intellectually diﬃcult for human beings	इंसानों के लिए बौद्धिक रूप से मुश्किल
+PP37 for human beings	इंसानों के लिए
+NP39 human beings	मनुष्य
+NNS41 beings	प्राणी
+CC42 but	लेकिन
+RB43 relatively	अपेक्षाकृत
+ADJP44 straight - forward	सीधा- आगे
+PP48 for computers	कंप्यूटरों के लिए
+NP50 computers	कंप्यूटर
+NNS51 computers	कंप्यूटर
+,52 —	—
+

@@ -1,0 +1,43 @@
+----
+00200	Simple features Mapping from features Output Additional layers of more abstract features Rule-based systems Classic machine learning Representation learning Deep learning Figure 1.5: Flowcharts showing how the diﬀerent parts of an AI system relate to each other within diﬀerent AI disciplines.	 विशेषताओं आउटपुट अतिरिक्त परतों से मैपिंग और अधिक अमूर्त सुविधाओं नियम - पस्त सिस्टम क्लासिक मशीन सीखने प्रतिनिधित्व चित्र 1 . 5 . फ्लोचर यह दर्शाता है कि कैसे एक एआई प्रणाली के विभिन्न भागों विभिन्न एआई विधाओं के भीतर एक दूसरे से संबंधित है .		
+199	199
+FRAG1 Simple features Mapping from features Output Additional layers of more abstract features Rule - based systems Classic machine learning Representation learning Deep learning Figure 1.5 : Flowcharts showing how the diﬀerent parts of an AI system relate to each other within diﬀerent AI disciplines .	सरल सुविधाओं से मैपलिंग नियम-आधारित प्रणालियों की अतिरिक्त परतें नियम-आधारित प्रणालियों क्लासिक मशीन सीखना रिप्रजेंटेशन डीप लर्निंग आ
+NP2 Simple features Mapping from features Output	फीचर्स आउटपुट से सिंपल फीचर्स मैपिंग
+NP3 Simple features	साधारण सुविधाएं
+NNS5 features	फीचर्स
+NP6 Mapping from features Output	फीचर्स आउटपुट से मैपिंग
+NML7 Mapping from features	फीचर्स से मैपिंग
+NML8 Mapping	मैपिंग
+PP10 from features	फीचर्स से
+NP12 features	फीचर्स
+NNS13 features	फीचर्स
+NP15 Additional layers of more abstract features	अधिक अमूर्त विशेषताओं की अतिरिक्त परतें
+NP16 Additional layers	अतिरिक्त परतें
+NNS18 layers	परतें
+PP19 of more abstract features	अधिक अमूर्त विशेषताओं की
+NP21 more abstract features	अधिक अमूर्त विशेषताएं
+NNS24 features	फीचर्स
+NP25 Rule - based systems	नियम- आधारित प्रणालियों
+NML26 Rule - based	नियम- आधारित
+NNS30 systems	सिस्टम
+NP31 Classic machine learning Representation learning Deep learning Figure 1.5 : Flowcharts showing how the diﬀerent parts of an AI system relate to each other within diﬀerent AI disciplines	क्लासिक मशीन सीख रिप्रजेंटेशन दीप सीखने का आंकड़ा 1.5 सीख रहा है ः फ्लोचार्ट यह दिखा रहा है कि एआई प्रणाली के अलग-अलग हिस्स
+NP32 Classic machine learning Representation learning Deep learning Figure 1.5	क्लासिक मशीन सीख रिप्रजेंटेशन सीख रहा है डीप लर्निंग फिगर 1.5
+S43 Flowcharts showing how the diﬀerent parts of an AI system relate to each other within diﬀerent AI disciplines	फ्लोचार्ट दिखाते हैं कि विभिन्न एआई अनुशासनों के भीतर एक-दूसरे से कैसे संबंधित होता है एआई प्रणाली के अलग-अलग हिस्से
+NP44 Flowcharts	फ्लोचार्ट
+VP46_LWG showing	दिखा रहा है।
+SBAR48 how the diﬀerent parts of an AI system relate to each other within diﬀerent AI disciplines	कैसे अलग-अलग एआई अनुशासनों के भीतर एक-दूसरे से संबंधित होता है एआई प्रणाली के अलग-अलग हिस्से
+WHADVP49 how	कैसे
+S51 the diﬀerent parts of an AI system relate to each other within diﬀerent AI disciplines	एक एआई प्रणाली के अलग-अलग हिस्से अलग-अलग एआई अनुशासनों के भीतर एक दूसरे से संबंधित
+NP52 the diﬀerent parts of an AI system	एआई प्रणाली के अलग-अलग हिस्सों
+NP53 the diﬀerent parts	अलग-अलग हिस्सों
+NNS56 parts	भागों
+PP57 of an AI system	एक एआई प्रणाली की
+NP59 an AI system	एक एआई प्रणाली
+VP63_LWG relate	संबंधित
+PP65 to each other within diﬀerent AI disciplines	अलग-अलग एआई अनुशासनों के भीतर एक दूसरे को
+NP67 each other within diﬀerent AI disciplines	एक दूसरे को अलग-अलग एआई अनुशासनों के भीतर
+NP68 each other	एक दूसरे को
+PP71 within diﬀerent AI disciplines	अलग-अलग एआई अनुशासनों के भीतर
+NP73 diﬀerent AI disciplines	अलग-अलग एआई अनुशासन
+NNS76 disciplines	अनुशासन
+

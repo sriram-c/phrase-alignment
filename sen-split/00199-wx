@@ -1,0 +1,43 @@
+----
+00200	Simple features Mapping from features Output Additional layers of more abstract features Rule-based systems Classic machine learning Representation learning Deep learning Figure 1.5: Flowcharts showing how the dierent parts of an AI system relate to each other within dierent AI disciplines.	 viSeRawAoM Autaputa awirikwa parawoM se mEpiMga Ora aXika amUrwa suviXAoM niyama - paswa sistama klAsika maSIna sIKane prawiniXiwva ciwra 1 . 5 . Plocara yaha xarSAwA hE ki kEse eka eAI praNAlI ke viBinna BAgoM viBinna eAI viXAoM ke BIwara eka xUsare se saMbaMXiwa hE .		
+199	199
+FRAG1 Simple features Mapping from features Output Additional layers of more abstract features Rule - based systems Classic machine learning Representation learning Deep learning Figure 1.5 : Flowcharts showing how the dierent parts of an AI system relate to each other within dierent AI disciplines .	sarala suviXAoM se mEpaliMga niyama-AXAriwa praNAliyoM kI awirikwa paraweM niyama-AXAriwa praNAliyoM klAsika maSIna sIKanA riprajeMteSana dIpa larniMga A
+NP2 Simple features Mapping from features Output	PIcarsa Autaputa se siMpala PIcarsa mEpiMga
+NP3 Simple features	sAXAraNa suviXAeM
+NNS5 features	PIcarsa
+NP6 Mapping from features Output	PIcarsa Autaputa se mEpiMga
+NML7 Mapping from features	PIcarsa se mEpiMga
+NML8 Mapping	mEpiMga
+PP10 from features	PIcarsa se
+NP12 features	PIcarsa
+NNS13 features	PIcarsa
+NP15 Additional layers of more abstract features	aXika amUrwa viSeRawAoM kI awirikwa paraweM
+NP16 Additional layers	awirikwa paraweM
+NNS18 layers	paraweM
+PP19 of more abstract features	aXika amUrwa viSeRawAoM kI
+NP21 more abstract features	aXika amUrwa viSeRawAeM
+NNS24 features	PIcarsa
+NP25 Rule - based systems	niyama- AXAriwa praNAliyoM
+NML26 Rule - based	niyama- AXAriwa
+NNS30 systems	sistama
+NP31 Classic machine learning Representation learning Deep learning Figure 1.5 : Flowcharts showing how the dierent parts of an AI system relate to each other within dierent AI disciplines	klAsika maSIna sIKa riprajeMteSana xIpa sIKane kA AMkadZA 1.5 sIKa rahA hE H PlocArta yaha xiKA rahA hE ki eAI praNAlI ke alaga-alaga hissa
+NP32 Classic machine learning Representation learning Deep learning Figure 1.5	klAsika maSIna sIKa riprajeMteSana sIKa rahA hE dIpa larniMga Pigara 1.5
+S43 Flowcharts showing how the dierent parts of an AI system relate to each other within dierent AI disciplines	PlocArta xiKAwe hEM ki viBinna eAI anuSAsanoM ke BIwara eka-xUsare se kEse saMbaMXiwa howA hE eAI praNAlI ke alaga-alaga hisse
+NP44 Flowcharts	PlocArta
+VP46_LWG showing	xiKA rahA hE
+SBAR48 how the dierent parts of an AI system relate to each other within dierent AI disciplines	kEse alaga-alaga eAI anuSAsanoM ke BIwara eka-xUsare se saMbaMXiwa howA hE eAI praNAlI ke alaga-alaga hisse
+WHADVP49 how	kEse
+S51 the dierent parts of an AI system relate to each other within dierent AI disciplines	eka eAI praNAlI ke alaga-alaga hisse alaga-alaga eAI anuSAsanoM ke BIwara eka xUsare se saMbaMXiwa
+NP52 the dierent parts of an AI system	eAI praNAlI ke alaga-alaga hissoM
+NP53 the dierent parts	alaga-alaga hissoM
+NNS56 parts	BAgoM
+PP57 of an AI system	eka eAI praNAlI kI
+NP59 an AI system	eka eAI praNAlI
+VP63_LWG relate	saMbaMXiwa
+PP65 to each other within dierent AI disciplines	alaga-alaga eAI anuSAsanoM ke BIwara eka xUsare ko
+NP67 each other within dierent AI disciplines	eka xUsare ko alaga-alaga eAI anuSAsanoM ke BIwara
+NP68 each other	eka xUsare ko
+PP71 within dierent AI disciplines	alaga-alaga eAI anuSAsanoM ke BIwara
+NP73 dierent AI disciplines	alaga-alaga eAI anuSAsana
+NNS76 disciplines	anuSAsana
+

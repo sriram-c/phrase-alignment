@@ -1,0 +1,21 @@
+----
+0027	One of the key challenges in artiﬁcial intelligence is how to get this informal knowledge into a computer.	 कृत्रिम बुद्धि में एक प्रमुख चुनौतियों में से एक है कि कैसे इस अनौपचारिक ज्ञान को एक कंप्यूटर में प्राप्त करने के लिए .		
+26	26
+S1 One of the key challenges in artiﬁcial intelligence is how to get this informal knowledge into a computer .	कृत्रिम बुद्धिमत्ता में प्रमुख चुनौतियों में से एक यह है कि इस अनौपचारिक ज्ञान को कंप्यूटर में कैसे प्राप्त करें।
+NP2 One of the key challenges in artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता में प्रमुख चुनौतियों में से एक
+NP3 One	एक
+PP5 of the key challenges in artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता में प्रमुख चुनौतियों की
+NP7 the key challenges in artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता में प्रमुख चुनौतियां
+NP8 the key challenges	प्रमुख चुनौतियां
+NNS11 challenges	चुनौतियां
+PP12 in artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता में
+NP14 artiﬁcial intelligence	कृत्रिम बुद्धिमत्ता
+VP17_LWG is	है।
+SBAR19 how to get this informal knowledge into a computer	इस अनौपचारिक ज्ञान को कंप्यूटर में कैसे प्राप्त करें
+WHADVP20 how	कैसे
+S22 to get this informal knowledge into a computer	इस अनौपचारिक ज्ञान को कंप्यूटर में लाने के लिए
+VP23_LWG to get	प्राप्त करने के लिए।
+NP27 this informal knowledge	यह अनौपचारिक ज्ञान
+PP31 into a computer	एक कंप्यूटर में
+NP33 a computer	एक कंप्यूटर
+

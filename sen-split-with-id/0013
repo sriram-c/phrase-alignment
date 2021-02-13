@@ -1,0 +1,16 @@
+----
+13
+S1 If_1 we_2 draw_3 a_4 graph_5 showing_6 how_7 these_8 concepts_9 1_10 CHAPTER_11 1_12 ._13
+SBAR2 If_1 we_2 draw_3 a_4 graph_5 showing_6 how_7 these_8 concepts_9 1_10
+S4 we_2 draw_3 a_4 graph_5 showing_6 how_7 these_8 concepts_9 1_10
+NP5 we_2
+VP7_LWG draw_3
+NP9 a_4 graph_5
+S12 showing_6 how_7 these_8 concepts_9 1_10
+VP13_LWG showing_6
+NP15 how_7
+NP17 these_8 concepts_9
+NNS19 concepts_9
+NP20 1_10
+VP22_LWG CHAPTER_11
+NP24 1_12

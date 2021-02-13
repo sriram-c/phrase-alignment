@@ -1,0 +1,39 @@
+----
+00312	Neuroscientists have found that ferrets can learn to see with the auditory processing region of their brain if their brains are rewired to send visual signals to that area (Von Melchner et al., 2000).	 waMwrikA vijFAniyoM ne pAyA hE ki nqtsa apane maswiRka ke SravaNa saMsAXana kRewra ke sAWa sAMKya sIKa sakawe hEM yaxi unake maswiRka ko usa kRewra meM xqSya saMkewa Bejane ke lie punarAvarwiwa kiyA jAwA hE ( vAna melcara eta ala 2000 ) .		
+311	311
+S1 Neuroscientists have found that ferrets can learn to  see  with the auditory processing region of their brain if their brains are rewired to send visual signals to that area ( Von Melchner et al. , 2000 ) .	nyUro vEjFAnikoM ne pAyA hE ki agara unake ximAga ke oYditorarI prosesiMga kRewra ke sAWa unake maswiRka ko Pira se BejA jAwA hE wo unake ximAga ko usa kRewra (vo
+NP2 Neuroscientists	nyUro vEjFAnika
+NNS3 Neuroscientists	nyUro vEjFAnika
+VP4_LWG have found	pAyA hE
+SBAR8 that ferrets can learn to  see  with the auditory processing region of their brain if their brains are rewired to send visual signals to that area	yaxi unake maswiRka ke oYditorarI prosesiMga kRewra ke sAWa unake maswiRka ke sAWa xeKeM sIKa sakawe hEM yaxi unake ximAga ko usa kRewra meM xqSya saMka
+S10 ferrets can learn to  see  with the auditory processing region of their brain if their brains are rewired to send visual signals to that area	Peretsa apane maswiRka ke oYditorarI prosesiMga kRewra ke sAWa xeKeM sIKa sakawe hEM agara unake ximAga ko usa kRewra meM xqSya saMkewa Bejane ke lie Pira
+NP11 ferrets	Peretsa
+NNS12 ferrets	Peretsa
+VP13_LWG can learn	sIKa sakawe hEM
+S17 to  see  with the auditory processing region of their brain	unake maswiRka ke oYditoritI prosesiMga kRewra ke sAWa xeKeM
+VP18_LWG to see	xeKane ke lie
+PP24 with the auditory processing region of their brain	unake maswiRka ke oYditoritI prosesiMga kRewra ke sAWa
+NP26 the auditory processing region of their brain	unake maswiRka kA oYditarI prosesiMga kRewra
+NP27 the auditory processing region	oYditarI prasaMskaraNa kRewra
+PP32 of their brain	unake maswiRka kI
+NP34 their brain	unakA maswiRka
+SBAR37 if their brains are rewired to send visual signals to that area	agara unake ximAga ko usa kRewra ko xqSya saMkewa Bejane ke lie Pira se Beja xiyA jAwA hE
+S39 their brains are rewired to send visual signals to that area	usa kRewra ko xqSya saMkewa Bejane ke lie unake ximAga ko Pira se jArI kiyA jAwA hE
+NP40 their brains	unake ximAgZa
+NNS42 brains	ximAgZa
+VP43_LWG are	hEM
+ADJP45 rewired to send visual signals to that area	usa kRewra ko xqSya saMkewa Bejane ke lie kiyA gayA punarmilana
+S47 to send visual signals to that area	usa kRewra ko xqSya saMkewa Bejane ke lie
+VP48_LWG to send	Bejane ke lie
+NP52 visual signals	xqSya saMkewa
+NNS54 signals	saMkewa
+PP55 to that area	usa kRewra ko
+NP57 that area	vaha ilAkA
+PRN60 ( Von Melchner et al. , 2000 )	(vona melacEna eta ala, 2000)
+NP62 Von Melchner et al. , 2000	voYna melcanara eta ala, 2000
+NP63 Von Melchner et al.	voYna melcanara eta ala
+NP64 Von Melchner	voYna melcanara
+ADVP67 et al.	eta ala
+,70 ,	,
+NP71 2000	2000
+

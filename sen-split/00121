@@ -1,0 +1,24 @@
+----
+00122	The input is presented at the visible layer , so named because it contains the variables that we are able to observe.	 इनपुट को दृश्य स्तर पर प्रस्तुत किया जाता है , इसलिए नाम दिया जाता है क्योंकि इसमें वे चर होते हैं जो हम निरीक्षण करने में सक्षम होते हैं .		
+121	121
+S1 The input is presented at the visible layer , so named because it contains the variables that we are able to observe .	इनपुट दृश्य परत पर पेश किया जाता है, इसलिए नाम दिया जाता है क्योंकि इसमें वेरिएबल मौजूद होते हैं जिन्हें हम देखने में सक्षम होते हैं।
+NP2 The input	इनपुट
+VP5_LWG is presented so named	इतना नाम पेश किया जाता है
+PP10 at the visible layer	दिखने वाली परत पर
+NP12 the visible layer	दिखने वाली परत
+,16 ,	,
+ADVP17 so	ऐसे में
+SBAR21 because it contains the variables that we are able to observe	क्योंकि इसमें वेरिएबल मौजूद होते हैं जिन्हें हम देख पाते हैं
+S23 it contains the variables that we are able to observe	इसमें वे वैरिएबल मौजूद होते हैं जिन्हें हम देख पाते हैं
+NP24 it	यह
+VP26_LWG contains	इसमें शामिल
+NP28 the variables	वेरिएबल
+NNS30 variables	वैरिएबल
+SBAR31 that we are able to observe	कि हम निरीक्षण कर पा रहे हैं
+S33 we are able to observe	हम निरीक्षण कर पा रहे हैं
+NP34 we	हम
+VP36_LWG are	हैं।
+ADJP38 able to observe	निरीक्षण करने में सक्षम
+S40 to observe	निरीक्षण के लिए
+VP41_LWG to observe	निरीक्षण के लिए
+

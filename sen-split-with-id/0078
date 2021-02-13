@@ -1,0 +1,17 @@
+----
+78
+S1 Learned_1 representations_2 often_3 result_4 in_5 much_6 better_7 performance_8 than_9 can_10 be_11 obtained_12 with_13 hand_14 -_15 designed_16 representations_17 ._18
+NP2 Learned_1 representations_2
+NNS4 representations_2
+ADVP5 often_3
+VP7_LWG result_4
+PP9 in_5 much_6 better_7 performance_8
+NP11 much_6 better_7 performance_8
+ADJP12 much_6 better_7
+SBAR16 than_9 can_10 be_11 obtained_12 with_13 hand_14 -_15 designed_16 representations_17
+S18 can_10 be_11 obtained_12 with_13 hand_14 -_15 designed_16 representations_17
+VP19_LWG can_10 be_11 obtained_12
+PP25 with_13 hand_14 -_15 designed_16 representations_17
+NP27 hand_14 -_15 designed_16 representations_17
+ADJP28 hand_14 -_15 designed_16
+NNS32 representations_17

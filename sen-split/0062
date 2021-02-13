@@ -1,0 +1,23 @@
+----
+0063	For example, suppose that we would like to write a program to detect cars in photographs.	 उदाहरण के लिए , मान लीजिए कि हम तस्वीरों में कारों का पता लगाने के लिए एक प्रोग्राम लिखना चाहेंगे .		
+62	62
+S1 For example , suppose that we would like to write a program to detect cars in photographs .	उदाहरण के लिए, मान लीजिए कि हम फोटोग्राफ में कारों का पता लगाने के लिए एक कार्यक्रम लिखना चाहेंगे।
+PP2 For example	उदाहरण के लिए
+NP4 example	उदाहरण
+,6 ,	,
+VP7_LWG suppose	मान लीजिए।
+SBAR9 that we would like to write a program to detect cars in photographs	कि हम फोटोग्राफ में कारों का पता लगाने के लिए एक कार्यक्रम लिखना चाहेंगे
+S11 we would like to write a program to detect cars in photographs	हम फोटोग्राफ में कारों का पता लगाने के लिए एक कार्यक्रम लिखना चाहेंगे
+NP12 we	हम
+VP14_LWG would like	पसंद करेंगे।
+S18 to write a program to detect cars in photographs	फोटोग्राफ में कारों का पता लगाने के लिए एक कार्यक्रम लिखने के लिए
+VP19_LWG to write	लिखने के लिए।
+NP23 a program	एक कार्यक्रम
+S26 to detect cars in photographs	तस्वीरों में कारों का पता लगाने के लिए
+VP27_LWG to detect	का पता लगाने के लिए
+NP31 cars	कारें
+NNS32 cars	कारें
+PP33 in photographs	तस्वीरों में
+NP35 photographs	तस्वीरें
+NNS36 photographs	तस्वीरें
+

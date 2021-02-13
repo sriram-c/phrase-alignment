@@ -1,0 +1,52 @@
+----
+00443	The increase in model size over time, due to the availability of faster CPUs, the advent of general purpose GPUs (described in section 12.1.2), faster network connectivity and better software infrastructure for distributed computing, is one of the most important trends in the history of deep learning.	 समय के साथ मॉडल के आकार में वृद्धि , तेजी से सीपीयू की उपलब्धता के कारण , सामान्य उद्देश्य के आगमन ( धारा 12 . 1 . 2 में निहित ) जीपीयू , तेजी से नेटवर्क कनेक्टिविटी और वितरित कंप्यूटिंग के लिए बेहतर सॉफ्टवेयर मूल संरचना , गहन शिक्षण के इतिहास में सबसे महत्वपूर्ण प्रवृत्तियों में से एक है .		
+442	442
+S1 The increase in model size over time , due to the availability of faster CPUs , the advent of general purpose GPUs ( described in section 12.1.2 ) , faster network connectivity and better software infrastructure for distributed computing , is one of the most important trends in the history of deep learning .	समय के साथ मॉडल के आकार में बढ़ोतरी, तेजी से सीपीयू की उपलब्धता के कारण सामान्य उद्देश्य के जीपीयू (धारा 11988) में वर्णित और वितरित क
+NP2 The increase in model size over time , due to the availability of faster CPUs , the advent of general purpose GPUs ( described in section 12.1.2 ) , faster network connectivity and better software infrastructure for distributed computing ,	समय के साथ मॉडल के आकार में बढ़ोतरी, तेजी से सीपीयू की उपलब्धता के कारण सामान्य उद्देश्य के जीपीयू का आगमन (धारा 11988) में वर्णित,
+NP3 The increase	बढ़ोतरी
+PP6 in model size over time	समय के साथ मॉडल साइज में
+NP8 model size over time	समय के साथ मॉडल का आकार
+NP9 model size	मॉडल साइज
+PP12 over time	समय के साथ
+NP14 time	समय
+,16 ,	,
+PP17 due to the availability of faster CPUs , the advent of general purpose GPUs ( described in section 12.1.2 ) , faster network connectivity and better software infrastructure for distributed computing	तेजी से सीपीयू की उपलब्धता के कारण सामान्य उद्देश्य के जीपीयू का आगमन (धारा 1(2007) में वर्णित), वितरित कंप्यूटिंग के लिए तेज नेटवर्क
+NP20 the availability of faster CPUs , the advent of general purpose GPUs ( described in section 12.1.2 ) , faster network connectivity and better software infrastructure for distributed computing	तेजी से सीपीयू की उपलब्धता, सामान्य उद्देश्य के जीपीयू का आगमन ( अनुभाग 1(2007) में वर्णित), तेज नेटवर्क कनेक्टिविटी और वितरित कंप
+NP21 the availability	उपलब्धता
+PP24 of faster CPUs , the advent of general purpose GPUs ( described in section 12.1.2 ) , faster network connectivity and better software infrastructure for distributed computing	तेजी से सीपीयू का आगमन, सामान्य उद्देश्य जीपीयू का आगमन ( अनुभाग 11988) में वर्णित, तेज नेटवर्क कनेक्टिविटी और वितरित कंप्यूटिंग के
+NP26 faster CPUs , the advent of general purpose GPUs ( described in section 12.1.2 ) , faster network connectivity and better software infrastructure for distributed computing	तेज सीपीयू, सामान्य उद्देश्य के जीपीयू का आगमन ( अनुभाग 1(2007) में वर्णित), वितरित कंप्यूटिंग के लिए तेज नेटवर्क कनेक्टिविटी और बेहत
+NP27 faster CPUs	तेज सीपीयू
+NNS29 CPUs	सीपीयू
+,30 ,	,
+NP31 the advent of general purpose GPUs ( described in section 12.1.2 )	सामान्य उद्देश्य के जीपीयू का आगमन (धारा 1(2007) में वर्णित)
+NP32 the advent	आगमन
+PP35 of general purpose GPUs	सामान्य उद्देश्य के जीपीयू के
+NP37 general purpose GPUs	सामान्य उद्देश्य जीपीयू
+NNS40 GPUs	जीपीयू
+PRN41 ( described in section 12.1.2 )	( अनुभाग 1(2007) में वर्णित)
+S43 described in section 12.1.2	धारा 1(2007) में वर्णित
+VP44_LWG described	वर्णित
+PP46 in section 12.1.2	धारा 1(2007) में
+NP48 section 12.1.2	धारा 1स्या.
+,52 ,	,
+NP53 faster network connectivity	तेज नेटवर्क कनेक्टिविटी
+CC57 and	और
+NP58 better software infrastructure for distributed computing	वितरित कंप्यूटिंग के लिए बेहतर सॉफ्टवेयर इंफ्रास्ट्रक्चर
+NP59 better software infrastructure	बेहतर सॉफ्टवेयर इंफ्रास्ट्रक्चर
+PP63 for distributed computing	वितरित कंप्यूटिंग के लिए
+NP65 distributed computing	वितरित कंप्यूटिंग
+,68 ,	,
+VP69_LWG is	है।
+NP71 one of the most important trends in the history of deep learning	गहरी सीख के इतिहास में सबसे महत्वपूर्ण रुझानों में से एक
+NP72 one	एक
+PP74 of the most important trends in the history of deep learning	गहरी सीख के इतिहास में सबसे महत्वपूर्ण रुझानों का
+NP76 the most important trends in the history of deep learning	गहरी सीख के इतिहास में सबसे महत्वपूर्ण रुझान
+NP77 the most important trends	सबसे महत्वपूर्ण रुझान
+ADJP79 most important	सबसे महत्वपूर्ण
+NNS82 trends	रुझान
+PP83 in the history of deep learning	गहरी सीख के इतिहास में
+NP85 the history of deep learning	गहरी सीख का इतिहास
+NP86 the history	इतिहास
+PP89 of deep learning	गहरी सीख का
+NP91 deep learning	गहरी सीख
+

@@ -1,0 +1,17 @@
+----
+0028	Several artiﬁcial intelligence projects have sought to hard-code knowledge about the world in formal languages.	 कई कृत्रिम आसूचना परियोजनाओं ने औपचारिक भाषाओं में विश्व के बारे में ज्ञान को कठोर बनाने का प्रयास किया है ।		
+27	27
+S1 Several artiﬁcial intelligence projects have sought to hard - code knowledge about the world in formal languages .	कई कृत्रिम बुद्धिमत्ता परियोजनाओं ने कड़ी मेहनत की है- औपचारिक भाषाओं में दुनिया के बारे में कोड ज्ञान की मांग की है।
+NP2 Several artiﬁcial intelligence projects	कई कृत्रिम बुद्धिमत्ता परियोजनाएं
+NNS6 projects	परियोजनाएं
+VP7_LWG have sought	मांगी है मांग
+PP11 to hard - code knowledge	कड़ी मेहनत करने के लिए- कोड ज्ञान
+NP13 hard - code knowledge	कठिन - कोड ज्ञान
+NML14 hard - code	कठिन - कोड
+PP19 about the world in formal languages	औपचारिक भाषाओं में दुनिया के बारे में
+NP21 the world in formal languages	औपचारिक भाषाओं में दुनिया
+NP22 the world	दुनिया
+PP25 in formal languages	औपचारिक भाषाओं में
+NP27 formal languages	औपचारिक भाषाएं
+NNS29 languages	भाषाएं
+

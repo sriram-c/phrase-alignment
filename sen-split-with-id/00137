@@ -1,0 +1,14 @@
+----
+137
+S1 This_1 state_2 information_3 could_4 be_5 analogous_6 to_7 a_8 counter_9 or_10 pointer_11 in_12 a_13 traditional_14 computer_15 program_16 ._17
+NP2 This_1 state_2 information_3
+VP6_LWG could_4 be_5
+ADJP10 analogous_6 to_7 a_8 counter_9 or_10 pointer_11 in_12 a_13 traditional_14 computer_15 program_16
+PP12 to_7 a_8 counter_9 or_10 pointer_11 in_12 a_13 traditional_14 computer_15 program_16
+NP14 a_8 counter_9 or_10 pointer_11 in_12 a_13 traditional_14 computer_15 program_16
+NP15 a_8 counter_9 or_10 pointer_11
+CC18 or_18
+NN17 counter_9
+NN19 pointer_11
+PP20 in_12 a_13 traditional_14 computer_15 program_16
+NP22 a_13 traditional_14 computer_15 program_16

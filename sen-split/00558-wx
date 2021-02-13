@@ -1,0 +1,31 @@
+----
+00559	DeepMind demonstrated that a reinforcement learning system based on deep learning is capable of learning to play Atari video games, reaching human-level performance on many tasks	 xIpamaNda ne yaha praxarSiwa kiyA ki gahana SikRaNa para AXAriwa eka majabUwa SikRaNa praNAlI , awulya vIdiyo gema Kelane ke lie sIKane meM sakRama hE , jo kaI kAryoM para mAnava swara ke praxarSana waka pahuMcawA hE 		
+558	558
+S1 DeepMind demonstrated that a reinforcement learning system based on deep learning is capable of learning to play Atari video games , reaching human - level performance on many tasks	dIpamAiMda ne praxarSana kiyA ki gaharI sIKa para AXAriwa eka suxqDZIkaraNa sIKa praNAlI atArI vIdiyo gema Kelane ke lie sIKane meM sakRama hE, mAnava waka pahu
+NP2 DeepMind	xIpa ximAga
+VP4_LWG demonstrated	praxarSana kiyA
+SBAR6 that a reinforcement learning system based on deep learning is capable of learning to play Atari video games , reaching human - level performance on many tasks	ki gaharI sIKa para AXAriwa eka suxqDZIkaraNa sIKa praNAlI atArI vIdiyo gema Kelane ke lie sIKane meM sakRama hE, mAnava waka pahuMca rahA hE swarIya praxarSana
+S8 a reinforcement learning system based on deep learning is capable of learning to play Atari video games , reaching human - level performance on many tasks	gaharI sIKa para AXAriwa eka suxqDZIkaraNa sIKa praNAlI, atArI vIdiyo gema Kelane ke lie sIKane meM sakRama hE, mAnava waka pahuMca rahA hE swarIya praxarSana
+NP9 a reinforcement learning system based on deep learning	gaharI sIKa para AXAriwa eka suxqDZIkaraNa sIKa praNAlI
+NP10 a reinforcement learning system	eka suxqDZIkaraNa sIKa praNAlI
+NML12 reinforcement learning	suxqDIkaraNa sIKanA
+PP16 based on deep learning	gaharI sIKa para AXAriwa
+PP18 on deep learning	gaharI sIKa para
+NP20 deep learning	gaharI sIKa
+VP23_LWG is	hE
+ADJP25 capable of learning to play Atari video games , reaching human - level performance on many tasks	atArI vIdiyo gema Kelane ke lie sIKane meM sakRama, mAnava waka pahuMca rahA - kaI kAryoM para swarIya praxarSana
+PP27 of learning to play Atari video games , reaching human - level performance on many tasks	atArI vIdiyo gema KelanA sIKanA, mAnava waka pahuMcanA- kaI kAryoM para swarIya praxarSana
+S29 learning to play Atari video games , reaching human - level performance on many tasks	atArI vIdiyo gema KelanA sIKanA, mAnava waka pahuMcanA - kaI kAryoM para swarIya praxarSana
+VP30_LWG learning reaching	sIKa rahA hE pahuMcanA
+S33 to play Atari video games	atArI vIdiyo gema Kelane ke lie
+VP34_LWG to play	Kelane ke lie
+NP38 Atari video games	atArI vIdiyo gema
+NNS41 games	Kela
+,42 ,	,
+NP45 human - level performance on many tasks	mAnava- kaI kAryoM para swarIya praxarSana
+NP46 human - level performance	mAnava-swarIya praxarSana
+NML47 human - level	mAnava-swara
+PP52 on many tasks	kaI kAryoM para
+NP54 many tasks	kaI kArya
+NNS56 tasks	kAryoM
+

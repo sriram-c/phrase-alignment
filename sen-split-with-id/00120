@@ -1,0 +1,25 @@
+----
+120
+S1 Deep_1 learning_2 resolves_3 this_4 diﬃculty_5 by_6 breaking_7 the_8 desired_9 complicated_10 mapping_11 into_12 a_13 series_14 of_15 nested_16 simple_17 mappings_18 ,_19 each_20 described_21 by_22 a_23 diﬀerent_24 layer_25 of_26 the_27 model_28 ._29
+NP2 Deep_1 learning_2
+VP5_LWG resolves_3
+NP8 this_4 diﬃculty_5
+PP11 by_6 breaking_7 the_8 desired_9 complicated_10 mapping_11 into_12 a_13 series_14 of_15 nested_16 simple_17 mappings_18
+S13 breaking_7 the_8 desired_9 complicated_10 mapping_11 into_12 a_13 series_14 of_15 nested_16 simple_17 mappings_18
+VP14_LWG breaking_7
+NP16 the_8 desired_9 complicated_10 mapping_11
+PP21 into_12 a_13 series_14 of_15 nested_16 simple_17 mappings_18
+NP23 a_13 series_14 of_15 nested_16 simple_17 mappings_18
+NP24 a_13 series_14
+PP27 of_15 nested_16 simple_17 mappings_18
+NP29 nested_16 simple_17 mappings_18
+NNS32 mappings_18
+,33 ,_19
+NP34 each_20 described_21 by_22 a_23 diﬀerent_24 layer_25 of_26 the_27 model_28
+NP35 each_20
+VP37_LWG described_21
+PP39 by_22 a_23 diﬀerent_24 layer_25 of_26 the_27 model_28
+NP41 a_23 diﬀerent_24 layer_25 of_26 the_27 model_28
+NP42 a_23 diﬀerent_24 layer_25
+PP46 of_26 the_27 model_28
+NP48 the_27 model_28

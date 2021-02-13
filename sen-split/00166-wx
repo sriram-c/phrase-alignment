@@ -1,0 +1,75 @@
+----
+00167	Because it is not always clear which of these two viewsthe depth of the computational graph, or the depth of the probabilistic modeling graphis most relevant, and because dierent people choose dierent sets of smallest elements from which to construct their graphs, there is no single correct value for the depth of an architecture, just as there is no single correct value for the length of a computer program.	 kyoMki yaha hameSA spaRta nahIM hE ki ina xo xqSyoM meM se kOna sA hE - kampyUteSanala grAPa kI gaharAI yA probAbilistika moYdaliMga grAPa kI gaharAI - sabase aXika prAsaMgika hE , Ora kyoMki viBinna loga apane grAPoM kA nirmANa karane ke lie sabase Cote wawvoM ke viBinna seta cunawe hEM , vahAz eka vAswukalA kI gaharAI ke lie koI ekala sahI mUlya nahIM hE		
+166	166
+S1 Because it is not always clear which of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph  is most relevant , and because dierent people choose dierent sets of smallest elements from which to construct their graphs , there is no single correct value for the depth of an architecture , just as there is no single correct value for the length of a computer program .	kyoMki yaha hameSA spaRta nahIM howA hE ki ina xonoM vicAroM meM se kisameM se kaMpyUtaranala grAPa kI gaharAI, yA saMBAviwa moYdaliMga grAPa kI gaharAI sabase
+SBAR2 Because it is not always clear which of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph  is most relevant , and because dierent people choose dierent sets of smallest elements from which to construct their graphs	kyoMki yaha hameSA spaRta nahIM howA hE ki ina xonoM vicAroM meM se kOna sA hE kaMpyUtarikala grAPa kI gaharAI, yA saMBAvanAvAxI moYdaliMga grAPa kI gaharAI
+S4 it is not always clear which of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph  is most relevant , and because dierent people choose dierent sets of smallest elements from which to construct their graphs	yaha hameSA spaRta nahIM howA hE ki ina xonoM vicAroM meM se kOna sA hE kaMpyUtarikala grAPa kI gaharAI, yA saMBAvanAvAxI moYdaliMga grAPa kI gaharAI sabase
+NP5 it	yaha
+VP7_LWG is not always	hameSA nahIM howA
+ADVP10 always	hameSA
+ADJP12 clear	spaRta
+SBAR14 which of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph  is most relevant , and because dierent people choose dierent sets of smallest elements from which to construct their graphs	ina xonoM vicAroM meM se kOna-kaMpyUSanala grAPa kI gaharAI, yA saMBAvanAvAxI moYdaliMga grAPa kI gaharAIsabase prAsaMgika hE, Ora kyoMki viBinna lo
+SBAR15 which of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph  is most relevant	ina xonoM vicAroM meM se kOna-kaMpyUSanala grAPa kI gaharAI, yA saMBAvanAvAxI moYdaliMga grAPa kI gaharAI sabase aXika prAsaMgika hE
+WHNP16 which	jo ki
+S18 of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph  is most relevant	ina xonoM vicAroM kI gaharAI kaMpyUteSanala grAPa kI gaharAI, yA saMBAvanAvAxI moYdaliMga grAPa kI gaharAIsabase aXika prAsaMgika hE
+NP19 of these two views  the depth of the computational graph , or the depth of the probabilistic modeling graph 	ina xonoM vicAroM kI gaharAI kaMpyUteSanala grAPa kI gaharAI, yA saMBAviwa moYdaliMga grAPa kI gaharAI
+NP20 of these two views  the depth of the computational graph	ina xonoM vicAroM kI kaMpyUtiSanala grAPa kI gaharAI
+PP21 of these two views	ina xonoM vicAroM kA
+NP23 these two views	ina xonoM vicAroM
+NNS26 views	vicAra
+,27 	
+NP28 the depth	gaharAI
+PP31 of the computational graph	kampyUteSanala grAPa kA
+NP33 the computational graph	kampyUteSanala grAPa
+,37 ,	,
+CC38 or	yA
+NP39 the depth of the probabilistic modeling graph	saMBAviwa moYdaliMga grAPa kI gaharAI
+NP40 the depth	gaharAI
+PP43 of the probabilistic modeling graph	saMBAviwa moYdaliMga grAPa kA
+NP45 the probabilistic modeling graph	saMBAviwa moYdaliMga grAPa
+ADJP47 probabilistic modeling	saMBAvanAvAxI moYdaliMga
+VP52_LWG is	hE
+ADJP54 most relevant	sabase prAsaMgika
+,57 ,	,
+CC58 and	Ora
+SBAR59 because dierent people choose dierent sets of smallest elements from which to construct their graphs	kyoMki viBinna loga sabase Cote wawvoM ke alaga-alaga seta cunawe hEM jinase apane grAPa banAne ke lie
+S61 dierent people choose dierent sets of smallest elements from which to construct their graphs	viBinna loga sabase Cote wawvoM ke alaga-alaga seta cunawe hEM jinase apane grAPa banAne ke lie
+NP62 dierent people	alaga-alaga loga
+NNS64 people	logoM
+VP65_LWG choose	cuneM
+NP67 dierent sets of smallest elements	sabase Cote wawvoM ke alaga seta
+NP68 dierent sets	alaga-alaga seta
+NNS70 sets	seta
+PP71 of smallest elements	sabase Cote wawvoM kA
+NP73 smallest elements	sabase Cote wawva
+NNS75 elements	wawva
+PP76 from which to construct their graphs	jisase unake grAPa banAne ke lie
+SBAR78 which to construct their graphs	jo apane grAPa kA nirmANa kareM
+WHNP79 which	jo ki
+S81 to construct their graphs	unake grAPa kA nirmANa karane ke lie
+VP82_LWG to construct	banAne ke lie
+NP86 their graphs	unake grAPa
+NNS88 graphs	grAPa
+,89 ,	,
+NP90 there	vahAM
+VP92_LWG is	hE
+NP94 no single correct value for the depth of an architecture	eka vAswukalA kI gaharAI ke lie koI BI sahI mUlya nahIM
+NP95 no single correct value	koI BI sahI mUlya nahIM
+PP100 for the depth of an architecture	eka vAswukalA kI gaharAI ke lie
+NP102 the depth of an architecture	eka vAswukalA kI gaharAI
+NP103 the depth	gaharAI
+PP106 of an architecture	eka vAswukalA kI
+NP108 an architecture	eka vAswukalA
+,111 ,	,
+SBAR112 just as there is no single correct value for the length of a computer program	jEse kisI kaMpyUtara progrAma kI laMbAI ke lie eka BI sahI mUlya nahIM hE
+S115 there is no single correct value for the length of a computer program	kampyUtara progrAma kI laMbAI ke lie eka BI sahI mUlya nahIM hE
+NP116 there	vahAM
+VP118_LWG is	hE
+NP120 no single correct value for the length of a computer program	kaMpyUtara progrAma kI laMbAI ke lie eka BI sahI mUlya nahIM
+NP121 no single correct value	koI BI sahI mUlya nahIM
+PP126 for the length of a computer program	kampyUtara progrAma kI laMbAI ke lie
+NP128 the length of a computer program	kampyUtara progrAma kI laMbAI
+NP129 the length	laMbAI
+PP132 of a computer program	eka kaMpyUtara progrAma kA
+NP134 a computer program	eka kaMpyUtara progrAma
+

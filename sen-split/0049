@@ -1,0 +1,22 @@
+----
+0050	Logistic regression learns how each of these features of the patient correlates with various outcomes.	 लॉजिस्टिक प्रतिगमन सीखता है कि कैसे रोगी की इन विशेषताओं में से प्रत्येक विभिन्न परिणामों के साथ सहसंबंधित करता है .		
+49	49
+S1 Logistic regression learns how each of these features of the patient correlates with various outcomes .	लॉजिस्टिक रिप्रेशन से पता चलता है कि रोगी के इनमें से प्रत्येक विशेषताएं विभिन्न परिणामों से कैसे संबंधित होती हैं।
+NP2 Logistic regression	लॉजिस्टिक प्रतिफल
+VP5_LWG learns	सीखता है।
+SBAR7 how each of these features of the patient correlates with various outcomes	कैसे विभिन्न परिणामों से संबंधित होता है रोगी की इनमें से प्रत्येक विशेषताएं
+WHADVP8 how	कैसे
+S10 each of these features of the patient correlates with various outcomes	रोगी के इनमें से प्रत्येक विशेषताओं का विभिन्न परिणामों से संबंधित
+NP11 each of these features of the patient	मरीज के इनमें से प्रत्येक विशेषताएं
+NP12 each	प्रत्येक
+PP14 of these features of the patient	मरीज के इन फीचर्स की
+NP16 these features of the patient	मरीज के ये फीचर्स
+NP17 these features	ये फीचर्स
+NNS19 features	फीचर्स
+PP20 of the patient	मरीज का
+NP22 the patient	मरीज
+VP25_LWG correlates	संबंधित
+PP27 with various outcomes	विभिन्न परिणामों से
+NP29 various outcomes	विभिन्न परिणाम
+NNS31 outcomes	परिणाम
+

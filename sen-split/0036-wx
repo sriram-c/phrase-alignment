@@ -1,0 +1,24 @@
+----
+0037	For example, Cyc failed to understand a story about a person named Fred shaving in the morning (Linde, 1992).	 uxAharaNa ke lie , Cyc subaha Preda Seva nAma ke eka vyakwi ke bAre meM eka kahAnI samaJane meM viPala rahA ( Linde , 1992 )		
+36	36
+S1 For example , Cyc failed to understand a story about a person named Fred shaving in the morning ( Linde , 1992 ) .	uxAharaNa ke lie, sAika subaha (liMde, 1992) meM Preda SeviMga nAmaka vyakwi ke bAre meM eka kahAnI samaJane meM viPala rahA
+PP2 For example	uxAharaNa ke lie
+NP4 example	uxAharaNa
+,6 ,	,
+NP7 Cyc	sAika
+VP9_LWG failed	asaPala
+S11 to understand a story about a person named Fred shaving in the morning ( Linde , 1992 )	subaha meM Preda SeviMga nAmaka vyakwi ke bAre meM eka kahAnI samaJane ke lie (liMde, 1992)
+VP12_LWG to understand	samaJane ke lie
+NP16 a story	eka kahAnI
+PP19 about a person named Fred shaving in the morning ( Linde , 1992 )	subaha (liMde, 1992) meM Preda SeviMga nAmaka vyakwi ke bAre meM
+NP21 a person named Fred shaving in the morning ( Linde , 1992 )	subaha meM Preda SeviMga nAmaka vyakwi (liMde, 1992)
+NP22 a person	eka vyakwi
+VP25_LWG named	nAmajaxa
+NP27 Fred shaving in the morning	subaha Preda SeviMga
+NP28 Fred shaving	Preda SeviMga
+PP31 in the morning	subaha-subaha
+NP33 the morning	subaha
+PRN36 ( Linde , 1992 )	(liMde, 1992)
+NP38 Linde , 1992	liMde, 1992
+,40 ,	,
+

@@ -1,0 +1,42 @@
+----
+00128	Given the second hidden layer’s description of the image in terms of corners and contours, the third hidden layer can detect entire parts of speciﬁc objects, by ﬁnding speciﬁc collections of contours and corners.	 कोनों और संचरों के संदर्भ में छवि के दूसरे छिपे हुए परत के वर्णन को देखते हुए , तीसरी छुपी परत विशिष्ट वस्तुओं के संपूर्ण भागों का पता लगा सकती है , जिसमें संचरों और कोनों का विशिष्ट संग्रह पाया जा सकता है .		
+127	127
+S1 Given the second hidden layer ’s description of the image in terms of corners and contours , the third hidden layer can detect entire parts of speciﬁc objects , by ﬁnding speciﬁc collections of contours and corners .	कोनों और कंधों के मामले में छवि के दूसरी छिपी हुई परत को देखते हुए तीसरी छिपी हुई परत विशिष्ट वस्तुओं के संपूर्ण हिस्सों का पता लगा सकती है
+PP2 Given the second hidden layer ’s description of the image in terms of corners and contours	कोनों और कंधों के मामले में दूसरी छिपी हुई परत के विवरण को देखते हुए
+NP4 the second hidden layer ’s description of the image in terms of corners and contours	दूसरी छिपी हुई परत का कोनों और कंधों के मामले में छवि का विवरण
+NP5 the second hidden layer ’s description	दूसरी छिपी हुई परत का विवरण
+NML8 hidden layer	छिपी हुई परत
+PP13 of the image in terms of corners and contours	कोनों और कंधों के मामले में छवि की
+NP15 the image in terms of corners and contours	कोनों और कंधों के मामले में छवि
+NP16 the image	छवि
+PP19 in terms of corners and contours	कोनों और कंधों के मामले में
+NP21 terms of corners and contours	कोनों और कंधों की शर्तें
+NP22 terms	शर्तों
+NNS23 terms	शर्तों
+PP24 of corners and contours	कोनों और कंधों की
+NP26 corners and contours	कोने और कंधों
+NNS27 corners	कोने-कोने
+CC28 and	और
+NNS29 contours	तहखाने
+,30 ,	,
+NP31 the third hidden layer	तीसरी छिपी हुई परत
+VP36_LWG can detect	पता लगा सकते हैं।
+NP40 entire parts of speciﬁc objects	विशिष्ट वस्तुओं के पूरे हिस्से
+NP41 entire parts	पूरे हिस्से
+NNS43 parts	भागों
+PP44 of speciﬁc objects	विशिष्ट वस्तुओं का
+NP46 speciﬁc objects	विशिष्ट वस्तुएं
+NNS48 objects	वस्तुएं
+,49 ,	,
+PP50 by ﬁnding speciﬁc collections of contours and corners	कंधों और कोनों के विशिष्ट संग्रह खोज कर
+S52 ﬁnding speciﬁc collections of contours and corners	कंधों और कोनों के विशिष्ट संग्रह खोजने
+VP53_LWG ﬁnding	मिल रहा है।
+NP55 speciﬁc collections of contours and corners	कॉर्नर और कोनों के विशिष्ट संग्रह
+NP56 speciﬁc collections	विशिष्ट संग्रह
+NNS58 collections	संग्रह
+PP59 of contours and corners	कंधों और कोनों की
+NP61 contours and corners	तहखाने और कोने
+NNS62 contours	तहखाने
+CC63 and	और
+NNS64 corners	कोने-कोने
+

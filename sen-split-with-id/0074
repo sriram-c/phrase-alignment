@@ -1,0 +1,28 @@
+----
+74
+S1 In_1 the_2 plot_3 on_4 the_5 right_6 ,_7 we_8 represent_9 the_10 data_11 with_12 polar_13 coordinates_14 and_15 the_16 task_17 becomes_18 simple_19 to_20 solve_21 with_22 a_23 vertical_24 line_25 ._26
+PP2 In_1 the_2 plot_3 on_4 the_5 right_6
+NP4 the_2 plot_3 on_4 the_5 right_6
+NP5 the_2 plot_3
+PP8 on_4 the_5 right_6
+NP10 the_5 right_6
+,13 ,_7
+NP14 we_8
+VP16_LWG represent_9
+SBAR18 the_10 data_11 with_12 polar_13 coordinates_14 and_15 the_16 task_17 becomes_18 simple_19 to_20 solve_21 with_22 a_23 vertical_24 line_25
+S19 the_10 data_11 with_12 polar_13 coordinates_14 and_15 the_16 task_17 becomes_18 simple_19 to_20 solve_21 with_22 a_23 vertical_24 line_25
+NP20 the_10 data_11 with_12 polar_13 coordinates_14 and_15 the_16 task_17
+NP21 the_10 data_11
+NNS23 data_11
+PP24 with_12 polar_13 coordinates_14 and_15 the_16 task_17
+NP26 polar_13 coordinates_14 and_15 the_16 task_17
+NP27 polar_13 coordinates_14
+NNS29 coordinates_14
+CC30 and_30
+NP31 the_16 task_17
+VP34_LWG becomes_18
+ADJP36 simple_19 to_20 solve_21 with_22 a_23 vertical_24 line_25
+S38 to_20 solve_21 with_22 a_23 vertical_24 line_25
+VP39_LWG to_20 solve_21
+PP43 with_22 a_23 vertical_24 line_25
+NP45 a_23 vertical_24 line_25

@@ -1,0 +1,17 @@
+----
+00120	Learning or evaluating this mapping seems insurmountable if tackled directly.	 इस मानचित्रण को सीखना या मूल्यांकन करना यदि सीधे हल कर लिया जाए तो यह असंभव प्रतीत होता है ।		
+119	119
+S1 Learning or evaluating this mapping seems insurmountable if tackled directly .	सीधे निपटने पर इस मैपिंग को सीखना या मूल्यांकन करना अप्रत्याशित लगता है।
+S2 Learning or evaluating this mapping	इस मैपिंग का सीखना या मूल्यांकन
+VP3_LWG Learning evaluating	मूल्यांकन सीखना
+CC5 or	या।
+VBG4 Learning	सीखना
+VBG6 evaluating	मूल्यांकन
+NP7 this mapping	यह मैपिंग
+VP10_LWG seems	लगता है लगता है।
+NP12 insurmountable	निर्भर करने योग्य
+SBAR14 if tackled directly	अगर सीधे निपटाया तो
+S16 tackled directly	सीधा निपटाया
+VP17_LWG tackled directly	सीधा निपटाया
+ADVP19 directly	सीधे तौर पर
+

@@ -1,0 +1,31 @@
+----
+00420	The MNIST dataset consists of scans of handwritten digits and associated labels describing which digit 09 is contained in each image.	 MNIST detAseta meM haswaliKiwa aMkoM Ora saMbaxXa lebaloM ke skEna howe hEM , jinameM yaha varNana howA hE ki prawyeka Cavi meM kOna sA aMka 0 - 9 nihiwa hE 		
+419	419
+S1 The MNIST dataset consists of scans of handwritten digits and associated labels describing which digit 0  9 is contained in each image .	manista dAtAbesa meM hAWa liKiwa dijita ke skEna howe hEM Ora isase judZe lebaloM meM bawAyA gayA hE ki prawyeka Cavi meM kisa dijita 0- 9 samAhiwa hE
+NP2 The MNIST dataset	manista kA detAbesa
+VP6_LWG consists	SAmila
+PP8 of scans of handwritten digits and associated labels describing which digit 0  9 is contained in each image	haswaliKiwa dijitoM ke skEna Ora isase judZe lebaloM kA jikra karawe hue bawAyA gayA hE ki prawyeka Cavi meM kisa dijita 0- 9 samAhiwa hE
+NP10 scans of handwritten digits and associated labels describing which digit 0  9 is contained in each image	haswaliKiwa dijitoM ke skEna Ora jodZe gae lebaloM kA varNana karawe hue bawAwe hEM ki prawyeka Cavi meM kisa dijita 0- 9 samAhiwa hE
+NP11 scans of handwritten digits	hAWa liKiwa dijita ke skEna
+NP12 scans	skEna
+NNS13 scans	skEna
+PP14 of handwritten digits	hAWa liKiwa aMkoM kI
+NP16 handwritten digits	hAWa se liKiwa aMka
+NNS18 digits	dijita
+CC19 and	Ora
+NP20 associated labels describing which digit 0  9 is contained in each image	prawyeka Cavi meM kisa aMkoM 0- 9 ko SAmila karawe hEM isakA ulleKa karane vAle saMbaMXiwa lebala
+NP21 associated labels	judZe lebala
+NNS23 labels	lebala
+VP24_LWG describing	bawAwe hue
+SBAR26 which digit 0  9 is contained in each image	prawyeka Cavi meM kisa aMkoM 0- 9 samAhiwa hE
+WHNP27 which	jo ki
+S29 digit 0  9 is contained in each image	prawyeka Cavi meM dijita 0- 9 hE samAhiwa
+NP30 digit 0  9	dijita 0- 9
+NP31 digit 0	dijita 0
+PP34  9	 9
+SYM35 	
+NP36 9	9
+VP38_LWG is contained	samAhiwa hE
+PP42 in each image	prawyeka Cavi meM
+NP44 each image	prawyeka Cavi
+

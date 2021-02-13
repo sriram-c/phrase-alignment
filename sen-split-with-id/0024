@@ -1,0 +1,19 @@
+----
+24
+S1 Much_1 of_2 this_3 knowledge_4 is_5 subjective_6 and_7 intuitive_8 ,_9 and_10 therefore_11 diﬃcult_12 to_13 articulate_14 in_15 a_16 formal_17 way_18 ._19
+NP2 Much_1 of_2 this_3 knowledge_4
+NP3 Much_1
+PP5 of_2 this_3 knowledge_4
+NP7 this_3 knowledge_4
+VP10_LWG is_5 therefore_11 diﬃcult_12
+ADJP13 subjective_6 and_7 intuitive_8
+CC15 and_15
+JJ14 subjective_6
+JJ16 intuitive_8
+,17 ,_9
+CC18 and_18
+ADVP19 therefore_11
+S23 to_13 articulate_14 in_15 a_16 formal_17 way_18
+VP24_LWG to_13 articulate_14
+PP28 in_15 a_16 formal_17 way_18
+NP30 a_16 formal_17 way_18

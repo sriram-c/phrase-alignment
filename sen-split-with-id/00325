@@ -1,0 +1,37 @@
+----
+325
+S1 Also_1 ,_2 while_3 neuroscience_4 has_5 successfully_6 inspired_7 several_8 neural_9 network_10 architectures_11 ,_12 we_13 do_14 not_15 yet_16 know_17 enough_18 about_19 biological_20 learning_21 for_22 neuroscience_23 to_24 oﬀer_25 much_26 guidance_27 for_28 the_29 learning_30 algorithms_31 we_32 use_33 to_34 train_35 these_36 architectures_37 ._38
+ADVP2 Also_1
+,4 ,_2
+SBAR5 while_3 neuroscience_4 has_5 successfully_6 inspired_7 several_8 neural_9 network_10 architectures_11
+S7 neuroscience_4 has_5 successfully_6 inspired_7 several_8 neural_9 network_10 architectures_11
+NP8 neuroscience_4
+VP10_LWG has_5 successfully_6 inspired_7
+ADVP12 successfully_6
+NP16 several_8 neural_9 network_10 architectures_11
+NML18 neural_9 network_10
+NNS21 architectures_11
+,22 ,_12
+NP23 we_13
+VP25_LWG do_14 not_15 yet_16 know_17 enough_18
+ADVP28 yet_16
+ADVP32 enough_18 about_19 biological_20 learning_21
+PP34 about_19 biological_20 learning_21
+NP36 biological_20 learning_21
+PP39 for_22 neuroscience_23
+NP41 neuroscience_23
+S43 to_24 oﬀer_25 much_26 guidance_27 for_28 the_29 learning_30 algorithms_31 we_32 use_33 to_34 train_35 these_36 architectures_37
+VP44_LWG to_24 oﬀer_25
+NP48 much_26 guidance_27
+PP51 for_28 the_29 learning_30 algorithms_31 we_32 use_33 to_34 train_35 these_36 architectures_37
+NP53 the_29 learning_30 algorithms_31 we_32 use_33 to_34 train_35 these_36 architectures_37
+NP54 the_29 learning_30 algorithms_31
+NNS57 algorithms_31
+SBAR58 we_32 use_33 to_34 train_35 these_36 architectures_37
+S59 we_32 use_33 to_34 train_35 these_36 architectures_37
+NP60 we_32
+VP62_LWG use_33
+S64 to_34 train_35 these_36 architectures_37
+VP65_LWG to_34 train_35
+NP69 these_36 architectures_37
+NNS71 architectures_37

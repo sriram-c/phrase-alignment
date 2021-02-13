@@ -1,0 +1,35 @@
+----
+0084	An autoencoder is the combination of an encoder function, which converts the input data into a dierent representation, and a decoder function, which converts the new representation back into the original format.	 eka svacaliwakodaka , eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna prawiniXiwva meM baxalawA hE , Ora eka dIkodara Palana hE , jo nae aByAvexana ko vApasa mUla prArUpa meM baxalawA hE .		
+83	83
+S1 An autoencoder is the combination of an encoder function , which converts the input data into a dierent representation , and a decoder function , which converts the new representation back into the original format .	eka oYtonakodara eka enkoletara PaMkSana kA saMyojana howA hE, jo inaputa detA ko alaga ripreSana meM baxala xewA hE, Ora eka dikodara PaMkSana meM baxala xewA hE, jo
+NP2 An autoencoder	eka oYtonakodara
+VP5_LWG is	hE
+NP7 the combination of an encoder function , which converts the input data into a dierent representation , and a decoder function , which converts the new representation back into the original format	eka enkoletara PaMkSana kA saMyojana, jo inaputa detA ko eka alaga prawiniXiwva meM parivarwiwa karawA hE, Ora eka dikodara PaMkSana meM parivarwiwa karawA hE, jo nae
+NP8 the combination of an encoder function , which converts the input data into a dierent representation	eka enkoletara PaMkSana kA saMyojana, jo inaputa dAtA ko alaga prawiniXiwva meM parivarwiwa karawA hE
+NP9 the combination	saMyojana
+PP12 of an encoder function , which converts the input data into a dierent representation	eka enkodeMta PaMkSana kA, jo inaputa dAtA ko alaga prawiniXiwva meM parivarwiwa karawA hE
+NP14 an encoder function , which converts the input data into a dierent representation	eka enkodeMta PaMkSana, jo inaputa dAtA ko alaga prawiniXiwva meM parivarwiwa karawA hE
+NP15 an encoder function	eka enkodara PaMkSana
+,19 ,	,
+SBAR20 which converts the input data into a dierent representation	jo inaputa dAtA ko alaga prawiniXiwva meM parivarwiwa karawA hE
+WHNP21 which	jo ki
+S23 converts the input data into a dierent representation	inaputa dAtA ko alaga prawiniXiwva meM parivarwiwa karawA hE
+VP24_LWG converts	parivarwana karawA hE
+NP26 the input data	inaputa dAtA
+NNS29 data	detA
+PP30 into a dierent representation	eka alaga prawiniXiwva meM
+NP32 a dierent representation	eka alaga prawiniXiwva
+,36 ,	,
+CC37 and	Ora
+NP38 a decoder function , which converts the new representation back into the original format	eka dikodara PaMkSana, jo nae prawiniXiwva ko vApasa mUla prArUpa meM parivarwiwa karawA hE
+NP39 a decoder function	eka dikodara PaMkSana
+,43 ,	,
+SBAR44 which converts the new representation back into the original format	jo nae prawiniXiwva ko mUla prArUpa meM vApasa parivarwiwa karawA hE
+WHNP45 which	jo ki
+S47 converts the new representation back into the original format	nae prawiniXiwva ko vApasa mUla prArUpa meM parivarwiwa karawA hE
+VP48_LWG converts back	vApasa parivarwana karawA hE
+NP50 the new representation	nayA prawiniXiwva
+ADVP54 back into the original format	mUla prArUpa meM vApasa
+PP56 into the original format	mUla prArUpa meM
+NP58 the original format	mUla prArUpa
+

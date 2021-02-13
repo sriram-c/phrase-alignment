@@ -1,0 +1,39 @@
+----
+0011	This solution is to allow computers to learn from experience and understand the world in terms of a hierarchy of concepts, with each concept deﬁned through its relation to simpler concepts.	 यह समाधान कंप्यूटर को अनुभव से सीखने और अवधारणाओं के एक पदानुक्रम के संदर्भ में दुनिया को समझने की अनुमति देने के लिए है , प्रत्येक अवधारणा के साथ सरल अवधारणाओं के अपने संबंध के माध्यम से परिभाषित .		
+10	10
+S1 This solution is to allow computers to learn from experience and understand the world in terms of a hierarchy of concepts , with each concept deﬁned through its relation to simpler concepts .	यह समाधान कंप्यूटरों को अवधारणाओं की एक प्रवृत्ति के मामले में अनुभव से सीखने और दुनिया को समझने की अनुमति देना है, प्रत्येक अवधारणा के साथ उसके
+NP2 This solution	यह समाधान
+VP5_LWG is	है।
+S7 to allow computers to learn from experience and understand the world in terms of a hierarchy of concepts , with each concept deﬁned through its relation to simpler concepts	कंप्यूटरों को अनुभव से सीखने और अवधाराओं की एक प्रवृत्ति के मामले में दुनिया को समझने की अनुमति देने के लिए, प्रत्येक अवधारणा के साथ सरल अवधाराओं
+VP8_LWG to allow	अनुमति देने के लिए
+NP12 computers	कंप्यूटर
+NNS13 computers	कंप्यूटर
+S14 to learn from experience and understand the world in terms of a hierarchy of concepts	अवधाराओं की एक रेखा के मामले में अनुभव से सीखें और दुनिया को समझें
+VP15_LWG to learn understand	समझने के लिए
+PP20 from experience	अनुभव से
+NP22 experience	अनुभव
+CC24 and	और
+VP18 learn from experience	अनुभव से सीखें
+VP25 understand the world in terms of a hierarchy of concepts	अवधाराओं की एक पदानुक्रम के मामले में दुनिया को समझें
+NP27 the world	दुनिया
+PP30 in terms of a hierarchy of concepts	अवधाराओं की एक पदानुक्रम के मामले में
+NP32 terms of a hierarchy of concepts	अवधाराओं की एक पदानुक्रम की शर्तें
+NP33 terms	शर्तों
+NNS34 terms	शर्तों
+PP35 of a hierarchy of concepts	अवधाराओं की एक प्रवृत्ति का
+NP37 a hierarchy of concepts	अवधाराओं की एक प्रवृत्ति
+NP38 a hierarchy	एक पदानुक्रम
+PP41 of concepts	अवधाराओं की
+NP43 concepts	अवधारणाएँ
+NNS44 concepts	अवधारणाएँ
+,45 ,	,
+PP46 with each concept deﬁned through its relation to simpler concepts	प्रत्येक अवधारणा के साथ सरल अवधाराओं के संबंध के माध्यम से परिभाषित
+NP48 each concept deﬁned through its relation to simpler concepts	प्रत्येक अवधारणा को सरल अवधाराओं के संबंध में परिभाषित
+NP49 each concept	प्रत्येक अवधारणा
+VP52_LWG deﬁned	परिभाषित
+PP54 through its relation	उसके रिश्ते के माध्यम से
+NP56 its relation	इसका संबंध
+PP59 to simpler concepts	सरल अवधाराओं को
+NP61 simpler concepts	सरल अवधारणाएँ
+NNS63 concepts	अवधारणाएँ
+

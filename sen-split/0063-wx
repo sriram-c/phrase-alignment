@@ -1,0 +1,29 @@
+----
+0064	We know that cars have wheels, so we might like to use the presence of a wheel as a feature.	 hama jAnawe hEM ki kAroM ke pahie howe hEM , isalie hama eka viSeRawA ke rUpa meM eka pahiyA kI upasWiwi kA upayoga karanA pasaMxa ho sakawA hE .		
+63	63
+S1 We know that cars have wheels , so we might like to use the presence of a wheel as a feature .	hama jAnawe hEM ki kAroM ke pahie howe hEM, isalie hama eka vhIla kI upasWiwi kA upayoga eka suviXA ke rUpa meM karanA cAhawe hEM
+S2 We know that cars have wheels	hama jAnawe hEM ki kAroM ke pahie hEM
+NP3 We	hama
+VP5_LWG know	jAnie
+SBAR7 that cars have wheels	usa kAroM ke pahie hEM
+S9 cars have wheels	kAroM ke pahie hEM
+NP10 cars	kAreM
+NNS11 cars	kAreM
+VP12_LWG have	pAsa hE
+NP14 wheels	pahie
+NNS15 wheels	pahie
+,16 ,	,
+CC17 so	Ese meM
+S18 we might like to use the presence of a wheel as a feature	hama eka PIcara ke rUpa meM vhIla kI mOjUxagI kA upayoga karanA cAhawe hEM
+NP19 we	hama
+VP21_LWG might like	pasaMxa A sakawA hE
+S25 to use the presence of a wheel as a feature	PIcara ke wOra para vhIla kI mOjUxagI kA iswemAla karane ke lie
+VP26_LWG to use	iswemAla ke lie
+NP30 the presence of a wheel as a feature	eka PIcara ke rUpa meM vhIla kI mOjUxagI
+NP31 the presence	mOjUxagI
+PP34 of a wheel as a feature	eka PIcara ke rUpa meM eka pahiyA kA
+NP36 a wheel as a feature	eka PIcara ke rUpa meM eka pahiyA
+NP37 a wheel	eka pahiyA
+PP40 as a feature	eka viSeRawA ke rUpa meM
+NP42 a feature	eka viSeRawA
+

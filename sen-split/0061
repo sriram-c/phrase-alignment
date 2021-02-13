@@ -1,0 +1,22 @@
+----
+0062	For many tasks, however, it is diﬃcult to know what features should be extracted.	 कई कार्यों के लिए , तथापि , यह जानना कठिन है कि किन विशेषताओं को निकाला जाना चाहिए .		
+61	61
+S1 For many tasks , however , it is diﬃcult to know what features should be extracted .	कई कार्यों के लिए हालांकि यह जानना मुश्किल है कि किन विशेषताओं को निकाला जाना चाहिए।
+PP2 For many tasks	कई कार्यों के लिए
+NP4 many tasks	कई कार्य
+NNS6 tasks	कार्यों
+,7 ,	,
+ADVP8 however	हालांकि
+,10 ,	,
+NP11 it	यह
+VP13_LWG is	है।
+ADJP15 diﬃcult to know what features should be extracted	जानना मुश्किल है कि किन विशेषताओं को निकाला जाना चाहिए
+S17 to know what features should be extracted	जानने के लिए क्या विशेषताएं निकाली जानी चाहिए
+VP18_LWG to know	जानने के लिए।
+SBAR22 what features should be extracted	क्या विशेषताएं निकाली जानी चाहिए
+WHNP23 what	क्या
+S25 features should be extracted	फीचर्स निकाले जाएं
+NP26 features	फीचर्स
+NNS27 features	फीचर्स
+VP28_LWG should be extracted	निकाले जाने चाहिए
+

@@ -1,0 +1,32 @@
+----
+539
+S1 Since_1 deep_2 networks_3 reached_4 the_5 scale_6 necessary_7 to_8 compete_9 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17 ,_18 they_19 have_20 consistently_21 won_22 the_23 competition_24 every_25 year_26 ,_27 yielding_28 lower_29 and_30 lower_31 error_32 rates_33 each_34 time_35 ._36
+SBAR2 Since_1 deep_2 networks_3 reached_4 the_5 scale_6 necessary_7 to_8 compete_9 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+S4 deep_2 networks_3 reached_4 the_5 scale_6 necessary_7 to_8 compete_9 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+NP5 deep_2 networks_3
+NNS7 networks_3
+VP8_LWG reached_4
+NP10 the_5 scale_6
+S13 necessary_7 to_8 compete_9 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+ADJP14 necessary_7 to_8 compete_9 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+S16 to_8 compete_9 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+VP17_LWG to_8 compete_9
+PP21 in_10 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+NP23 the_11 ImageNet_12 Large_13 Scale_14 Visual_15 Recognition_16 Challenge_17
+NML26 Large_13 Scale_14
+,32 ,_18
+NP33 they_19
+VP35_LWG have_20 consistently_21 won_22
+ADVP37 consistently_21
+NP41 the_23 competition_24
+NP-TMP44 every_25 year_26
+,47 ,_27
+S48 yielding_28 lower_29 and_30 lower_31 error_32 rates_33 each_34 time_35
+VP49_LWG yielding_28
+NP51 lower_29 and_30 lower_31 error_32 rates_33
+ADJP52 lower_29 and_30 lower_31
+CC54 and_54
+JJR53 lower_29
+JJR55 lower_31
+NNS57 rates_33
+NP-TMP58 each_34 time_35

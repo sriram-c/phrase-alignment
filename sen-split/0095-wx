@@ -1,0 +1,39 @@
+----
+0096	A major source of diculty in many real-world articial intelligence applications is that many of the factors of variation inuence every single piece of data we are able to observe.	 kaI vAswavika xuniyA kqwrima buxXi anuprayogoM meM kaTinAI kA eka pramuKa srowa yaha hE ki viBinnawA ke kaI kAraka hara eka detA ke tukadZe ko praBAviwa karawe hEM jise hama xeKane meM sakRama howe hEM .		
+95	95
+S1 A major source of diculty in many real - world articial intelligence applications is that many of the factors of variation inuence every single piece of data we are able to observe .	kaI vAswavika - viSva kqwrima buxXimawwA anuprayogoM meM kaTinAI kA eka badZA srowa yaha hE ki viviXawA ke kaI kAraka dAtA ke hara eka tukadZe ko praBAviwa karawe hEM ji
+NP2 A major source of diculty in many real - world articial intelligence applications	kaI vAswavika - viSva kqwrima KuPiyA AvexanoM meM kaTinAI kA eka badZA srowa
+NP3 A major source	eka pramuKa srowa
+PP7 of diculty in many real - world articial intelligence applications	kaI vAswavika - viSva kqwrima buxXimawwA anuprayogoM meM kaTinAI kI
+NP9 diculty in many real - world articial intelligence applications	kaI vAswavika - viSva kqwrima buxXimawwA anuprayogoM meM kaTinAI
+NP10 diculty	muSkila
+PP12 in many real - world articial intelligence applications	kaI vAswavika - viSva kqwrima buxXimawwA ke Avexana
+NP14 many real - world articial intelligence applications	kaI vAswavika- viSva kqwrima buxXimawwA anuprayoga
+NML16 real - world	asalI-xuniyA
+NNS22 applications	Avexana
+VP23_LWG is	hE
+SBAR25 that many of the factors of variation inuence every single piece of data we are able to observe	ki viviXawA ke kaI kAraka dAtA ke hara eka tukadZe ko praBAviwa karawe hEM jinakA hama nirIkRaNa kara pAwe hEM
+S27 many of the factors of variation inuence every single piece of data we are able to observe	viviXawA ke kaI kAraka dAtA ke hara eka tukadZe ko praBAviwa karawe hEM jinheM hama xeKa pAwe hEM
+NP28 many of the factors of variation	viviXawA ke kaI kAraka
+NP29 many	kaI
+PP31 of the factors of variation	viviXawA ke kArakoM kI
+NP33 the factors of variation	viviXawA ke kAraka
+NP34 the factors	kAraKAne
+NNS36 factors	kAraKAne
+PP37 of variation	viviXawA kA
+NP39 variation	viviXawA
+VP41_LWG inuence	praBAva
+NP43 every single piece of data we are able to observe	detA kA hara eka tukadZA hama xeKa sakawe hEM
+NP44 every single piece	hara eka tukadZA
+PP48 of data we are able to observe	detA kA hama nirIkRaNa kara pA rahe hEM
+NP50 data we are able to observe	detA hama xeKa pA rahe hEM
+NP51 data	detA
+NNS52 data	detA
+SBAR53 we are able to observe	hama nirIkRaNa kara pA rahe hEM
+S54 we are able to observe	hama nirIkRaNa kara pA rahe hEM
+NP55 we	hama
+VP57_LWG are	hEM
+ADJP59 able to observe	nirIkRaNa karane meM sakRama
+S61 to observe	nirIkRaNa ke lie
+VP62_LWG to observe	nirIkRaNa ke lie
+

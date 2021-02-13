@@ -1,0 +1,33 @@
+----
+0040	The diculties faced by systems relying on hard-coded knowledge suggest that AI systems need the ability to acquire their own knowledge, by extracting 2 CHAPTER 1.	 kaTora jFAna para BarosA karane vAlI praNAliyoM ke sAmane Ane vAlI kaTinAiyoM se pawA calawA hE ki eAiesa praNAliyoM ke lie apane svayaM ke jFAna ko prApwa karane kI kRamawA kI jarUrawa hE , 2 aXyAya 1 kA niRkarRa nikAlane ke xvArA .		
+39	39
+S1 The diculties faced by systems relying on hard - coded knowledge suggest that AI systems need the ability to acquire their own knowledge , by extracting 2 CHAPTER 1 .	kaTina - kodiwa jFAna para nirBara praNAliyoM ke sAmane Ane vAlI kaTinAiyoM se pawA calawA hE ki eAI praNAliyoM ko apanA jFAna hAsila karane kI kRamawA kI AvaSyakawA
+NP2 The diculties faced by systems relying on hard - coded knowledge	sistama se ho rahI muSkileM kadZI mehanawa se - kodiwa jFAna
+NP3 The diculties	muSkileM
+NNS5 diculties	muSkileM
+VP6_LWG faced	sAmanA kiyA
+PP8 by systems relying on hard - coded knowledge	sistama kadZI mehanawa para nirBara - kodiwa jFAna
+NP10 systems relying on hard - coded knowledge	kadZI mehanawa para nirBara sistama - kodiwa jFAna
+NP11 systems	sistama
+NNS12 systems	sistama
+VP13_LWG relying	JUTa bolanA
+PP15 on hard - coded knowledge	kadZI mehanawa para- kodiwa jFAna
+NP17 hard - coded knowledge	kaTina - kodiwa jFAna
+NML18 hard - coded	kaTina - kodiwa
+VP23_LWG suggest	suJAva
+SBAR25 that AI systems need the ability to acquire their own knowledge , by extracting 2 CHAPTER 1	eAI praNAliyoM ko apanA jFAna hAsila karane kI kRamawA kI AvaSyakawA howI hE, 2 aXyAya 1 ko nikAlakara
+S27 AI systems need the ability to acquire their own knowledge , by extracting 2 CHAPTER 1	eAI praNAliyoM ko apanA jFAna hAsila karane kI kRamawA kI AvaSyakawA howI hE, 2 aXyAya 1 ko nikAlakara
+NP28 AI systems	eAI sistama
+NNS30 systems	sistama
+VP31_LWG need	jarUrawa
+NP33 the ability to acquire their own knowledge	apanA jFAna hAsila karane kI kRamawA
+S36 to acquire their own knowledge	apanA jFAna hAsila karane ke lie
+VP37_LWG to acquire	aXigrahaNa ke lie
+NP41 their own knowledge	unakA apanA jFAna
+,45 ,	,
+PP46 by extracting 2 CHAPTER 1	2 cEptara 1 nikAlakara
+S48 extracting 2 CHAPTER 1	2 cEptara 1 nikAlanA
+VP49_LWG extracting	nikAlanA
+NP51 2 CHAPTER 1	2 cEptara 1
+NML53 CHAPTER 1	cEptara 1
+

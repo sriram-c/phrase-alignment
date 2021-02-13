@@ -1,0 +1,25 @@
+----
+00350	INTRODUCTION cars, trucks, and birds, and these objects can each be red, green, or blue.	 INTRODUCING kAroM , trakoM , Ora pakRiyoM , Ora ina vaswuoM prawyeka lAla , hare , yA nIle ho sakawA hE		
+349	349
+S1 INTRODUCTION cars , trucks , and birds , and these objects can each be red , green , or blue .	paricaya kAra, traka, Ora pakRI, Ora ye vaswueM prawyeka lAla, hare, yA nIlI ho sakawI hEM
+S2 INTRODUCTION cars , trucks , and birds	paricaya kAreM, traka, Ora pakRI
+VP3_LWG INTRODUCTION	paricaya
+NP5 cars , trucks , and birds	kAreM, traka Ora pakRI
+NNS6 cars	kAreM
+,7 ,	,
+NNS8 trucks	traka
+,9 ,	,
+CC10 and	Ora
+NNS11 birds	pakRI
+,12 ,	,
+CC13 and	Ora
+S14 these objects can each be red , green , or blue	ye vaswueM prawyeka lAla, hare, yA nIlI ho sakawI hEM
+NP15 these objects	ye vaswueM
+NNS17 objects	vaswueM
+VP18_LWG can be	ho sakawA hE
+ADJP23 red , green , or blue	lAla, hare, yA nIlA
+,25 ,	,
+,27 ,	,
+CC28 or	yA
+JJ29 blue	nIlA
+

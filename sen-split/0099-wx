@@ -1,0 +1,20 @@
+----
+00100	Of course, it can be very dicult to extract such high-level, abstract features from raw data.	 beSaka , kacce detA se isa waraha ke ucca swara , amUrwa viSeRawAoM ko nikAlanA bahuwa muSkila ho sakawA hE .		
+99	99
+S1 Of course , it can be very dicult to extract such high - level , abstract features from raw data .	beSaka, kacce detA se iwane ucca-swara, amUrwa viSeRawAoM ko nikAlanA bahuwa muSkila ho sakawA hE
+ADVP2 Of course	beSaka
+,5 ,	,
+NP6 it	yaha
+VP8_LWG can be	ho sakawA hE
+ADJP12 very dicult to extract such high - level , abstract features from raw data	Ese ucca - swara, kacce detA se avaSoRiwa suviXAeM nikAlanA bahuwa muSkila
+S15 to extract such high - level , abstract features from raw data	Ese ucca - swara nikAlane ke lie kacce detA se avaSoRiwa suviXAeM
+VP16_LWG to extract	nikAlane ke lie
+NP20 such high - level , abstract features from raw data	Ese ucca - swara, kacce detA se avaSoRiwa suviXAeM
+NP21 such high - level , abstract features	Ese ucca - swara, amUrwa viSeRawAeM
+NML23 high - level	ucca - swara
+,27 ,	,
+NNS29 features	PIcarsa
+PP30 from raw data	kacce AMkadZoM se
+NP32 raw data	kaccA detA
+NNS34 data	detA
+

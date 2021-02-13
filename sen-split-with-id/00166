@@ -1,0 +1,73 @@
+----
+166
+S1 Because_1 it_2 is_3 not_4 always_5 clear_6 which_7 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28 is_29 most_30 relevant_31 ,_32 and_33 because_34 diﬀerent_35 people_36 choose_37 diﬀerent_38 sets_39 of_40 smallest_41 elements_42 from_43 which_44 to_45 construct_46 their_47 graphs_48 ,_49 there_50 is_51 no_52 single_53 correct_54 value_55 for_56 the_57 depth_58 of_59 an_60 architecture_61 ,_62 just_63 as_64 there_65 is_66 no_67 single_68 correct_69 value_70 for_71 the_72 length_73 of_74 a_75 computer_76 program_77 ._78
+SBAR2 Because_1 it_2 is_3 not_4 always_5 clear_6 which_7 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28 is_29 most_30 relevant_31 ,_32 and_33 because_34 diﬀerent_35 people_36 choose_37 diﬀerent_38 sets_39 of_40 smallest_41 elements_42 from_43 which_44 to_45 construct_46 their_47 graphs_48
+S4 it_2 is_3 not_4 always_5 clear_6 which_7 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28 is_29 most_30 relevant_31 ,_32 and_33 because_34 diﬀerent_35 people_36 choose_37 diﬀerent_38 sets_39 of_40 smallest_41 elements_42 from_43 which_44 to_45 construct_46 their_47 graphs_48
+NP5 it_2
+VP7_LWG is_3 not_4 always_5
+ADVP10 always_5
+ADJP12 clear_6
+SBAR14 which_7 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28 is_29 most_30 relevant_31 ,_32 and_33 because_34 diﬀerent_35 people_36 choose_37 diﬀerent_38 sets_39 of_40 smallest_41 elements_42 from_43 which_44 to_45 construct_46 their_47 graphs_48
+SBAR15 which_7 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28 is_29 most_30 relevant_31
+WHNP16 which_7
+S18 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28 is_29 most_30 relevant_31
+NP19 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18 ,_19 or_20 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27 —_28
+NP20 of_8 these_9 two_10 views_11 —_12 the_13 depth_14 of_15 the_16 computational_17 graph_18
+PP21 of_8 these_9 two_10 views_11
+NP23 these_9 two_10 views_11
+NNS26 views_11
+,27 —_12
+NP28 the_13 depth_14
+PP31 of_15 the_16 computational_17 graph_18
+NP33 the_16 computational_17 graph_18
+,37 ,_19
+CC38 or_38
+NP39 the_21 depth_22 of_23 the_24 probabilistic_25 modeling_26 graph_27
+NP40 the_21 depth_22
+PP43 of_23 the_24 probabilistic_25 modeling_26 graph_27
+NP45 the_24 probabilistic_25 modeling_26 graph_27
+ADJP47 probabilistic_25 modeling_26
+VP52_LWG is_29
+ADJP54 most_30 relevant_31
+,57 ,_32
+CC58 and_58
+SBAR59 because_34 diﬀerent_35 people_36 choose_37 diﬀerent_38 sets_39 of_40 smallest_41 elements_42 from_43 which_44 to_45 construct_46 their_47 graphs_48
+S61 diﬀerent_35 people_36 choose_37 diﬀerent_38 sets_39 of_40 smallest_41 elements_42 from_43 which_44 to_45 construct_46 their_47 graphs_48
+NP62 diﬀerent_35 people_36
+NNS64 people_36
+VP65_LWG choose_37
+NP67 diﬀerent_38 sets_39 of_40 smallest_41 elements_42
+NP68 diﬀerent_38 sets_39
+NNS70 sets_39
+PP71 of_40 smallest_41 elements_42
+NP73 smallest_41 elements_42
+NNS75 elements_42
+PP76 from_43 which_44 to_45 construct_46 their_47 graphs_48
+SBAR78 which_44 to_45 construct_46 their_47 graphs_48
+WHNP79 which_44
+S81 to_45 construct_46 their_47 graphs_48
+VP82_LWG to_45 construct_46
+NP86 their_47 graphs_48
+NNS88 graphs_48
+,89 ,_49
+NP90 there_50
+VP92_LWG is_51
+NP94 no_52 single_53 correct_54 value_55 for_56 the_57 depth_58 of_59 an_60 architecture_61
+NP95 no_52 single_53 correct_54 value_55
+PP100 for_56 the_57 depth_58 of_59 an_60 architecture_61
+NP102 the_57 depth_58 of_59 an_60 architecture_61
+NP103 the_57 depth_58
+PP106 of_59 an_60 architecture_61
+NP108 an_60 architecture_61
+,111 ,_62
+SBAR112 just_63 as_64 there_65 is_66 no_67 single_68 correct_69 value_70 for_71 the_72 length_73 of_74 a_75 computer_76 program_77
+S115 there_65 is_66 no_67 single_68 correct_69 value_70 for_71 the_72 length_73 of_74 a_75 computer_76 program_77
+NP116 there_65
+VP118_LWG is_66
+NP120 no_67 single_68 correct_69 value_70 for_71 the_72 length_73 of_74 a_75 computer_76 program_77
+NP121 no_67 single_68 correct_69 value_70
+PP126 for_71 the_72 length_73 of_74 a_75 computer_76 program_77
+NP128 the_72 length_73 of_74 a_75 computer_76 program_77
+NP129 the_72 length_73
+PP132 of_74 a_75 computer_76 program_77
+NP134 a_75 computer_76 program_77

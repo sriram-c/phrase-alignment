@@ -1,0 +1,30 @@
+----
+314
+S1 Today_1 ,_2 these_3 application_4 communities_5 are_6 still_7 separate_8 ,_9 but_10 it_11 is_12 common_13 for_14 deep_15 learning_16 research_17 groups_18 to_19 study_20 many_21 or_22 even_23 all_24 these_25 application_26 areas_27 simultaneously_28 ._29
+S2 Today_1 ,_2 these_3 application_4 communities_5 are_6 still_7 separate_8
+NP-TMP3 Today_1
+,5 ,_2
+NP6 these_3 application_4 communities_5
+NNS9 communities_5
+VP10_LWG are_6 still_7
+ADVP12 still_7
+ADJP14 separate_8
+,16 ,_9
+CC17 but_17
+S18 it_11 is_12 common_13 for_14 deep_15 learning_16 research_17 groups_18 to_19 study_20 many_21 or_22 even_23 all_24 these_25 application_26 areas_27 simultaneously_28
+NP19 it_11
+VP21_LWG is_12
+ADJP23 common_13 for_14 deep_15 learning_16 research_17 groups_18
+PP25 for_14 deep_15 learning_16 research_17 groups_18
+NP27 deep_15 learning_16 research_17 groups_18
+NML29 learning_16 research_17
+NNS32 groups_18
+S33 to_19 study_20 many_21 or_22 even_23 all_24 these_25 application_26 areas_27 simultaneously_28
+VP34_LWG to_19 study_20 simultaneously_28
+NP38 many_21 or_22 even_23 all_24 these_25 application_26 areas_27
+UCP39 many_21 or_22 even_23 all_24 these_25 application_26
+ADJP40 many_21
+CC42 or_42
+NP43 even_23 all_24 these_25 application_26
+NNS48 areas_27
+ADVP49 simultaneously_28

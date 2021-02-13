@@ -1,0 +1,22 @@
+----
+0054	This dependence on representations is a general phenomenon that appears throughout computer science and even daily life.	 prawiniXiwvoM para yaha nirBarawA eka sAmAnya GatanA hE jo pUre kaMpyUtara vijFAna Ora yahAM waka ki xEnika jIvana meM prakata howI hE .		
+53	53
+S1 This dependence on representations is a general phenomenon that appears throughout computer science and even daily life .	prawiniXiwvoM para yaha nirBarawA eka sAmAnya GatanA hE jo pUre kaMpyUtara vijFAna Ora yahAM waka ki xEnika jIvana meM xiKAI xewA hE
+NP2 This dependence on representations	prawiniXiwva para yaha nirBarawA
+NP3 This dependence	yaha nirBarawA
+PP6 on representations	prawiniXiwva para
+NP8 representations	prawiniXiwva
+NNS9 representations	prawiniXiwva
+VP10_LWG is	hE
+NP12 a general phenomenon that appears throughout computer science and even daily life	eka sAmAnya GatanA jo pUre kaMpyUtara vijFAna Ora yahAM waka ki xEnika jIvana meM xiKAI xewA hE
+NP13 a general phenomenon	eka sAmAnya GatanA
+SBAR17 that appears throughout computer science and even daily life	jo pUre kaMpyUtara sAiMsa Ora yahAM waka ki xEnika jIvana meM xiKAI xewA hE
+WHNP18 that	vaha
+S20 appears throughout computer science and even daily life	pUre kaMpyUtara sAiMsa Ora yahAM waka ki xEnika jIvana meM xiKAI xewA hE
+VP21_LWG appears	xiKAI xewA hE
+PP23 throughout computer science and even daily life	pUre kaMpyUtara sAiMsa Ora yahAM waka ki xEnika jIvana
+NP25 computer science and even daily life	kaMpyUtara sAiMsa Ora yahAM waka ki xEnika jIvana
+NP26 computer science	kampyUtara sAiMsa
+CC29 and	Ora
+NP30 even daily life	yahAM waka ki xEnika jIvana
+

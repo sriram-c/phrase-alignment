@@ -1,0 +1,39 @@
+----
+0096	A major source of diﬃculty in many real-world artiﬁcial intelligence applications is that many of the factors of variation inﬂuence every single piece of data we are able to observe.	 कई वास्तविक दुनिया कृत्रिम बुद्धि अनुप्रयोगों में कठिनाई का एक प्रमुख स्रोत यह है कि विभिन्नता के कई कारक हर एक डेटा के टुकड़े को प्रभावित करते हैं जिसे हम देखने में सक्षम होते हैं .		
+95	95
+S1 A major source of diﬃculty in many real - world artiﬁcial intelligence applications is that many of the factors of variation inﬂuence every single piece of data we are able to observe .	कई वास्तविक - विश्व कृत्रिम बुद्धिमत्ता अनुप्रयोगों में कठिनाई का एक बड़ा स्रोत यह है कि विविधता के कई कारक डाटा के हर एक टुकड़े को प्रभावित करते हैं जि
+NP2 A major source of diﬃculty in many real - world artiﬁcial intelligence applications	कई वास्तविक - विश्व कृत्रिम खुफिया आवेदनों में कठिनाई का एक बड़ा स्रोत
+NP3 A major source	एक प्रमुख स्रोत
+PP7 of diﬃculty in many real - world artiﬁcial intelligence applications	कई वास्तविक - विश्व कृत्रिम बुद्धिमत्ता अनुप्रयोगों में कठिनाई की
+NP9 diﬃculty in many real - world artiﬁcial intelligence applications	कई वास्तविक - विश्व कृत्रिम बुद्धिमत्ता अनुप्रयोगों में कठिनाई
+NP10 diﬃculty	मुश्किल
+PP12 in many real - world artiﬁcial intelligence applications	कई वास्तविक - विश्व कृत्रिम बुद्धिमत्ता के आवेदन
+NP14 many real - world artiﬁcial intelligence applications	कई वास्तविक- विश्व कृत्रिम बुद्धिमत्ता अनुप्रयोग
+NML16 real - world	असली-दुनिया
+NNS22 applications	आवेदन
+VP23_LWG is	है।
+SBAR25 that many of the factors of variation inﬂuence every single piece of data we are able to observe	कि विविधता के कई कारक डाटा के हर एक टुकड़े को प्रभावित करते हैं जिनका हम निरीक्षण कर पाते हैं
+S27 many of the factors of variation inﬂuence every single piece of data we are able to observe	विविधता के कई कारक डाटा के हर एक टुकड़े को प्रभावित करते हैं जिन्हें हम देख पाते हैं
+NP28 many of the factors of variation	विविधता के कई कारक
+NP29 many	कई
+PP31 of the factors of variation	विविधता के कारकों की
+NP33 the factors of variation	विविधता के कारक
+NP34 the factors	कारखाने
+NNS36 factors	कारखाने
+PP37 of variation	विविधता का
+NP39 variation	विविधता
+VP41_LWG inﬂuence	प्रभाव
+NP43 every single piece of data we are able to observe	डेटा का हर एक टुकड़ा हम देख सकते हैं
+NP44 every single piece	हर एक टुकड़ा
+PP48 of data we are able to observe	डेटा का हम निरीक्षण कर पा रहे हैं
+NP50 data we are able to observe	डेटा हम देख पा रहे हैं
+NP51 data	डेटा
+NNS52 data	डेटा
+SBAR53 we are able to observe	हम निरीक्षण कर पा रहे हैं
+S54 we are able to observe	हम निरीक्षण कर पा रहे हैं
+NP55 we	हम
+VP57_LWG are	हैं।
+ADJP59 able to observe	निरीक्षण करने में सक्षम
+S61 to observe	निरीक्षण के लिए
+VP62_LWG to observe	निरीक्षण के लिए
+

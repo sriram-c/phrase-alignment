@@ -1,0 +1,42 @@
+----
+0003	The mythical gures Pygmalion, Daedalus, and Hephaestus may all be interpreted as legendary inventors, and Galatea, Talos, and Pandora may all be regarded as articial life (Ovid and Martin, 2004; Sparkes, 1996; Tandy, 1997).	 miWakIya AMkadZe pigmaliyana , xAxalasa , Ora hePestasa saBI ko praKyAwa AviRkAraka Ora gEletA , tElosa , Ora pAMdorA saBI ko kqwrima jIvana mAnA jA sakawA hE ( ovida Ora mArtina , 1997 , kAuntI , 1996 )		
+2	2
+S1 The mythical gures Pygmalion , Daedalus , and Hephaestus may all be interpreted as legendary inventors , and Galatea , Talos , and Pandora may all be regarded as articial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 ) .	pOrANika AMkadZe pAyagamAiliyana, dedalasa, Ora hePestasa saBI ko mahAna AviRkAraka ke rUpa meM vyAKyA kiyA jA sakawA hE, Ora gEletA, tElo,
+S2 The mythical gures Pygmalion , Daedalus , and Hephaestus may all be interpreted as legendary inventors	pOrANika AMkadZe pAyagamAiliyana, xAxAlasa, Ora hePestasa saBI ko mahAna AviRkAraka ke rUpa meM mAnA jA sakawA hE
+NP3 The mythical gures Pygmalion , Daedalus , and Hephaestus	pOrANika AMkadZe pAyagamalIyana, xAxAlasa Ora hePEstasa
+NP4 The mythical gures	pOrANika AMkadZe
+NNS7 gures	AMkadZe
+NP8 Pygmalion , Daedalus , and Hephaestus	pAyagaminIyana, xAxAlasa, Ora hePestasa
+,10 ,	,
+,12 ,	,
+CC13 and	Ora
+NNP14 Hephaestus	hePestasa
+VP15_LWG may all be interpreted	saBI kI vyAKyA ho sakawI hE
+PP22 as legendary inventors	mahAna AviRkAraka ke rUpa meM
+NP24 legendary inventors	mahAna AviRkAraka
+NNS26 inventors	AviRkAraka
+,27 ,	,
+CC28 and	Ora
+S29 Galatea , Talos , and Pandora may all be regarded as articial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	gEletA, wAlosa, Ora pEMxrA saBI ko kqwrima jIvana (ovida Ora mArtina, 2004) ke rUpa meM mAnA jA sakawA hE; spArksa, 1996 ; tAMdI, 1997
+NP30 Galatea , Talos , and Pandora	gEletA, wAlosa, Ora pEMxrA
+,32 ,	,
+,34 ,	,
+CC35 and	Ora
+NNP36 Pandora	pEMxrA
+VP37_LWG may all be regarded	ho sakawA hE saBI kA saMbaMXa
+PP44 as articial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	kqwrima jIvana (ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+NP46 articial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	kqwrima jIvana (ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+PRN49 ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	(ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+NP51 Ovid and Martin	ovida Ora mArtina
+CC53 and	Ora
+NNP52 Ovid	ovida
+NNP54 Martin	mArtina
+,55 ,	,
+NP56 2004	2004
+NP59 Sparkes	spArka
+,61 ,	,
+NP62 1996	1996
+NP65 Tandy	taMdI
+,67 ,	,
+NP68 1997	1997
+

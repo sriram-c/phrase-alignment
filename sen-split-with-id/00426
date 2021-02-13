@@ -1,0 +1,41 @@
+----
+426
+FRAG1 Working_1 successfully_2 with_3 datasets_4 smaller_5 than_6 this_7 is_8 an_9 important_10 research_11 area_12 ,_13 focusing_14 in_15 particular_16 on_17 how_18 we_19 can_20 take_21 advantage_22 of_23 large_24 quantities_25 of_26 unlabeled_27 examples_28 ,_29 with_30 unsupervised_31 or_32 semi-supervised_33 learning_34 ._35
+VP2_LWG Working_1 successfully_2 focusing_14
+ADVP5 successfully_2
+PP7 with_3 datasets_4 smaller_5 than_6 this_7 is_8 an_9 important_10 research_11 area_12
+NP9 datasets_4 smaller_5 than_6 this_7 is_8 an_9 important_10 research_11 area_12
+NP10 datasets_4
+NNS11 datasets_4
+ADJP12 smaller_5 than_6 this_7 is_8 an_9 important_10 research_11 area_12
+ADJP13 smaller_5
+SBAR15 than_6 this_7 is_8 an_9 important_10 research_11 area_12
+S17 this_7 is_8 an_9 important_10 research_11 area_12
+NP18 this_7
+VP20_LWG is_8
+NP22 an_9 important_10 research_11 area_12
+,27 ,_13
+PP30 in_15 particular_16 on_17 how_18 we_19 can_20 take_21 advantage_22 of_23 large_24 quantities_25 of_26 unlabeled_27 examples_28
+NP32 particular_16 on_17 how_18 we_19 can_20 take_21 advantage_22 of_23 large_24 quantities_25 of_26 unlabeled_27 examples_28
+NP33 particular_16 on_17 how_18 we_19 can_20 take_21 advantage_22
+ADJP34 particular_16 on_17 how_18 we_19 can_20 take_21
+PP36 on_17 how_18 we_19 can_20 take_21
+SBAR38 how_18 we_19 can_20 take_21
+WHADVP39 how_18
+S41 we_19 can_20 take_21
+NP42 we_19
+VP44_LWG can_20 take_21
+PP49 of_23 large_24 quantities_25 of_26 unlabeled_27 examples_28
+NP51 large_24 quantities_25 of_26 unlabeled_27 examples_28
+NP52 large_24 quantities_25
+NNS54 quantities_25
+PP55 of_26 unlabeled_27 examples_28
+NP57 unlabeled_27 examples_28
+NNS59 examples_28
+,60 ,_29
+PP61 with_30 unsupervised_31 or_32 semi-supervised_33 learning_34
+NP63 unsupervised_31 or_32 semi-supervised_33 learning_34
+ADJP64 unsupervised_31 or_32 semi-supervised_33
+CC66 or_66
+JJ65 unsupervised_31
+JJ67 semi-supervised_33

@@ -1,0 +1,36 @@
+----
+00373	This program united machine learning research groups led by Geoﬀrey Hinton at University of Toronto, Yoshua Bengio at University of Montreal, and Yann LeCun at New York University.	 इस कार्यक्रम संयुक्त मशीन शिक्षण अनुसंधान समूहों टोरंटो विश्वविद्यालय में जिओफ्री हिन्टन के नेतृत्व में , मॉन्टट्रियल विश्वविद्यालय में योशु बेंजियो , और न्यूयॉर्क विश्वविद्यालय में यान लीकुन		
+372	372
+S1 This program united machine learning research groups led by Geoﬀrey Hinton at University of Toronto , Yoshua Bengio at University of Montreal , and Yann LeCun at New York University .	यह कार्यक्रम टोरंटो विश्वविद्यालय, मॉन्ट्रियल यूनिवर्सिटी ऑफ मॉन्ट्रियल में जेफ्री हिंटन के नेतृत्व में एकजुट मशीन सीख अनुसंधान समूह, मॉन्ट्रि
+NP2 This program	यह कार्यक्रम
+VP5_LWG united	एकजुट होकर
+SBAR7 machine learning research groups led by Geoﬀrey Hinton at University of Toronto , Yoshua Bengio at University of Montreal , and Yann LeCun at New York University	टोरंटो विश्वविद्यालय, मॉन्ट्रियल यूनिवर्सिटी में जिफ्री हिंटन के नेतृत्व में मशीन सीख अनुसंधान समूह, मॉन्ट्रियल यूनिवर्सिटी में जोशुआ बेंजियो
+S8 machine learning research groups led by Geoﬀrey Hinton at University of Toronto , Yoshua Bengio at University of Montreal , and Yann LeCun at New York University	टोरंटो विश्वविद्यालय, मॉन्ट्रियल यूनिवर्सिटी में जिफ्री हिंटन के नेतृत्व में मशीन सीख अनुसंधान समूह, मॉन्ट्रियल यूनिवर्सिटी में जोशुआ बेंजियो
+NP9 machine learning research groups	मशीन सीख अनुसंधान समूह
+NML10 machine learning	मशीन सीखना
+NNS14 groups	समूह
+VP15_LWG led	नेतृत्व
+PP17 by Geoﬀrey Hinton	जेफ्री हिंटन द्वारा
+NP19 Geoﬀrey Hinton	जेफ्री हिंटन
+PP22 at University of Toronto , Yoshua Bengio at University of Montreal , and Yann LeCun at New York University	टोरंटो विश्वविद्यालय में, मॉन्ट्रियल यूनिवर्सिटी में जोशुआ बेंगियो, और न्यूयॉर्क यूनिवर्सिटी में येन लेकन
+NP24 University of Toronto , Yoshua Bengio at University of Montreal , and Yann LeCun at New York University	टोरंटो विश्वविद्यालय, मॉन्ट्रियल यूनिवर्सिटी में जोशुआ बेंगियो, और न्यूयॉर्क यूनिवर्सिटी में येन लेकन
+NP25 University of Toronto	टोरंटो विश्वविद्यालय
+NP26 University	यूनिवर्सिटी
+PP28 of Toronto	टोरंटो का
+NP30 Toronto	टोरंटो
+,32 ,	,
+NP33 Yoshua Bengio at University of Montreal	मॉन्ट्रियल यूनिवर्सिटी में योशुआ बेंगियो
+NP34 Yoshua Bengio	योशुआ बेंगियो
+PP37 at University of Montreal	मॉन्ट्रियल यूनिवर्सिटी में
+NP39 University of Montreal	मॉन्ट्रियल यूनिवर्सिटी
+NP40 University	यूनिवर्सिटी
+PP42 of Montreal	मॉन्ट्रियल के
+NP44 Montreal	मॉन्ट्रियल
+,46 ,	,
+CC47 and	और
+NP48 Yann LeCun at New York University	यानन लेकन न्यूयॉर्क यूनिवर्सिटी में
+NP49 Yann LeCun	यांनी लेऊन
+PP52 at New York University	न्यूयॉर्क यूनिवर्सिटी में
+NP54 New York University	न्यूयॉर्क यूनिवर्सिटी
+NML55 New York	न्यूयॉर्क
+

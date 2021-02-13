@@ -1,0 +1,20 @@
+----
+00477	The earliest deep models were used to recognize individual objects in tightly cropped, extremely small images (	 सबसे पहले गहरे मॉडलों का उपयोग व्यक्तिगत वस्तुओं को कसकर फसल में पहचानने के लिए किया जाता था , अत्यंत छोटी छवियों (		
+476	476
+S1 The earliest deep models were used to recognize individual objects in tightly cropped , extremely small images (	कसकर खींचने में व्यक्तिगत वस्तुओं को पहचानने के लिए सबसे पहले गहरे मॉडलों का इस्तेमाल किया गया था, बेहद छोटी छवियों में (
+NP2 The earliest deep models	सबसे पहले गहरे मॉडल
+NNS6 models	मॉडल
+VP7_LWG were used	इस्तेमाल किया जाता था
+S11 to recognize individual objects in tightly cropped , extremely small images (	कसकर खींचने में व्यक्तिगत वस्तुओं को पहचानने के लिए, बेहद छोटी छवियां (
+VP12_LWG to recognize	पहचानने के लिए
+NP16 individual objects	व्यक्तिगत वस्तुएं
+NNS18 objects	वस्तुएं
+PP19 in tightly cropped , extremely small images (	कसकर खींचने में, बेहद छोटी छवियां (
+NP21 tightly cropped , extremely small images (	कसकर कटा हुआ, बेहद छोटी छवियां (
+NP22 tightly cropped , extremely small images	कसकर खींचें, बेहद छोटी छवियां
+ADJP23 tightly cropped , extremely small	कसकर कटा हुआ, बेहद छोटा
+ADJP24 tightly cropped	कसकर क्रॉप किया
+,27 ,	,
+ADJP28 extremely small	बेहद छोटा
+NNS31 images	छवियां
+

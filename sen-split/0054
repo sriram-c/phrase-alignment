@@ -1,0 +1,31 @@
+----
+0055	In computer science, operations such as searching a collection of data can proceed exponentially faster if the collec- tion is structured and indexed intelligently.	 कंप्यूटर विज्ञान में , डेटा के संग्रह को खोजने जैसी संक्रियाएं घातीय रूप से तेजी से आगे बढ़ सकती हैं यदि कोलेक - टीन को संरचित और बुद्धिमान रूप से अनुक्रमित किया जाए .		
+54	54
+S1 In computer science , operations such as searching a collection of data can proceed exponentially faster if the collec - tion is structured and indexed intelligently .	कंप्यूटर साइंस में यदि सहयोगी - संरचनात्मक रूप से संरचनात्मक रूप से सूचीबद्ध और सूचीबद्ध हो तो डेटा संग्रह की खोज जैसे परिचालन
+PP2 In computer science	कम्प्यूटर साइंस में
+NP4 computer science	कम्प्यूटर साइंस
+,7 ,	,
+NP8 operations such as searching a collection of data	आंकड़ों के संग्रह की खोज जैसे ऑपरेशन
+NP9 operations	ऑपरेशन
+NNS10 operations	ऑपरेशन
+PP11 such as searching a collection of data	जैसे डेटा का कलेक्शन खोजना
+S14 searching a collection of data	डाटा का कलेक्शन खोजना
+VP15_LWG searching	खोज रहा है।
+NP17 a collection of data	डाटा का संग्रह
+NP18 a collection	एक संग्रह
+PP21 of data	डेटा का
+NP23 data	डेटा
+NNS24 data	डेटा
+VP25_LWG can proceed exponentially faster	तेजी से आगे बढ़ सकते हैं आगे
+ADVP29 exponentially	लगातार
+ADVP31 faster if the collec - tion is structured and indexed intelligently	सहयोगी - संरचनात्मक और सूक्ष्मता से सूचीबद्ध हो तो ज्यादा तेज
+ADVP32 faster	तेज
+SBAR34 if the collec - tion is structured and indexed intelligently	यदि सहयोगी - लिंग संरचनात्मक और सूक्ष्मता से सूचीबद्ध है
+S36 the collec - tion is structured and indexed intelligently	सहयोगी- लिंग संरचित और सूक्ष्मता से सूचीबद्ध है
+NP37 the collec - tion	सहयोगी- दान
+VP42_LWG is structured indexed intelligently	बुद्धिजीवी सूचकांक है
+CC46 and	और
+VBN45 structured	संरचनात्मक
+VBN47 indexed	सूचकांक
+ADVP48 intelligently	बुद्धिमान
+

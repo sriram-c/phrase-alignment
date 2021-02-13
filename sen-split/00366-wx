@@ -1,0 +1,39 @@
+----
+00367	Kernel machines (Boser et al., 1992; Cortes and Vapnik, 1995; Schlkopf et al., 1999) and graphical models (Jor- dan, 1998) both achieved good results on many important tasks.	 karnela maSIneM ( 1992 mahawvapUrNa kora Ora vepeM Ora 1995 ) & # 44 ; esa ema esa & # 44 ; 19999 & # 44 ; esa ema esa & # 44 ; grAPikala moYdala ( 1998 ) & # 44 ; jina kAryoM se kaI acCe pariNAma prApwa hue 		
+366	366
+S1 Kernel machines ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schlkopf et al. , 1999 ) and graphical models ( Jor - dan , 1998 ) both achieved good results on many important tasks .	kernala maSInoM (bosara eta ala., 1992 ; korta Ora vAparanika, 1995 ;SolekoYPa eta ala., 1999 ) Ora grAPika moYdala (jora-
+NP2 Kernel machines ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schlkopf et al. , 1999 ) and graphical models ( Jor - dan , 1998 )	kernala maSInoM (bosara eta ala., 1992 ; korta Ora vAparanika, 1995 ;SolekoYPa eta ala., 1999 ) Ora grAPika moYdala (jora-
+NP3 Kernel machines ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schlkopf et al. , 1999 )	kernala maSInoM (bosara eta ala., 1992 ; korta Ora vAparanika, 1995 ; SoYkalakoPa eta ala., 1999 )
+NNS5 machines	maSIneM
+PRN6 ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schlkopf et al. , 1999 )	(bosara eta ala., 1992 ; korta Ora vAparanika, 1995 ; SElakoPa eta ala., 1999 )
+FRAG8 Boser et al. , 1992	bosara eta ala., 1992
+NP9 Boser et al.	bosara eta ala
+ADVP11 et al.	eta ala
+,14 ,	,
+NP15 1992	1992
+FRAG18 Cortes and Vapnik , 1995	korta Ora vApnika, 1995
+NP19 Cortes and Vapnik	korta Ora vAparanika
+CC21 and	Ora
+NNP20 Cortes	kortisa
+NNP22 Vapnik	vAparanika
+,23 ,	,
+NP24 1995	1995
+FRAG27 Schlkopf et al. , 1999	SElakoPa eta ala, 1999
+NP28 Schlkopf et al.	SElakoPa eta ala
+ADVP30 et al.	eta ala
+,33 ,	,
+NP34 1999	1999
+CC37 and	Ora
+NP38 graphical models ( Jor - dan , 1998 )	grAPika moYdala (jora-xAna, 1998)
+NNS40 models	moYdala
+PRN41 ( Jor - dan , 1998 )	(jora- xAna, 1998)
+NP43 Jor - dan	jora- xAna
+,47 ,	,
+NP48 1998	1998
+VP52_LWG achieved	hAsila
+NP54 good results	acCe pariNAma
+NNS56 results	pariNAma
+PP57 on many important tasks	kaI ahama kAryoM para
+NP59 many important tasks	kaI ahama kArya
+NNS62 tasks	kAryoM
+

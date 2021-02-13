@@ -1,0 +1,28 @@
+----
+00102	When it is nearly as diﬃcult to obtain a representation as to solve the original problem, representation learning does not, at ﬁrst glance, seem to help us.	 जब मूल समस्या को हल करने के लिए प्रतिनिधित्व प्राप्त करना लगभग उतना ही कठिन होता है , तब अभ्यावेदन शिक्षण पहली नजर में हमारी सहायता नहीं करता ।		
+101	101
+S1 When it is nearly as diﬃcult to obtain a representation as to solve the original problem , representation learning does not , at ﬁrst glance , seem to help us .	जब मूल समस्या के समाधान के लिए प्रतिनिधित्व प्राप्त करना लगभग मुश्किल होता है, तो पहली नजर में प्रतिनिधित्व सीखने से हमारी मदद मिलती है।
+SBAR2 When it is nearly as diﬃcult to obtain a representation as to solve the original problem	जब मूल समस्या के समाधान के लिए प्रतिनिधित्व प्राप्त करना लगभग उतना ही मुश्किल होता है
+WHADVP3 When	कब
+S5 it is nearly as diﬃcult to obtain a representation as to solve the original problem	मूल समस्या के समाधान के लिए प्रतिनिधित्व प्राप्त करना लगभग उतना ही मुश्किल है
+NP6 it	यह
+VP8_LWG is	है।
+ADJP10 nearly as diﬃcult to obtain a representation as to solve the original problem	मूल समस्या के समाधान के लिए प्रतिनिधित्व प्राप्त करना लगभग उतना ही मुश्किल
+S14 to obtain a representation as to solve the original problem	मूल समस्या के समाधान के लिए प्रतिनिधित्व प्राप्त करने के लिए
+VP15_LWG to obtain	प्राप्त करने के लिए
+NP19 a representation	एक प्रतिनिधित्व
+SBAR22 as to solve the original problem	मूल समस्या के समाधान के लिए
+S24 to solve the original problem	मूल समस्या का समाधान करने के लिए
+VP25_LWG to solve	हल करने के लिए
+NP29 the original problem	मूल समस्या
+,33 ,	,
+NP34 representation learning	प्रतिनिधित्व सीखना
+VP37_LWG does not seem	ऐसा नहीं लगता
+,41 ,	,
+PP42 at ﬁrst glance	पहली नजर में
+NP44 ﬁrst glance	पहली नजर
+,47 ,	,
+S49 to help us	हमारी मदद करने के लिए
+VP50_LWG to help	मदद के लिए
+NP54 us	हमें
+

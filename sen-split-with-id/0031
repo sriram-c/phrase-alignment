@@ -1,0 +1,18 @@
+----
+31
+S1 One_1 of_2 the_3 most_4 famous_5 such_6 projects_7 is_8 Cyc_9 (_10 Lenat_11 and_12 Guha_13 ,_14 1989_15 )_16 ._17
+NP2 One_1 of_2 the_3 most_4 famous_5 such_6 projects_7
+NP3 One_1
+PP5 of_2 the_3 most_4 famous_5 such_6 projects_7
+NP7 the_3 most_4 famous_5 such_6 projects_7
+ADJP9 most_4 famous_5
+NNS13 projects_7
+VP14_LWG is_8
+ADJP16 Cyc_9
+PRN18 (_10 Lenat_11 and_12 Guha_13 ,_14 1989_15 )_16
+NP20 Lenat_11 and_12 Guha_13
+CC22 and_22
+NNP21 Lenat_11
+NNP23 Guha_13
+,24 ,_14
+NP25 1989_15

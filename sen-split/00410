@@ -1,0 +1,41 @@
+----
+00411	These datasets included the public Street View House Numbers dataset (Netzer et al., 2011), various versions of the ImageNet dataset (Deng et al., 2009, 2010a; Russakovsky et al., 2014a), and the Sports-1	 इन आकडों में सार्वजनिक स्ट्रीट व्यू डेटासेट्स ( नीत्ज़र एट अल , विभिन्न इमेज नेनेट अल , 2009 , 2010 , रूसोकोव्स्क अल स्पोर्ट्स और 2014 संस्करणों की संख्याएं शामिल थीं ।		
+410	410
+S1 These datasets included the public Street View House Numbers dataset ( Netzer et al. , 2011 ) , various versions of the ImageNet dataset ( Deng et al. , 2009 , 2010a ; Russakovsky et al. , 2014a ) , and the Sports - 1	इन डेटाबेटों में सार्वजनिक स्ट्रीट व्यू हाउस नंबर डेटाबेस (नेजर एट अल, 2011), विभिन्न संस्करणों के आइडियानेट डेटाबेस (डेंग एट अल
+NP2 These datasets	ये डेटाबेट्स
+NNS4 datasets	डेटाबेस
+VP5_LWG included	शामिल
+NP7 the public Street View House Numbers dataset ( Netzer et al. , 2011 ) , various versions of the ImageNet dataset ( Deng et al. , 2009 , 2010a ; Russakovsky et al. , 2014a ) , and the Sports - 1	पब्लिक स्ट्रीट व्यू हाउस नंबर डेटाबेस (नेजर एट अल., 2011), विभिन्न संस्करणों के आइडियानेट डेटाबेस (डेंग एट अल., 2009, 2010
+NP8 the public Street View House Numbers dataset ( Netzer et al. , 2011 )	पब्लिक स्ट्रीट व्यू हाउस नंबर डेटाबेट (नेजर एट अल, 2011)
+NP9 the public Street View House Numbers dataset	पब्लिक स्ट्रीट व्यू हाउस नंबर डेटाबेट
+NML12 Street View House	स्ट्रीट व्यू हाउस
+NNS16 Numbers	नंबर
+NP19 Netzer et al. , 2011 )	नेजर एट अल।, 2011 )
+NP20 Netzer	नेजर
+ADVP22 et al.	एट अल।
+PRN25 , 2011 )	, 2011 )
+,26 ,	,
+NP27 2011	2011
+,30 ,	,
+NP31 various versions of the ImageNet dataset ( Deng et al. , 2009 , 2010a ; Russakovsky et al. , 2014a )	आइडियानेट डेटाबेस के विभिन्न संस्करण (देंग एट अल., 2009, 2010 ए ; रूसाकोवस्की एट अल., 2014a )
+NP32 various versions	विभिन्न संस्करण
+NNS34 versions	संस्करण
+PP35 of the ImageNet dataset ( Deng et al. , 2009 , 2010a ; Russakovsky et al. , 2014a )	आइडियानेट डेटाबेस (डेंग एट अल., 2009, 2010 ए ; रूसाकोवस्की एट अल., 2014a )
+NP37 the ImageNet dataset ( Deng et al. , 2009 , 2010a ; Russakovsky et al. , 2014a )	आइडियानेट डेटाबेस (डेंग एट अल., 2009, 2010 ए ; रूसाकोवस्की एट अल., 2014a )
+PRN41 ( Deng et al. , 2009 , 2010a ; Russakovsky et al. , 2014a )	(देंग एट अल।, 2009, 2010 ए ; रूसाकोवस्की एट अल।, 2014a )
+FRAG43 Deng et al. , 2009 , 2010a	देंग एट अल., 2009, 2010 ए
+NP44 Deng et al.	देंग एट अल।
+ADVP46 et al.	एट अल।
+,49 ,	,
+NP50 2009 , 2010a	2009, 2010 ए
+,52 ,	,
+FRAG55 Russakovsky et al. , 2014a	रूसाकोवस्की एट अल।, 2014a
+NP56 Russakovsky et al.	रूसाकोवस्की एट अल।
+ADVP58 et al.	एट अल।
+,61 ,	,
+NP62 2014a	2014 ए.
+,65 ,	,
+CC66 and	और
+NP67 the Sports - 1	खेल- 1
+NML69 Sports - 1	खेल- 1
+

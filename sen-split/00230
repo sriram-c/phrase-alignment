@@ -1,0 +1,15 @@
+----
+00231	We do assume that all readers come from a computer science background.	 हम यह जरूर मानते हैं कि सभी पाठक कंप्यूटर विज्ञान की पृष्ठभूमि से आते हैं ।		
+230	230
+S1 We do assume that all readers come from a computer science background .	हम मानते हैं कि सभी पाठक कंप्यूटर साइंस बैकग्राउंड से आते हैं।
+NP2 We	हम
+VP4_LWG do assume	मान लेना।
+SBAR8 that all readers come from a computer science background	कि कम्प्यूटर साइंस बैकग्राउंड से आते हैं सभी पाठक
+S10 all readers come from a computer science background	सभी पाठक कम्प्यूटर साइंस बैकग्राउंड से आते हैं
+NP11 all readers	सभी पाठक
+NNS13 readers	पाठक
+VP14_LWG come	आओ।
+PP16 from a computer science background	एक कंप्यूटर साइंस बैकग्राउंड से
+NP18 a computer science background	एक कंप्यूटर साइंस बैकग्राउंड
+NML20 computer science	कम्प्यूटर साइंस
+

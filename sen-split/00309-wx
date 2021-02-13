@@ -1,0 +1,38 @@
+----
+00310	Because we are not able to do this, we are far from understanding even some of the most simple and well-studied parts of the brain (Olshausen and Field, 2005).	 kyoMki hama EsA nahIM kara pA rahe hEM , hama maswiRka ke kuCa sabase sarala Ora acCI waraha se jFAwa BAgoM ko BI samaJane se xUra hEM ( olaSasana Ora PIlda , 2005 )		
+309	309
+S1 Because we are not able to do this , we are far from understanding even some of the most simple and well - studied parts of the brain ( Olshausen and Field , 2005 ) .	kyoMki hama EsA karane meM sakRama nahIM hEM, hama maswiRka ke kuCa sabase sarala Ora acCI waraha se paDZe gae kuCa hissoM ko BI samaJane se bahuwa xUra
+SBAR2 Because we are not able to do this	kyoMki hama EsA nahIM kara pA rahe hEM
+S4 we are not able to do this	EsA nahIM kara pA rahe hEM hama
+NP5 we	hama
+VP7_LWG are not	nahIM hEM
+ADJP10 able to do this	EsA kara pA rahe hEM
+S12 to do this	EsA karane ke lie
+VP13_LWG to do	karane ke lie
+NP17 this	yaha
+,19 ,	,
+NP20 we	hama
+VP22_LWG are far	bahuwa xUra hEM
+ADVP24 far from understanding even	samaJa se BI xUra
+PP26 from understanding even	samaJa se BI
+NP28 understanding even	samaJaxArI BI
+NP31 some of the most simple and well - studied parts of the brain	kuCa sabase sarala Ora acCI waraha se- maswiRka ke kuCa hissoM kA aXyayana
+NP32 some	kuCa
+PP34 of the most simple and well - studied parts of the brain	sabase sarala Ora acCI waraha se- maswiRka ke aXyayaniwa hissoM kA
+NP36 the most simple and well - studied parts of the brain	sabase sarala Ora acCI waraha se- maswiRka ke kuCa hissoM kA aXyayana
+NP37 the most simple and well - studied parts	sabase sarala Ora acCI waraha se paDZe-liKe hissoM
+ADJP39 most simple and well - studied	sabase sarala Ora acCI waraha se paDZA-
+ADJP40 most simple	sabase sarala
+CC43 and	Ora
+ADJP44 well - studied	acCI waraha se paDZA-
+NNS48 parts	BAgoM
+PP49 of the brain	maswiRka kA
+NP51 the brain	maswiRka
+PRN54 ( Olshausen and Field , 2005 )	(olahasana Ora PIlda, 2005)
+NP56 Olshausen and Field	oYlahasana Ora PIlda
+CC58 and	Ora
+NNP57 Olshausen	oYlaSuAna
+NNP59 Field	PIlda
+,60 ,	,
+NP61 2005	2005
+

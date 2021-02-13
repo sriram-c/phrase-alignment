@@ -1,0 +1,69 @@
+----
+00382	This wave of neural networks research popularized the use of the term “deep learning” to emphasize that researchers were now able to train deeper neural networks than had been possible before, and to focus attention on the theoretical importance of depth (Bengio and LeCun, 2007; Delalleau and Bengio, 2011; Pascanu et al., 2014a; Montufar et al., 2014).	 तंत्रिका नेटवर्क अनुसंधान की इस लहर ने “दीप अधिगम” शब्द के प्रयोग को लोकप्रिय बनाया ताकि शोधकर्ता अब गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने में सक्षम हो सके जो इससे पहले संभव था , और इसके लिए महत्व की ओर ध्यान दिया गया था , जो सन 2011 की गहराई ( बैंगियोट ) , एल्क्यो फोकस , एल्क्युएल 2014		
+381	381
+S1 This wave of neural networks research popularized the use of the term “ deep learning ” to emphasize that researchers were now able to train deeper neural networks than had been possible before , and to focus attention on the theoretical importance of depth ( Bengio and LeCun , 2007 ; Delalleau and Bengio , 2011 ; Pascanu et al. , 2014a ; Montufar et al. , 2014 ) .	तंत्रिका नेटवर्क अनुसंधान की इस लहर ने इस बात पर बल दिया कि शोधकर्ता अब “गहरी सीख” शब्द के उपयोग को बढ़ावा देने में सक्षम थे, और गहराई
+NP2 This wave of neural networks research	तंत्रिका नेटवर्क शोध की यह लहर
+NP3 This wave	यह लहर
+PP6 of neural networks research	तंत्रिका नेटवर्क शोध
+NP8 neural networks research	तंत्रिका नेटवर्क शोध
+NML9 neural networks	तंत्रिका नेटवर्क
+NNS11 networks	नेटवर्क
+VP13_LWG popularized	पॉप्युलराइज्ड
+NP15 the use of the term “ deep learning ”	“गहरी सीख” शब्द का उपयोग
+NP16 the use	उपयोग
+PP19 of the term “ deep learning ”	“गहरी सीख” शब्द का
+NP21 the term “ deep learning ”	शब्द “गहरी सीख”
+NML25 deep learning	गहरी सीख
+S29 to emphasize that researchers were now able to train deeper neural networks than had been possible before , and to focus attention on the theoretical importance of depth	यह जोर देने के लिए कि शोधकर्ता अब पहले की तुलना में गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने में सक्षम थे, और गहराई के सैद्धांतिक मह
+VP30_LWG to emphasize	जोर देने के लिए
+SBAR34 that researchers were now able to train deeper neural networks than had been possible before , and to focus attention on the theoretical importance of depth	यह शोधकर्ता अब पहले से संभव होने की तुलना में गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने में सक्षम थे, और गहराई के सैद्धांतिक महत्व पर
+S36 researchers were now able to train deeper neural networks than had been possible before , and to focus attention on the theoretical importance of depth	अनुसंधानकर्ता अब पहले की तुलना में गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने में सक्षम थे, और गहराई के सैद्धांतिक महत्व पर ध्यान केंद्रित कर
+NP37 researchers	शोधकर्ताओं
+NNS38 researchers	शोधकर्ताओं
+VP39_LWG were now	अब थे।
+ADVP41 now	अब
+ADJP43 able to train deeper neural networks than had been possible before , and to focus attention on the theoretical importance of depth	पहले की तुलना में गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने में सक्षम, और गहराई के सैद्धांतिक महत्व पर ध्यान केंद्रित करने के लिए
+S45 to train deeper neural networks than had been possible before , and to focus attention on the theoretical importance of depth	पहले की तुलना में गहरे तंत्रिका नेटवर्क को प्रशिक्षित करने के लिए, और गहराई के सैद्धांतिक महत्व पर ध्यान केंद्रित करना
+VP46_LWG to train to focus	ध्यान केंद्रित करने के लिए प्रशिक्षण
+NP51 deeper neural networks	गहरा तंत्रिका नेटवर्क
+NNS54 networks	नेटवर्क
+SBAR55 than had been possible before	पहले से ज्यादा संभव था।
+S57 had been possible before	पहले भी संभव रहा था।
+VP58_LWG had been before	पहले भी थे।
+ADJP62 possible	संभव
+ADVP64 before	इससे पहले।
+,66 ,	,
+CC67 and	और
+VP68 to focus attention on the theoretical importance of depth	गहराई के सैद्धांतिक महत्व पर ध्यान देना
+NP72 attention	ध्यान
+PP74 on the theoretical importance of depth	गहराई के सैद्धांतिक महत्व पर
+NP76 the theoretical importance of depth	गहराई का सैद्धांतिक महत्व
+NP77 the theoretical importance	सैद्धांतिक महत्व
+PP81 of depth	गहराई की
+NP83 depth	गहराई
+PRN85 ( Bengio and LeCun , 2007 ; Delalleau and Bengio , 2011 ; Pascanu et al. , 2014a ; Montufar et al. , 2014 )	(बेंगियो और लेकन, 2007 ; डेलालू और बेंगियो, 2011 ; पासकनू एट अल., 2014 ; मोंटूफर एट अल., 2014 )
+FRAG87 Bengio and LeCun , 2007	बेंगो और लेकन, 2007
+NP88 Bengio and LeCun	बेंगियो और लेकन
+CC90 and	और
+NNP89 Bengio	बेंगीओ
+NNP91 LeCun	लेकन
+,92 ,	,
+NP93 2007	2007
+FRAG96 Delalleau and Bengio , 2011	डेलेलू और बिंगो, 2011
+NP97 Delalleau and Bengio	डेलेलू और बेंगियो
+CC99 and	और
+NNP98 Delalleau	डेलौउ
+NNP100 Bengio	बेंगीओ
+,101 ,	,
+NP102 2011	2011
+FRAG105 Pascanu et al. , 2014a	पासकनू एट अल., 2014a
+NP106 Pascanu et al.	पासकनू एट अल।
+ADVP108 et al.	एट अल।
+,111 ,	,
+NP112 2014a	2014 ए.
+FRAG115 Montufar et al. , 2014	मोंटूफर एट अल., 2014
+NP116 Montufar et al.	मोंटूफर एट अल।
+ADVP118 et al.	एट अल।
+,121 ,	,
+NP122 2014	2014
+

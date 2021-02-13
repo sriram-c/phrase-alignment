@@ -1,0 +1,26 @@
+----
+0006	We look to intelligent software to automate routine labor, understand speech or images, make diagnoses in medicine and support basic scientiﬁc research.	 हम सामान्य कार्य को स्वचालित करने के लिए बुद्धिमत्तापूर्ण सॉफ़्टवेयर की ओर देखते हैं , भाषण या छवियों को समझते हैं , चिकित्सा में निदान करते हैं और मूल वैज्ञानिक अनुसंधान को समर्थन देते हैं ।		
+5	5
+S1 We look to intelligent software to automate routine labor , understand speech or images , make diagnoses in medicine and support basic scientiﬁc research .	हम नियमित श्रम को स्वचालित करने के लिए बुद्धिमान सॉफ्टवेयर को देखते हैं, भाषण या छवियां समझते हैं, चिकित्सा में निदान करते हैं और बुनियादी वै
+NP2 We	हम
+VP4_LWG look	देखो।
+PP6 to intelligent software	बुद्धिमान सॉफ्टवेयर को
+NP8 intelligent software	बुद्धिमान सॉफ्टवेयर
+S11 to automate routine labor , understand speech or images , make diagnoses in medicine and support basic scientiﬁc research	नियमित रूप से श्रम को स्वचालित करने के लिए, भाषण या छवियां समझें, चिकित्सा में निदान करें और बुनियादी वैज्ञानिक अनुसंधान का समर्थन करें
+VP12_LWG to automate understand make support	स्वचालित समझने के लिए समर्थन बनाने के लिए
+NP17 routine labor	नियमित श्रम
+,20 ,	,
+NP23 speech or images	भाषण या छवियां
+CC25 or	या।
+NN24 speech	भाषण
+NNS26 images	छवियां
+,27 ,	,
+NP30 diagnoses	निदान
+NNS31 diagnoses	निदान
+PP32 in medicine	दवा में
+NP34 medicine	दवा
+CC36 and	और
+VP28 make diagnoses in medicine	दवा में करें निदान
+VP37 support basic scientiﬁc research	बुनियादी वैज्ञानिक अनुसंधान का समर्थन
+NP39 basic scientiﬁc research	बुनियादी वैज्ञानिक अनुसंधान
+

@@ -1,0 +1,68 @@
+----
+00573	It has been successfully used to predict how molecules will interact in order to help pharmaceutical companies design new drugs (Dahl et al., 2014), to search for subatomic particles (Baldi et al., 2014), and to automatically parse microscope images used to construct a 3-D map of the human brain (Knowles-Barley et al., 2014).	 इसका सफलतापूर्वक उपयोग यह भविष्यवाणी करने के लिए किया गया है कि कैसे अणु दवा कंपनियों को नई दवाओं के डिजाइन में मदद करने के लिए बातचीत करेंगे ( Dahl एट अल , 2014 ) , उप - भौतिक कणों की खोज करने के लिए ( Baldiet al , 2014 ) और स्वचालित रूप से एक मस्तिष्क मानचित्र के निर्माण के लिए इस्तेमाल किया		
+572	572
+S1 It has been successfully used to predict how molecules will interact in order to help pharmaceutical companies design new drugs ( Dahl et al. , 2014 ) , to search for subatomic particles ( Baldi et al. , 2014 ) , and to automatically parse microscope images used to construct a 3 - D map of the human brain ( Knowles - Barley et al. , 2014 ) .	यह भविष्यवाणी करने के लिए सफलतापूर्वक इस्तेमाल किया गया है कि दवा कंपनियों के नए कणों (डाह एट अल, 2014 ) के निर्माण के लिए अण
+NP2 It	यह
+VP4_LWG has been successfully used	सफलतापूर्वक इस्तेमाल किया गया है
+ADVP8 successfully	सफलतापूर्वक
+S12 to predict how molecules will interact in order to help pharmaceutical companies design new drugs ( Dahl et al. , 2014 ) , to search for subatomic particles ( Baldi et al. , 2014 ) , and to automatically parse microscope images used to construct a 3 - D map of the human brain ( Knowles - Barley et al. , 2014 )	यह भविष्यवाणी करने के लिए कि दवा कंपनियों के नए नशे के डिजाइन (डाह एट अल, 2014 ) के लिए उप-परमाणु कणों की खोज के
+VP13_LWG to predict to search to automatically parse	अपरिवर्तित रूप से खोजने की भविष्यवाणी करने के लिए
+SBAR18 how molecules will interact in order to help pharmaceutical companies design new drugs ( Dahl et al. , 2014 )	दवा कंपनियों के नए ड्रग्स (डाह एट अल, 2014 ) के डिजाइन में मदद के लिए अणु किस प्रकार से बातचीत करेंगे।
+WHADVP19 how	कैसे
+S21 molecules will interact in order to help pharmaceutical companies design new drugs ( Dahl et al. , 2014 )	दवा कंपनियों के नए दवाओं के डिजाइन (डाह एट अल, 2014 ) में अणुओं की मदद के लिए बातचीत होगी।
+NP22 molecules	अणुओं
+NNS23 molecules	अणुओं
+VP24_LWG will interact	बातचीत करेंगे।
+PP28 in order to help pharmaceutical companies design new drugs	दवा कंपनियों के नए दवाओं के डिजाइन में मदद करने के लिए
+NP30 order to help pharmaceutical companies design new drugs	दवा कंपनियों के नए दवाओं के डिजाइन में मदद करने के आदेश
+S32 to help pharmaceutical companies design new drugs	दवा कंपनियों के नए दवाओं के डिजाइन में मदद करने के लिए
+VP33_LWG to help	मदद के लिए
+S37 pharmaceutical companies design new drugs	दवा कंपनियां नई दवाओं का डिजाइन
+NP38 pharmaceutical companies	दवा कंपनियों
+NNS40 companies	कंपनियों
+VP41_LWG design	डिजाइन
+NP43 new drugs	नई दवाएं
+NNS45 drugs	ड्रग्स
+PRN46 ( Dahl et al. , 2014 )	(डाह एट अल., 2014 )
+NP48 Dahl et al. , 2014	डाहल एट अल., 2014
+NP49 Dahl et al.	डाहल एट अल।
+NP50 Dahl	डाह
+ADVP52 et al.	एट अल।
+,55 ,	,
+NP56 2014	2014
+,59 ,	,
+PP64 for subatomic particles ( Baldi et al. , 2014 )	उप-परमाणु कणों के लिए (बाल्डी एट अल., 2014 )
+NP66 subatomic particles ( Baldi et al. , 2014 )	उप-परमाणु कण (बाल्डी एट अल., 2014 )
+NNS68 particles	कण
+PRN69 ( Baldi et al. , 2014 )	(बाल्डी एट अल., 2014 )
+NP71 Baldi et al. , 2014	बाल्दी एट अल., 2014
+NP72 Baldi et al.	बाल्डी एट अल।
+NP73 Baldi	बाल्डी
+ADVP75 et al.	एट अल।
+,78 ,	,
+NP79 2014	2014
+,82 ,	,
+CC83 and	और
+VP84 to automatically parse microscope images used to construct a 3 - D map of the human brain ( Knowles - Barley et al. , 2014 )	स्वचालित रूप से प्रसारित माइक्रोस्कोप छवियों को एक 3 - मानव मस्तिष्क का डी मैप बनाने के लिए इस्तेमाल किया जाता है (नोल्स - बर्ले एट अल,
+ADVP86 automatically	स्वचालित रूप से
+NP90 microscope images used to construct a 3 - D map of the human brain ( Knowles - Barley et al. , 2014 )	माइक्रोस्कोप छवियां एक 3 - मानव मस्तिष्क का डी मैप बनाने के लिए इस्तेमाल की जाती थीं (नोल्स - बर्ले एट अल., 2014 )
+NP91 microscope images	माइक्रोस्कोप छवियां
+NNS93 images	छवियां
+VP94_LWG used	इस्तेमाल
+S96 to construct a 3 - D map of the human brain	3 का निर्माण करने के लिए - मानव मस्तिष्क का डी नक्शा
+VP97_LWG to construct	बनाने के लिए
+NP101 a 3 - D map of the human brain	एक 3- मानव मस्तिष्क का डी नक्शा
+NP102 a 3 - D map	एक 3 - डी नक्शा
+NML104 3 - D	3 - डी
+PP109 of the human brain	मानव मस्तिष्क का
+NP111 the human brain	मानव मस्तिष्क
+PRN115 ( Knowles - Barley et al. , 2014 )	(ज्ञात होता है- बरले एट अल., 2014 )
+NP117 Knowles - Barley et al.	जानलेवा - बर्ले एट अल।
+NP118 Knowles	जानते हैं।
+PP120 - Barley	- बरले
+SYM121 -	-
+NP122 Barley	बरले
+ADVP124 et al.	एट अल।
+,127 ,	,
+NP128 2014	2014
+

@@ -1,0 +1,48 @@
+----
+00392	The learning algorithms reaching human performance on complex tasks today are nearly identical to the learning algorithms that struggled to solve toy problems in the 1980s, though the models we train with these algorithms have 18 CHAPTER 1.	 आज जटिल कार्यों पर मानव प्रदर्शन तक पहुंचने वाली अधिगम एल्गोरिदम , 1980 के दशक में खिलौना समस्याओं को हल करने के लिए संघर्ष करने वाली अधिगम एल्गोरिदम के लगभग समान है , हालांकि इन एल्गोरिदम के साथ हम प्रशिक्षित मॉडलों में 18 CHAPTER 1 है .		
+391	391
+S1 The learning algorithms reaching human performance on complex tasks today are nearly identical to the learning algorithms that struggled to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1 .	जटिल कार्यों पर आज मानवीय प्रदर्शन तक पहुंचने वाले सीख एल्गोरिदम उस सीख एल्गोरिदम से लगभग समान हैं जो 1980 के दशक में खिलौने की सम
+NP2 The learning algorithms reaching human performance on complex tasks today	जटिल कार्यों पर मानवीय प्रदर्शन तक पहुंच रहे सीख एल्गोरिदम आज
+NP3 The learning algorithms	सीखने वाले एल्गोरिदम
+NNS6 algorithms	एल्गोरिदम
+VP7_LWG reaching	पहुंच रहा है।
+NP9 human performance	मानवीय प्रदर्शन
+PP12 on complex tasks	जटिल कार्यों पर
+NP14 complex tasks	जटिल कार्य
+NNS16 tasks	कार्यों
+NP-TMP17 today	आज
+VP19_LWG are	हैं।
+ADJP21 nearly identical to the learning algorithms that struggled to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1	1980 के दशक में खिलौनों की समस्याओं के समाधान के लिए संघर्ष करने वाले सीख एल्गोरिदम से लगभग समान, हालांकि हम इन एल्गोरिदम के साथ प्रशिक्ष
+PP24 to the learning algorithms that struggled to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1	1980 के दशक में खिलौनों की समस्याओं के समाधान के लिए संघर्ष करने वाले सीख एल्गोरिदम को, हालांकि हम इन एल्गोरिदम के साथ प्रशिक्षित करते हैं 18
+NP26 the learning algorithms that struggled to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1	1980 के दशक में खिलौनों की समस्याओं के समाधान के लिए संघर्ष करने वाले सीख एल्गोरिदम, हालांकि हम इन एल्गोरिदम के साथ प्रशिक्षित करने वाले म
+NP27 the learning algorithms	सीखने के एल्गोरिदम
+NNS30 algorithms	एल्गोरिदम
+SBAR31 that struggled to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1	वह 1980 के दशक में खिलौनों की समस्याओं के समाधान के लिए संघर्ष करता था, हालांकि हम इन एल्गोरिदम के साथ प्रशिक्षित मॉडलों में 18 चैप्टर 1
+WHNP32 that	वह
+S34 struggled to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1	1980 के दशक में खिलौनों की समस्याओं के समाधान के लिए संघर्ष करना, हालांकि हम इन एल्गोरिदम के साथ प्रशिक्षित मॉडलों में 18 अध्याय 1
+VP35_LWG struggled	संघर्ष किया
+S37 to solve toy problems in the 1980s , though the models we train with these algorithms have 18 CHAPTER 1	1980 के दशक में खिलौनों की समस्याओं के समाधान के लिए, हालांकि हम इन एल्गोरिदम के साथ प्रशिक्षित मॉडलों में 18 अध्याय 1 है
+VP38_LWG to solve	हल करने के लिए
+NP42 toy problems	खिलौनों की समस्या
+NNS44 problems	समस्याएं
+PP45 in the 1980s	1980 के दशक में
+NP47 the 1980s	1980 के दशक
+NNS49 1980s	1980 के दशक में
+,50 ,	,
+SBAR51 though the models we train with these algorithms have 18 CHAPTER 1	हालांकि इन एल्गोरिदम के साथ हम जिन मॉडलों को प्रशिक्षित करते हैं उनमें 18 चैप्टर 1 है
+S53 the models we train with these algorithms have 18 CHAPTER 1	इन एल्गोरिदम के साथ हम जिन मॉडलों को प्रशिक्षित करते हैं उनमें 18 चेप्टर 1 है
+NP54 the models we train with these algorithms	इन एल्गोरिदम के साथ हम जिन मॉडलों को प्रशिक्षित करते हैं
+NP55 the models	मॉडल
+NNS57 models	मॉडल
+SBAR58 we train with these algorithms	हम इन एल्गोरिदम के साथ प्रशिक्षण
+S59 we train with these algorithms	हम इन एल्गोरिदम के साथ प्रशिक्षण
+NP60 we	हम
+VP62_LWG train	ट्रेन
+PP64 with these algorithms	इन एल्गोरिदम के साथ
+NP66 these algorithms	ये एल्गोरिदम
+NNS68 algorithms	एल्गोरिदम
+VP69_LWG have	पास है।
+NP71 18 CHAPTER 1	18 चैप्टर 1
+NP72 18 CHAPTER	18 चैप्टर
+NP75 1	1
+

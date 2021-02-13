@@ -1,0 +1,28 @@
+----
+18
+S1 Chess_1 is_2 of_3 course_4 a_5 very_6 simple_7 world_8 ,_9 containing_10 only_11 sixty_12 -_13 four_14 locations_15 and_16 thirty_17 -_18 two_19 pieces_20 that_21 can_22 move_23 in_24 only_25 rigidly_26 circumscribed_27 ways_28 ._29
+NP2 Chess_1
+VP4_LWG is_2 of_3
+ADVP6 of_3 course_4
+NP9 a_5 very_6 simple_7 world_8 ,_9 containing_10 only_11 sixty_12 -_13 four_14 locations_15 and_16 thirty_17 -_18 two_19 pieces_20 that_21 can_22 move_23 in_24 only_25 rigidly_26 circumscribed_27 ways_28
+NP10 a_5 very_6 simple_7 world_8
+ADJP12 very_6 simple_7
+,16 ,_9
+VP17_LWG containing_10
+NP19 only_11 sixty_12 -_13 four_14 locations_15 and_16 thirty_17 -_18 two_19 pieces_20 that_21 can_22 move_23 in_24 only_25 rigidly_26 circumscribed_27 ways_28
+NP20 only_11 sixty_12 -_13 four_14 locations_15 and_16 thirty_17 -_18 two_19 pieces_20
+NP21 only_11 sixty_12 -_13 four_14 locations_15
+QP22 only_11 sixty_12 -_13 four_14
+NNS27 locations_15
+CC28 and_28
+NP29 thirty_17 -_18 two_19 pieces_20
+QP30 thirty_17 -_18 two_19
+NNS34 pieces_20
+SBAR35 that_21 can_22 move_23 in_24 only_25 rigidly_26 circumscribed_27 ways_28
+WHNP36 that_21
+S38 can_22 move_23 in_24 only_25 rigidly_26 circumscribed_27 ways_28
+VP39_LWG can_22 move_23
+PP43 in_24 only_25 rigidly_26 circumscribed_27 ways_28
+NP45 only_25 rigidly_26 circumscribed_27 ways_28
+QP46 only_25 rigidly_26
+NNS50 ways_28

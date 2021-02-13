@@ -1,0 +1,24 @@
+----
+00383	At this time, deep neural networks outperformed competing AI systems based on other machine learning technologies as well as hand-designed functionality.	 इस समय , गहन तंत्रिका नेटवर्क अन्य मशीन सीखने की प्रौद्योगिकियों और साथ ही हाथ पर निर्भर कार्यक्षमता पर आधारित एआई प्रणालियों को बाहर की ओर संकेत दिया .		
+382	382
+S1 At this time , deep neural networks outperformed competing AI systems based on other machine learning technologies as well as hand - designed functionality .	इस समय गहरे तंत्रिका नेटवर्क ने अन्य मशीन सीखने की तकनीकों के आधार पर प्रतिस्पर्धा करने वाले एआई सिस्टम को बेहतरीन बनाया और साथ ही
+PP2 At this time	इस समय
+NP4 this time	इस बार
+,7 ,	,
+NP8 deep neural networks	गहरे तंत्रिका नेटवर्क
+NNS11 networks	नेटवर्क
+VP12_LWG outperformed	बेहतरीन रही।
+NP14 competing AI systems	प्रतिस्पर्धा एआई सिस्टम
+NNS17 systems	सिस्टम
+PP18 based on other machine learning technologies as well as hand - designed functionality	अन्य मशीन सीखने की तकनीकों पर आधारित और साथ ही हाथ - डिजाइन की गई सुविधा
+PP20 on other machine learning technologies as well as hand - designed functionality	अन्य मशीन सीखने की तकनीकों पर साथ ही हाथ - डिजाइन की गई सुविधा
+NP22 other machine learning technologies as well as hand - designed functionality	अन्य मशीन सीखने की तकनीकों के साथ-साथ हाथ - डिजाइन की गई सुविधा
+NP23 other machine learning technologies	अन्य मशीन सीखने की तकनीक
+NP24 other machine	अन्य मशीन
+VP27_LWG learning	सीखना
+NP29 technologies	तकनीकों
+NNS30 technologies	तकनीकों
+CONJP31 as well as	साथ ही
+NP35 hand - designed functionality	हाथ- डिजाइन की गई सुविधा
+ADJP36 hand - designed	हाथ- डिजाइन
+

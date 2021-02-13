@@ -1,0 +1,25 @@
+----
+256
+S1 The_1 current_2 and_3 third_4 wave_5 ,_6 deep_7 learning_8 ,_9 started_10 around_11 2006_12 (_13 Hinton_14 et_15 al._16 ,_17 2006_18 ;_19 Bengio_20 et_21 al._22 ._23
+NP2 The_1 current_2 and_3 third_4 wave_5 ,_6 deep_7 learning_8 ,_9
+NP3 The_1 current_2 and_3 third_4 wave_5
+NML5 current_2 and_3 third_4
+CC7 and_7
+JJ6 current_2
+JJ8 third_4
+,10 ,_6
+NP11 deep_7 learning_8
+,14 ,_9
+VP15_LWG started_10
+PP17 around_11 2006_12
+NP19 2006_12
+PRN21 (_13 Hinton_14 et_15 al._16 ,_17 2006_18 ;_19 Bengio_20 et_21 al._22
+FRAG23 Hinton_14 et_15 al._16 ,_17 2006_18
+NP24 Hinton_14 et_15 al._16
+ADVP26 et_15 al._16
+,29 ,_17
+NP30 2006_18
+FRAG33 Bengio_20 et_21 al._22
+NP34 Bengio_20 et_21
+ADVP36 et_21
+ADVP38 al._22

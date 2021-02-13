@@ -1,0 +1,23 @@
+----
+00532	After improving throughout the 1990s, the error rates for speech recognition stagnated starting in about 2000.	 1990 के दशक भर में सुधार के बाद , भाषण मान्यता के लिए त्रुटि दरों लगभग 2000 में शुरू हो गया .		
+531	531
+S1 After improving throughout the 1990s , the error rates for speech recognition stagnated starting in about 2000 .	1990 के दशक में सुधार के बाद लगभग 2000 में भाषण मान्यता के लिए त्रुटि दरें शुरू हो गईं।
+PP2 After improving throughout the 1990s	पूरे 1990 के दशक में सुधार के बाद
+S4 improving throughout the 1990s	पूरे 1990 के दशक में सुधार
+VP5_LWG improving	सुधार
+PP7 throughout the 1990s	पूरे 1990 के दशक में
+NP9 the 1990s	1990 के दशक
+NNS11 1990s	1990 के दशक
+,12 ,	,
+NP13 the error rates for speech recognition	स्पीच मान्यता के लिए त्रुटि की दरें
+NP14 the error rates	त्रुटि की दरें
+NNS17 rates	दरें
+PP18 for speech recognition	भाषण मान्यता के लिए
+NP20 speech recognition	भाषण मान्यता
+VP23_LWG stagnated	ठप
+S25 starting in about 2000	लगभग 2000 में शुरू
+VP26_LWG starting	शुरुआत
+PP28 in about 2000	लगभग 2000 में
+NP30 about 2000	लगभग 2000
+QP31 about 2000	लगभग 2000
+

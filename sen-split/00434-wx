@@ -1,0 +1,20 @@
+----
+00435	Since the introduction of hidden units, articial neural networks have doubled in size roughly every 2.4 years.	 CupI ikAiyoM ke SurU hone ke bAxa se , kqwrima waMwrikA netavarka kA AkAra mote wOra para hara 2 . 4 varRa meM xogunA ho gayA hE 		
+434	434
+S1 Since the introduction of hidden units , articial neural networks have doubled in size roughly every 2.4 years .	CipI huI ikAiyoM ke paricaya ke bAxa se kqwrima waMwrikA netavarka hara 2.4 sAla meM badZe pEmAne para xogunA ho gayA hE
+PP2 Since the introduction of hidden units	cUMki CipI huI ikAiyoM kA paricaya
+NP4 the introduction of hidden units	CipI huI ikAiyoM kA paricaya
+NP5 the introduction	paricaya
+PP8 of hidden units	CipI huI ikAiyoM kI
+NP10 hidden units	CipI huI ikAiyAM
+NNS12 units	ikAiyAM
+,13 ,	,
+NP14 articial neural networks	kqwrima waMwrikA netavarka
+NNS17 networks	netavarka
+VP18_LWG have doubled	xogunA kara cuke hEM
+PP22 in size	AkAra meM
+NP24 size	AkAra
+NP-TMP26 roughly every 2.4 years	mote wOra para hara 2.4 sAla
+QP27 roughly every 2.4	mote wOra para hara 2.4
+NNS31 years	sAla-ba-ba-ba-ba-ba-ba-ba.
+

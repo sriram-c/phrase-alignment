@@ -1,0 +1,31 @@
+----
+00314	Before this hypothesis, machine learning research was more fragmented, with diﬀerent communities of researchers studying natural language processing, vision, motion planning and speech recognition.	 इस परिकल्पना से पहले , मशीन अधिगम अनुसंधान अधिक खंडित था , शोधकर्ताओं के विभिन्न समुदायों के साथ जो प्राकृतिक भाषा संसाधन , दृष्टि , गति योजना और भाषण मान्यता का अध्ययन कर रहे थे .		
+313	313
+S1 Before this hypothesis , machine learning research was more fragmented , with diﬀerent communities of researchers studying natural language processing , vision , motion planning and speech recognition .	इस परिकल्पना से पहले, मशीन सीख अनुसंधान अधिक विभाजित था, जिसमें प्राकृतिक भाषा प्रसंस्करण, दृष्टि, मोशन प्लानिंग और भाषण मान्यता का अध्ययन
+PP2 Before this hypothesis	इस परिकल्पना से पहले
+NP4 this hypothesis	यह परिकल्पना
+,7 ,	,
+NP8 machine learning research	मशीन सीख अनुसंधान
+NML9 machine learning	मशीन सीखना
+VP13_LWG was	था।
+ADJP15 more fragmented	अधिक विकृत
+,18 ,	,
+PP19 with diﬀerent communities of researchers studying natural language processing , vision , motion planning and speech recognition	प्राकृतिक भाषा प्रसंस्करण, दृष्टि, मोशन प्लानिंग और भाषण मान्यता प्राप्त करने वाले अनुसंधानकर्ताओं के विभिन्न समुदायों के साथ
+NP21 diﬀerent communities of researchers studying natural language processing , vision , motion planning and speech recognition	प्राकृतिक भाषा प्रसंस्करण, दृष्टि, मोशन प्लानिंग और भाषण मान्यता का अध्ययन करने वाले अनुसंधानकर्ताओं के विभिन्न समुदाय
+NP22 diﬀerent communities	अलग-अलग समुदाय
+NNS24 communities	समुदायों
+PP25 of researchers studying natural language processing , vision , motion planning and speech recognition	प्राकृतिक भाषा प्रसंस्करण, दृष्टि, मोशन प्लानिंग और भाषण मान्यता का अध्ययन करने वाले अनुसंधानकर्ताओं
+NP27 researchers studying natural language processing , vision , motion planning and speech recognition	प्राकृतिक भाषा प्रसंस्करण, दृष्टि, मोशन प्लानिंग और भाषण मान्यता का अध्ययन करने वाले अनुसंधानकर्ता
+NP28 researchers	शोधकर्ताओं
+NNS29 researchers	शोधकर्ताओं
+VP30_LWG studying	पढ़ाई
+NP32 natural language processing , vision , motion planning and speech recognition	प्राकृतिक भाषा प्रसंस्करण, दृष्टि, गति योजना और भाषण मान्यता
+NML33 natural language processing , vision , motion planning and speech	प्राकृतिक भाषा प्रसंस्करण, दृष्टि, गति योजना और भाषण
+NML34 natural language processing	प्राकृतिक भाषा प्रसंस्करण
+,38 ,	,
+NML39 vision	दृष्टि
+,41 ,	,
+NML42 motion planning	मोशन प्लानिंग
+CC45 and	और
+NML46 speech	भाषण
+

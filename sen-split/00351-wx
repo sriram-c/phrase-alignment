@@ -1,0 +1,24 @@
+----
+00352	This requires nine dierent neurons, and each neuron must independently learn the concept of color and object identity.	 isake lie nO alaga - alaga nyUroYnsa kI AvaSyakawA howI hE , Ora prawyeka nyUroYna ko svawaMwra rUpa se raMga Ora vaswu pahacAna kI avaXAraNA sIKanA hogA .		
+351	351
+S1 This requires nine dierent neurons , and each neuron must independently learn the concept of color and object identity .	isameM nO alaga-alaga nyUrona kI AvaSyakawA howI hE, Ora prawyeka nyUrona ko svawaMwra rUpa se raMga Ora vaswu pahacAna kI avaXAraNA sIKanI cAhie
+S2 This requires nine dierent neurons	isameM nO alaga-alaga nyUrona kI AvaSyakawA howI hE
+NP3 This	yaha
+VP5_LWG requires	jarUrawa hE
+NP7 nine dierent neurons	nO alaga-alaga nyUrona
+NNS10 neurons	nyUrona
+,11 ,	,
+CC12 and	Ora
+S13 each neuron must independently learn the concept of color and object identity	prawyeka nyUrona ko svawaMwra rUpa se raMga Ora vaswu pahacAna kI avaXAraNA sIKanI cAhie
+NP14 each neuron	prawyeka nyUrona
+VP17_LWG must independently learn object	svawaMwra rUpa se sIKanA cAhie vaswueM
+ADVP19 independently	svawaMwra rUpa se
+NP24 the concept of color	raMga kI avaXAraNA
+NP25 the concept	avaXAraNA
+PP28 of color	raMga kA
+NP30 color	raMga
+CC32 and	Ora
+VP22 learn the concept of color	jAnie raMga kI avaXAraNA
+VP33 object identity	vaswu pahacAna
+NP35 identity	pahacAna
+

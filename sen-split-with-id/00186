@@ -1,0 +1,37 @@
+----
+186
+S1 A_1 Venn_2 diagram_3 showing_4 how_5 deep_6 learning_7 is_8 a_9 kind_10 of_11 representation_12 learning_13 ,_14 which_15 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32 approaches_33 to_34 AI_35 ._36
+NP2 A_1 Venn_2 diagram_3 showing_4 how_5 deep_6 learning_7 is_8 a_9 kind_10 of_11 representation_12 learning_13 ,_14 which_15 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+NP3 A_1 Venn_2 diagram_3
+VP7_LWG showing_4
+SBAR9 how_5 deep_6 learning_7 is_8 a_9 kind_10 of_11 representation_12 learning_13 ,_14 which_15 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+WHADJP10 how_5 deep_6
+S13 learning_7 is_8 a_9 kind_10 of_11 representation_12 learning_13 ,_14 which_15 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+NP14 learning_7
+VP16_LWG is_8
+NP18 a_9 kind_10 of_11 representation_12 learning_13 ,_14 which_15 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+NP19 a_9 kind_10 of_11 representation_12 learning_13
+NP20 a_9 kind_10
+PP23 of_11 representation_12 learning_13
+NP25 representation_12 learning_13
+,28 ,_14
+SBAR29 which_15 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+WHNP30 which_15
+S32 is_16 in_17 turn_18 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+VP33_LWG is_16
+PP35 in_17 turn_18
+NP37 turn_18
+NP39 a_19 kind_20 of_21 machine_22 learning_23 ,_24 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+NP40 a_19 kind_20 of_21 machine_22 learning_23
+NP41 a_19 kind_20
+PP44 of_21 machine_22 learning_23
+NP46 machine_22 learning_23
+,49 ,_24
+SBAR50 which_25 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+WHNP51 which_25
+S53 is_26 used_27 for_28 many_29 but_30 not_31 all_32
+VP54_LWG is_26 used_27
+PP58 for_28 many_29 but_30 not_31 all_32
+NP60 many_29 but_30 not_31 all_32
+NP61 many_29
+CONJP63 but_30 not_31

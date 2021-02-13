@@ -1,0 +1,32 @@
+----
+3
+S1 When_1 programmable_2 computers_3 were_4 ﬁrst_5 conceived_6 ,_7 people_8 wondered_9 whether_10 such_11 machines_12 might_13 become_14 intelligent_15 ,_16 over_17 a_18 hundred_19 years_20 before_21 one_22 was_23 built_24 (_25 Lovelace_26 ,_27 1842_28 )_29 ._30
+SBAR2 When_1 programmable_2 computers_3 were_4 ﬁrst_5 conceived_6
+WHADVP3 When_1
+S5 programmable_2 computers_3 were_4 ﬁrst_5 conceived_6
+NP6 programmable_2 computers_3
+NNS8 computers_3
+VP9_LWG were_4
+ADJP11 ﬁrst_5 conceived_6
+,14 ,_7
+NP15 people_8
+NNS16 people_8
+VP17_LWG wondered_9
+SBAR19 whether_10 such_11 machines_12 might_13 become_14 intelligent_15 ,_16 over_17 a_18 hundred_19 years_20 before_21 one_22 was_23 built_24 (_25 Lovelace_26 ,_27 1842_28 )_29
+S21 such_11 machines_12 might_13 become_14 intelligent_15 ,_16 over_17 a_18 hundred_19 years_20 before_21 one_22 was_23 built_24 (_25 Lovelace_26 ,_27 1842_28 )_29
+NP22 such_11 machines_12
+NNS24 machines_12
+VP25_LWG might_13 become_14
+ADJP29 intelligent_15
+,31 ,_16
+SBAR32 over_17 a_18 hundred_19 years_20 before_21 one_22 was_23 built_24
+NP33 over_17 a_18 hundred_19 years_20
+QP34 over_17 a_18 hundred_19
+NNS38 years_20
+S40 one_22 was_23 built_24
+NP41 one_22
+VP43_LWG was_23 built_24
+PRN47 (_25 Lovelace_26 ,_27 1842_28 )_29
+NP49 Lovelace_26
+,51 ,_27
+NP52 1842_28

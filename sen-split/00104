@@ -1,0 +1,49 @@
+----
+00105	Figure 1.2 shows how a deep learning system can represent the concept of an image of a person by combining simpler concepts, such as corners and contours, which are in turn deﬁned in terms of edges.	 चित्र 1 . 2 से पता चलता है कि कैसे एक गहरी सीखने की प्रणाली सरल अवधारणाओं , जैसे कोनों और contours , जो बारी में किनारों के संदर्भ में परिभाषित कर रहे हैं के संयोजन के द्वारा एक व्यक्ति की छवि की अवधारणा का प्रतिनिधित्व कर सकते हैं .		
+104	104
+S1 Figure 1.2 shows how a deep learning system can represent the concept of an image of a person by combining simpler concepts , such as corners and contours , which are in turn deﬁned in terms of edges .	फिगर 1.2 से पता चलता है कि कैसे एक गहरी सीख प्रणाली सरल अवधाराओं, जैसे कोने और क्रॉउंडर को एक साथ जोड़कर व्यक्ति की छवि की अवधारणा का
+NP2 Figure 1.2	आंकड़ा 1.2
+VP5_LWG shows	दिखाता है शो
+SBAR7 how a deep learning system can represent the concept of an image of a person by combining simpler concepts , such as corners and contours , which are in turn deﬁned in terms of edges	कैसे एक गहरी सीख प्रणाली एक व्यक्ति की छवि की अवधारणा का प्रतिनिधित्व कर सकती है, जैसे कि कोने और क्रॉउंडर, जो कि किनारों के मामले में परिभाषित हो
+WHADVP8 how	कैसे
+S10 a deep learning system can represent the concept of an image of a person by combining simpler concepts , such as corners and contours , which are in turn deﬁned in terms of edges	एक गहरी सीख प्रणाली एक व्यक्ति की एक छवि की अवधारणा का प्रतिनिधित्व कर सकती है, जैसे कि कोने और क्रॉउंडर, जो कि किनारों के मामले में परिभाषित हैं,
+NP11 a deep learning system	एक गहरी सीख प्रणाली
+NML13 deep learning	गहरी सीख
+VP17_LWG can represent	प्रतिनिधित्व कर सकते हैं।
+NP21 the concept of an image of a person	एक व्यक्ति की छवि की अवधारणा
+NP22 the concept	अवधारणा
+PP25 of an image of a person	एक व्यक्ति की छवि का
+NP27 an image of a person	एक व्यक्ति की छवि
+NP28 an image	एक छवि
+PP31 of a person	एक व्यक्ति का
+NP33 a person	एक व्यक्ति
+PP36 by combining simpler concepts , such as corners and contours , which are in turn deﬁned in terms of edges	सरल अवधाराओं को मिलाकर, जैसे कोने और क्रॉउंडर्स, जो कि किनारों के मामले में परिभाषित हैं मोड़ में
+S38 combining simpler concepts , such as corners and contours , which are in turn deﬁned in terms of edges	सरल अवधाराओं को जोड़ना, जैसे कोनों और कंधों, जो कि किनारों के मामले में परिभाषित हैं मोड़ में
+VP39_LWG combining	संयुक्त
+NP41 simpler concepts , such as corners and contours , which are in turn deﬁned in terms of edges	सरल अवधारणा, जैसे कोने और कंधों, जो कि किनारों के मामले में परिभाषित हैं मोड़ में
+NP42 simpler concepts	सरल अवधारणाएँ
+NNS44 concepts	अवधारणाएँ
+,45 ,	,
+PP46 such as corners and contours , which are in turn deﬁned in terms of edges	जैसे कोने और कंधों, जो कि किनारों के मामले में परिभाषित हैं मोड़ में
+NP49 corners and contours , which are in turn deﬁned in terms of edges	किनारों और किनारों के मामले में परिभाषित होने वाले कोनों और कांउर्स, जो कि किनारों के मामले में परिभाषित हैं
+NP50 corners and contours	कोने और कंधों
+NNS51 corners	कोने-कोने
+CC52 and	और
+NNS53 contours	तहखाने
+,54 ,	,
+SBAR55 which are in turn deﬁned in terms of edges	जो कि किनारों के मामले में परिभाषित हैं मोड़ में
+WHNP56 which	जो कि
+S58 are in turn deﬁned in terms of edges	किनारों के मामले में परिभाषित हैं मोड़ में
+VP59_LWG are	हैं।
+PP61 in turn deﬁned in terms of edges	किनारों के मामले में परिभाषित बारी में
+NP63 turn deﬁned in terms of edges	किनारों के मामले में परिभाषित करें मोड़
+NP64 turn	बारी।
+VP66_LWG deﬁned	परिभाषित
+PP68 in terms of edges	किनारों के मामले में
+NP70 terms of edges	किनारों की शर्तें
+NP71 terms	शर्तों
+NNS72 terms	शर्तों
+PP73 of edges	किनारों की
+NP75 edges	किनारों
+NNS76 edges	किनारों
+

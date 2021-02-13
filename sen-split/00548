@@ -1,0 +1,32 @@
+----
+00549	Previously, it was widely believed that this kind of learning required labeling of the individual elements of the sequence (Gülçehre and Bengio, 2013).	 पहले , यह व्यापक रूप से माना जाता था कि इस तरह के सीखने के लिए अनुक्रम के व्यक्तिगत तत्वों की लेबलिंग की आवश्यकता होती है ( Gülçhre और बेंजियो , 2013 )		
+548	548
+S1 Previously , it was widely believed that this kind of learning required labeling of the individual elements of the sequence ( Gülçehre and Bengio , 2013 ) .	पहले यह माना जा रहा था कि इस तरह की सीख को क्रम के व्यक्तिगत तत्वों (गुलचेहरे और बेंगियो, 2013) के लेबलाइजिंग की आवश्यकता होती है।
+ADVP2 Previously	पहले की बात
+,4 ,	,
+NP5 it	यह
+VP7_LWG was widely believed	बड़े पैमाने पर माना जाता था
+ADVP9 widely	व्यापक रूप से
+SBAR13 that this kind of learning required labeling of the individual elements of the sequence	कि इस तरह की सीख को अनुक्रम के व्यक्तिगत तत्वों का लेबलाइज करने की आवश्यकता
+S15 this kind of learning required labeling of the individual elements of the sequence	इस तरह की सीख को अनुक्रम के व्यक्तिगत तत्वों का लेबलाइज करने की आवश्यकता
+NP16 this kind of learning	इस तरह की सीख
+NP17 this kind	इस तरह का
+PP20 of learning	सीखने की
+NP22 learning	सीखना
+VP24_LWG required	आवश्यक
+NP26 labeling of the individual elements of the sequence	अनुक्रम के व्यक्तिगत तत्वों का लेबलाइजिंग
+NP27 labeling	लेबलिंग
+PP29 of the individual elements of the sequence	अनुक्रम के व्यक्तिगत तत्वों का
+NP31 the individual elements of the sequence	क्रम के व्यक्तिगत तत्व
+NP32 the individual elements	व्यक्तिगत तत्व
+NNS35 elements	तत्व
+PP36 of the sequence	क्रम का
+NP38 the sequence	क्रमांक
+PRN41 ( Gülçehre and Bengio , 2013 )	(गुलचेहरे और बेंगियो, 2013)
+NP43 Gülçehre and Bengio	गुलचेहरे और बेंगियो
+CC45 and	और
+NNP44 Gülçehre	गुलचेहरे
+NNP46 Bengio	बेंगीओ
+,47 ,	,
+NP48 2013	2013
+

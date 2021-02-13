@@ -1,0 +1,30 @@
+----
+548
+S1 Previously_1 ,_2 it_3 was_4 widely_5 believed_6 that_7 this_8 kind_9 of_10 learning_11 required_12 labeling_13 of_14 the_15 individual_16 elements_17 of_18 the_19 sequence_20 (_21 Gülçehre_22 and_23 Bengio_24 ,_25 2013_26 )_27 ._28
+ADVP2 Previously_1
+,4 ,_2
+NP5 it_3
+VP7_LWG was_4 widely_5 believed_6
+ADVP9 widely_5
+SBAR13 that_7 this_8 kind_9 of_10 learning_11 required_12 labeling_13 of_14 the_15 individual_16 elements_17 of_18 the_19 sequence_20
+S15 this_8 kind_9 of_10 learning_11 required_12 labeling_13 of_14 the_15 individual_16 elements_17 of_18 the_19 sequence_20
+NP16 this_8 kind_9 of_10 learning_11
+NP17 this_8 kind_9
+PP20 of_10 learning_11
+NP22 learning_11
+VP24_LWG required_12
+NP26 labeling_13 of_14 the_15 individual_16 elements_17 of_18 the_19 sequence_20
+NP27 labeling_13
+PP29 of_14 the_15 individual_16 elements_17 of_18 the_19 sequence_20
+NP31 the_15 individual_16 elements_17 of_18 the_19 sequence_20
+NP32 the_15 individual_16 elements_17
+NNS35 elements_17
+PP36 of_18 the_19 sequence_20
+NP38 the_19 sequence_20
+PRN41 (_21 Gülçehre_22 and_23 Bengio_24 ,_25 2013_26 )_27
+NP43 Gülçehre_22 and_23 Bengio_24
+CC45 and_45
+NNP44 Gülçehre_22
+NNP46 Bengio_24
+,47 ,_25
+NP48 2013_26

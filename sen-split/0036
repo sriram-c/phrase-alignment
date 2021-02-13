@@ -1,0 +1,24 @@
+----
+0037	For example, Cyc failed to understand a story about a person named Fred shaving in the morning (Linde, 1992).	 उदाहरण के लिए , Cyc सुबह फ्रेड शेव नाम के एक व्यक्ति के बारे में एक कहानी समझने में विफल रहा ( Linde , 1992 )		
+36	36
+S1 For example , Cyc failed to understand a story about a person named Fred shaving in the morning ( Linde , 1992 ) .	उदाहरण के लिए, साइक सुबह (लिंडे, 1992) में फ्रेड शेविंग नामक व्यक्ति के बारे में एक कहानी समझने में विफल रहा।
+PP2 For example	उदाहरण के लिए
+NP4 example	उदाहरण
+,6 ,	,
+NP7 Cyc	साइक
+VP9_LWG failed	असफल
+S11 to understand a story about a person named Fred shaving in the morning ( Linde , 1992 )	सुबह में फ्रेड शेविंग नामक व्यक्ति के बारे में एक कहानी समझने के लिए (लिंडे, 1992)
+VP12_LWG to understand	समझने के लिए।
+NP16 a story	एक कहानी
+PP19 about a person named Fred shaving in the morning ( Linde , 1992 )	सुबह (लिंडे, 1992) में फ्रेड शेविंग नामक व्यक्ति के बारे में
+NP21 a person named Fred shaving in the morning ( Linde , 1992 )	सुबह में फ्रेड शेविंग नामक व्यक्ति (लिंडे, 1992)
+NP22 a person	एक व्यक्ति
+VP25_LWG named	नामजद
+NP27 Fred shaving in the morning	सुबह फ्रेड शेविंग
+NP28 Fred shaving	फ्रेड शेविंग
+PP31 in the morning	सुबह-सुबह
+NP33 the morning	सुबह
+PRN36 ( Linde , 1992 )	(लिंडे, 1992)
+NP38 Linde , 1992	लिंडे, 1992
+,40 ,	,
+

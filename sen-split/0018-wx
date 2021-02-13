@@ -1,0 +1,30 @@
+----
+0019	Chess is of course a very simple world, containing only sixty-four locations and thirty-two pieces that can move in only rigidly circumscribed ways.	 SawaraMja beSaka eka bahuwa hI sarala xuniyA hE , jisameM kevala sATa sWAna Ora wIsa - bawwIsa tukadZe hEM , jo kevala kaTora DaMga se cala sakawe hEM 		
+18	18
+S1 Chess is of course a very simple world , containing only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways .	SawaraMja beSaka eka bahuwa hI sAXAraNa xuniyA hE, jisameM kevala sATa-cAra sWAna Ora wIsa-wIna tukadZe SAmila hEM jo kevala DaMga se pariBARiwa warIkoM se Age baDZa
+NP2 Chess	SawaraMja
+VP4_LWG is of	kA hE
+ADVP6 of course	beSaka
+NP9 a very simple world , containing only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways	eka bahuwa hI sAXAraNa xuniyA, jisameM kevala sATa-cAra sWAna Ora wIsa-wIna-xo tukadZe SAmila hEM jo kevala DaMga se KadZe warIkoM se Age baDZa sakawe hEM
+NP10 a very simple world	eka bahuwa hI sAXAraNa xuniyA
+ADJP12 very simple	bahuwa hI sarala
+,16 ,	,
+VP17_LWG containing	jisameM
+NP19 only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways	kevala sATa-cAra sWAna Ora wIsa-wIna-xo tukadZe jo sirPa DaMga se KadZe warIkoM se Age baDZa sakawe hEM
+NP20 only sixty - four locations and thirty - two pieces	kevala sATa-cAra sWAna Ora wIsa-xo tukadZe
+NP21 only sixty - four locations	kevala sATa- cAra sWAna
+QP22 only sixty - four	kevala sATa-cAra
+NNS27 locations	sWAna
+CC28 and	Ora
+NP29 thirty - two pieces	wIsa-xo tukadZe
+QP30 thirty - two	wIsa-xo
+NNS34 pieces	tukadZe
+SBAR35 that can move in only rigidly circumscribed ways	vaha kevala gaMBIrawA se pariBARiwa warIkoM se Age baDZa sakawA hE
+WHNP36 that	vaha
+S38 can move in only rigidly circumscribed ways	kevala DaMga se KadZe warIkoM se Age baDZa sakawe hEM
+VP39_LWG can move	Age baDZa sakawe hEM
+PP43 in only rigidly circumscribed ways	kevala DaMga se pariBARiwa warIkoM meM
+NP45 only rigidly circumscribed ways	kevala DaMga se pariBARiwa warIke
+QP46 only rigidly	sirPa majabUwI se
+NNS50 ways	warIke
+

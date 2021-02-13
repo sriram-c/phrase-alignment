@@ -1,0 +1,31 @@
+----
+00377	We now know that algorithms that have existed since the 1980s work quite well, but this was not apparent circa 2006.	 अब हम जानते हैं कि एल्गोरिदम कि 1980 के दशक के बाद से अस्तित्व में है काफी अच्छी तरह से काम करते हैं , लेकिन यह स्पष्ट रूप से circa 2006 नहीं था .		
+376	376
+S1 We now know that algorithms that have existed since the 1980s work quite well , but this was not apparent circa 2006 .	अब हम जानते हैं कि एल्गोरिदम जो 1980 के काम के बाद से अच्छी तरह से मौजूद हैं, लेकिन यह स्पष्ट नहीं था सर्कस 2006।
+S2 We now know that algorithms that have existed since the 1980s work quite well	अब हम जानते हैं कि एल्गोरिदम जो 1980 के दशक के काम के बाद से मौजूद हैं, काफी अच्छी तरह से
+NP3 We	हम
+ADVP5 now	अब
+VP7_LWG know	जानिए।
+SBAR9 that algorithms that have existed since the 1980s work quite well	वह एल्गोरिदम जो 1980 के दशक के काम के बाद से मौजूद हैं, काफी अच्छी तरह से
+S11 algorithms that have existed since the 1980s work quite well	एल्गोरिदम जो 1980 के दशक के काम के बाद से मौजूद हैं, काफी अच्छी तरह से
+NP12 algorithms that have existed since the 1980s	एल्गोरिदम जो 1980 के दशक से मौजूद हैं
+NP13 algorithms	एल्गोरिदम
+NNS14 algorithms	एल्गोरिदम
+SBAR15 that have existed since the 1980s	वह 1980 के दशक से मौजूद है
+WHNP16 that	वह
+S18 have existed since the 1980s	1980 के दशक से मौजूद है
+VP19_LWG have existed	मौजूद है
+PP23 since the 1980s	1980 के दशक से
+NP25 the 1980s	1980 के दशक
+NNS27 1980s	1980 के दशक में
+VP28_LWG work quite	काम काफी
+ADVP30 quite well	काफी अच्छी तरह से
+,33 ,	,
+CC34 but	लेकिन
+S35 this was not apparent circa 2006	यह स्पष्ट नहीं था सर्कस 2006
+NP36 this	यह
+VP38_LWG was not	नहीं था।
+ADJP41 apparent circa 2006	स्पष्ट सर्कस 2006
+PP43 circa 2006	सर्कस 2006
+NP45 2006	2006
+

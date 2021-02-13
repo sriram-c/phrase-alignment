@@ -1,0 +1,33 @@
+----
+00425	As of 2016, a rough rule of thumb is that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1.	 के रूप में 2016 , अंगूठे का एक मोटे नियम है कि एक पर्यवेक्षित गहरी अधिगम एल्गोरिथ्म आमतौर पर लगभग 5 , 000 लेबल उदाहरण प्रति वर्ग के साथ स्वीकार्य प्रदर्शन प्राप्त करेगा और मैच या 20 अध्याय 1 .		
+424	424
+S1 As of 2016 , a rough rule of thumb is that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1 .	2016 के रूप में अंगूठे का एक मोटा नियम है कि एक निरीक्षक गहरी सीख एल्गोरिदम आमतौर पर प्रति श्रेणी के लगभग 5,000 लेबल वाले उदाहरणों के साथ
+PP2 As of 2016	2016 के अनुसार
+PP4 of 2016	2016 का
+NP6 2016	2016
+,8 ,	,
+NP9 a rough rule of thumb	अंगूठे का मोटा नियम
+NP10 a rough rule	एक मोटा नियम
+PP14 of thumb	अंगूठे की
+NP16 thumb	अंगूठी
+VP18_LWG is	है।
+SBAR20 that a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1	यह कि एक निरीक्षक गहरा सीख एल्गोरिदम आमतौर पर प्रति श्रेणी के लगभग 5,000 लेबल वाले उदाहरणों के साथ स्वीकार्य प्रदर्शन हासिल करेगा और वह प्रतियोग
+S22 a supervised deep learning algorithm will generally achieve acceptable performance with around 5,000 labeled examples per category and will match or 20 CHAPTER 1	एक निरीक्षक गहरा सीख एल्गोरिदम आमतौर पर प्रति श्रेणी के लगभग 5,000 लेबल वाले उदाहरणों के साथ स्वीकार्य प्रदर्शन हासिल करेगा और यह मैच या 20 च
+NP23 a supervised deep learning algorithm	एक निरीक्षक गहन सीख एल्गोरिदम
+NML26 deep learning	गहरी सीख
+VP30_LWG will generally achieve will match	आम तौर पर हासिल करेंगे मैच
+ADVP33 generally	आम तौर पर
+NP37 acceptable performance	स्वीकार्य प्रदर्शन
+PP40 with around 5,000 labeled examples per category	लगभग 5,000 लेबल वाले उदाहरण प्रति श्रेणी
+NP42 around 5,000 labeled examples per category	प्रति श्रेणी के लगभग 5,000 लेबल दिए गए उदाहरण
+NP43 around 5,000 labeled examples	लगभग 5,000 लेबल वाले उदाहरण
+QP44 around 5,000	करीब 5,000
+NNS48 examples	उदाहरण
+PP49 per category	प्रति श्रेणी
+NP51 category	श्रेणी
+CC53 and	और
+VP31 will generally achieve acceptable performance with around 5,000 labeled examples per category	आमतौर पर प्रति श्रेणी के लगभग 5,000 लेबल वाले उदाहरणों के साथ स्वीकार्य प्रदर्शन हासिल करेंगे
+VP54 will match or 20 CHAPTER 1	मैच होगा या 20 चेप्टर 1
+NP58 or 20 CHAPTER 1	या 20 चैप्टर 1
+QP59 or 20	या 20
+

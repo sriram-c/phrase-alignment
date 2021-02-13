@@ -1,0 +1,53 @@
+----
+334
+S1 The_1 ﬁeld_2 of_3 deep_4 learning_5 is_6 primarily_7 concerned_8 with_9 how_10 to_11 build_12 computer_13 systems_14 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23 ,_24 while_25 the_26 ﬁeld_27 of_28 computational_29 neuroscience_30 is_31 primarily_32 concerned_33 with_34 building_35 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44 ._45
+NP2 The_1 ﬁeld_2 of_3 deep_4 learning_5
+NP3 The_1 ﬁeld_2
+PP6 of_3 deep_4 learning_5
+NP8 deep_4 learning_5
+VP11_LWG is_6
+ADJP13 primarily_7 concerned_8 with_9 how_10 to_11 build_12 computer_13 systems_14 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+PP16 with_9 how_10 to_11 build_12 computer_13 systems_14 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+SBAR18 how_10 to_11 build_12 computer_13 systems_14 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+WHADVP19 how_10
+S21 to_11 build_12 computer_13 systems_14 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+VP22_LWG to_11 build_12
+NP26 computer_13 systems_14 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+NP27 computer_13 systems_14
+NNS29 systems_14
+SBAR30 that_15 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+WHNP31 that_15
+S33 are_16 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+VP34_LWG are_16
+ADJP36 able_17 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+S38 to_18 successfully_19 solve_20 tasks_21 requiring_22 intelligence_23
+VP39_LWG to_18 successfully_19 solve_20
+ADVP41 successfully_19
+NP45 tasks_21
+NNS46 tasks_21
+S47 requiring_22 intelligence_23
+VP48_LWG requiring_22
+NP50 intelligence_23
+,52 ,_24
+SBAR53 while_25 the_26 ﬁeld_27 of_28 computational_29 neuroscience_30 is_31 primarily_32 concerned_33 with_34 building_35 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44
+S55 the_26 ﬁeld_27 of_28 computational_29 neuroscience_30 is_31 primarily_32 concerned_33 with_34 building_35 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44
+NP56 the_26 ﬁeld_27 of_28 computational_29 neuroscience_30
+NP57 the_26 ﬁeld_27
+PP60 of_28 computational_29 neuroscience_30
+NP62 computational_29 neuroscience_30
+VP65_LWG is_31
+ADJP67 primarily_32 concerned_33 with_34 building_35 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44
+PP70 with_34 building_35 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44
+S72 building_35 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44
+VP73_LWG building_35
+NP75 more_36 accurate_37 models_38 of_39 how_40 the_41 brain_42 actually_43 works_44
+NP76 more_36 accurate_37 models_38
+ADJP77 more_36 accurate_37
+NNS80 models_38
+PP81 of_39 how_40 the_41 brain_42 actually_43 works_44
+SBAR83 how_40 the_41 brain_42 actually_43 works_44
+WHADVP84 how_40
+S86 the_41 brain_42 actually_43 works_44
+NP87 the_41 brain_42
+ADVP90 actually_43
+VP92_LWG works_44

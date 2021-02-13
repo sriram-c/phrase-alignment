@@ -1,0 +1,27 @@
+----
+00439	Unless new technologies enable faster scaling, artiﬁcial neural networks will not have the same number of neurons as the human brain until at least the 2050s.	 जब तक नई प्रौद्योगिकियां तेजी से स्केलिंग को सक्षम नहीं करती हैं , कृत्रिम तंत्रिका नेटवर्कों में कम से कम 2050 के दशक तक मानव मस्तिष्क के समान न्यूरॉन्स की संख्या नहीं होगी .		
+438	438
+S1 Unless new technologies enable faster scaling , artiﬁcial neural networks will not have the same number of neurons as the human brain until at least the 2050s .	जब तक नई प्रौद्योगिकाएं तेजी से स्केलिंग करने में सक्षम नहीं होंगी, कृत्रिम तंत्रिका नेटवर्क में कम से कम 2025 तक मानव मस्तिष्क के समान संख्या
+SBAR2 Unless new technologies enable faster scaling	जब तक नई प्रौद्योगिकाएं तेज स्केलिंग को सक्षम नहीं करतीं
+S4 new technologies enable faster scaling	नई तकनीकों से हो सकती है तेज स्केलिंग
+NP5 new technologies	नई तकनीकों
+NNS7 technologies	तकनीकों
+VP8_LWG enable	सक्षम
+NP10 faster scaling	तेज स्केलिंग
+,13 ,	,
+NP14 artiﬁcial neural networks	कृत्रिम तंत्रिका नेटवर्क
+NNS17 networks	नेटवर्क
+VP18_LWG will not have	नहीं होगा।
+NP23 the same number of neurons as the human brain	मानव मस्तिष्क के समान संख्या में न्यूरोन
+NP24 the same number	वही संख्या
+PP28 of neurons as the human brain	मानव मस्तिष्क के रूप में न्यूरोन की
+NP30 neurons as the human brain	मानव मस्तिष्क के रूप में न्यूरोन
+NP31 neurons	न्यूरोन
+NNS32 neurons	न्यूरोन
+PP33 as the human brain	मानव मस्तिष्क के रूप में
+NP35 the human brain	मानव मस्तिष्क
+PP39 until at least the 2050s	कम से कम 2025 तक
+NP41 at least the 2050s	कम से कम 2025 के दशक में
+QP42 at least	कम से कम
+ADVP43 at least	कम से कम
+

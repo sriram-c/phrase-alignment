@@ -1,0 +1,34 @@
+----
+0087	When designing features or algorithms for learning features, our goal is usually to separate the factors of variation that explain the observed data.	 jaba viSeRawAoM yA elgorixama ko sIKane ke lie dijAina kiyA jAwA hE , hamArA lakRya AmawOra para viBinnawA ke kArakoM ko alaga karane ke lie hE ki manAyA detA kI vyAKyA karawe hEM .		
+86	86
+S1 When designing features or algorithms for learning features , our goal is usually to separate the factors of variation that explain the observed data .	jaba sIKane ke PIcarsa ke lie PIcarsa yA elgorixama dijAina karanA howA hE wo hamArA lakRya AmawOra para usa vikqwi ke kArakoM ko alaga karanA howA
+SBAR2 When designing features or algorithms for learning features	jaba sIKane ke PIcarsa ke lie PIcarsa yA elgorixama dijAina
+WHADVP3 When	kaba
+S5 designing features or algorithms for learning features	sIKane ke PIcarsa ke lie dijAiniMga PIcarsa yA elgorixama
+VP6_LWG designing	dijAiniMga
+NP8 features or algorithms	PIcarsa yA elgorixama
+NNS9 features	PIcarsa
+CC10 or	yA
+NNS11 algorithms	elgorixama
+PP12 for learning features	sIKane ke PIcarsa ke lie
+NP14 learning features	sIKane ke PIcarsa
+NNS16 features	PIcarsa
+,17 ,	,
+NP18 our goal	hamArA lakRya
+VP21_LWG is usually	AmawOra para howA hE
+ADVP23 usually	AmawOra para
+S25 to separate the factors of variation that explain the observed data	vinimaya ke kArakoM ko alaga karane ke lie jo nirIkRiwa AMkadZoM kI vyAKyA karawA hE
+VP26_LWG to separate	alaga karane ke lie
+NP30 the factors of variation that explain the observed data	vinimaya ke kAraka jo nirIkRiwa AMkadZoM kI vyAKyA karawe hEM
+NP31 the factors	kAraKAne
+NNS33 factors	kAraKAne
+PP34 of variation that explain the observed data	viBAjana jo nirIkRiwa AMkadZoM kI vyAKyA karawA hE
+NP36 variation that explain the observed data	vinimaya jo nirIkRiwa AMkadZoM kI vyAKyA karawA hE
+NP37 variation	viviXawA
+SBAR39 that explain the observed data	yaha nirIkRiwa AMkadZoM kI vyAKyA
+WHNP40 that	vaha
+S42 explain the observed data	avalokiwa AMkadZoM kI vyAKyA kareM
+VP43_LWG explain	samaJAwe hEM
+NP45 the observed data	avalokiwa AMkadZe
+NNS48 data	detA
+

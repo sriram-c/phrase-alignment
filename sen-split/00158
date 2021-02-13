@@ -1,0 +1,20 @@
+----
+00159	If we view logistic regression as an element itself, then this model has depth one.	 यदि हम रसद प्रतिगमन को स्वयं एक तत्व के रूप में देखते हैं , तो इस मॉडल की गहराई एक है .		
+158	158
+S1 If we view logistic regression as an element itself , then this model has depth one .	यदि हम एक तत्व के रूप में लॉजिस्टिक प्रतिशोध को देखते हैं, तो इस मॉडल में गहराई होती है।
+SBAR2 If we view logistic regression as an element itself	यदि हम एक तत्व के रूप में लॉजिस्टिक प्रतिफल को देखते हैं
+S4 we view logistic regression as an element itself	हम एक तत्व के रूप में लॉजिस्टिक प्रतिफल को देखते हैं
+NP5 we	हम
+VP7_LWG view	दृश्य
+S9 logistic regression as an element itself	एक तत्व के रूप में लॉजिस्टिक प्रतिफल स्वयं
+NP10 logistic regression as an element	एक तत्व के रूप में लॉजिस्टिक प्रतिफल
+NP11 logistic regression	लॉजिस्टिक प्रतिफल
+PP14 as an element	एक तत्व के रूप में
+NP16 an element	एक तत्व
+NP19 itself	ही खुद
+,21 ,	,
+ADVP22 then	फिर
+NP24 this model	ये मॉडल
+VP27_LWG has	उसके पास है।
+NP29 depth one	गहराई एक
+

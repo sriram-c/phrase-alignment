@@ -1,0 +1,13 @@
+----
+492
+NP1 Recurrent_1 neural_2 network_3 for_4 speech_5 recognition_6 (_7 Robinson_8 and_9 Fallside_10 ,_11 1991_12 )_13
+NP2 Recurrent_1 neural_2 network_3
+PP6 for_4 speech_5 recognition_6 (_7 Robinson_8 and_9 Fallside_10 ,_11 1991_12 )_13
+NP8 speech_5 recognition_6 (_7 Robinson_8 and_9 Fallside_10 ,_11 1991_12 )_13
+PRN11 (_7 Robinson_8 and_9 Fallside_10 ,_11 1991_12 )_13
+NP13 Robinson_8 and_9 Fallside_10
+CC15 and_15
+NNP14 Robinson_8
+NNP16 Fallside_10
+,17 ,_11
+NP18 1991_12

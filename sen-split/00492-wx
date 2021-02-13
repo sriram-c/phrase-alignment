@@ -1,0 +1,15 @@
+----
+00493	Recurrent neural network for speech recognition (Robinson and Fallside, 1991)	 BARaNa mAnyawA ke lie samavarwI waMwrikA netavarka ( robinasana Ora PAlasAida , 1991		
+492	492
+NP1 Recurrent neural network for speech recognition ( Robinson and Fallside , 1991 )	BARaNa mAnyawA ke lie varwamAna waMwrikA netavarka (roYbinsana Ora PoYlasAida, 1991)
+NP2 Recurrent neural network	varwamAna waMwrikA netavarka
+PP6 for speech recognition ( Robinson and Fallside , 1991 )	BARaNa mAnyawA ke lie (roYbinsana Ora PoYlasAida, 1991)
+NP8 speech recognition ( Robinson and Fallside , 1991 )	BARaNa mAnyawA (roYbinsana Ora PoYlasAida, 1991)
+PRN11 ( Robinson and Fallside , 1991 )	(roYbinsana Ora PoYlasAida, 1991)
+NP13 Robinson and Fallside	roYbinsana Ora PoYlasAida
+CC15 and	Ora
+NNP14 Robinson	roYbinsana
+NNP16 Fallside	PoYlasAida
+,17 ,	,
+NP18 1991	1991
+

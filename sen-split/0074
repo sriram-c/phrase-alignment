@@ -1,0 +1,30 @@
+----
+0075	In the plot on the right, we represent the data with polar coordinates and the task becomes simple to solve with a vertical line.	 दाएं भूखंड में , हम ध्रुवीय निर्देशांक के साथ डेटा का प्रतिनिधित्व करते हैं और कार्य एक ऊर्ध्वाधर लाइन के साथ हल करने के लिए सरल हो जाता है .		
+74	74
+S1 In the plot on the right , we represent the data with polar coordinates and the task becomes simple to solve with a vertical line .	दाईं ओर भूखंड में, हम ध्रुवीय निर्देशांक के साथ डेटा का प्रतिनिधित्व करते हैं और एक वर्ल्ड लाइन के साथ समाधान करना साधारण हो जाता है।
+PP2 In the plot on the right	दाईं ओर भूखंड में
+NP4 the plot on the right	दाईं ओर साजिश
+NP5 the plot	प्लाट
+PP8 on the right	दाईं ओर
+NP10 the right	दाईं ओर।
+,13 ,	,
+NP14 we	हम
+VP16_LWG represent	प्रतिनिधित्व
+SBAR18 the data with polar coordinates and the task becomes simple to solve with a vertical line	ध्रुवीय निर्देशांक वाले आंकड़े और वर्टिकल लाइन के साथ हल करना साधारण हो जाता है कार्य
+S19 the data with polar coordinates and the task becomes simple to solve with a vertical line	ध्रुवीय निर्देशांक वाले आंकड़े और वर्टिकल लाइन के साथ हल करना साधारण हो जाता है कार्य
+NP20 the data with polar coordinates and the task	ध्रुवीय निर्देशांक वाले आंकड़े और कार्य
+NP21 the data	डेटा
+NNS23 data	डेटा
+PP24 with polar coordinates and the task	ध्रुवीय निर्देशांक और कार्य के साथ
+NP26 polar coordinates and the task	ध्रुवीय निर्देशांक और कार्य
+NP27 polar coordinates	ध्रुवीय निर्देशांक
+NNS29 coordinates	निर्देशांक
+CC30 and	और
+NP31 the task	टास्क
+VP34_LWG becomes	बन जाता है।
+ADJP36 simple to solve with a vertical line	वर्टिकल लाइन के साथ हल करने के लिए साधारण
+S38 to solve with a vertical line	वर्टिकल लाइन के साथ हल करने के लिए
+VP39_LWG to solve	हल करने के लिए
+PP43 with a vertical line	वर्टिकल लाइन के साथ
+NP45 a vertical line	एक वर्टिकल लाइन
+

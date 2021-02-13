@@ -1,0 +1,36 @@
+----
+00576	In recent years, deep learning has seen tremendous growth in its popularity and usefulness, largely as the result of more powerful computers, larger datasets and techniques to train deeper networks.	 हाल के वर्षों में , गहरी सीखने ने अपनी लोकप्रियता और उपयोगिता में अत्यधिक वृद्धि देखी है , मुख्य रूप से अधिक शक्तिशाली कंप्यूटरों , गहरे नेटवर्कों को प्रशिक्षित करने के लिए बड़े डेटासेट और तकनीकों के परिणामस्वरूप .		
+575	575
+S1 In recent years , deep learning has seen tremendous growth in its popularity and usefulness , largely as the result of more powerful computers , larger datasets and techniques to train deeper networks .	हाल के वर्षों में गहरी सीख में इसकी लोकप्रियता और उपयोगिता में जबरदस्त वृद्धि देखने को मिली है, बड़े पैमाने पर कम्प्यूटर, बड़े डेटाबेस और
+PP2 In recent years	हाल के वर्षों में
+NP4 recent years	हाल के वर्षों में
+NNS6 years	साल-ब-ब-ब-ब-ब-ब-ब.
+,7 ,	,
+NP8 deep learning	गहरी सीख
+VP11_LWG has seen	देखा है नजर
+NP15 tremendous growth	जबरदस्त वृद्धि
+PP18 in its popularity and usefulness , largely as the result of more powerful computers , larger datasets and techniques	अपनी लोकप्रियता और उपयोगिता में, भले ही अधिक शक्तिशाली कंप्यूटर, बड़े डेटाबेट्स और तकनीकों का परिणाम
+PP19 in its popularity and usefulness	अपनी लोकप्रियता और उपयोगिता में
+NP21 its popularity and usefulness	इसकी लोकप्रियता और उपयोगिता
+CC24 and	और
+NN23 popularity	लोकप्रियता
+NN25 usefulness	उपयोगिता
+,26 ,	,
+PP28 as the result of more powerful computers , larger datasets and techniques	अधिक शक्तिशाली कंप्यूटर, बड़े डेटाबेट्स और तकनीकों का परिणाम
+NP30 the result of more powerful computers , larger datasets and techniques	अधिक शक्तिशाली कंप्यूटर, बड़े डेटाबेट्स और तकनीकों का परिणाम
+NP31 the result	परिणाम
+PP34 of more powerful computers , larger datasets and techniques	अधिक शक्तिशाली कंप्यूटर, बड़े डेटाबेट्स और तकनीकों की
+NP36 more powerful computers , larger datasets and techniques	अधिक शक्तिशाली कंप्यूटर, बड़े डेटाबेस और तकनीकी
+NP37 more powerful computers	अधिक शक्तिशाली कंप्यूटर
+ADJP38 more powerful	अधिक शक्तिशाली
+NNS41 computers	कंप्यूटर
+,42 ,	,
+NP43 larger datasets and techniques	बड़े डेटाबेस और तकनीकी
+NNS45 datasets	डेटाबेस
+CC46 and	और
+NNS47 techniques	तकनीकों
+S48 to train deeper networks	गहरे नेटवर्कों को प्रशिक्षित करने के लिए
+VP49_LWG to train	ट्रेनिंग के लिए
+NP53 deeper networks	गहरे नेटवर्क
+NNS55 networks	नेटवर्क
+

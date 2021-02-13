@@ -1,0 +1,16 @@
+----
+236
+S1 •_1 Deep_2 learning_3 has_4 become_5 more_6 useful_7 as_8 the_9 amount_10 of_11 available_12 training_13 data_14 has_15 increased_16 ._17
+NP2 •_1 Deep_2 learning_3
+NML3 •_1 Deep_2
+VP7_LWG has_4 become_5
+S11 more_6 useful_7
+ADJP12 more_6 useful_7
+SBAR15 as_8 the_9 amount_10 of_11 available_12 training_13 data_14 has_15 increased_16
+S17 the_9 amount_10 of_11 available_12 training_13 data_14 has_15 increased_16
+NP18 the_9 amount_10 of_11 available_12 training_13 data_14
+NP19 the_9 amount_10
+PP22 of_11 available_12 training_13 data_14
+NP24 available_12 training_13 data_14
+NNS27 data_14
+VP28_LWG has_15 increased_16

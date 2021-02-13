@@ -1,0 +1,32 @@
+----
+19
+S1 Devising_1 a_2 successful_3 chess_4 strategy_5 is_6 a_7 tremendous_8 accomplishment_9 ,_10 but_11 the_12 challenge_13 is_14 not_15 due_16 to_17 the_18 diﬃculty_19 of_20 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32 ._33
+S2 Devising_1 a_2 successful_3 chess_4 strategy_5 is_6 a_7 tremendous_8 accomplishment_9
+S3 Devising_1 a_2 successful_3 chess_4 strategy_5
+VP4_LWG Devising_1
+NP6 a_2 successful_3 chess_4 strategy_5
+VP11_LWG is_6
+NP13 a_7 tremendous_8 accomplishment_9
+,17 ,_10
+CC18 but_18
+S19 the_12 challenge_13 is_14 not_15 due_16 to_17 the_18 diﬃculty_19 of_20 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32
+NP20 the_12 challenge_13
+VP23_LWG is_14 not_15
+ADJP26 due_16 to_17 the_18 diﬃculty_19 of_20 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32
+PP28 to_17 the_18 diﬃculty_19 of_20 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32
+NP30 the_18 diﬃculty_19 of_20 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32
+NP31 the_18 diﬃculty_19
+PP34 of_20 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32
+S36 describing_21 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29 to_30 the_31 computer_32
+VP37_LWG describing_21
+NP39 the_22 set_23 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29
+NP40 the_22 set_23
+PP43 of_24 chess_25 pieces_26 and_27 allowable_28 moves_29
+NP45 chess_25 pieces_26 and_27 allowable_28 moves_29
+NP46 chess_25 pieces_26
+NNS48 pieces_26
+CC49 and_49
+NP50 allowable_28 moves_29
+NNS52 moves_29
+PP53 to_30 the_31 computer_32
+NP55 the_31 computer_32

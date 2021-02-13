@@ -1,0 +1,32 @@
+----
+00550	Recurrent neural networks, such as the LSTM sequence model mentioned above, are now used to model relationships between sequences and other sequences rather than just ﬁxed inputs.	 पुनरावर्ती तंत्रिका नेटवर्क , जैसे कि ऊपर वर्णित LSTM अनुक्रम मॉडल , अब केवल निश्चित इनपुट के बजाय अनुक्रमों और अन्य अनुक्रमों के बीच संबंधों को मॉडल करने के लिए प्रयोग किया जाता है .		
+549	549
+S1 Recurrent neural networks , such as the LSTM sequence model mentioned above , are now used to model relationships between sequences and other sequences rather than just ﬁxed inputs .	वर्तमान तंत्रिका नेटवर्क, जैसे कि ऊपर बताए गए एलएसटीएम क्रमांक मॉडल के रूप में अब सिर्फ तय इनपुट के बजाय क्रमों और अन्य
+NP2 Recurrent neural networks , such as the LSTM sequence model mentioned above ,	वर्तमान तंत्रिका नेटवर्क, जैसे कि एलएसटीएम क्रमांक मॉडल का उपर उल्लेख किया गया,
+NP3 Recurrent neural networks	वर्तमान तंत्रिका नेटवर्क
+NNS6 networks	नेटवर्क
+,7 ,	,
+PP8 such as the LSTM sequence model mentioned above	जैसे एलएसटीएम क्रमांक मॉडल का उक्त उल्लेख
+NP11 the LSTM sequence model mentioned above	एलएसटीएम क्रमांक मॉडल का उक्त उल्लेख
+NP12 the LSTM sequence model	एलएसटीएम क्रमांक मॉडल
+VP17_LWG mentioned above	ऊपर बताया गया उल्लेख
+ADVP19 above	ऊपर
+,21 ,	,
+VP22_LWG are now used	अब इस्तेमाल किया जाता है
+ADVP24 now	अब
+PP28 to model relationships between sequences and other sequences rather than just ﬁxed inputs	सिर्फ तय इनपुट के बजाय क्रम और अन्य क्रमों के बीच संबंधों को मॉडल करने के लिए
+NP30 model relationships between sequences and other sequences rather than just ﬁxed inputs	सिर्फ तय इनपुट के बजाय क्रम और अन्य क्रमों के बीच संबंध
+NP31 model relationships between sequences and other sequences	दृश्यों और अन्य दृश्यों के बीच मॉडल संबंध
+NP32 model relationships	मॉडल रिश्तों
+NNS34 relationships	रिश्तों
+PP35 between sequences and other sequences	दृश्यों और अन्य दृश्यों के बीच
+NP37 sequences and other sequences	दृश्य और अन्य दृश्य
+NP38 sequences	दृश्य
+NNS39 sequences	दृश्य
+CC40 and	और
+NP41 other sequences	अन्य क्रम
+NNS43 sequences	दृश्य
+CONJP44 rather than	बल्कि इससे ज्यादा
+NP47 just ﬁxed inputs	बस फिक्स्ड इनपुट
+NNS50 inputs	इनपुट
+

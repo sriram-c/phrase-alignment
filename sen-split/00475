@@ -1,0 +1,23 @@
+----
+00476	Moreover, deep learning has consistently been applied with success to broader and broader sets of applications.	 इसके अलावा , गहरी सीखने लगातार आवेदनों के व्यापक और व्यापक सेट के लिए सफलता के साथ लागू किया गया है .		
+475	475
+S1 Moreover , deep learning has consistently been applied with success to broader and broader sets of applications .	इसके अलावा, अनुप्रयोगों के व्यापक और व्यापक सेटों के लिए सफलता के साथ गहरी सीख को लगातार लागू किया गया है।
+ADVP2 Moreover	इसके अलावा और भी
+,4 ,	,
+NP5 deep learning	गहरी सीख
+VP8_LWG has consistently been applied	लगातार लगाया गया है आवेदन
+ADVP10 consistently	लगातार
+PP16 with success	सफलता के साथ
+NP18 success	सफलता
+PP20 to broader and broader sets of applications	आवेदनों के व्यापक और व्यापक सेटों तक
+NP22 broader and broader sets of applications	आवेदनों के व्यापक और व्यापक सेट
+NP23 broader and broader sets	व्यापक और व्यापक सेट
+ADJP24 broader and broader	व्यापक और व्यापक
+CC26 and	और
+JJR25 broader	व्यापक
+JJR27 broader	व्यापक
+NNS28 sets	सेट
+PP29 of applications	आवेदनों की
+NP31 applications	आवेदन
+NNS32 applications	आवेदन
+

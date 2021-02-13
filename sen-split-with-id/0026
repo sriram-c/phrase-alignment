@@ -1,0 +1,19 @@
+----
+26
+S1 One_1 of_2 the_3 key_4 challenges_5 in_6 artiﬁcial_7 intelligence_8 is_9 how_10 to_11 get_12 this_13 informal_14 knowledge_15 into_16 a_17 computer_18 ._19
+NP2 One_1 of_2 the_3 key_4 challenges_5 in_6 artiﬁcial_7 intelligence_8
+NP3 One_1
+PP5 of_2 the_3 key_4 challenges_5 in_6 artiﬁcial_7 intelligence_8
+NP7 the_3 key_4 challenges_5 in_6 artiﬁcial_7 intelligence_8
+NP8 the_3 key_4 challenges_5
+NNS11 challenges_5
+PP12 in_6 artiﬁcial_7 intelligence_8
+NP14 artiﬁcial_7 intelligence_8
+VP17_LWG is_9
+SBAR19 how_10 to_11 get_12 this_13 informal_14 knowledge_15 into_16 a_17 computer_18
+WHADVP20 how_10
+S22 to_11 get_12 this_13 informal_14 knowledge_15 into_16 a_17 computer_18
+VP23_LWG to_11 get_12
+NP27 this_13 informal_14 knowledge_15
+PP31 into_16 a_17 computer_18
+NP33 a_17 computer_18

@@ -1,0 +1,20 @@
+----
+00100	Of course, it can be very diﬃcult to extract such high-level, abstract features from raw data.	 बेशक , कच्चे डेटा से इस तरह के उच्च स्तर , अमूर्त विशेषताओं को निकालना बहुत मुश्किल हो सकता है .		
+99	99
+S1 Of course , it can be very diﬃcult to extract such high - level , abstract features from raw data .	बेशक, कच्चे डेटा से इतने उच्च-स्तर, अमूर्त विशेषताओं को निकालना बहुत मुश्किल हो सकता है।
+ADVP2 Of course	बेशक।
+,5 ,	,
+NP6 it	यह
+VP8_LWG can be	हो सकता है
+ADJP12 very diﬃcult to extract such high - level , abstract features from raw data	ऐसे उच्च - स्तर, कच्चे डेटा से अवशोषित सुविधाएं निकालना बहुत मुश्किल
+S15 to extract such high - level , abstract features from raw data	ऐसे उच्च - स्तर निकालने के लिए कच्चे डेटा से अवशोषित सुविधाएं
+VP16_LWG to extract	निकालने के लिए
+NP20 such high - level , abstract features from raw data	ऐसे उच्च - स्तर, कच्चे डेटा से अवशोषित सुविधाएं
+NP21 such high - level , abstract features	ऐसे उच्च - स्तर, अमूर्त विशेषताएं
+NML23 high - level	उच्च - स्तर
+,27 ,	,
+NNS29 features	फीचर्स
+PP30 from raw data	कच्चे आंकड़ों से
+NP32 raw data	कच्चा डेटा
+NNS34 data	डेटा
+

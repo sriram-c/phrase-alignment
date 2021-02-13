@@ -1,0 +1,39 @@
+----
+00367	Kernel machines (Boser et al., 1992; Cortes and Vapnik, 1995; Schölkopf et al., 1999) and graphical models (Jor- dan, 1998) both achieved good results on many important tasks.	 कर्नेल मशीनें ( १९९२ महत्वपूर्ण कोर और वेपें और १९९५ ) & # 44 ; एस एम एस & # 44 ; १९९९९ & # 44 ; एस एम एस & # 44 ; ग्राफिकल मॉडल ( १९९८ ) & # 44 ; जिन कार्यों से कई अच्छे परिणाम प्राप्त हुए ।		
+366	366
+S1 Kernel machines ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schölkopf et al. , 1999 ) and graphical models ( Jor - dan , 1998 ) both achieved good results on many important tasks .	केर्नल मशीनों (बोसर एट अल., 1992 ; कोर्ट और वापरनिक, 1995 ;शोलेकॉफ एट अल., 1999 ) और ग्राफिक मॉडल (जोर-
+NP2 Kernel machines ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schölkopf et al. , 1999 ) and graphical models ( Jor - dan , 1998 )	केर्नल मशीनों (बोसर एट अल., 1992 ; कोर्ट और वापरनिक, 1995 ;शोलेकॉफ एट अल., 1999 ) और ग्राफिक मॉडल (जोर-
+NP3 Kernel machines ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schölkopf et al. , 1999 )	केर्नल मशीनों (बोसर एट अल., 1992 ; कोर्ट और वापरनिक, 1995 ; शॉकलकोफ एट अल., 1999 )
+NNS5 machines	मशीनें
+PRN6 ( Boser et al. , 1992 ; Cortes and Vapnik , 1995 ; Schölkopf et al. , 1999 )	(बोसर एट अल., 1992 ; कोर्ट और वापरनिक, 1995 ; शैलकोफ एट अल., 1999 )
+FRAG8 Boser et al. , 1992	बोसर एट अल., 1992
+NP9 Boser et al.	बोसर एट अल।
+ADVP11 et al.	एट अल।
+,14 ,	,
+NP15 1992	1992
+FRAG18 Cortes and Vapnik , 1995	कोर्ट और वाप्निक, 1995
+NP19 Cortes and Vapnik	कोर्ट और वापरनिक
+CC21 and	और
+NNP20 Cortes	कोर्टिस
+NNP22 Vapnik	वापरनिक
+,23 ,	,
+NP24 1995	1995
+FRAG27 Schölkopf et al. , 1999	शैलकोफ एट अल।, 1999
+NP28 Schölkopf et al.	शैलकोफ एट अल।
+ADVP30 et al.	एट अल।
+,33 ,	,
+NP34 1999	1999
+CC37 and	और
+NP38 graphical models ( Jor - dan , 1998 )	ग्राफिक मॉडल (जोर-दान, 1998)
+NNS40 models	मॉडल
+PRN41 ( Jor - dan , 1998 )	(जोर- दान, 1998)
+NP43 Jor - dan	जोर- दान
+,47 ,	,
+NP48 1998	1998
+VP52_LWG achieved	हासिल
+NP54 good results	अच्छे परिणाम
+NNS56 results	परिणाम
+PP57 on many important tasks	कई अहम कार्यों पर
+NP59 many important tasks	कई अहम कार्य
+NNS62 tasks	कार्यों
+

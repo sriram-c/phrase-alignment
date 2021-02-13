@@ -1,0 +1,31 @@
+----
+128
+S1 Finally_1 ,_2 this_3 description_4 of_5 the_6 image_7 in_8 terms_9 of_10 the_11 object_12 parts_13 it_14 contains_15 can_16 be_17 used_18 to_19 recognize_20 the_21 objects_22 present_23 in_24 the_25 image_26 ._27
+ADVP2 Finally_1
+,4 ,_2
+NP5 this_3 description_4 of_5 the_6 image_7 in_8 terms_9 of_10 the_11 object_12 parts_13 it_14 contains_15
+NP6 this_3 description_4
+PP9 of_5 the_6 image_7 in_8 terms_9 of_10 the_11 object_12 parts_13 it_14 contains_15
+NP11 the_6 image_7 in_8 terms_9 of_10 the_11 object_12 parts_13 it_14 contains_15
+NP12 the_6 image_7
+PP15 in_8 terms_9 of_10 the_11 object_12 parts_13 it_14 contains_15
+NP17 terms_9 of_10 the_11 object_12 parts_13 it_14 contains_15
+NP18 terms_9
+NNS19 terms_9
+PP20 of_10 the_11 object_12 parts_13 it_14 contains_15
+NP22 the_11 object_12 parts_13 it_14 contains_15
+NP23 the_11 object_12 parts_13
+NNS26 parts_13
+SBAR27 it_14 contains_15
+S28 it_14 contains_15
+NP29 it_14
+VP31_LWG contains_15
+VP33_LWG can_16 be_17 used_18
+S39 to_19 recognize_20 the_21 objects_22 present_23 in_24 the_25 image_26
+VP40_LWG to_19 recognize_20
+S44 the_21 objects_22 present_23 in_24 the_25 image_26
+NP45 the_21 objects_22
+NNS47 objects_22
+ADJP48 present_23 in_24 the_25 image_26
+PP50 in_24 the_25 image_26
+NP52 the_25 image_26

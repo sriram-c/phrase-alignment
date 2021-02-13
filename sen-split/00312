@@ -1,0 +1,26 @@
+----
+00313	This suggests that much of the mammalian brain might use a single algorithm to solve most of the diﬀerent tasks that the brain solves.	 यह सुझाव है कि स्तनधारी मस्तिष्क के बहुत सारे विभिन्न कार्यों है कि मस्तिष्क को हल करता है के अधिकांश को हल करने के लिए एक एकल एल्गोरिथ्म का उपयोग कर सकता है .		
+312	312
+S1 This suggests that much of the mammalian brain might use a single algorithm to solve most of the diﬀerent tasks that the brain solves .	इससे पता चलता है कि ज्यादातर अलग-अलग कार्यों को हल करने के लिए स्तनधारी मस्तिष्क एक ही एल्गोरिदम का इस्तेमाल कर सकता है।
+NP2 This	यह
+VP4_LWG suggests	सुझाव
+SBAR6 that much of the mammalian brain might use a single algorithm to solve most of the diﬀerent tasks that the brain solves	स्तन हल करने वाले अधिकांश विभिन्न कार्यों को हल करने के लिए स्तन का बहुत सारा स्तन एकल एल्गोरिदम का उपयोग कर सकता है
+S8 much of the mammalian brain might use a single algorithm to solve most of the diﬀerent tasks that the brain solves	स्तन हल करने वाले अधिकांश अलग-अलग कार्यों के समाधान के लिए बहुत सारा स्तन एकल एल्गोरिदम का उपयोग कर सकता है
+NP9 much of the mammalian brain	स्तनपायी मस्तिष्क का बहुत कुछ
+NP10 much	बहुत कुछ
+PP12 of the mammalian brain	स्तनपायी मस्तिष्क का
+NP14 the mammalian brain	स्तनपायी मस्तिष्क
+VP18_LWG might use	इस्तेमाल हो सकता है
+NP22 a single algorithm	एक ही एल्गोरिदम
+S26 to solve most of the diﬀerent tasks that the brain solves	ज्यादातर विभिन्न कार्यों को हल करने के लिए जो मस्तिष्क हल करता है
+VP27_LWG to solve	हल करने के लिए
+NP31 most of the diﬀerent tasks	ज्यादातर अलग-अलग कार्य
+NP32 most	सबसे ज्यादा
+PP34 of the diﬀerent tasks	अलग-अलग कार्यों का
+NP36 the diﬀerent tasks	अलग-अलग कार्य
+NNS39 tasks	कार्यों
+SBAR40 that the brain solves	कि मस्तिष्क हल करता है
+S42 the brain solves	मस्तिष्क हल करता है
+NP43 the brain	मस्तिष्क
+VP46_LWG solves	हल करता है।
+

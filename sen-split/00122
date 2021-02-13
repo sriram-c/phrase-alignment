@@ -1,0 +1,18 @@
+----
+00123	Then a series of hidden layers extracts increasingly abstract features from the image.	 फिर छुपी परतों की एक श्रृंखला छवि से बढ़ती हुई अमूर्त विशेषताओं को निकालती है .		
+122	122
+S1 Then a series of hidden layers extracts increasingly abstract features from the image .	फिर छिपी हुई परतों की एक श्रृंखला छवि से बड़े पैमाने पर असंगत विशेषताओं को निकालती है।
+ADVP2 Then	फिर
+NP4 a series of hidden layers extracts increasingly abstract	छिपी हुई परतों की एक श्रृंखला तेजी से अमूर्त निकालती है
+NP5 a series	एक श्रृंखला
+PP8 of hidden layers extracts increasingly abstract	छिपी हुई परतों की परतें तेजी से अमूर्त निकालती हैं
+NP10 hidden layers extracts increasingly abstract	छिपी हुई परतें तेजी से अमूर्त निकालती हैं
+NP11 hidden layers extracts	छिपी हुई परतें निकालती हैं
+NML12 hidden layers	छिपी हुई परतें
+NNS14 layers	परतें
+NNS15 extracts	निकालता है।
+ADJP16 increasingly abstract	तेजी से अमूर्त
+VP19_LWG features	फीचर्स
+PP21 from the image	छवि से
+NP23 the image	छवि
+

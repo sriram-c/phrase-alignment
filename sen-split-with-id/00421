@@ -1,0 +1,16 @@
+----
+421
+S1 It_1 remains_2 popular_3 despite_4 being_5 quite_6 easy_7 for_8 modern_9 techniques_10 to_11 solve_12 ._13
+NP2 It_1
+VP4_LWG remains_2
+ADJP6 popular_3 despite_4 being_5 quite_6 easy_7 for_8 modern_9 techniques_10 to_11 solve_12
+PP8 despite_4 being_5 quite_6 easy_7 for_8 modern_9 techniques_10 to_11 solve_12
+S10 being_5 quite_6 easy_7 for_8 modern_9 techniques_10 to_11 solve_12
+VP11_LWG being_5
+ADJP13 quite_6 easy_7 for_8 modern_9 techniques_10 to_11 solve_12
+ADJP14 quite_6 easy_7 for_8 modern_9 techniques_10
+PP17 for_8 modern_9 techniques_10
+NP19 modern_9 techniques_10
+NNS21 techniques_10
+S22 to_11 solve_12
+VP23_LWG to_11 solve_12

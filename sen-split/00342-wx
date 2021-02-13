@@ -1,0 +1,50 @@
+----
+00343	The connectionists began to study models of cognition that could actually be grounded in neural implementations (Touretzky and Minton, 1985), reviving many ideas dating back to the work of psychologist Donald Hebb in the 1940s (Hebb, 1949).	 kanekSanistoM ne saMjFAna ke una moYdaloM kA aXyayana karanA SurU kiyA jo vAswava meM waMwrikA kAryAnvayanoM meM AXAriwa ho sakawe We ( Touretzky Ora miMtana , 1985 ) , jisameM 1940 ke xaSaka meM manovijFAnI donAlda heba ke kArya se saMbaMXiwa kaI vicAroM ko punaH prApwa kiyA gayA WA .		
+342	342
+S1 The connectionists began to study models of cognition that could actually be grounded in neural implementations ( Touretzky and Minton , 1985 ) , reviving many ideas dating back to the work of psychologist Donald Hebb in the 1940s ( Hebb , 1949 ) .	kanekSanavAxiyoM ne mAnyawA ke moYdaloM kA aXyayana karanA SurU kiyA jo vAswava meM waMwrikA kriyAnvayana (tyUretjZakI Ora miMtana, 1985) meM jame hue
+NP2 The connectionists	kanekSanavAxiyoM
+NNS4 connectionists	kanekSanavAxiyoM
+VP5_LWG began	SurU huI SuruAwa
+S7 to study models of cognition that could actually be grounded in neural implementations ( Touretzky and Minton , 1985 )	jFApana ke moYdaloM kA aXyayana karane ke lie jinheM vAswava meM waMwrikA kriyAnvayana meM grAuMda kiyA jA sakawA hE (toretjZakI Ora miMtana, 1985)
+VP8_LWG to study	aXyayana karane ke lie
+NP12 models of cognition that could actually be grounded in neural implementations ( Touretzky and Minton , 1985 )	mAnyawA ke moYdala jinheM vAswava meM waMwrikA kriyAnvayana meM grAuMda kiyA jA sakawA hE (toretjZakI Ora miMtana, 1985)
+NP13 models	moYdala
+NNS14 models	moYdala
+PP15 of cognition that could actually be grounded in neural implementations ( Touretzky and Minton , 1985 )	jFApana kI jo vAswava meM waMwrikA kriyAnvayana meM grAuMda kI jA sakawI hE (toretjZakI Ora miMtana, 1985)
+NP17 cognition that could actually be grounded in neural implementations ( Touretzky and Minton , 1985 )	mAnyawA jise vAswava meM waMwrikA kriyAnvayana meM grAuMda kiyA jA sakawA hE (toretjZakI Ora miMtana, 1985)
+NP18 cognition	mAnyawA
+SBAR20 that could actually be grounded in neural implementations ( Touretzky and Minton , 1985 )	yaha vAswava meM waMwrikA kriyAnvayana meM grAuMda kiyA jA sakawA hE (toretjZakI Ora miMtana, 1985)
+WHNP21 that	vaha
+S23 could actually be grounded in neural implementations ( Touretzky and Minton , 1985 )	vAswava meM waMwrikA kriyAnvayana (toretjZakI Ora miMtana, 1985) meM grAuMda kiyA jA sakawA hE
+VP24_LWG could actually be grounded	vAswava meM kiyA jA sakawA hE grAuMda
+ADVP26 actually	vAswava meM
+PP32 in neural implementations	waMwrikA kriyAnvayana meM
+NP34 neural implementations	waMwrikA lAgU honA
+NNS36 implementations	kriyAnvayana
+PRN37 ( Touretzky and Minton , 1985 )	(toretjZakI Ora miMtana, 1985)
+NP39 Touretzky and Minton	tUretjZakI Ora miMtana
+CC41 and	Ora
+NNP40 Touretzky	tUretjZakI
+NNP42 Minton	minatana
+,43 ,	,
+NP44 1985	1985
+,47 ,	,
+S48 reviving many ideas dating back to the work of psychologist Donald Hebb in the 1940s ( Hebb , 1949 )	kaI vicAroM ko punarjIviwa karanA 1940 ke xaSaka meM manovEjFAnika donAlda hebba ke kAma para vApasa detiMga karanA (hebba, 1949)
+VP49_LWG reviving	punarjIviwa
+NP51 many ideas	kaI vicAra
+NNS53 ideas	vicAra
+S54 dating back to the work of psychologist Donald Hebb in the 1940s ( Hebb , 1949 )	1940 ke xaSaka meM manovEjFAnika donAlda hebba ke kAma para vApasa detiMga karanA (hebba, 1949)
+VP55_LWG dating back	detiMga bEka
+ADVP57 back to the work of psychologist Donald Hebb	manovEjFAnika donAlda hebba ke kAma para vApasa
+PP59 to the work of psychologist Donald Hebb	manovEjFAnika donAlda hebba ke kAma ke lie
+NP61 the work of psychologist Donald Hebb	manovEjFAnika donAlda hebba kA kAma
+NP62 the work	kAmakAja
+PP65 of psychologist Donald Hebb	manovEjFAnika donAlda hebba kA
+NP67 psychologist Donald Hebb	manovEjFAnika donAlda hebba
+PP71 in the 1940s	1940 ke xaSaka meM
+NP73 the 1940s	1940 ke xaSaka meM
+NNS75 1940s	1940 ke xaSaka meM
+PRN76 ( Hebb , 1949 )	(hebba, 1949)
+NP78 Hebb , 1949	hebba, 1949
+,80 ,	,
+

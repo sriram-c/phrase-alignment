@@ -1,0 +1,29 @@
+----
+0059	Many articial intelligence tasks can be solved by designing the right set of features to extract for that task, then providing these features to a simple machine learning algorithm.	 kaI kqwrima buxXi kAryoM ko usa kArya ke lie nikAlane ke lie suviXAoM ke sahI seta ko dijAina karake hala kiyA jA sakawA hE , wo ina suviXAoM ko eka sarala maSIna sIKane elgoriWma ke lie praxAna karawA hE .		
+58	58
+S1 Many articial intelligence tasks can be solved by designing the right set of features to extract for that task , then providing these features to a simple machine learning algorithm .	usa kArya ke lie nikAlane ke lie viSeRawAoM ke sahI seta ko dijAina karake kaI kqwrima buxXimawwA kAryoM kA samAXAna kiyA jA sakawA hE, Pira ina viSeRawAoM ko
+NP2 Many articial intelligence tasks	kaI kqwrima buxXimawwApUrNa buxXi kArya
+NNS6 tasks	kAryoM
+VP7_LWG can be solved	hala kiyA jA sakawA hE
+PP13 by designing the right set of features	PIcarsa ke rAita seta ko dijAina kara
+S15 designing the right set of features	PIcarsa ke rAita seta kA dijAina
+VP16_LWG designing	dijAiniMga
+NP18 the right set of features	PIcarsa kA sahI seta
+NP19 the right set	sahI seta
+PP23 of features	PIcarsa kI
+NP25 features	PIcarsa
+NNS26 features	PIcarsa
+S27 to extract for that task	usa kArya ke lie nikAlane ke lie
+VP28_LWG to extract	nikAlane ke lie
+PP32 for that task	usa kArya ke lie
+NP34 that task	vaha kArya
+,37 ,	,
+S38 then providing these features to a simple machine learning algorithm	Pira ina PIcarsa ko eka sAXAraNa maSIna sIKane ke elgorixama ko upalabXa karavAnA
+ADVP39 then	Pira
+VP41_LWG providing	praxAna karanA
+NP43 these features	ye PIcarsa
+NNS45 features	PIcarsa
+PP46 to a simple machine learning algorithm	eka sAXAraNa maSIna sIKane ke elgorixama ke lie
+NP48 a simple machine learning algorithm	eka sAXAraNa maSIna sIKa rahA elgorixama
+NML51 machine learning	maSIna sIKanA
+

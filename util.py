@@ -12,11 +12,15 @@ def find_leaf(tag, phrase, flag):
     if (flag):
         for wd in tag.find_all('leaf'):
             tmp_wd.append(wd['value'])
-            tmp_wid.append(str(wd['id']))
+            #tmp_wid.append(str(wd['id']))
+            tmp_wid.append((wd['id']))
         phrase.append([tag['value'] + str(tag['id']), tmp_wd, tmp_wid])
 
     elif (tag['value'] == 'CC'):
         cc_wd = tag.find_all('leaf')[0]['value']
+        cc_wd_id = tag.find_all('leaf')[0]['id']
+
+        '''
 
         if (len(list(tag.previous_siblings)) > 1):
             prev_sib = list(tag.previous_siblings)[1]
@@ -29,19 +33,25 @@ def find_leaf(tag, phrase, flag):
             next_sib1 = next_sib['value'] + str(next_sib['id'])
         else:
             next_sib1 = 'NOT FOUND'
+        '''
 
-        phrase.append([tag['value'] + str(tag['id']), prev_sib1, next_sib1, cc_wd])
+        #phrase.append([tag['value'] + str(tag['id']), prev_sib1, next_sib1, cc_wd])
+        phrase.append([tag['value'] + str(tag['id']), [cc_wd], [cc_wd_id]])
+
+        '''
         if (prev_sib1 != 'NOT FOUND'):
             find_leaf(prev_sib, phrase, 1)
         if (next_sib1 != 'NOT FOUND'):
             find_leaf(next_sib, phrase, 1)
+        '''
 
     elif (re.match(
             r'^NP|NP-TMP|WHNP|NNS|PP|WHPP|ADJP|WHADJP|WHADVP|ADVP|WHAVP|X|SBAR|NAC|NML|CONJP|FRAG|INTJ|LST|NAC|NX|QP|PRC|PRN|PRT|QP|RRC|UCP|ROOT|S|,$',
             tag['value']) and (tag.name != 'leaf')):
         for wd in tag.find_all('leaf'):
             tmp_wd.append(wd['value'])
-            tmp_wid.append(str(wd['id']))
+            #tmp_wid.append(str(wd['id']))
+            tmp_wid.append((wd['id']))
         phrase.append([tag['value'] + str(tag['id']), tmp_wd, tmp_wid])
 
 
@@ -52,7 +62,8 @@ def find_lwg(tag, tmp_lwg, tmp_lwg_id, flag, phrase):
                 tmp_val = tag1.find_all('leaf')[0]['value']
                 tmp_id = tag1.find_all('leaf')[0]['id']
                 tmp_lwg.append(tmp_val + '_' + str(tmp_id))
-                tmp_lwg_id.append(str(tmp_id))
+                #tmp_lwg_id.append(str(tmp_id))
+                tmp_lwg_id.append((tmp_id))
 
             elif (re.match(r'^VP', tag1['value'])):
                 find_lwg(tag1, tmp_lwg, tmp_lwg_id, 1, phrase)
@@ -215,6 +226,70 @@ def align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq):
                 ch.append(hnd_id)
 
     return eng_hnd_chunk
+
+def align_chunk_logic(group_chunk, dic_root):
+
+    #align smaller chunks inside long chunk by applying various logic
+
+    #find different surface forms by comparing root
+    for key in group_chunk:
+        ch = group_chunk[key]
+        long_chunk_hnd = ch[0][2]
+        long_chunk_hnd_root = [dic_root[l] for l in long_chunk_hnd]
+        long_chunk_wd_alt = {}
+
+        #find alternative of each word
+        for wd, wd_rt in zip(long_chunk_hnd, long_chunk_hnd_root):
+            long_chunk_wd_alt[wd] = [wd]
+            for i in range(1, len(ch)):
+                tmp_root = [dic_root[l] for l in ch[i][2]]
+                if wd not in ch[i][2] and  wd_rt in tmp_root:
+                    indx = tmp_root.index(wd_rt)
+                    wd_alt = ch[i][2][indx]
+                    if wd_alt not in long_chunk_wd_alt[wd]:
+                        long_chunk_wd_alt[wd].append(wd_alt)
+
+        ch.append(long_chunk_wd_alt)
+
+
+    #for aligning smaller chunks inside long chunk
+    for key in group_chunk:
+        align_wds = {}
+        ch = group_chunk[key]
+        dic_wd_alt = ch[-1]
+        for i in range(len(ch)-2, 0, -1):
+            tmp_hnd = ch[i][2]
+            tmp_eng = ch[i][0]
+            #if single word present in eng and hnd
+            if(len(tmp_hnd) == 1) and (len(tmp_eng) == 1):
+                tmp_hnd_wd = tmp_hnd[0]
+                tmp_eng_wd_id = ch[i][1]
+                for key in dic_wd_alt:
+                    if tmp_hnd_wd in dic_wd_alt[key]:
+                        if tmp_eng_wd_id not in align_wds:
+                            align_wds[tmp_eng_wd_id] = [key]
+                        else:
+                            align_wds[tmp_eng_wd_id].append(key)
+            else:
+                #if single word in only eng side
+                if(len(tmp_eng) == 1):
+                    tmp_eng_wd_id = ch[i][1][0]
+                    for wd in tmp_hnd:
+                        for key in dic_wd_alt:
+                            if wd in dic_wd_alt[key]:
+                                if tmp_eng_wd_id not in align_wds:
+                                    align_wds[tmp_eng_wd_id] = [key]
+                                else:
+                                    align_wds[tmp_eng_wd_id].append(key)
+
+                #multiple words in both sides but number of eng and hnd are same
+
+
+
+
+
+        ch.append(align_wds)
+        print('sri')
 
 
 

@@ -1,0 +1,21 @@
+----
+0047	For example, when logistic regression is used to recommend cesarean delivery, the AI system does not examine the patient directly.	 uxAharaNa ke lie , jaba rasaxa prawigamana sijeriyana prasava kI siPAriSa karane ke lie iswemAla kiyA jAwA hE , eAI praNAlI rogI kI sIXe jAMca nahIM karawA hE .		
+46	46
+S1 For example , when logistic regression is used to recommend cesarean delivery , the AI system does not examine the patient directly .	uxAharaNa ke lie jaba sIjZariyana dilIvarI kI siPAriSa ke lie loYjistika rispAMsesa kA iswemAla kiyA jAwA hE wo eAI praNAlI sIXe marIja kI jAMca nahIM kara
+PP2 For example	uxAharaNa ke lie
+NP4 example	uxAharaNa
+,6 ,	,
+SBAR7 when logistic regression is used to recommend cesarean delivery	jaba sIjZariyana dilIvarI kI siPAriSa ke lie loYjistika prawiSoXa kA iswemAla kiyA jAwA hE
+WHADVP8 when	kaba
+S10 logistic regression is used to recommend cesarean delivery	sIjZariyana dilIvarI kI siPAriSa ke lie loYjistika prawiSoXa kA iswemAla kiyA jAwA hE
+NP11 logistic regression	loYjistika prawiPala
+VP14_LWG is used	iswemAla howA hE
+S18 to recommend cesarean delivery	sijeriyana dilIvarI kI siPAriSa karane ke lie
+VP19_LWG to recommend	siPAriSa karane ke lie
+NP23 cesarean delivery	sIjZariyana dilIvarI
+,26 ,	,
+NP27 the AI system	eAI praNAlI
+VP31_LWG does not examine directly	sIXe jAMca nahIM karawA
+NP36 the patient	marIja
+ADVP39 directly	sIXe wOra para
+

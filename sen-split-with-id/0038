@@ -1,0 +1,17 @@
+----
+38
+S1 It_1 therefore_2 asked_3 whether_4 Fred_5 was_6 still_7 a_8 person_9 while_10 he_11 was_12 shaving_13 ._14
+NP2 It_1
+ADVP4 therefore_2
+VP6_LWG asked_3
+SBAR8 whether_4 Fred_5 was_6 still_7 a_8 person_9 while_10 he_11 was_12 shaving_13
+S10 Fred_5 was_6 still_7 a_8 person_9 while_10 he_11 was_12 shaving_13
+NP11 Fred_5
+VP13_LWG was_6 still_7
+ADVP15 still_7
+NP17 a_8 person_9
+SBAR20 while_10 he_11 was_12 shaving_13
+S22 he_11 was_12 shaving_13
+NP23 he_11
+VP25_LWG was_12
+NP27 shaving_13

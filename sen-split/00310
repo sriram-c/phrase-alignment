@@ -1,0 +1,18 @@
+----
+00311	Neuroscience has given us a reason to hope that a single deep learning algorithm can solve many diﬀerent tasks.	 तंत्रिका विज्ञान हमें उम्मीद करने के लिए एक कारण दिया है कि एक एकल गहरी सीखने एल्गोरिथ्म कई अलग अलग कार्यों को हल कर सकते हैं .		
+310	310
+S1 Neuroscience has given us a reason to hope that a single deep learning algorithm can solve many diﬀerent tasks .	न्यूरोसाइंस ने हमें उम्मीद का कारण बताया है कि एक ही गहरी सीख का एल्गोरिदम कई अलग-अलग कार्यों को हल कर सकता है।
+NP2 Neuroscience	न्यूरोसाइंस
+VP4_LWG has given	दे चुके हैं।
+NP8 us	हमें
+NP10 a reason to hope that a single deep learning algorithm can solve many diﬀerent tasks	उम्मीद की वजह है कि एक ही गहरी सीख का एल्गोरिदम कई अलग-अलग कार्यों का समाधान कर सकता है
+S13 to hope that a single deep learning algorithm can solve many diﬀerent tasks	उम्मीद करने के लिए कि एक भी गहरी सीख का एल्गोरिदम कई अलग-अलग कार्यों का समाधान कर सकता है
+VP14_LWG to hope	उम्मीद करने के लिए
+SBAR18 that a single deep learning algorithm can solve many diﬀerent tasks	कि एक ही गहरी सीख का एल्गोरिदम कई अलग-अलग कार्यों का समाधान कर सकता है
+S20 a single deep learning algorithm can solve many diﬀerent tasks	एक ही गहरी सीख का एल्गोरिदम कई अलग-अलग कार्यों का समाधान कर सकता है
+NP21 a single deep learning algorithm	एक ही गहरी सीख एल्गोरिदम
+NML24 deep learning	गहरी सीख
+VP28_LWG can solve	हल कर सकते हैं।
+NP32 many diﬀerent tasks	कई अलग-अलग कार्य
+NNS35 tasks	कार्यों
+

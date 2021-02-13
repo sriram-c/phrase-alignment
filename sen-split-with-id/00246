@@ -1,0 +1,13 @@
+----
+246
+S1 Some_1 basic_2 context_3 ,_4 however_5 ,_6 is_7 useful_8 for_9 understanding_10 deep_11 learning_12 ._13
+NP2 Some_1 basic_2 context_3
+,6 ,_4
+ADVP7 however_5
+,9 ,_6
+VP10_LWG is_7
+ADJP12 useful_8 for_9 understanding_10 deep_11 learning_12
+PP14 for_9 understanding_10 deep_11 learning_12
+S16 understanding_10 deep_11 learning_12
+VP17_LWG understanding_10
+NP19 deep_11 learning_12

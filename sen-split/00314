@@ -1,0 +1,32 @@
+----
+00315	Today, these application communities are still separate, but it is common for deep learning research groups to study many or even all these application areas simultaneously.	 आज , इन अनुप्रयोग समुदायों अभी भी अलग हैं , लेकिन गहरे सीखने अनुसंधान समूहों के लिए एक साथ कई या यहां तक कि इन सभी अनुप्रयोग क्षेत्रों का अध्ययन करना आम बात है .		
+314	314
+S1 Today , these application communities are still separate , but it is common for deep learning research groups to study many or even all these application areas simultaneously .	आज यह आवेदन समुदाय अभी भी अलग हैं, लेकिन गहन सीख अनुसंधान समूहों के लिए इन सभी आवेदन क्षेत्रों का एक साथ अध्ययन करना आम बात है।
+S2 Today , these application communities are still separate	आज अब भी अलग हैं ये आवेदन समुदाय
+NP-TMP3 Today	आज
+,5 ,	,
+NP6 these application communities	ये आवेदन समुदाय
+NNS9 communities	समुदायों
+VP10_LWG are still	अभी भी हैं।
+ADVP12 still	अभी भी
+ADJP14 separate	अलग
+,16 ,	,
+CC17 but	लेकिन
+S18 it is common for deep learning research groups to study many or even all these application areas simultaneously	गहन सीख अनुसंधान समूहों के लिए यह एक साथ कई या इन सभी आवेदन क्षेत्रों का अध्ययन करना आम है
+NP19 it	यह
+VP21_LWG is	है।
+ADJP23 common for deep learning research groups	गहन सीख अनुसंधान समूहों के लिए आम
+PP25 for deep learning research groups	गहन सीख अनुसंधान समूहों के लिए
+NP27 deep learning research groups	गहन सीख अनुसंधान समूह
+NML29 learning research	सीखना शोध
+NNS32 groups	समूह
+S33 to study many or even all these application areas simultaneously	कई या यहां तक कि इन सभी आवेदन क्षेत्रों का एक साथ अध्ययन करने के लिए
+VP34_LWG to study simultaneously	एक साथ पढ़ाई करने के लिए
+NP38 many or even all these application areas	कई या यहां तक कि ये सभी आवेदन क्षेत्र
+UCP39 many or even all these application	कई या यहां तक कि ये सभी आवेदन
+ADJP40 many	कई
+CC42 or	या।
+NP43 even all these application	यहां तक कि ये सभी आवेदन
+NNS48 areas	इलाके
+ADVP49 simultaneously	एक साथ
+

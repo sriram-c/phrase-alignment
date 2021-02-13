@@ -1,0 +1,29 @@
+----
+0064	We know that cars have wheels, so we might like to use the presence of a wheel as a feature.	 हम जानते हैं कि कारों के पहिए होते हैं , इसलिए हम एक विशेषता के रूप में एक पहिया की उपस्थिति का उपयोग करना पसंद हो सकता है .		
+63	63
+S1 We know that cars have wheels , so we might like to use the presence of a wheel as a feature .	हम जानते हैं कि कारों के पहिए होते हैं, इसलिए हम एक व्हील की उपस्थिति का उपयोग एक सुविधा के रूप में करना चाहते हैं।
+S2 We know that cars have wheels	हम जानते हैं कि कारों के पहिए हैं
+NP3 We	हम
+VP5_LWG know	जानिए।
+SBAR7 that cars have wheels	उस कारों के पहिए हैं
+S9 cars have wheels	कारों के पहिए हैं
+NP10 cars	कारें
+NNS11 cars	कारें
+VP12_LWG have	पास है।
+NP14 wheels	पहिए
+NNS15 wheels	पहिए
+,16 ,	,
+CC17 so	ऐसे में
+S18 we might like to use the presence of a wheel as a feature	हम एक फीचर के रूप में व्हील की मौजूदगी का उपयोग करना चाहते हैं
+NP19 we	हम
+VP21_LWG might like	पसंद आ सकता है
+S25 to use the presence of a wheel as a feature	फीचर के तौर पर व्हील की मौजूदगी का इस्तेमाल करने के लिए
+VP26_LWG to use	इस्तेमाल के लिए
+NP30 the presence of a wheel as a feature	एक फीचर के रूप में व्हील की मौजूदगी
+NP31 the presence	मौजूदगी
+PP34 of a wheel as a feature	एक फीचर के रूप में एक पहिया का
+NP36 a wheel as a feature	एक फीचर के रूप में एक पहिया
+NP37 a wheel	एक पहिया
+PP40 as a feature	एक विशेषता के रूप में
+NP42 a feature	एक विशेषता
+

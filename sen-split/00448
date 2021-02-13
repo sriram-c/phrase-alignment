@@ -1,0 +1,19 @@
+----
+00449	Today, the number of connections between neurons is mostly a design consideration.	 आज , न्यूरॉन्स के बीच कनेक्शन की संख्या ज्यादातर एक डिजाइन विचार है .		
+448	448
+S1 Today , the number of connections between neurons is mostly a design consideration .	आज न्यूरोन के बीच कनेक्शन की संख्या ज्यादातर एक डिजाइन विचार है।
+NP-TMP2 Today	आज
+,4 ,	,
+NP5 the number of connections between neurons	न्यूरोन के बीच कनेक्शन की संख्या
+NP6 the number	नंबर
+PP9 of connections between neurons	न्यूरोन के बीच कनेक्शन
+NP11 connections between neurons	न्यूरोन के बीच कनेक्शन
+NP12 connections	कनेक्शन
+NNS13 connections	कनेक्शन
+PP14 between neurons	न्यूरोन के बीच
+NP16 neurons	न्यूरोन
+NNS17 neurons	न्यूरोन
+VP18_LWG is mostly	ज्यादातर है।
+ADVP20 mostly	ज्यादातर
+NP22 a design consideration	एक डिजाइन विचार
+

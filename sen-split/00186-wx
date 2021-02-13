@@ -1,0 +1,39 @@
+----
+00187	A Venn diagram showing how deep learning is a kind of representation learning, which is in turn a kind of machine learning, which is used for many but not all approaches to AI.	 eka vena AreKa yaha xarSAwA hE ki kiwanA gaharA SikRaNa eka prakAra kA prawiniXiwva aXigama hE , jo baxale meM eka prakAra kA maSIna aXigama hE , jo kaI ke lie prayoga kiyA jAwA hE lekina saBI xqRtikoNa eAI ke lie nahIM .		
+186	186
+S1 A Venn diagram showing how deep learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all approaches to AI .	eka vena ciwra jisameM xiKAyA gayA hE ki kiwanI gaharI sIKa eka waraha kI prawiniXiwva sIKane kI waraha hE, jo eka waraha kI maSIna sIKane kI waraha hE, jisakA isa
+NP2 A Venn diagram showing how deep learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	eka vena nirxeSana jisameM xiKAyA gayA hE ki kiwanI gaharI sIKa eka waraha kI prawiniXiwva sIKane vAlI sIKa hE, jo eka waraha kI maSIna sIKane kI waraha hE,
+NP3 A Venn diagram	eka vena ciwra
+VP7_LWG showing	xiKA rahA hE
+SBAR9 how deep learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	kiwanI gaharI sIKa eka waraha kI prawiniXiwva sIKa hE, jo ki eka waraha kI maSIna sIKane kI waraha hE, jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina
+WHADJP10 how deep	kiwanA gaharA
+S13 learning is a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	sIKanA eka waraha kA prawiniXiwva sIKanA hE, jo eka waraha kI maSIna sIKane kI waraha hE, jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina saBI nahIM
+NP14 learning	sIKanA
+VP16_LWG is	hE
+NP18 a kind of representation learning , which is in turn a kind of machine learning , which is used for many but not all	eka waraha kI prawiniXiwva sIKa, jo eka waraha kI maSIna sIKane kI waraha hE, jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina yaha saba nahIM
+NP19 a kind of representation learning	eka waraha kA prawiniXiwva sIKanA
+NP20 a kind	eka waraha kA
+PP23 of representation learning	prawiniXiwva kI sIKa
+NP25 representation learning	prawiniXiwva sIKanA
+,28 ,	,
+SBAR29 which is in turn a kind of machine learning , which is used for many but not all	jo ki bArI meM hE eka waraha kI maSIna sIKane kI, jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina saBI nahIM
+WHNP30 which	jo ki
+S32 is in turn a kind of machine learning , which is used for many but not all	eka waraha kI maSIna sIKane kI bArI hE, jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina saBI nahIM
+VP33_LWG is	hE
+PP35 in turn	bArI-bArI meM
+NP37 turn	bArI
+NP39 a kind of machine learning , which is used for many but not all	eka waraha kI maSIna sIKa rahI hE, jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina saBI nahIM
+NP40 a kind of machine learning	eka waraha kI maSIna sIKa rahI hE
+NP41 a kind	eka waraha kA
+PP44 of machine learning	maSIna sIKane kI
+NP46 machine learning	maSIna sIKanA
+,49 ,	,
+SBAR50 which is used for many but not all	jisakA iswemAla kaI logoM ke lie kiyA jAwA hE lekina saBI nahIM
+WHNP51 which	jo ki
+S53 is used for many but not all	kaI logoM ke lie iswemAla kiyA jAwA hE lekina saBI nahIM
+VP54_LWG is used	iswemAla howA hE
+PP58 for many but not all	kaI logoM ke lie lekina saBI nahIM
+NP60 many but not all	kaI lekina saBI nahIM
+NP61 many	kaI
+CONJP63 but not	lekina nahIM
+

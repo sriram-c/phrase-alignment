@@ -1,0 +1,23 @@
+----
+64
+S1 Unfortunately_1 ,_2 it_3 is_4 diﬃcult_5 to_6 describe_7 exactly_8 what_9 a_10 wheel_11 looks_12 like_13 in_14 terms_15 of_16 pixel_17 values_18 ._19
+ADVP2 Unfortunately_1
+,4 ,_2
+NP5 it_3
+VP7_LWG is_4
+ADJP9 diﬃcult_5 to_6 describe_7 exactly_8 what_9 a_10 wheel_11 looks_12 like_13 in_14 terms_15 of_16 pixel_17 values_18
+S11 to_6 describe_7 exactly_8 what_9 a_10 wheel_11 looks_12 like_13 in_14 terms_15 of_16 pixel_17 values_18
+VP12_LWG to_6 describe_7
+SBAR16 exactly_8 what_9 a_10 wheel_11 looks_12 like_13 in_14 terms_15 of_16 pixel_17 values_18
+WHNP17 exactly_8 what_9
+S20 a_10 wheel_11 looks_12 like_13 in_14 terms_15 of_16 pixel_17 values_18
+NP21 a_10 wheel_11
+VP24_LWG looks_12
+PP26 like_13 in_14 terms_15 of_16 pixel_17 values_18
+PP28 in_14 terms_15 of_16 pixel_17 values_18
+NP30 terms_15 of_16 pixel_17 values_18
+NP31 terms_15
+NNS32 terms_15
+PP33 of_16 pixel_17 values_18
+NP35 pixel_17 values_18
+NNS37 values_18

@@ -1,0 +1,26 @@
+----
+00321	The simpliﬁed modern version was developed incorporating ideas from many viewpoints, with Nair and Hinton (2010) and Glorot et al.	 सरलीकृत आधुनिक संस्करण कई दृष्टिकोणों से विचारों को समाहित करते हुए विकसित किया गया था , जिसमें नायर और हाइनटन (2010 ) और ग्लोरोट एट अल .		
+320	320
+S1 The simpliﬁed modern version was developed incorporating ideas from many viewpoints , with Nair and Hinton ( 2010 ) and Glorot et al. .	सरल आधुनिक संस्करण को कई दृष्टिकोणों से विचारों को शामिल करते हुए विकसित किया गया था, जिसमें नायर और हिंटन ( 2010) और ग्लोरोट एट अल
+NP2 The simpliﬁed modern version	सरल आधुनिक संस्करण
+VP7_LWG was developed Glorot et	विकसित किया गया ग्लोरोट एट
+S12 incorporating ideas from many viewpoints , with Nair and Hinton	कई दृष्टिकोणों से विचारों को शामिल करना, नायर और हिंटन के साथ
+VP13_LWG incorporating	शामिल
+NP15 ideas	विचार
+NNS16 ideas	विचार
+PP17 from many viewpoints	कई दृष्टिकोणों से
+NP19 many viewpoints	कई दृष्टिकोण
+NNS21 viewpoints	दृष्टिकोण
+,22 ,	,
+PP23 with Nair and Hinton	नायर और हिंटन के साथ
+NP25 Nair and Hinton	नायर और हिंटन
+CC27 and	और
+NNP26 Nair	नायर
+NNP28 Hinton	हिंटन
+PRN29 ( 2010 )	( 2010)
+NP31 2010	2010
+CC34 and	और
+VP10 developed incorporating ideas from many viewpoints , with Nair and Hinton ( 2010 )	कई दृष्टिकोणों से विचारों को शामिल करते हुए विकसित किया गया, नायर और हिंटन ( 2010)
+VP35 Glorot et al.	ग्लोरोट एट अल।
+ADVP37 et al.	एट अल।
+

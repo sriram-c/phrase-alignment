@@ -1,0 +1,38 @@
+----
+0085	Autoencoders are trained to preserve as much information as possible when an input is run through the encoder and then the decoder, but they are also trained to make the new representation have various nice properties.	 ऑटोनकोडर्स को अधिक से अधिक जानकारी सुरक्षित रखने के लिए प्रशिक्षित किया जाता है जब एक इनपुट को एनकोडर और फिर डिकोडर के माध्यम से चलाया जाता है , लेकिन उन्हें नए प्रतिनिधित्व को विभिन्न अच्छे गुण बनाने के लिए भी प्रशिक्षित किया जाता है .		
+84	84
+S1 Autoencoders are trained to preserve as much information as possible when an input is run through the encoder and then the decoder , but they are also trained to make the new representation have various nice properties .	ऑटोइनकोडर को प्रशिक्षित किया जाता है कि जब एनकोडर के माध्यम से कोई इनपुट चलाया जाता है और फिर डिकोडर के माध्यम से इनपुट चलाया जाता है
+S2 Autoencoders are trained to preserve as much information as possible when an input is run through the encoder and then the decoder	ऑटोनकोडरों को प्रशिक्षित किया जाता है कि जब एनकोडर के माध्यम से कोई इनपुट चलाया जाता है और फिर डिकोडर
+NP3 Autoencoders	ऑटोनकोडर
+NNS4 Autoencoders	ऑटोनकोडर
+VP5_LWG are trained	प्रशिक्षित हैं
+S9 to preserve as much information as possible when an input is run through the encoder and then the decoder	जब एनकोडर के माध्यम से कोई इनपुट चलाया जाता है और उसके बाद डिकोडर
+VP10_LWG to preserve	संरक्षण के लिए
+PP14 as much information as possible	जितना संभव हो सके जानकारी
+NP16 much information as possible	जितना हो सके ज्यादा जानकारी
+NP17 much information	बहुत ज्यादा जानकारी
+ADJP20 as possible	जितना संभव हो
+SBAR23 when an input is run through the encoder and then the decoder	जब इनकोडर के जरिए इनपुट चलाया जाता है और फिर डिकोडर
+WHADVP24 when	कब
+S26 an input is run through the encoder and then the decoder	इंकोडर के जरिए एक इनपुट चलाया जाता है और फिर डिकोडर
+NP27 an input	एक इनपुट
+VP30_LWG is run	चलाया जाता है।
+PP34 through the encoder and then the decoder	इंकोडर के माध्यम से और फिर डिकोडर
+NP36 the encoder and then the decoder	इंकोडर और फिर डिकोडर
+NP37 the encoder	इंकोडर
+CC40 and	और
+NP41 then the decoder	फिर डिकोडर
+,45 ,	,
+CC46 but	लेकिन
+S47 they are also trained to make the new representation have various nice properties	नए प्रतिनिधित्व को बनाने के लिए भी प्रशिक्षित हैं विभिन्न अच्छे गुण हैं
+NP48 they	वे
+VP50_LWG are also trained	प्रशिक्षित भी हैं
+ADVP52 also	साथ ही।
+S56 to make the new representation have various nice properties	नए प्रतिनिधित्व को बनाने के लिए विभिन्न अच्छे गुण होते हैं
+VP57_LWG to make	बनाने के लिए
+S61 the new representation have various nice properties	नए प्रतिनिधित्व में विभिन्न अच्छे गुण होते हैं
+NP62 the new representation	नया प्रतिनिधित्व
+VP66_LWG have	पास है।
+NP68 various nice properties	विभिन्न अच्छी गुणवत्ता
+NNS71 properties	गुणों
+

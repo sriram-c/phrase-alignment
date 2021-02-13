@@ -1,0 +1,31 @@
+----
+00308	The main reason for the diminished role of neuroscience in deep learning research today is that we simply do not have enough information about the brain to use it as a guide.	 आज गहन अध्ययन अनुसंधान में तंत्रिका विज्ञान की कम भूमिका का मुख्य कारण यह है कि हमारे पास मस्तिष्क के बारे में पर्याप्त जानकारी नहीं है कि हम इसे एक गाइड के रूप में इस्तेमाल कर सकें ।		
+307	307
+S1 The main reason for the diminished role of neuroscience in deep learning research today is that we simply do not have enough information about the brain to use it as a guide .	गहन सीख अनुसंधान में न्यूरोसाइंस की कमी की मुख्य वजह आज यह है कि हमारे पास सिर्फ एक गाइड के रूप में इसका उपयोग करने के लिए मस्तिष्क के बारे
+NP2 The main reason for the diminished role of neuroscience in deep learning research	गहन सीख अनुसंधान में न्यूरोसाइंस की कमी की मुख्य वजह
+NP3 The main reason	मुख्य कारण
+PP7 for the diminished role of neuroscience in deep learning research	गहन सीख अनुसंधान में न्यूरोसाइंस की कमी की भूमिका के लिए
+NP9 the diminished role of neuroscience in deep learning research	गहन सीख अनुसंधान में न्यूरोसाइंस की कमी की भूमिका
+NP10 the diminished role	कम हुई भूमिका
+PP14 of neuroscience in deep learning research	गहन सीख अनुसंधान में न्यूरोसाइंस का
+NP16 neuroscience in deep learning research	गहन सीख अनुसंधान में न्यूरोसाइंस
+NP17 neuroscience	न्यूरोसाइंस
+PP19 in deep learning research	गहन सीख अनुसंधान में
+NP21 deep learning research	गहन सीख अनुसंधान
+NML22 deep learning	गहरी सीख
+NP-TMP26 today	आज
+VP28_LWG is	है।
+SBAR30 that we simply do not have enough information about the brain to use it as a guide	हमारे पास बस एक गाइड के रूप में इसे उपयोग करने के लिए मस्तिष्क के बारे में पर्याप्त जानकारी नहीं है
+S32 we simply do not have enough information about the brain to use it as a guide	हमारे पास बस एक गाइड के रूप में इसे उपयोग करने के लिए मस्तिष्क के बारे में पर्याप्त जानकारी नहीं है
+NP33 we	हम
+ADVP35 simply	बस इतना ही।
+VP37_LWG do not have	न हों।
+NP42 enough information	पर्याप्त जानकारी
+PP45 about the brain	मस्तिष्क के बारे में
+NP47 the brain	मस्तिष्क
+S50 to use it as a guide	इसे गाइड के रूप में इस्तेमाल करने के लिए
+VP51_LWG to use	इस्तेमाल के लिए
+NP55 it	यह
+PP57 as a guide	एक गाइड के रूप में
+NP59 a guide	एक गाइड
+

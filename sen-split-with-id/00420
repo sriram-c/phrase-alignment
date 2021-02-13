@@ -1,0 +1,18 @@
+----
+420
+S1 This_1 simple_2 classiﬁcation_3 problem_4 is_5 one_6 of_7 the_8 simplest_9 and_10 most_11 widely_12 used_13 tests_14 in_15 deep_16 learning_17 research_18 ._19
+NP2 This_1 simple_2 classiﬁcation_3 problem_4
+VP7_LWG is_5
+NP9 one_6 of_7 the_8 simplest_9 and_10 most_11 widely_12 used_13 tests_14 in_15 deep_16 learning_17 research_18
+NP10 one_6
+PP12 of_7 the_8 simplest_9 and_10 most_11 widely_12 used_13 tests_14 in_15 deep_16 learning_17 research_18
+NP14 the_8 simplest_9 and_10 most_11 widely_12 used_13 tests_14 in_15 deep_16 learning_17 research_18
+NP15 the_8 simplest_9 and_10 most_11 widely_12 used_13 tests_14
+ADJP17 simplest_9 and_10 most_11 widely_12 used_13
+ADJP18 simplest_9
+CC20 and_20
+ADJP21 most_11 widely_12 used_13
+NNS25 tests_14
+PP26 in_15 deep_16 learning_17 research_18
+NP28 deep_16 learning_17 research_18
+NML29 deep_16 learning_17

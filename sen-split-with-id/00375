@@ -1,0 +1,15 @@
+----
+375
+S1 At_1 this_2 point_3 ,_4 deep_5 networks_6 were_7 generally_8 believed_9 to_10 be_11 very_12 diﬃcult_13 to_14 train_15 ._16
+PP2 At_1 this_2 point_3
+NP4 this_2 point_3
+,7 ,_4
+NP8 deep_5 networks_6
+NNS10 networks_6
+VP11_LWG were_7 generally_8 believed_9
+ADVP13 generally_8
+S17 to_10 be_11 very_12 diﬃcult_13 to_14 train_15
+VP18_LWG to_10 be_11
+ADJP22 very_12 diﬃcult_13 to_14 train_15
+S25 to_14 train_15
+VP26_LWG to_14 train_15

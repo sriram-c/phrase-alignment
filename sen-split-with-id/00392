@@ -1,0 +1,15 @@
+----
+392
+S1 INTRODUCTION_1 undergone_2 changes_3 that_4 simplify_5 the_6 training_7 of_8 very_9 deep_10 architectures_11 ._12
+NP2 INTRODUCTION_1 undergone_2
+VP5_LWG changes_3
+SBAR7 that_4 simplify_5 the_6 training_7 of_8 very_9 deep_10 architectures_11
+WHNP8 that_4
+S10 simplify_5 the_6 training_7 of_8 very_9 deep_10 architectures_11
+VP11_LWG simplify_5
+NP13 the_6 training_7 of_8 very_9 deep_10 architectures_11
+NP14 the_6 training_7
+PP17 of_8 very_9 deep_10 architectures_11
+NP19 very_9 deep_10 architectures_11
+ADJP20 very_9 deep_10
+NNS23 architectures_11

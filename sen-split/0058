@@ -1,0 +1,29 @@
+----
+0059	Many artiﬁcial intelligence tasks can be solved by designing the right set of features to extract for that task, then providing these features to a simple machine learning algorithm.	 कई कृत्रिम बुद्धि कार्यों को उस कार्य के लिए निकालने के लिए सुविधाओं के सही सेट को डिजाइन करके हल किया जा सकता है , तो इन सुविधाओं को एक सरल मशीन सीखने एल्गोरिथ्म के लिए प्रदान करता है .		
+58	58
+S1 Many artiﬁcial intelligence tasks can be solved by designing the right set of features to extract for that task , then providing these features to a simple machine learning algorithm .	उस कार्य के लिए निकालने के लिए विशेषताओं के सही सेट को डिजाइन करके कई कृत्रिम बुद्धिमत्ता कार्यों का समाधान किया जा सकता है, फिर इन विशेषताओं को
+NP2 Many artiﬁcial intelligence tasks	कई कृत्रिम बुद्धिमत्तापूर्ण बुद्धि कार्य
+NNS6 tasks	कार्यों
+VP7_LWG can be solved	हल किया जा सकता है
+PP13 by designing the right set of features	फीचर्स के राइट सेट को डिजाइन कर
+S15 designing the right set of features	फीचर्स के राइट सेट का डिजाइन
+VP16_LWG designing	डिजाइनिंग
+NP18 the right set of features	फीचर्स का सही सेट
+NP19 the right set	सही सेट
+PP23 of features	फीचर्स की
+NP25 features	फीचर्स
+NNS26 features	फीचर्स
+S27 to extract for that task	उस कार्य के लिए निकालने के लिए
+VP28_LWG to extract	निकालने के लिए
+PP32 for that task	उस कार्य के लिए
+NP34 that task	वह कार्य
+,37 ,	,
+S38 then providing these features to a simple machine learning algorithm	फिर इन फीचर्स को एक साधारण मशीन सीखने के एल्गोरिदम को उपलब्ध करवाना
+ADVP39 then	फिर
+VP41_LWG providing	प्रदान करना
+NP43 these features	ये फीचर्स
+NNS45 features	फीचर्स
+PP46 to a simple machine learning algorithm	एक साधारण मशीन सीखने के एल्गोरिदम के लिए
+NP48 a simple machine learning algorithm	एक साधारण मशीन सीख रहा एल्गोरिदम
+NML51 machine learning	मशीन सीखना
+

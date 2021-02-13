@@ -1,0 +1,16 @@
+----
+110
+S1 Another_1 perspective_2 on_3 deep_4 learning_5 is_6 that_7 depth_8 enables_9 the_10 computer_11 to_12 learn_13 a_14 multistep_15 computer_16 program_17 ._18
+NP2 Another_1 perspective_2 on_3 deep_4 learning_5
+NP3 Another_1 perspective_2
+PP6 on_3 deep_4 learning_5
+NP8 deep_4 learning_5
+VP11_LWG is_6
+SBAR13 that_7 depth_8 enables_9 the_10 computer_11 to_12 learn_13 a_14 multistep_15 computer_16 program_17
+S15 depth_8 enables_9 the_10 computer_11 to_12 learn_13 a_14 multistep_15 computer_16 program_17
+NP16 depth_8
+VP18_LWG enables_9
+NP20 the_10 computer_11
+S23 to_12 learn_13 a_14 multistep_15 computer_16 program_17
+VP24_LWG to_12 learn_13
+NP28 a_14 multistep_15 computer_16 program_17

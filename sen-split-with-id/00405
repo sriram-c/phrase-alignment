@@ -1,0 +1,37 @@
+----
+405
+S1 In_1 the_2 early_3 1900s_4 ,_5 statisticians_6 studied_7 datasets_8 using_9 hundreds_10 or_11 thousands_12 of_13 manually_14 compiled_15 measurements_16 (_17 Garson_18 ,_19 1900_20 ;_21 Gosset_22 ,_23 1908_24 ;_25 Anderson_26 ,_27 1935_28 ;_29 Fisher_30 ,_31 1936_32 )_33 ._34
+PP2 In_1 the_2 early_3 1900s_4
+NP4 the_2 early_3 1900s_4
+NNS7 1900s_4
+,8 ,_5
+NP9 statisticians_6
+NNS10 statisticians_6
+VP11_LWG studied_7
+NP13 datasets_8
+NNS14 datasets_8
+S15 using_9 hundreds_10 or_11 thousands_12 of_13 manually_14 compiled_15 measurements_16 (_17 Garson_18 ,_19 1900_20 ;_21 Gosset_22 ,_23 1908_24 ;_25 Anderson_26 ,_27 1935_28 ;_29 Fisher_30 ,_31 1936_32 )_33
+VP16_LWG using_9
+NP18 hundreds_10 or_11 thousands_12 of_13 manually_14 compiled_15 measurements_16 (_17 Garson_18 ,_19 1900_20 ;_21 Gosset_22 ,_23 1908_24 ;_25 Anderson_26 ,_27 1935_28 ;_29 Fisher_30 ,_31 1936_32 )_33
+NP19 hundreds_10 or_11 thousands_12
+QP20 hundreds_10 or_11 thousands_12
+NNS21 hundreds_10
+CC22 or_22
+NNS23 thousands_12
+PP24 of_13 manually_14 compiled_15 measurements_16 (_17 Garson_18 ,_19 1900_20 ;_21 Gosset_22 ,_23 1908_24 ;_25 Anderson_26 ,_27 1935_28 ;_29 Fisher_30 ,_31 1936_32 )_33
+NP26 manually_14 compiled_15 measurements_16 (_17 Garson_18 ,_19 1900_20 ;_21 Gosset_22 ,_23 1908_24 ;_25 Anderson_26 ,_27 1935_28 ;_29 Fisher_30 ,_31 1936_32 )_33
+ADJP27 manually_14 compiled_15
+NNS30 measurements_16
+PRN31 (_17 Garson_18 ,_19 1900_20 ;_21 Gosset_22 ,_23 1908_24 ;_25 Anderson_26 ,_27 1935_28 ;_29 Fisher_30 ,_31 1936_32 )_33
+NP33 Garson_18
+,35 ,_19
+NP36 1900_20
+NP39 Gosset_22
+,41 ,_23
+NP42 1908_24
+NP45 Anderson_26
+,47 ,_27
+NP48 1935_28
+NP51 Fisher_30
+,53 ,_31
+NP54 1936_32

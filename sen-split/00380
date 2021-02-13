@@ -1,0 +1,43 @@
+----
+00381	The other CIFAR-aﬃliated research groups quickly showed that the same strategy could be used to train many other kinds of deep networks (Bengio et al., 2007; Ranzato et al., 2007a) and systematically helped to improve generalization on test examples.	 अन्य संबद्ध अनुसंधान शीघ्रता से उसी रणनीति का प्रयोग किया जा सकता है ( CIFAR ) उसी रणनीति का प्रयोग किया जा सकता है ( CIFAR ) उसी रणनीति का प्रयोग किया जा सकता है ( CIFAR ) उसी रणनीति का प्रयोग किया जा सकता है ( CIFAR ) उसी प्रणाली का प्रयोग किया जा सकता है , जिस प्रणाली का प्रयोग किया गया था ।		
+380	380
+S1 The other CIFAR - aﬃliated research groups quickly showed that the same strategy could be used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a ) and systematically helped to improve generalization on test examples .	दूसरे सीआईएफएआर- संबद्ध अनुसंधान समूहों ने जल्दी से यह दिखाया कि कई अन्य प्रकार के गहरे नेटवर्क (बेंगियो एट अल, 2007 ; रण
+NP2 The other CIFAR - aﬃliated research groups	अन्य CIFAR- संबद्ध अनुसंधान समूह
+ADJP4 other CIFAR - aﬃliated	अन्य CIFAR- संबद्ध
+NP5 other CIFAR	अन्य CIFAR
+NNS11 groups	समूह
+ADVP12 quickly	जल्दी से
+VP14_LWG showed	दिखाया गया
+SBAR16 that the same strategy could be used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a ) and systematically helped to improve generalization on test examples	यह भी रणनीति का इस्तेमाल कई अन्य प्रकार के गहरे नेटवर्क (बेंगियो एट अल, 2007 ; रणजातो एट अल., 2007a) को प्रशिक्षित करने के
+S18 the same strategy could be used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a ) and systematically helped to improve generalization on test examples	इसी रणनीति का इस्तेमाल कई अन्य प्रकार के गहरे नेटवर्क (बेंगियो एट अल, 2007 ; रणजातो एट अल., 2007a) को प्रशिक्षित करने के लिए
+NP19 the same strategy	वही रणनीति
+VP23_LWG could be used systematically helped	व्यवस्थित रूप से इस्तेमाल किया जा सकता है मदद
+S30 to train many other kinds of deep networks	कई अन्य प्रकार के गहरे नेटवर्क को प्रशिक्षित करने के लिए
+VP31_LWG to train	ट्रेनिंग के लिए
+NP35 many other kinds of deep networks	कई अन्य प्रकार के गहरे नेटवर्क
+NP36 many other kinds	कई अन्य तरह के
+NNS39 kinds	तरह-तरह की तरह
+PP40 of deep networks	गहरे नेटवर्कों की
+NP42 deep networks	गहरे नेटवर्क
+NNS44 networks	नेटवर्क
+PRN45 ( Bengio et al. , 2007 ; Ranzato et al. , 2007a )	(बेंगियो एट अल., 2007 ; रणजातो एट अल., 2007a)
+FRAG47 Bengio et al. , 2007	बेंगियो एट अल।, 2007
+NP48 Bengio et al.	बेंजियो एट अल।
+ADVP50 et al.	एट अल।
+,53 ,	,
+NP54 2007	2007
+FRAG57 Ranzato et al. , 2007a	रणजातो एट अल., 2007 ए
+NP58 Ranzato et al.	रणजातो एट अल।
+ADVP60 et al.	एट अल।
+,63 ,	,
+NP64 2007a	2007 ए.
+CC67 and	और
+VP28 used to train many other kinds of deep networks ( Bengio et al. , 2007 ; Ranzato et al. , 2007a )	कई अन्य प्रकार के गहरे नेटवर्क (बेंगियो एट अल., 2007 ; रणजातो एट अल., 2007a)
+ADVP68 systematically	व्यवस्थित रूप से
+S72 to improve generalization on test examples	परीक्षण उदाहरणों पर सामान्यकरण में सुधार लाने के लिए
+VP73_LWG to improve	सुधार करने के लिए
+NP77 generalization	आमीकरण
+PP79 on test examples	परीक्षण उदाहरणों पर
+NP81 test examples	परीक्षण उदाहरण
+NNS83 examples	उदाहरण
+

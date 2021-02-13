@@ -1,0 +1,18 @@
+----
+00311	Neuroscience has given us a reason to hope that a single deep learning algorithm can solve many dierent tasks.	 waMwrikA vijFAna hameM ummIxa karane ke lie eka kAraNa xiyA hE ki eka ekala gaharI sIKane elgoriWma kaI alaga alaga kAryoM ko hala kara sakawe hEM .		
+310	310
+S1 Neuroscience has given us a reason to hope that a single deep learning algorithm can solve many dierent tasks .	nyUrosAiMsa ne hameM ummIxa kA kAraNa bawAyA hE ki eka hI gaharI sIKa kA elgorixama kaI alaga-alaga kAryoM ko hala kara sakawA hE
+NP2 Neuroscience	nyUrosAiMsa
+VP4_LWG has given	xe cuke hEM
+NP8 us	hameM
+NP10 a reason to hope that a single deep learning algorithm can solve many dierent tasks	ummIxa kI vajaha hE ki eka hI gaharI sIKa kA elgorixama kaI alaga-alaga kAryoM kA samAXAna kara sakawA hE
+S13 to hope that a single deep learning algorithm can solve many dierent tasks	ummIxa karane ke lie ki eka BI gaharI sIKa kA elgorixama kaI alaga-alaga kAryoM kA samAXAna kara sakawA hE
+VP14_LWG to hope	ummIxa karane ke lie
+SBAR18 that a single deep learning algorithm can solve many dierent tasks	ki eka hI gaharI sIKa kA elgorixama kaI alaga-alaga kAryoM kA samAXAna kara sakawA hE
+S20 a single deep learning algorithm can solve many dierent tasks	eka hI gaharI sIKa kA elgorixama kaI alaga-alaga kAryoM kA samAXAna kara sakawA hE
+NP21 a single deep learning algorithm	eka hI gaharI sIKa elgorixama
+NML24 deep learning	gaharI sIKa
+VP28_LWG can solve	hala kara sakawe hEM
+NP32 many dierent tasks	kaI alaga-alaga kArya
+NNS35 tasks	kAryoM
+

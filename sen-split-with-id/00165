@@ -1,0 +1,52 @@
+----
+165
+S1 In_1 this_2 case_3 ,_4 the_5 graph_6 of_7 concepts_8 includes_9 only_10 two_11 layers_12 —_13 a_14 layer_15 for_16 eyes_17 and_18 a_19 layer_20 for_21 faces_22 —_23 but_24 the_25 graph_26 of_27 computations_28 includes_29 2_30 n_31 layers_32 if_33 we_34 reﬁne_35 our_36 estimate_37 of_38 each_39 concept_40 given_41 the_42 other_43 n_44 times_45 ._46
+S2 In_1 this_2 case_3 ,_4 the_5 graph_6 of_7 concepts_8 includes_9 only_10 two_11 layers_12 —_13 a_14 layer_15 for_16 eyes_17 and_18 a_19 layer_20 for_21 faces_22
+PP3 In_1 this_2 case_3
+NP5 this_2 case_3
+,8 ,_4
+NP9 the_5 graph_6 of_7 concepts_8
+NP10 the_5 graph_6
+PP13 of_7 concepts_8
+NP15 concepts_8
+NNS16 concepts_8
+VP17_LWG includes_9
+NP19 only_10 two_11 layers_12 —_13 a_14 layer_15 for_16 eyes_17 and_18 a_19 layer_20 for_21 faces_22
+NP20 only_10 two_11 layers_12 —_13 a_14 layer_15 for_16 eyes_17
+NP21 only_10 two_11 layers_12
+QP22 only_10 two_11
+NNS25 layers_12
+NP27 a_14 layer_15 for_16 eyes_17
+NP28 a_14 layer_15
+PP31 for_16 eyes_17
+NP33 eyes_17
+NNS34 eyes_17
+CC35 and_35
+NP36 a_19 layer_20 for_21 faces_22
+NP37 a_19 layer_20
+PP40 for_21 faces_22
+NP42 faces_22
+NNS43 faces_22
+,44 —_23
+CC45 but_45
+S46 the_25 graph_26 of_27 computations_28 includes_29 2_30 n_31 layers_32 if_33 we_34 reﬁne_35 our_36 estimate_37 of_38 each_39 concept_40 given_41 the_42 other_43 n_44 times_45
+NP47 the_25 graph_26 of_27 computations_28
+NP48 the_25 graph_26
+PP51 of_27 computations_28
+NP53 computations_28
+NNS54 computations_28
+VP55_LWG includes_29
+NP57 2_30 n_31 layers_32
+NNS60 layers_32
+SBAR61 if_33 we_34 reﬁne_35 our_36 estimate_37 of_38 each_39 concept_40 given_41 the_42 other_43 n_44 times_45
+S63 we_34 reﬁne_35 our_36 estimate_37 of_38 each_39 concept_40 given_41 the_42 other_43 n_44 times_45
+NP64 we_34
+VP66_LWG reﬁne_35
+NP68 our_36 estimate_37 of_38 each_39 concept_40 given_41 the_42 other_43 n_44 times_45
+NP69 our_36 estimate_37
+PP72 of_38 each_39 concept_40 given_41 the_42 other_43 n_44 times_45
+NP74 each_39 concept_40 given_41 the_42 other_43 n_44 times_45
+NP75 each_39 concept_40
+VP78_LWG given_41
+NP-TMP80 the_42 other_43 n_44 times_45
+NNS84 times_45

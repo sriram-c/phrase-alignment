@@ -1,0 +1,29 @@
+----
+324
+S1 We_1 know_2 that_3 actual_4 neurons_5 compute_6 very_7 diﬀerent_8 functions_9 than_10 modern_11 rectiﬁed_12 linear_13 units_14 ,_15 but_16 greater_17 neural_18 realism_19 has_20 not_21 yet_22 led_23 to_24 an_25 improvement_26 in_27 machine_28 learning_29 performance_30 ._31
+S2 We_1 know_2 that_3 actual_4 neurons_5 compute_6 very_7 diﬀerent_8 functions_9 than_10 modern_11 rectiﬁed_12 linear_13 units_14
+NP3 We_1
+VP5_LWG know_2
+SBAR7 that_3 actual_4 neurons_5 compute_6 very_7 diﬀerent_8 functions_9 than_10 modern_11 rectiﬁed_12 linear_13 units_14
+S9 actual_4 neurons_5 compute_6 very_7 diﬀerent_8 functions_9 than_10 modern_11 rectiﬁed_12 linear_13 units_14
+NP10 actual_4 neurons_5
+NNS12 neurons_5
+VP13_LWG compute_6
+NP15 very_7 diﬀerent_8 functions_9
+ADJP16 very_7 diﬀerent_8
+NNS19 functions_9
+PP20 than_10 modern_11 rectiﬁed_12 linear_13 units_14
+NP22 modern_11 rectiﬁed_12 linear_13 units_14
+NNS26 units_14
+,27 ,_15
+CC28 but_28
+S29 greater_17 neural_18 realism_19 has_20 not_21 yet_22 led_23 to_24 an_25 improvement_26 in_27 machine_28 learning_29 performance_30
+NP30 greater_17 neural_18 realism_19
+VP34_LWG has_20 not_21 yet_22 led_23
+ADVP37 yet_22
+PP41 to_24 an_25 improvement_26 in_27 machine_28 learning_29 performance_30
+NP43 an_25 improvement_26 in_27 machine_28 learning_29 performance_30
+NP44 an_25 improvement_26
+PP47 in_27 machine_28 learning_29 performance_30
+NP49 machine_28 learning_29 performance_30
+NML50 machine_28 learning_29

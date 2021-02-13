@@ -1,0 +1,39 @@
+----
+0038	Its inference engine detected an inconsistency in the story: it knew that people do not have electrical parts, but because Fred was holding an electric razor, it believed the entity FredWhileShaving contained electrical parts.	 isake anumAna iMjana ne kahAnI meM eka asaMgawi kA pawA lagAyAH yaha jAnawA WA ki logoM ke pAsa bijalI ke purje nahIM hEM , lekina cUMki Preda eka bijalI kA rejZara lagA rahA WA , isalie yaha viSvAsa karawA WA ki yaha ikAI PZedavAhilaSiMga meM vixyuwa purje We .		
+37	37
+S1 Its inference engine detected an inconsistency in the story : it knew that people do not have electrical parts , but because Fred was holding an electric razor , it believed the entity  FredWhileShaving  contained electrical parts .	isake aMwarjFAna iMjana ne kahAnI meM eka asaMwoRa kA pawA lagAyA H yaha jAnawA WA ki logoM ke pAsa bijalI ke hisse nahIM hEM, lekina kyoMki Preda eka ilekta
+S2 Its inference engine detected an inconsistency in the story	isake iMPekSana iMjana ne kahAnI meM eka asaMwoRa kA pawA lagAyA
+NP3 Its inference engine	isakI iMPekSana iMjana
+VP7_LWG detected	pawA calA
+NP9 an inconsistency	eka asaMwoRa
+PP12 in the story	kahAnI meM
+NP14 the story	kahAnI
+S18 it knew that people do not have electrical parts , but because Fred was holding an electric razor , it believed the entity  FredWhileShaving  contained electrical parts	yaha jAnawA WA ki logoM ke pAsa bijalI ke aMga nahIM hEM, lekina kyoMki Preda eka ilektrika rejara pakadZe hue We, isalie yaha mAnawA WA ki ikAI 
+S19 it knew that people do not have electrical parts	yaha jAnawA WA ki logoM ke pAsa bijalI ke aMga nahIM hEM
+NP20 it	yaha
+VP22_LWG knew	jAnawe We
+SBAR24 that people do not have electrical parts	ki logoM ke pAsa bijalI ke hisse nahIM hEM
+S26 people do not have electrical parts	logoM ke pAsa ilektrikala pArtsa nahIM hEM
+NP27 people	logoM
+NNS28 people	logoM
+VP29_LWG do not have	na hoM
+NP34 electrical parts	bijalI ke hisse
+NNS36 parts	BAgoM
+,37 ,	,
+CC38 but	lekina
+S39 because Fred was holding an electric razor , it believed the entity  FredWhileShaving  contained electrical parts	kyoMki Preda eka ilektrika rejara pakadZe hue We, isakA mAnanA WA ki ikAI PredaviSiMga SeviMga meM bijalI ke aMga SAmila We
+SBAR40 because Fred was holding an electric razor	kyoMki Preda eka ilektrika rejara pakadZe hue We
+S42 Fred was holding an electric razor	Preda eka ilektrika rejara pakadZe hue We
+NP43 Fred	Preda
+VP45_LWG was holding	pakadZe hue We
+NP49 an electric razor	eka bijalI rejara
+,53 ,	,
+NP54 it	yaha
+VP56_LWG believed	mAnA jAwA
+SBAR58 the entity  FredWhileShaving  contained electrical parts	ikAI PredaviWiMga SeviMga meM bijalI ke aMga SAmila
+S59 the entity  FredWhileShaving  contained electrical parts	ikAI PredaviWiMga SeviMga meM bijalI ke aMga SAmila
+NP60 the entity  FredWhileShaving 	ikAI PredaviSiMgsaviMga
+VP66_LWG contained	SAmila
+NP68 electrical parts	bijalI ke hisse
+NNS70 parts	BAgoM
+

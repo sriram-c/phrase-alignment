@@ -1,0 +1,42 @@
+----
+00530	Since then, these competitions are consistently won by deep convolutional nets, and as of this writing, advances in deep learning have brought the latest top-5 error rate in this contest down to 3.6 percent, as shown in ﬁgure 1.12.	 तब से , इन प्रतियोगिताओं को लगातार गहरे संवलन जालों द्वारा जीता जाता है , और इस लेखन के रूप में , गहरी सीखने में अग्रिम इस प्रतियोगिता में नवीनतम शीर्ष - 5 त्रुटि दर को 3 . 6 प्रतिशत तक ले आया है , जैसा कि अंक 112 में दिखाया गया है .		
+529	529
+S1 Since then , these competitions are consistently won by deep convolutional nets , and as of this writing , advances in deep learning have brought the latest top - 5 error rate in this contest down to 3.6 percent , as shown in ﬁgure 1.12 .	तब से लगातार इन प्रतियोगिताओं को गहरे संविलियन नेट द्वारा जीत मिलती है, और इस लेख के रूप में गहरी सीख में प्रगति इस प्रतियोगिता में लेटेस्ट टॉप
+SBAR2 Since then , these competitions are consistently won by deep convolutional nets , and as of this writing	तब से ही इन प्रतियोगिताओं को लगातार गहरे संविलियन नेट्स से जीत मिलती है, और इस लेख के रूप में
+S4 then , these competitions are consistently won by deep convolutional nets , and as of this writing	फिर, इन प्रतियोगिताओं को लगातार गहरे संविलियन नेट्स से जीत मिलती है, और इस लेख के रूप में
+ADVP5 then	फिर
+,7 ,	,
+NP8 these competitions	इन प्रतियोगिताओं
+NNS10 competitions	प्रतियोगिताओं
+VP11_LWG are consistently won	लगातार होती हैं जीत
+ADVP13 consistently	लगातार
+PP17 by deep convolutional nets , and as of this writing	गहरे संविलियन नेट द्वारा, और इस लेखन के रूप में
+PP18 by deep convolutional nets	गहरे संविलियन जाल से
+NP20 deep convolutional nets	गहरा संविलियन जाल
+NNS23 nets	जाल
+,24 ,	,
+CC25 and	और
+RB26 as	जैसा कि
+PP27 of this writing	इस लेखन का
+NP29 this writing	यह लेखन
+,32 ,	,
+NP33 advances in deep learning	गहरी सीख में उन्नति
+NP34 advances	एडवांस
+NNS35 advances	एडवांस
+PP36 in deep learning	गहरी सीख में
+NP38 deep learning	गहरी सीख
+VP41_LWG have brought down	नीचे लाया है।
+NP45 the latest top - 5 error rate	नवीनतम शीर्ष - 5 त्रुटि दर
+NML48 top - 5	शीर्ष - 5
+PP54 in this contest	इस प्रतियोगिता में
+NP56 this contest	यह प्रतियोगिता
+ADVP59 down to 3.6 percent	नीचे 3.6 प्रतिशत तक
+PP61 to 3.6 percent	3.6 प्रतिशत तक
+NP63 3.6 percent	3.6 फीसदी
+,66 ,	,
+SBAR67 as shown in ﬁgure 1.12	जैसा कि आंकड़े 1.12 में दिखाया गया
+S69 shown in ﬁgure 1.12	आंकड़े में दिखाया गया 1.12
+VP70_LWG shown	दिखाया गया
+PP72 in ﬁgure 1.12	आंकड़े 1.12
+NP74 ﬁgure 1.12	आंकड़ा 1.12
+

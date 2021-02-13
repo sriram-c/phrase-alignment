@@ -1,0 +1,27 @@
+----
+00121	Deep learning resolves this diﬃculty by breaking the desired complicated mapping into a series of nested simple mappings, each described by a diﬀerent layer of the model.	 गहन अधिगम इस कठिनाई को नीड़ित सरल मानचित्रणों की श्रृंखला में वांछित जटिल मानचित्रण को तोड़कर हल करता है , प्रत्येक मॉडल की एक अलग परत द्वारा वर्णित होता है ।		
+120	120
+S1 Deep learning resolves this diﬃculty by breaking the desired complicated mapping into a series of nested simple mappings , each described by a diﬀerent layer of the model .	गहरी सीख इस कठिनाई को नायाब साधारण मैप्युफिकेशन की एक श्रृंखला में टूटकर, प्रत्येक को मॉडल की एक अलग-अलग परत द्वारा बताया गया है
+NP2 Deep learning	गहरी सीख
+VP5_LWG resolves	हल करता है।
+NP8 this diﬃculty	यह कठिनाई
+PP11 by breaking the desired complicated mapping into a series of nested simple mappings	वांछित साधारण मैप्युलेक्स की एक श्रृंखला में वांछित जटिल मैपिंग को तोड़कर
+S13 breaking the desired complicated mapping into a series of nested simple mappings	वांछित साधारण मैप्युलेक्स की एक श्रृंखला में वांछित जटिल मैपिंग को तोड़ना
+VP14_LWG breaking	तोड़ना
+NP16 the desired complicated mapping	वांछित जटिल मैपिंग
+PP21 into a series of nested simple mappings	निहित साधारण मैप्युलेक्स की एक श्रृंखला में
+NP23 a series of nested simple mappings	निहित साधारण मैप्युलेक्स की एक श्रृंखला
+NP24 a series	एक श्रृंखला
+PP27 of nested simple mappings	निहित साधारण मैप्युफिकेशन का
+NP29 nested simple mappings	सरल मैप्युफिकेशन का शिकार हुआ
+NNS32 mappings	मैप्युलेक्स
+,33 ,	,
+NP34 each described by a diﬀerent layer of the model	मॉडल की एक अलग परत से वर्णित प्रत्येक
+NP35 each	प्रत्येक
+VP37_LWG described	वर्णित
+PP39 by a diﬀerent layer of the model	मॉडल की एक अलग परत से
+NP41 a diﬀerent layer of the model	मॉडल की एक अलग परत
+NP42 a diﬀerent layer	एक अलग परत
+PP46 of the model	मॉडल की
+NP48 the model	मॉडल
+

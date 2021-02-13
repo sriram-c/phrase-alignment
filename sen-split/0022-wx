@@ -1,0 +1,33 @@
+----
+0023	Computers have long been able to defeat even the best human chess player but only recently have begun matching some of the abilities of average human beings to recognize objects or speech.	 kaMpyUtara laMbe samaya se sarvaSreRTa mAnava SawaraMja KilAdZI ko BI harAne meM saPala rahe hEM , lekina kevala hAla hI meM Osawa mAnava kI kuCa kRamawAoM kA milAna vaswuoM yA BARaNa ko pahacAnane ke lie SurU kara xiyA hE .		
+22	22
+S1 Computers have long been able to defeat even the best human chess player but only recently have begun matching some of the abilities of average human beings to recognize objects or speech .	kaMpyUtara laMbe samaya se mAnava SawaraMja ke sarvaSreRTa KilAdZI ko BI harAne meM sakRama rahe hEM lekina hAla hI meM Osawa iMsAna kI kuCa kRamawAoM kA milAna kara
+NP2 Computers	kaMpyUtara
+VP4_LWG have long been only have begun	laMbe samaya se hI SurU hue hEM
+ADVP7 long	laMbe samaya waka
+ADJP11 able to defeat even the best human chess player	yahAM waka ki sarvaSreRTa mAnava SawaraMja KilAdZI ko BI harAne meM sakRama
+S13 to defeat even the best human chess player	yahAM waka ki sarvaSreRTa mAnava SawaraMja KilAdZI ko harAne ke lie
+VP14_LWG to defeat even	parAjaya ke lie BI
+ADVP18 even	yahAM waka ki
+NP20 the best human chess player	sarvaSreRTa mAnava SawaraMja KilAdZI
+CC26 but	lekina
+VP5 have long been able to defeat even the best human chess player	laMbe samaya se mAnava SawaraMja ke sarvaSreRTa KilAdZI ko BI harAne meM sakRama rahe hEM
+ADVP27 only recently	kevala hAla hI meM
+S34 matching some of the abilities of average human beings to recognize objects or speech	vaswuoM yA BARaNa ko pahacAnane ke lie Osawa iMsAna kI kuCa kRamawAoM kA milAna
+VP35_LWG matching	milAna
+NP37 some of the abilities of average human beings	Osawa iMsAna kI kuCa kRamawAeM
+NP38 some	kuCa
+PP40 of the abilities of average human beings	Osawa iMsAna kI kRamawAoM kA
+NP42 the abilities of average human beings	Osawa iMsAna kI kRamawAeM
+NP43 the abilities	kRamawAoM
+NNS45 abilities	kRamawAoM
+PP46 of average human beings	Osawa iMsAna kA
+NP48 average human beings	Osawa iMsAna
+NNS51 beings	prANI
+S52 to recognize objects or speech	vaswuoM yA BARaNa ko pahacAnane ke lie
+VP53_LWG to recognize	pahacAnane ke lie
+NP57 objects or speech	vaswueM yA BARaNa
+NNS58 objects	vaswueM
+CC59 or	yA
+NN60 speech	BARaNa
+

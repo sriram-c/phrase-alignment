@@ -1,0 +1,42 @@
+----
+00450	Some articial neural networks have nearly as many connections per neuron as a cat, and it is quite common for other neural networks to have as many connections per neuron as smaller mammals like mice.	 kuCa kqwrima waMwrikA netavarka eka billI ke rUpa meM nyUroYna prawi kaI kanekSana ke rUpa meM lagaBaga hE , Ora yaha anya waMwrikA netavarka ke lie kAPI Ama hE ki cUhoM jEse Cote swanaXAriyoM ke rUpa meM nyUroYna prawi kaI kanekSana hE .		
+449	449
+S1 Some articial neural networks have nearly as many connections per neuron as a cat , and it is quite common for other neural networks to have as many connections per neuron as smaller mammals like mice .	kuCa kqwrima waMwrikA netavarkoM meM eka billI ke rUpa meM prawi nyUrona ke lie lagaBaga kanekSana howe hEM, Ora anya waMwrikA netavarkoM ke lie yaha cU
+S2 Some articial neural networks have nearly as many connections per neuron as a cat	kuCa kqwrima waMwrikA netavarkoM meM billI ke rUpa meM prawi nyUrona ke lagaBaga kanekSana howe hEM
+NP3 Some articial neural networks	kuCa kqwrima waMwrikA netavarka
+NNS7 networks	netavarka
+VP8_LWG have	pAsa hE
+NP10 nearly as many connections per neuron as a cat	billI ke rUpa meM prawi nyUronoYla ke lagaBaga jiwane kanekSana
+NP11 nearly as many connections	lagaBaga iwane kanekSana
+QP12 nearly as many	lagaBaga uwane hI
+NNS16 connections	kanekSana
+PP17 per neuron as a cat	billI ke rUpa meM prawi nyUrona
+NP19 neuron as a cat	billI ke rUpa meM nyUrona
+NP20 neuron	nyUrona
+PP22 as a cat	billI ke rUpa meM
+NP24 a cat	eka billI
+,27 ,	,
+CC28 and	Ora
+S29 it is quite common for other neural networks to have as many connections per neuron as smaller mammals like mice	anya waMwrikA netavarka ke lie cUhoM kI waraha Cote swanaXAriyoM ke rUpa meM prawi nyUrona ke lie uwanA hI kanekSana honA kAPI sAmAnya hE
+NP30 it	yaha
+VP32_LWG is	hE
+ADJP34 quite common for other neural networks	anya waMwrikA netavarka ke lie kAPI Ama
+PP37 for other neural networks	anya waMwrikA netavarka ke lie
+NP39 other neural networks	anya waMwrikA netavarka
+NNS42 networks	netavarka
+S43 to have as many connections per neuron as smaller mammals like mice	cUhoM kI waraha Cote swanaXAriyoM ke rUpa meM prawi nyUronoYla ke pAsa uwane hI kanekSana hone ke lie
+VP44_LWG to have	karane ke lie
+PP48 as many connections per neuron	prawi nyUrona ke jiwane kanekSana
+NP50 many connections per neuron	prawi nyUrona ke kaI kanekSana
+NP51 many connections	kaI kanekSana
+NNS53 connections	kanekSana
+PP54 per neuron	prawi nyUrona
+NP56 neuron	nyUrona
+PP58 as smaller mammals like mice	cUhoM kI waraha Cote-Cote swanaXArI
+NP60 smaller mammals like mice	cUhoM kI waraha Cote swanaXArI
+NP61 smaller mammals	Cote swanaXArI
+NNS63 mammals	swanaXArI
+PP64 like mice	cUhoM kI waraha
+NP66 mice	cUhe
+NNS67 mice	cUhe
+

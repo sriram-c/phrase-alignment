@@ -1,0 +1,34 @@
+----
+00242	We expect that many readers of this book have heard of deep learning as an exciting new technology, and are surprised to see a mention of “history” in a book about an emerging ﬁeld.	 हम उम्मीद करते हैं कि इस पुस्तक के कई पाठकों ने एक रोमांचक नई प्रौद्योगिकी के रूप में गहन शिक्षण के बारे में सुना है , और एक उभरते क्षेत्र के बारे में एक पुस्तक में “गैतिहासिक” का उल्लेख देखकर आश्चर्यचकित हैं .		
+241	241
+S1 We expect that many readers of this book have heard of deep learning as an exciting new technology , and are surprised to see a mention of “ history ” in a book about an emerging ﬁeld .	हमें उम्मीद है कि इस पुस्तक के कई पाठकों ने एक रोमांचक नई तकनीक के रूप में गहरी सीख के बारे में सुना है, और एक उभरते क्षेत्र के बारे में एक
+NP2 We	हम
+VP4_LWG expect	उम्मीद
+SBAR6 that many readers of this book have heard of deep learning as an exciting new technology , and are surprised to see a mention of “ history ” in a book about an emerging ﬁeld	इस किताब के कई पाठकों ने एक रोमांचक नई तकनीक के रूप में गहरी सीख के बारे में सुना है, और उभरते क्षेत्र के बारे में एक किताब में “इतिहास” का
+S8 many readers of this book have heard of deep learning as an exciting new technology , and are surprised to see a mention of “ history ” in a book about an emerging ﬁeld	इस पुस्तक के कई पाठकों ने एक रोमांचक नई तकनीक के रूप में गहरी सीख के बारे में सुना है, और उभरते क्षेत्र के बारे में एक किताब में “इतिहास” का
+NP9 many readers of this book	इस किताब के कई पाठक
+NP10 many readers	कई पाठक
+NNS12 readers	पाठक
+PP13 of this book	इस पुस्तक की
+NP15 this book	यह पुस्तक
+VP18_LWG have heard are	सुना है ना.
+PP23 of deep learning	गहरी सीख का
+NP25 deep learning	गहरी सीख
+PP28 as an exciting new technology	एक रोमांचक नई तकनीक के रूप में
+NP30 an exciting new technology	एक रोमांचक नई तकनीक
+,35 ,	,
+CC36 and	और
+VP37 are surprised to see a mention of “ history ” in a book about an emerging ﬁeld	उभरते क्षेत्र के बारे में एक किताब में “इतिहास” का जिक्र देखकर हैरान
+ADJP39 surprised to see a mention of “ history ” in a book about an emerging ﬁeld	एक उभरते क्षेत्र के बारे में एक किताब में “इतिहास” का जिक्र देखकर हैरान
+S41 to see a mention of “ history ” in a book about an emerging ﬁeld	एक उभरते क्षेत्र के बारे में एक किताब में “इतिहास” का उल्लेख देखने के लिए
+VP42_LWG to see	देखने के लिए।
+NP46 a mention of “ history ”	“इतिहास” का उल्लेख
+NP47 a mention	एक उल्लेख
+PP50 of “ history ”	“इतिहास” का
+NP52 “ history ”	“इतिहास”
+PP56 in a book about an emerging ﬁeld	एक उभरते क्षेत्र के बारे में एक किताब में
+NP58 a book about an emerging ﬁeld	एक उभरते क्षेत्र के बारे में एक किताब
+NP59 a book	एक किताब
+PP62 about an emerging ﬁeld	एक उभरते क्षेत्र के बारे में
+NP64 an emerging ﬁeld	एक उभरता हुआ क्षेत्र
+

@@ -1,0 +1,23 @@
+----
+43
+S1 A_1 simple_2 machine_3 learning_4 algorithm_5 called_6 logistic_7 regression_8 can_9 determine_10 whether_11 to_12 recommend_13 cesarean_14 delivery_15 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24 ._25
+NP2 A_1 simple_2 machine_3 learning_4 algorithm_5
+NML5 machine_3 learning_4
+VP9_LWG called_6
+SBAR11 logistic_7 regression_8 can_9 determine_10 whether_11 to_12 recommend_13 cesarean_14 delivery_15 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24
+S12 logistic_7 regression_8 can_9 determine_10 whether_11 to_12 recommend_13 cesarean_14 delivery_15 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24
+NP13 logistic_7 regression_8
+VP16_LWG can_9 determine_10
+SBAR20 whether_11 to_12 recommend_13 cesarean_14 delivery_15 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24
+S22 to_12 recommend_13 cesarean_14 delivery_15 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24
+VP23_LWG to_12 recommend_13
+NP27 cesarean_14 delivery_15 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24
+PRN30 (_16 Mor_17 -_18 Yosef_19 et_20 al._21 ,_22 1990_23 )_24
+NP32 Mor_17 -_18 Yosef_19 et_20 al._21
+NP33 Mor_17
+PP35 -_18 Yosef_19
+SYM36 -_18
+NP37 Yosef_19
+ADVP39 et_20 al._21
+,42 ,_22
+NP43 1990_23

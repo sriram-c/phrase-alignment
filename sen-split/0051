@@ -1,0 +1,27 @@
+----
+0052	If logistic regression were given an MRI scan of the patient, rather than the doctor’s formalized report, it would not be able to make useful predictions.	 यदि रोगी को लॉजिस्टिक रीग्रेशन एमआरआई स्कैन दिया जाता , बजाय चिकित्सक की औपचारिक रिपोर्ट के , तो वह उपयोगी भविष्यवाणियां नहीं कर सकेगा ।		
+51	51
+S1 If logistic regression were given an MRI scan of the patient , rather than the doctor ’s formalized report , it would not be able to make useful predictions .	यदि लॉजिस्टिक रिप्रेशन को मरीज का एमआरआई स्कैन दिया गया, तो डॉक्टर की फॉर्मूली रिपोर्ट के बजाय यह उपयोगी भविष्यवाणियां नहीं कर पाएगा
+SBAR2 If logistic regression were given an MRI scan of the patient , rather than the doctor ’s formalized report	यदि लॉजिस्टिक रिप्रेशन को मरीज का एमआरआई स्कैन दिया गया, तो डॉक्टर की फॉर्मूली रिपोर्ट के बजाय
+S4 logistic regression were given an MRI scan of the patient , rather than the doctor ’s formalized report	लॉजिस्टिक रिप्रेशन को मरीज का एमआरआई स्कैन दिया गया था, बल्कि डॉक्टर की फॉर्मूली रिपोर्ट
+NP5 logistic regression	लॉजिस्टिक प्रतिफल
+VP8_LWG were given	दिए गए थे।
+NP12 an MRI	एक एमआरआई
+NP15 scan of the patient , rather than the doctor ’s formalized report	डॉक्टर की फॉर्मूली रिपोर्ट के बजाय रोगी का स्कैन,
+NP16 scan of the patient	मरीज का स्कैन
+NP17 scan	स्कैन करें
+PP19 of the patient	मरीज का
+NP21 the patient	मरीज
+,24 ,	,
+CONJP25 rather than	बल्कि इससे ज्यादा
+NP28 the doctor ’s formalized report	डॉक्टर की फॉर्मूली रिपोर्ट
+NML30 doctor ’s	डॉक्टर की
+,35 ,	,
+NP36 it	यह
+VP38_LWG would not be	नहीं होता
+ADJP43 able to make useful predictions	उपयोगी भविष्यवाणियां करने में सक्षम
+S45 to make useful predictions	उपयोगी भविष्यवाणियां करने के लिए
+VP46_LWG to make	बनाने के लिए
+NP50 useful predictions	उपयोगी भविष्यवाणियां
+NNS52 predictions	भविष्यवाणियां
+

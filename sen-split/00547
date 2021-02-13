@@ -1,0 +1,30 @@
+----
+00548	(2014d) showed that neural networks could learn to output an entire sequence of characters transcribed from an image, rather than just identifying a single object.	 (2014 ) से पता चला कि तंत्रिका नेटवर्क एक छवि से अंकित वर्णों के एक पूरे अनुक्रम को आउटपुट देना सीख सकते हैं , बजाय सिर्फ एक वस्तु की पहचान करने के .		
+547	547
+S1 ( 2014d ) showed that neural networks could learn to output an entire sequence of characters transcribed from an image , rather than just identifying a single object .	( 2014d) में दिखाया गया कि तंत्रिका नेटवर्क एक छवि से लिखे गए पात्रों का एक पूरा अनुक्रम निकालना सीख सकता है, बल्कि सिर्फ एक वस्तु की पहचान करना
+NP2 ( 2014d )	( 2014)
+VP6_LWG showed	दिखाया गया
+SBAR8 that neural networks could learn to output an entire sequence of characters transcribed from an image , rather than just identifying a single object	वह तंत्रिका नेटवर्क सिर्फ एक वस्तु की पहचान करने के बजाय किसी छवि से प्रेरित किए गए पात्रों का एक पूरा अनुक्रम निकालना सीख सकता है
+S10 neural networks could learn to output an entire sequence of characters transcribed from an image , rather than just identifying a single object	तंत्रिका नेटवर्क सिर्फ एक वस्तु की पहचान करने के बजाय किसी छवि से प्रेरित किए गए पात्रों का एक पूरा अनुक्रम निकालना सीख सकते हैं
+NP11 neural networks	तंत्रिका नेटवर्क
+NNS13 networks	नेटवर्क
+VP14_LWG could learn	सीख सकते थे।
+PP18 to output	आउटपुट करने के लिए
+NP20 output	आउटपुट
+NP22 an entire sequence of characters transcribed from an image , rather than just identifying a single object	एक छवि से प्रेषित किरदारों का एक पूरा क्रम, सिर्फ एक ही वस्तु की पहचान करने के बजाय
+NP23 an entire sequence	एक पूरा क्रम
+PP27 of characters transcribed from an image , rather than just identifying a single object	एक छवि से प्रेरित किरदारों, बल्कि सिर्फ एक वस्तु की पहचान करने के बजाय
+NP29 characters transcribed from an image , rather than just identifying a single object	एक छवि से अंकित पात्र, सिर्फ एक ही वस्तु की पहचान करने के बजाय
+NP30 characters	पात्र
+NNS31 characters	पात्र
+VP32_LWG transcribed	वर्णित
+PP34 from an image , rather than just identifying a single object	एक छवि से, बल्कि सिर्फ एक वस्तु की पहचान करने के बजाय
+PP35 from an image	एक छवि से
+NP37 an image	एक छवि
+,40 ,	,
+PP42 than just identifying a single object	सिर्फ एक ही वस्तु की पहचान करने की तुलना में
+S44 just identifying a single object	सिर्फ एक ही वस्तु की पहचान
+ADVP45 just	बस।
+VP47_LWG identifying	पहचान
+NP49 a single object	एक ही वस्तु
+

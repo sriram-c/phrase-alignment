@@ -1,0 +1,14 @@
+----
+553
+S1 Such_1 neural_2 networks_3 can_4 learn_5 simple_6 programs_7 from_8 examples_9 of_10 desired_11 behavior_12 ._13
+NP2 Such_1 neural_2 networks_3
+NNS5 networks_3
+VP6_LWG can_4 learn_5
+NP10 simple_6 programs_7
+NNS12 programs_7
+PP13 from_8 examples_9 of_10 desired_11 behavior_12
+NP15 examples_9 of_10 desired_11 behavior_12
+NP16 examples_9
+NNS17 examples_9
+PP18 of_10 desired_11 behavior_12
+NP20 desired_11 behavior_12

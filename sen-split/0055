@@ -1,0 +1,24 @@
+----
+0056	People can easily perform arithmetic on Arabic numerals but ﬁnd arithmetic on Roman numerals much more time consuming.	 लोग अरबी अंकों पर अंकगणित आसानी से कर सकते हैं लेकिन रोमन अंकों पर अंकगणित को बहुत अधिक समय लेने वाले पाते हैं .		
+55	55
+S1 People can easily perform arithmetic on Arabic numerals but ﬁnd arithmetic on Roman numerals much more time consuming .	लोग आसानी से अरबी अंकों पर अंकगणित कर सकते हैं लेकिन रोमन अंकों पर अंकगणित अधिक समय लगता है।
+NP2 People	लोगों
+NNS3 People	लोगों
+VP4_LWG can easily perform ﬁnd	आसानी से पा सकते हैं प्रदर्शन
+ADVP6 easily	आसानी से
+NP11 arithmetic	अंकगणित
+PP13 on Arabic numerals	अरबी संख्याओं पर
+NP15 Arabic numerals	अरबी अंकगणित
+NNS17 numerals	अंकगणित
+CC18 but	लेकिन
+VP9 perform arithmetic on Arabic numerals	अरबी अंकों पर अंकगणित करें प्रदर्शन
+VP19 ﬁnd arithmetic on Roman numerals much more time consuming	रोमन अंकों पर अंकगणित खोजें बहुत अधिक समय का सेवन
+NP21 arithmetic	अंकगणित
+PP23 on Roman numerals much more time consuming	रोमन संख्याओं पर बहुत अधिक समय का सेवन
+NP25 Roman numerals much more time consuming	रोमन नंबर बहुत अधिक समय ले रहे हैं
+NP26 Roman numerals much more	रोमन नंबरों में बहुत अधिक
+NP27 Roman numerals	रोमन अंकों
+NNS29 numerals	अंकगणित
+ADJP30 much more	बहुत ज्यादा
+ADJP33 time consuming	समय का सेवन
+

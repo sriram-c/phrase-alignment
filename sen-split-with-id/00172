@@ -1,0 +1,53 @@
+----
+172
+S1 Deep_1 learning_2 is_3 a_4 particular_5 kind_6 of_7 machine_8 learning_9 that_10 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35 ,_36 and_37 more_38 abstract_39 representations_40 computed_41 in_42 terms_43 of_44 less_45 abstract_46 ones_47 ._48
+S2 Deep_1 learning_2 is_3 a_4 particular_5 kind_6 of_7 machine_8 learning_9 that_10 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+NP3 Deep_1 learning_2
+VP6_LWG is_3
+NP8 a_4 particular_5 kind_6 of_7 machine_8 learning_9 that_10 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+NP9 a_4 particular_5 kind_6
+PP13 of_7 machine_8 learning_9 that_10 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+NP15 machine_8 learning_9 that_10 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+NP16 machine_8 learning_9
+SBAR19 that_10 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+WHNP20 that_10
+S22 achieves_11 great_12 power_13 and_14 ﬂexibility_15 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+VP23_LWG achieves_11
+NP25 great_12 power_13 and_14 ﬂexibility_15
+CC28 and_28
+NN27 power_13
+NN29 ﬂexibility_15
+PP30 by_16 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+S32 representing_17 the_18 world_19 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25 ,_26 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+VP33_LWG representing_17
+NP35 the_18 world_19
+PP38 as_20 a_21 nested_22 hierarchy_23 of_24 concepts_25
+NP40 a_21 nested_22 hierarchy_23 of_24 concepts_25
+NP41 a_21 nested_22 hierarchy_23
+PP45 of_24 concepts_25
+NP47 concepts_25
+NNS48 concepts_25
+,49 ,_26
+PP50 with_27 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+NP52 each_28 concept_29 deﬁned_30 in_31 relation_32 to_33 simpler_34 concepts_35
+NP53 each_28 concept_29
+VP56_LWG deﬁned_30
+PP58 in_31 relation_32
+NP60 relation_32
+PP62 to_33 simpler_34 concepts_35
+NP64 simpler_34 concepts_35
+NNS66 concepts_35
+,67 ,_36
+CC68 and_68
+S69 more_38 abstract_39 representations_40 computed_41 in_42 terms_43 of_44 less_45 abstract_46 ones_47
+NP70 more_38 abstract_39 representations_40
+NNS73 representations_40
+VP74_LWG computed_41
+PP76 in_42 terms_43 of_44 less_45 abstract_46 ones_47
+NP78 terms_43 of_44 less_45 abstract_46 ones_47
+NP79 terms_43
+NNS80 terms_43
+PP81 of_44 less_45 abstract_46 ones_47
+NP83 less_45 abstract_46 ones_47
+ADJP84 less_45 abstract_46
+NNS87 ones_47

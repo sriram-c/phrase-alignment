@@ -1,0 +1,23 @@
+----
+393
+S1 The_1 most_2 important_3 new_4 development_5 is_6 that_7 today_8 we_9 can_10 provide_11 these_12 algorithms_13 with_14 the_15 resources_16 they_17 need_18 to_19 succeed_20 ._21
+NP2 The_1 most_2 important_3 new_4 development_5
+ADJP4 most_2 important_3
+VP9_LWG is_6
+SBAR11 that_7 today_8 we_9 can_10 provide_11 these_12 algorithms_13 with_14 the_15 resources_16 they_17 need_18 to_19 succeed_20
+S13 today_8 we_9 can_10 provide_11 these_12 algorithms_13 with_14 the_15 resources_16 they_17 need_18 to_19 succeed_20
+NP-TMP14 today_8
+NP16 we_9
+VP18_LWG can_10 provide_11
+NP22 these_12 algorithms_13
+NNS24 algorithms_13
+PP25 with_14 the_15 resources_16 they_17 need_18 to_19 succeed_20
+NP27 the_15 resources_16 they_17 need_18 to_19 succeed_20
+NP28 the_15 resources_16
+NNS30 resources_16
+SBAR31 they_17 need_18 to_19 succeed_20
+S32 they_17 need_18 to_19 succeed_20
+NP33 they_17
+VP35_LWG need_18
+S37 to_19 succeed_20
+VP38_LWG to_19 succeed_20

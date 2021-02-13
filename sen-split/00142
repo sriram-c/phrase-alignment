@@ -1,0 +1,46 @@
+----
+00143	Just as two equivalent computer programs will have diﬀerent lengths depending on which language the program is written in, the same function may be drawn as a ﬂowchart with diﬀerent depths depending on which functions we allow to be used as individual steps in the ﬂowchart.	 जिस प्रकार दो समतुल्य कंप्यूटर प्रोग्रामों की लंबाई भिन्न होती है , यह निर्भर करता है कि प्रोग्राम किस भाषा में लिखा गया है , उसी प्रकार एक ही फलन को विभिन्न गहराइयों के साथ फ्लो चार्ट के रूप में खींचा जा सकता है , जिस पर निर्भर करता है कि हम प्रवाह संचित्र में अलग - अलग चरणों के रूप में प्रयोग की अनुमति देते हैं ।		
+142	142
+S1 Just as two equivalent computer programs will have diﬀerent lengths depending on which language the program is written in , the same function may be drawn as a ﬂowchart with diﬀerent depths depending on which functions we allow to be used as individual steps in the ﬂowchart .	जिस तरह दो समकक्ष कंप्यूटर कार्यक्रमों में अलग-अलग लंबाई होगी, इसके आधार पर कि कार्यक्रम किस भाषा में लिखा गया है, उसी समारोह को अलग-अलग ग
+SBAR2 Just as two equivalent computer programs will have diﬀerent lengths depending on which language the program is written in	जिस तरह दो समकक्ष कंप्यूटर कार्यक्रमों में अलग-अलग लंबाई होगी, जिससे कार्यक्रम में लिखा गया है,
+ADVP3 Just	बस।
+S6 two equivalent computer programs will have diﬀerent lengths depending on which language the program is written in	दो समकक्ष कंप्यूटर कार्यक्रमों में अलग-अलग लंबाई होगी, जिस पर कार्यक्रम में लिखा गया है, इस पर निर्भर होगा
+NP7 two equivalent computer programs	दो समकक्ष कंप्यूटर कार्यक्रम
+NNS11 programs	कार्यक्रम
+VP12_LWG will have	होगा।
+NP16 diﬀerent lengths	अलग-अलग लंबाई
+NNS18 lengths	लंबाई
+PP19 depending on which language the program is written in	किस भाषा पर लिखा है कार्यक्रम
+PP21 on which language the program is written in	किस भाषा पर कार्यक्रम लिखा है
+SBAR23 which language the program is written in	कार्यक्रम में कौन सी भाषा लिखी जाती है
+WHNP24 which language	कौन सी भाषा
+S27 the program is written in	कार्यक्रम में लिखा है
+NP28 the program	कार्यक्रम
+VP31_LWG is written	लिखा है
+PP35 in	में।
+,37 ,	,
+NP38 the same function	वही समारोह
+VP42_LWG may be drawn	खींचे जा सकते हैं
+PP48 as a ﬂowchart with diﬀerent depths	अलग-अलग गहराई के साथ एक फ्लोचार्ट के रूप में
+NP50 a ﬂowchart with diﬀerent depths	अलग-अलग गहराई के साथ एक फ्लोचार्ट
+NP51 a ﬂowchart	एक फ्लोचार्ट
+PP54 with diﬀerent depths	अलग-अलग गहराई के साथ
+NP56 diﬀerent depths	अलग-अलग गहराई
+NNS58 depths	गहराई
+PP59 depending on which functions we allow to be used as individual steps in the ﬂowchart	फ्लोचार्ट में हम किन कार्यों का इस्तेमाल व्यक्तिगत कदमों के रूप में करने की अनुमति देते हैं
+PP61 on which functions we allow to be used as individual steps in the ﬂowchart	जिस पर हम फ्लोचार्ट में व्यक्तिगत कदमों के रूप में इस्तेमाल करने की अनुमति देते हैं
+SBAR63 which functions we allow to be used as individual steps in the ﬂowchart	जिन कार्यों का उपयोग हम प्रवाहचित्र में व्यक्तिगत कदमों के रूप में किया जाना अनुमति देते हैं
+WHNP64 which functions	कौन सा कार्य करता है
+NNS66 functions	समारोह
+S67 we allow to be used as individual steps in the ﬂowchart	हम फ्लोचार्ट में व्यक्तिगत कदमों के रूप में इस्तेमाल करने की अनुमति देते हैं
+NP68 we	हम
+VP70_LWG allow	अनुमति
+S72 to be used as individual steps in the ﬂowchart	फ्लोचार्ट में व्यक्तिगत कदमों के रूप में इस्तेमाल किया जाना
+VP73_LWG to be used	इस्तेमाल होना है
+PP79 as individual steps in the ﬂowchart	फ्लोचार्ट में व्यक्तिगत कदम के रूप में
+NP81 individual steps in the ﬂowchart	फ्लोचार्ट में व्यक्तिगत कदम
+NP82 individual steps	व्यक्तिगत कदम
+NNS84 steps	कदम
+PP85 in the ﬂowchart	फ्लोचार्ट में
+NP87 the ﬂowchart	फ्लोचार्ट
+

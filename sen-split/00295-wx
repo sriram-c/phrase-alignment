@@ -1,0 +1,31 @@
+----
+00296	These models remain some of the most widely used machine learning models, though in many cases they are trained in dierent ways than the original models were trained.	 ye moYdala kuCa sarvAXika vyApaka rUpa se prayukwa maSIna larniMga moYdala bane hue hEM , hAlAMki kaI mAmaloM meM inheM mUla moYdaloM ko praSikRiwa kie jAne kI wulanA meM viBinna warIkoM se praSikRiwa kiyA jAwA hE .		
+295	295
+S1 These models remain some of the most widely used machine learning models , though in many cases they are trained in dierent ways than the original models were trained .	ye moYdala sabase aXika iswemAla hone vAle maSIna sIKane vAle kuCa moYdala bane hue hEM, hAlAMki kaI mAmaloM meM unheM mUla moYdaloM kI wulanA meM
+NP2 These models	ye moYdala
+NNS4 models	moYdala
+VP5_LWG remain	bane raheM
+NP7 some of the most widely used machine learning models	sabase vyApaka iswemAla hone vAle maSIna sIKane vAle kuCa moYdala
+NP8 some	kuCa
+PP10 of the most widely used machine learning models	sabase vyApaka iswemAla hone vAle maSIna sIKane vAle moYdaloM kI
+NP12 the most widely used machine learning models	sabase vyApaka iswemAla hone vAle maSIna sIKane vAle moYdala
+ADJP14 most widely used	sabase aXika iswemAla howA hE
+NML18 machine learning	maSIna sIKanA
+NNS21 models	moYdala
+,22 ,	,
+SBAR23 though in many cases they are trained in dierent ways than the original models were trained	hAlAMki kaI mAmaloM meM unheM mUla moYdaloM kI wulanA meM alaga waraha se praSikRiwa kiyA jAwA hE
+S25 in many cases they are trained in dierent ways than the original models were trained	kaI mAmaloM meM unheM mUla moYdaloM kI wulanA meM alaga waraha se praSikRiwa kiyA jAwA hE
+PP26 in many cases	kaI mAmaloM meM
+NP28 many cases	kaI mAmale
+NNS30 cases	mAmale
+NP31 they	ve
+VP33_LWG are trained	praSikRiwa hEM
+PP37 in dierent ways	alaga-alaga warIkoM se
+NP39 dierent ways	alaga-alaga warIke
+NNS41 ways	warIke
+SBAR42 than the original models were trained	mUla moYdaloM kI wulanA meM praSikRiwa
+S44 the original models were trained	mUla moYdaloM ko kiyA gayA praSikRaNa
+NP45 the original models	mUla moYdala
+NNS48 models	moYdala
+VP49_LWG were trained	praSikRiwa We
+

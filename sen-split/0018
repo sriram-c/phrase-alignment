@@ -1,0 +1,30 @@
+----
+0019	Chess is of course a very simple world, containing only sixty-four locations and thirty-two pieces that can move in only rigidly circumscribed ways.	 शतरंज बेशक एक बहुत ही सरल दुनिया है , जिसमें केवल साठ स्थान और तीस - बत्तीस टुकड़े हैं , जो केवल कठोर ढंग से चल सकते हैं ।		
+18	18
+S1 Chess is of course a very simple world , containing only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways .	शतरंज बेशक एक बहुत ही साधारण दुनिया है, जिसमें केवल साठ-चार स्थान और तीस-तीन टुकड़े शामिल हैं जो केवल ढंग से परिभाषित तरीकों से आगे बढ़
+NP2 Chess	शतरंज
+VP4_LWG is of	का है।
+ADVP6 of course	बेशक।
+NP9 a very simple world , containing only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways	एक बहुत ही साधारण दुनिया, जिसमें केवल साठ-चार स्थान और तीस-तीन-दो टुकड़े शामिल हैं जो केवल ढंग से खड़े तरीकों से आगे बढ़ सकते हैं
+NP10 a very simple world	एक बहुत ही साधारण दुनिया
+ADJP12 very simple	बहुत ही सरल
+,16 ,	,
+VP17_LWG containing	जिसमें
+NP19 only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways	केवल साठ-चार स्थान और तीस-तीन-दो टुकड़े जो सिर्फ ढंग से खड़े तरीकों से आगे बढ़ सकते हैं
+NP20 only sixty - four locations and thirty - two pieces	केवल साठ-चार स्थान और तीस-दो टुकड़े
+NP21 only sixty - four locations	केवल साठ- चार स्थान
+QP22 only sixty - four	केवल साठ-चार
+NNS27 locations	स्थान
+CC28 and	और
+NP29 thirty - two pieces	तीस-दो टुकड़े
+QP30 thirty - two	तीस-दो
+NNS34 pieces	टुकड़े
+SBAR35 that can move in only rigidly circumscribed ways	वह केवल गंभीरता से परिभाषित तरीकों से आगे बढ़ सकता है
+WHNP36 that	वह
+S38 can move in only rigidly circumscribed ways	केवल ढंग से खड़े तरीकों से आगे बढ़ सकते हैं
+VP39_LWG can move	आगे बढ़ सकते हैं।
+PP43 in only rigidly circumscribed ways	केवल ढंग से परिभाषित तरीकों में
+NP45 only rigidly circumscribed ways	केवल ढंग से परिभाषित तरीके
+QP46 only rigidly	सिर्फ मजबूती से
+NNS50 ways	तरीके
+

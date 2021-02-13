@@ -1,0 +1,19 @@
+----
+00294	Slightly modiﬁed versions of the stochastic gradient descent algorithm remain the dominant training algorithms for deep learning models today.	 Stochastic ग्रेडिएंट अवतरण एल्गोरिथ्म के हल्के संशोधित संस्करण आज गहरे सीखने के मॉडलों के लिए प्रमुख प्रशिक्षण एल्गोरिदम बने हुए हैं ।		
+293	293
+S1 Slightly modiﬁed versions of the stochastic gradient descent algorithm remain the dominant training algorithms for deep learning models today .	स्टॉचस्टिक ग्रेडेज डेंगना एल्गोरिदम के थोड़े संशोधित संस्करण आज गहरे सीखने के मॉडलों के लिए प्रमुख प्रशिक्षण एल्गोरिदम बने हुए
+NP2 Slightly modiﬁed versions of the stochastic gradient descent algorithm	स्टॉचस्टिक गतिशील वंश एल्गोरिदम के थोड़े संशोधित संस्करण
+NP3 Slightly modiﬁed versions	थोड़ा संशोधित संस्करण
+ADJP4 Slightly modiﬁed	थोड़ा संशोधित
+NNS7 versions	संस्करण
+PP8 of the stochastic gradient descent algorithm	स्टॉचस्टिक गतिशील वंश एल्गोरिदम का
+NP10 the stochastic gradient descent algorithm	स्टॉचस्टिक गतिशील वंश एल्गोरिदम
+VP16_LWG remain	बने रहें।
+NP18 the dominant training algorithms	प्रमुख प्रशिक्षण एल्गोरिदम
+NNS22 algorithms	एल्गोरिदम
+PP23 for deep learning models	गहरी सीख के मॉडलों के लिए
+NP25 deep learning models	गहरी सीख के मॉडल
+NML26 deep learning	गहरी सीख
+NNS29 models	मॉडल
+NP-TMP30 today	आज
+

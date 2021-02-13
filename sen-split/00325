@@ -1,0 +1,39 @@
+----
+00326	Also, while neuroscience has successfully inspired several neural network architectures, we do not yet know enough about biological learning for neuroscience to oﬀer much guidance for the learning algorithms we use to train these architectures.	 इसके अलावा , जबकि तंत्रिका विज्ञान सफलतापूर्वक कई तंत्रिका नेटवर्क वास्तुकला को प्रेरित किया है , हम अभी तक तंत्रिका विज्ञान के लिए जैविक सीखने के बारे में पर्याप्त पता नहीं है सीखने एल्गोरिदम के लिए बहुत मार्गदर्शन की पेशकश करने के लिए हम इन वास्तुकलाओं को प्रशिक्षित करने के लिए उपयोग करते हैं .		
+325	325
+S1 Also , while neuroscience has successfully inspired several neural network architectures , we do not yet know enough about biological learning for neuroscience to oﬀer much guidance for the learning algorithms we use to train these architectures .	साथ ही, जहां न्यूरोसाइंस ने कई तंत्रिका नेटवर्क वास्तुकलाओं को सफलतापूर्वक प्रेरित किया है, वहीं हमें अभी तक न्यूरोसाइंस के लिए जैविक सी
+ADVP2 Also	साथ ही
+,4 ,	,
+SBAR5 while neuroscience has successfully inspired several neural network architectures	जबकि न्यूरोसाइंस ने कई तंत्रिका नेटवर्क वास्तुकलाओं को सफलतापूर्वक प्रेरित किया है
+S7 neuroscience has successfully inspired several neural network architectures	न्यूरोसाइंस ने कई तंत्रिका नेटवर्क वास्तुकलाओं को सफलतापूर्वक प्रेरित किया है
+NP8 neuroscience	न्यूरोसाइंस
+VP10_LWG has successfully inspired	सफलतापूर्वक प्रेरित किया है
+ADVP12 successfully	सफलतापूर्वक
+NP16 several neural network architectures	कई तंत्रिका नेटवर्क वास्तुकलाज
+NML18 neural network	तंत्रिका नेटवर्क
+NNS21 architectures	वास्तुकारों
+,22 ,	,
+NP23 we	हम
+VP25_LWG do not yet know enough	अभी तक पर्याप्त नहीं पता
+ADVP28 yet	अभी तक
+ADVP32 enough about biological learning	जैविक सीख के बारे में पर्याप्त
+PP34 about biological learning	जैविक सीख के बारे में
+NP36 biological learning	जैविक सीख
+PP39 for neuroscience	न्यूरोसाइंस के लिए
+NP41 neuroscience	न्यूरोसाइंस
+S43 to oﬀer much guidance for the learning algorithms we use to train these architectures	इन वास्तुकलाओं को प्रशिक्षित करने के लिए हम जितने शिक्षण एल्गोरिदम का उपयोग करते हैं, उसके लिए बहुत अधिक मार्गदर्शन
+VP44_LWG to oﬀer	पेशकश के लिए
+NP48 much guidance	बहुत मार्गदर्शन
+PP51 for the learning algorithms we use to train these architectures	सीखने के एल्गोरिदम के लिए हम इन वास्तुकलाओं को प्रशिक्षित करने के लिए उपयोग करते हैं
+NP53 the learning algorithms we use to train these architectures	इन वास्तुकारों को प्रशिक्षित करने के लिए हम जिन सीखिंग एल्गोरिदम का उपयोग करते हैं
+NP54 the learning algorithms	सीखने के एल्गोरिदम
+NNS57 algorithms	एल्गोरिदम
+SBAR58 we use to train these architectures	इन वास्तुकारों को प्रशिक्षित करने के लिए हम उपयोग करते हैं
+S59 we use to train these architectures	इन वास्तुकारों को प्रशिक्षित करने के लिए हम उपयोग करते हैं
+NP60 we	हम
+VP62_LWG use	उपयोग
+S64 to train these architectures	इन वास्तुकारों को प्रशिक्षित करने के लिए
+VP65_LWG to train	ट्रेनिंग के लिए
+NP69 these architectures	ये वास्तुकला
+NNS71 architectures	वास्तुकारों
+

@@ -1,0 +1,40 @@
+----
+00266	While the kinds of neural networks used for machine learning have sometimes been used to understand brain function (Hinton and Shallice, 1991), they are generally not designed to be realistic models of biological function.	 jabaki maSInI SikRaNa ke lie prayukwa waMwrikA netavarkoM ke prakAroM kA upayoga kaBI - kaBI maswiRka ke kArya ko samaJane ke lie kiyA gayA hE ( hEnatana Ora SElisa , 1991 ) , ve Ama wOra para jEvika kArya ke vAswavika moYdala nahIM banane ke lie dijZAina kie gae hEM .		
+265	265
+S1 While the kinds of neural networks used for machine learning have sometimes been used to understand brain function ( Hinton and Shallice , 1991 ) , they are generally not designed to be realistic models of biological function .	jabaki maSIna sIKane ke lie iswemAla hone vAle waMwrikA netavarka kaBI-kaBI brena PaMkSana (hiMtana Ora SAlsI, 1991) ko samaJane ke lie
+SBAR2 While the kinds of neural networks used for machine learning have sometimes been used to understand brain function ( Hinton and Shallice , 1991 )	jabaki maSIna sIKane ke lie iswemAla hone vAle waMwrikA netavarka kaBI-kaBI brena PaMkSana (hiMtana Ora SAlsI, 1991) ko samaJane ke lie
+S4 the kinds of neural networks used for machine learning have sometimes been used to understand brain function ( Hinton and Shallice , 1991 )	maSIna sIKane ke lie iswemAla hone vAle waMwrikA netavarka kaBI-kaBI brena PaMkSana (hiMtana Ora SAlsI, 1991) ko samaJane ke lie iswemAla
+NP5 the kinds of neural networks used for machine learning	maSIna sIKane ke lie iswemAla kie gae waMwrikA netavarka
+NP6 the kinds	waraha-waraha kI waraha
+NNS8 kinds	waraha-waraha kI waraha
+PP9 of neural networks used for machine learning	maSIna sIKane ke lie iswemAla kie gae waMwrikA netavarka ke
+NP11 neural networks used for machine learning	maSIna sIKane ke lie iswemAla huA waMwrikA netavarka
+NP12 neural networks	waMwrikA netavarka
+NNS14 networks	netavarka
+VP15_LWG used	iswemAla
+PP17 for machine learning	maSIna sIKane ke lie
+NP19 machine learning	maSIna sIKanA
+VP22_LWG have sometimes been used	kaBI kaBI iswemAla howA rahA hE
+ADVP24 sometimes	kaBI-kaBI
+S30 to understand brain function	brena PaMkSana ko samaJane ke lie
+VP31_LWG to understand	samaJane ke lie
+NP35 brain function	brena PaMkSana
+PRN38 ( Hinton and Shallice , 1991 )	(hiMtana Ora SAlsI, 1991)
+NP40 Hinton and Shallice	hiMtana Ora SAlsI
+CC42 and	Ora
+NNP41 Hinton	hiMtana
+NNP43 Shallice	SElIce
+,44 ,	,
+NP45 1991	1991
+,48 ,	,
+NP49 they	ve
+VP51_LWG are generally not designed	Ama wOra para dijAina nahIM howe
+ADVP53 generally	Ama wOra para
+S58 to be realistic models of biological function	jEvika samAroha ke yaWArWavAxI moYdala banane ke lie
+VP59_LWG to be	honA cAhie
+NP63 realistic models of biological function	jEvika samAroha ke yaWArWavAxI moYdala
+NP64 realistic models	yaWArWavAxI moYdala
+NNS66 models	moYdala
+PP67 of biological function	jEvika samAroha kA
+NP69 biological function	jEvika samAroha
+

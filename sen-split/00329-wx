@@ -1,0 +1,25 @@
+----
+00330	Modern deep learning draws inspiration from many elds, especially applied math fundamentals like linear algebra, probability, information theory, and numerical optimization.	 AXunika gahana SikRaNa kaI kRewroM , viSeRa rUpa se lAgU gaNiwa buniyAxI jEse rEKika bIjagaNiwa , saMBAvanA , sUcanA sixXAMwa , Ora saMKyAwmaka anukUlana se preraNA grahaNa karawA hE .		
+329	329
+S1 Modern deep learning draws inspiration from many elds , especially applied math fundamentals like linear algebra , probability , information theory , and numerical optimization .	AXunika gaharI sIKa kaI kRewroM se preraNA KIMcawI hE, KAsakara gaNiwa kattarapaMWI jEse lAinara bIjagaNiwa, saMBAvanA, sUcanA sixXAMwa, Ora aMka
+NP2 Modern deep learning	AXunika gaharI sIKa
+VP6_LWG draws especially applied	KIMcawA hE viSeRa rUpa se lAgU
+NP9 inspiration	preraNA
+PP11 from many elds	kaI kRewroM se
+NP13 many elds	kaI Kewa
+NNS15 elds	KewoM
+,16 ,	,
+ADVP17 especially	KAsakara
+NP21 math fundamentals	gaNiwa kattarapaMWI
+NNS23 fundamentals	mOlika
+PP24 like linear algebra , probability , information theory , and numerical optimization	jEse lAinara bIjagaNiwa, saMBAvanA, sUcanA sixXAMwa, Ora aMkagaNiwa parivarwana
+NP26 linear algebra , probability , information theory , and numerical optimization	laGu aMkagaNiwa, saMBAvanA, sUcanA sixXAMwa, Ora aMkagaNiwa parivarwana
+NP27 linear algebra	laGugaNiwa buxXijIvI
+,30 ,	,
+NP31 probability	saMBAvanA
+,33 ,	,
+NP34 information theory	jAnakArI sixXAMwa
+,37 ,	,
+CC38 and	Ora
+NP39 numerical optimization	aMkagaNiwa parivarwana
+

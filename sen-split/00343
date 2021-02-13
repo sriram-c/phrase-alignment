@@ -1,0 +1,24 @@
+----
+00344	The central idea in connectionism is that a large number of simple computational units can achieve intelligent behavior when networked together.	 कनेक्शनवाद में केंद्रीय विचार यह है कि सरल कम्प्यूटेशनल इकाइयों की एक बड़ी संख्या एक साथ नेटवर्क होने पर बुद्धिमान व्यवहार प्राप्त कर सकते हैं .		
+343	343
+S1 The central idea in connectionism is that a large number of simple computational units can achieve intelligent behavior when networked together .	संबंधवाद में केंद्रीय विचार यह है कि एक साथ नेटवर्क करने पर बड़ी संख्या में साधारण कंप्यूटर इकाइयां बुद्धिमान व्यवहार हासिल कर सकती हैं।
+NP2 The central idea in connectionism	संबंधवाद में केंद्रीय विचार
+NP3 The central idea	केंद्रीय विचार
+PP7 in connectionism	संबंधवाद में
+NP9 connectionism	कनेक्शनवाद
+VP11_LWG is	है।
+SBAR13 that a large number of simple computational units can achieve intelligent behavior when networked together	कि एक साथ नेटवर्क करने पर बड़ी संख्या में साधारण कंप्यूटरेशनल यूनिट्स बुद्धिमान व्यवहार हासिल कर सकती हैं
+S15 a large number of simple computational units can achieve intelligent behavior when networked together	एक साथ नेटवर्क करने पर बड़ी संख्या में साधारण कंप्यूटरेशनल यूनिट्स बुद्धिमान व्यवहार हासिल कर सकती हैं
+NP16 a large number of simple computational units	बड़ी संख्या में साधारण कंप्यूटरेशनल यूनिट
+NP17 a large number	बड़ी संख्या
+PP21 of simple computational units	साधारण कंप्यूटेशनल यूनिटों की
+NP23 simple computational units	साधारण कंप्यूटेशनल यूनिट
+NNS26 units	इकाइयां
+VP27_LWG can achieve	हासिल कर सकते हैं।
+NP31 intelligent behavior	बुद्धिमान व्यवहार
+SBAR34 when networked together	जब एक साथ नेटवर्क
+WHADVP35 when	कब
+S37 networked together	एक साथ नेटवर्क
+VP38_LWG networked together	एक साथ नेटवर्क
+ADVP40 together	एक साथ
+

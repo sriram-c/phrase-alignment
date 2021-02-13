@@ -1,0 +1,19 @@
+----
+200
+S1 Shaded_1 boxes_2 indicate_3 components_4 that_5 are_6 able_7 to_8 learn_9 from_10 data_11 ._12
+NP2 Shaded_1 boxes_2
+NNS4 boxes_2
+VP5_LWG indicate_3
+NP7 components_4 that_5 are_6 able_7 to_8 learn_9 from_10 data_11
+NP8 components_4
+NNS9 components_4
+SBAR10 that_5 are_6 able_7 to_8 learn_9 from_10 data_11
+WHNP11 that_5
+S13 are_6 able_7 to_8 learn_9 from_10 data_11
+VP14_LWG are_6
+ADJP16 able_7 to_8 learn_9 from_10 data_11
+S18 to_8 learn_9 from_10 data_11
+VP19_LWG to_8 learn_9
+PP23 from_10 data_11
+NP25 data_11
+NNS26 data_11

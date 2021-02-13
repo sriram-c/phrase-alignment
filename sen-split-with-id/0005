@@ -1,0 +1,24 @@
+----
+5
+S1 We_1 look_2 to_3 intelligent_4 software_5 to_6 automate_7 routine_8 labor_9 ,_10 understand_11 speech_12 or_13 images_14 ,_15 make_16 diagnoses_17 in_18 medicine_19 and_20 support_21 basic_22 scientiﬁc_23 research_24 ._25
+NP2 We_1
+VP4_LWG look_2
+PP6 to_3 intelligent_4 software_5
+NP8 intelligent_4 software_5
+S11 to_6 automate_7 routine_8 labor_9 ,_10 understand_11 speech_12 or_13 images_14 ,_15 make_16 diagnoses_17 in_18 medicine_19 and_20 support_21 basic_22 scientiﬁc_23 research_24
+VP12_LWG to_6 automate_7 understand_11 make_16 support_21
+NP17 routine_8 labor_9
+,20 ,_10
+NP23 speech_12 or_13 images_14
+CC25 or_25
+NN24 speech_12
+NNS26 images_14
+,27 ,_15
+NP30 diagnoses_17
+NNS31 diagnoses_17
+PP32 in_18 medicine_19
+NP34 medicine_19
+CC36 and_36
+VP28 make_16 diagnoses_17 in_18 medicine_19
+VP37 support_21 basic_22 scientiﬁc_23 research_24
+NP39 basic_22 scientiﬁc_23 research_24

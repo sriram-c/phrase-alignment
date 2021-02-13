@@ -1,0 +1,24 @@
+----
+0057	It is not surprising that the choice of representation has an enormous eﬀect on the performance of machine learning algorithms.	 यह आश्चर्य की बात नहीं है कि प्रतिनिधित्व के चयन मशीन सीखने एल्गोरिदम के प्रदर्शन पर एक विशाल प्रभाव है .		
+56	56
+S1 It is not surprising that the choice of representation has an enormous eﬀect on the performance of machine learning algorithms .	यह आश्चर्य की बात नहीं है कि प्रतिनिधित्व की पसंद का मशीन सीखने के एल्गोरिदम के प्रदर्शन पर भारी प्रभाव पड़ता है।
+NP2 It	यह
+VP4_LWG is not	नहीं है।
+ADJP7 surprising	हैरानी की बात
+SBAR9 that the choice of representation has an enormous eﬀect on the performance of machine learning algorithms	प्रतिनिधित्व की पसंद का मशीन सीखने के एल्गोरिदम के प्रदर्शन पर भारी असर पड़ता है
+S11 the choice of representation has an enormous eﬀect on the performance of machine learning algorithms	प्रतिनिधित्व की पसंद का मशीन सीखने के एल्गोरिदम के प्रदर्शन पर भारी असर पड़ता है
+NP12 the choice of representation	प्रतिनिधित्व की पसंद
+NP13 the choice	पसंद
+PP16 of representation	प्रतिनिधित्व का
+NP18 representation	प्रतिनिधित्व
+VP20_LWG has	उसके पास है।
+NP22 an enormous eﬀect on the performance of machine learning algorithms	मशीन सीखने के एल्गोरिदम के प्रदर्शन पर भारी असर
+NP23 an enormous eﬀect	एक बहुत बड़ा असर
+PP27 on the performance of machine learning algorithms	मशीन सीखने के एल्गोरिदम के प्रदर्शन पर
+NP29 the performance of machine learning algorithms	मशीन सीखने के एल्गोरिदम का प्रदर्शन
+NP30 the performance	प्रदर्शन
+PP33 of machine learning algorithms	मशीन सीखने के एल्गोरिदम
+NP35 machine learning algorithms	मशीन सीख रहे एल्गोरिदम
+NML36 machine learning	मशीन सीखना
+NNS39 algorithms	एल्गोरिदम
+

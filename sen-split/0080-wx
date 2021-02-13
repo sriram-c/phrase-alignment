@@ -1,0 +1,31 @@
+----
+0081	A representation learning algorithm can discover a good set of features for a simple task in minutes, or for a complex task in hours to months.	 eka prawiniXiwva sIKane elgoriWma minata meM eka sarala kArya ke lie suviXAoM kA eka acCA seta kA pawA lagA sakawe hEM , yA GaMte se mahInoM meM eka jatila kArya ke lie .		
+80	80
+S1 A representation learning algorithm can discover a good set of features for a simple task in minutes , or for a complex task in hours to months .	eka prawiniXiwva sIKane vAlA elgorixama minatoM meM eka sAXAraNa kArya ke lie viSeRawAoM ke eka acCe seta kI Koja kara sakawA hE, yA GaMtoM se mahIne meM eka ja
+NP2 A representation learning algorithm	eka prawiniXiwva sIKane vAlA elgorixama
+VP7_LWG can discover	Koja sakawe hEM
+NP11 a good set of features for a simple task in minutes , or for a complex task in hours	minatoM meM eka sAXAraNa kArya ke lie suviXAoM kA eka acCA seta, yA GaMtoM meM jatila kArya ke lie
+NP12 a good set	eka acCA seta
+PP16 of features for a simple task in minutes , or for a complex task in hours	minatoM meM eka sAXAraNa kArya ke lie suviXAoM kI, yA GaMtoM meM jatila kArya ke lie
+NP18 features for a simple task in minutes , or for a complex task in hours	minatoM meM eka sAXAraNa kArya ke lie suviXAeM, yA GaMtoM meM jatila kArya ke lie
+NP19 features	PIcarsa
+NNS20 features	PIcarsa
+PP21 for a simple task in minutes , or for a complex task in hours	minatoM meM eka sAXAraNa kArya ke lie, yA GaMtoM meM jatila kArya ke lie
+PP22 for a simple task in minutes	minatoM meM sAXAraNa kArya ke lie
+NP24 a simple task in minutes	minatoM meM eka sAXAraNa kArya
+NP25 a simple task	eka sAXAraNa kArya
+PP29 in minutes	minatoM meM
+NP31 minutes	minata
+NNS32 minutes	minata
+,33 ,	,
+CC34 or	yA
+PP35 for a complex task in hours	GaMtoM meM jatila kArya ke lie
+NP37 a complex task in hours	GaMtoM meM eka jatila kArya
+NP38 a complex task	eka jatila kArya
+PP42 in hours	GaMtoM meM
+NP44 hours	GaMte
+NNS45 hours	GaMte
+PP46 to months	mahInoM waka
+NP48 months	mahInoM
+NNS49 months	mahInoM
+

@@ -1,0 +1,15 @@
+----
+364
+S1 When_1 AI_2 research_3 did_4 not_5 fulﬁll_6 these_7 unreasonable_8 expectations_9 ,_10 investors_11 were_12 disappointed_13 ._14
+SBAR2 When_1 AI_2 research_3 did_4 not_5 fulﬁll_6 these_7 unreasonable_8 expectations_9
+WHADVP3 When_1
+S5 AI_2 research_3 did_4 not_5 fulﬁll_6 these_7 unreasonable_8 expectations_9
+NP6 AI_2 research_3
+VP9_LWG did_4 not_5 fulﬁll_6
+NP14 these_7 unreasonable_8 expectations_9
+NNS17 expectations_9
+,18 ,_10
+NP19 investors_11
+NNS20 investors_11
+VP21_LWG were_12
+ADJP23 disappointed_13

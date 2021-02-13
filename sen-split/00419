@@ -1,0 +1,31 @@
+----
+00420	The MNIST dataset consists of scans of handwritten digits and associated labels describing which digit 0–9 is contained in each image.	 MNIST डेटासेट में हस्तलिखित अंकों और संबद्ध लेबलों के स्कैन होते हैं , जिनमें यह वर्णन होता है कि प्रत्येक छवि में कौन सा अंक 0 - 9 निहित है ।		
+419	419
+S1 The MNIST dataset consists of scans of handwritten digits and associated labels describing which digit 0 – 9 is contained in each image .	मनिस्ट डाटाबेस में हाथ लिखित डिजिट के स्कैन होते हैं और इससे जुड़े लेबलों में बताया गया है कि प्रत्येक छवि में किस डिजिट 0- 9 समाहित है।
+NP2 The MNIST dataset	मनिस्ट का डेटाबेस
+VP6_LWG consists	शामिल
+PP8 of scans of handwritten digits and associated labels describing which digit 0 – 9 is contained in each image	हस्तलिखित डिजिटों के स्कैन और इससे जुड़े लेबलों का जिक्र करते हुए बताया गया है कि प्रत्येक छवि में किस डिजिट 0- 9 समाहित है
+NP10 scans of handwritten digits and associated labels describing which digit 0 – 9 is contained in each image	हस्तलिखित डिजिटों के स्कैन और जोड़े गए लेबलों का वर्णन करते हुए बताते हैं कि प्रत्येक छवि में किस डिजिट 0- 9 समाहित है
+NP11 scans of handwritten digits	हाथ लिखित डिजिट के स्कैन
+NP12 scans	स्कैन
+NNS13 scans	स्कैन
+PP14 of handwritten digits	हाथ लिखित अंकों की
+NP16 handwritten digits	हाथ से लिखित अंक
+NNS18 digits	डिजिट
+CC19 and	और
+NP20 associated labels describing which digit 0 – 9 is contained in each image	प्रत्येक छवि में किस अंकों 0- 9 को शामिल करते हैं इसका उल्लेख करने वाले संबंधित लेबल
+NP21 associated labels	जुड़े लेबल
+NNS23 labels	लेबल
+VP24_LWG describing	बताते हुए
+SBAR26 which digit 0 – 9 is contained in each image	प्रत्येक छवि में किस अंकों 0- 9 समाहित है
+WHNP27 which	जो कि
+S29 digit 0 – 9 is contained in each image	प्रत्येक छवि में डिजिट 0- 9 है समाहित
+NP30 digit 0 – 9	डिजिट 0- 9
+NP31 digit 0	डिजिट 0
+PP34 – 9	– 9
+SYM35 –	–
+NP36 9	9
+VP38_LWG is contained	समाहित है।
+PP42 in each image	प्रत्येक छवि में
+NP44 each image	प्रत्येक छवि
+

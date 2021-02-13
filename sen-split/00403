@@ -1,0 +1,16 @@
+----
+00404	M Rotated T vs. C T vs. G vs. F Criminals Canadian Hansard WMT Figure 1.8:
+###	
+403	403
+FRAG1 M Rotated T vs. C T vs. G vs. F Criminals Canadian Hansard WMT Figure 1.8 :	एम रोटेटेड टी बनाम सी टी बनाम जी बनाम एफ अपराधी कनाडाई हंसार्ड डब्ल्यूएमटी का आंकड़ा 1.8
+NP2 M Rotated T	एम रोटेटेड टी
+PP6 vs. C T vs. G vs. F Criminals Canadian Hansard WMT	बनाम सी टी बनाम जी बनाम एफ अपराधी कनाडाई हंसार्ड डब्ल्यूएमटी
+NP8 C T vs. G vs. F Criminals Canadian Hansard WMT	सी टी बनाम जी बनाम एफ अपराधी कनाडाई हंसार्ड डब्ल्यूएमटी
+NML9 C T vs. G vs. F Criminals Canadian	सी टी बनाम जी बनाम एफ अपराधी कनाडाई
+CC12 vs.	बनाम।
+NNP11 T	टी।
+NNP13 G	जी.
+CC14 vs.	बनाम।
+NNP15 F	एफ
+NP20 Figure 1.8	आंकड़ा 1.8
+

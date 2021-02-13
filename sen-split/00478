@@ -1,0 +1,21 @@
+----
+00479	Since then there has been a gradual increase in the size of images neural networks could process.	 तब से छवियों के आकार में धीरे धीरे वृद्धि हुई है तंत्रिका नेटवर्क प्रक्रिया कर सकता है .		
+478	478
+S1 Since then there has been a gradual increase in the size of images neural networks could process .	तब से छवियों तंत्रिका नेटवर्क के आकार में क्रमबद्ध वृद्धि हुई है।
+SBAR2 Since then there has been a gradual increase in the size of images	तब से छवियों के आकार में धीरे-धीरे इजाफा हुआ है
+S4 then there has been a gradual increase in the size of images	फिर छवियों के आकार में धीरे-धीरे इजाफा हुआ है
+ADVP5 then	फिर
+NP7 there	वहां
+VP9_LWG has been	रहा है।
+NP13 a gradual increase in the size of images	छवियों के आकार में धीरे-धीरे बढ़ोतरी
+NP14 a gradual increase	क्रमिक वृद्धि
+PP18 in the size of images	छवियों के आकार में
+NP20 the size of images	छवियों का आकार
+NP21 the size	आकार
+PP24 of images	छवियों की
+NP26 images	छवियां
+NNS27 images	छवियां
+NP28 neural networks	तंत्रिका नेटवर्क
+NNS30 networks	नेटवर्क
+VP31_LWG could process	प्रक्रिया कर सकते थे।
+

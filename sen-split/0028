@@ -1,0 +1,19 @@
+----
+0029	A computer can reason automatically about statements in these formal languages using logical inference rules.	 एक कंप्यूटर इन औपचारिक भाषाओं में तार्किक अनुमान नियमों का उपयोग करते हुए बयानों के बारे में स्वचालित रूप से कारण हो सकता है .		
+28	28
+S1 A computer can reason automatically about statements in these formal languages using logical inference rules .	एक कंप्यूटर तार्किक अनुपात नियमों का उपयोग करके इन औपचारिक भाषाओं में बयानों के बारे में स्वचालित तौर पर तर्क दे सकता है।
+NP2 A computer	एक कंप्यूटर
+VP5_LWG can reason automatically	स्वचालित तौर पर कर सकते हैं कारण
+ADVP9 automatically	स्वचालित रूप से
+PP11 about statements in these formal languages using logical inference rules	तार्किक अनुपात नियमों का उपयोग कर इन औपचारिक भाषाओं में बयान के बारे में
+NP13 statements in these formal languages using logical inference rules	तार्किक अनुपात नियमों का उपयोग कर इन औपचारिक भाषाओं में बयान
+NP14 statements	बयान
+NNS15 statements	बयान
+PP16 in these formal languages using logical inference rules	इन औपचारिक भाषाओं में तार्किक अनुपात नियमों का उपयोग कर
+NP18 these formal languages using logical inference rules	तार्किक अनुपात नियमों का उपयोग करते हुए ये औपचारिक भाषाएं
+NP19 these formal languages	ये औपचारिक भाषाएं
+NNS22 languages	भाषाएं
+VP23_LWG using	इस्तेमाल करना
+NP25 logical inference rules	तार्किक अनुपात के नियम
+NNS28 rules	नियम
+

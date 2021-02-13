@@ -1,0 +1,21 @@
+----
+0018	For example, IBM’s Deep Blue chess-playing system defeated world champion Garry Kasparov in 1997 (Hsu, 2002).	 उदाहरण के लिए , आईबीएम के डीप ब्लू शतरंज खेल प्रणाली ने 1997 में विश्व चैंपियन गैरी कास्पारोव को हराया ( हासु , 2002 )		
+17	17
+S1 For example , IBM ’s Deep Blue chess - playing system defeated world champion Garry Kasparov in 1997 ( Hsu , 2002 ) .	उदाहरण के लिए, आईबीएम की दीप ब्लू शतरंज- खेल प्रणाली ने विश्व चैंपियन गैरी केसरोव को 1997 में (हसु, 2002) से पराजित किया।
+PP2 For example	उदाहरण के लिए
+NP4 example	उदाहरण
+,6 ,	,
+NP7 IBM ’s Deep Blue chess - playing system	आईबीएम की गहरी नीली शतरंज- खेल प्रणाली
+NP8 IBM ’s Deep Blue	आईबीएम की डीप ब्लू
+NP13 chess - playing system	शतरंज- खेल प्रणाली
+VP18_LWG defeated	पराजित
+NP20 world champion Garry Kasparov in 1997	विश्व चैंपियन गैरी कापसराव ने 1997 में
+NP21 world champion Garry Kasparov	विश्व चैंपियन गैरी कापसराव
+NML22 world champion	विश्व चैंपियन
+PP27 in 1997	1997 में
+NP29 1997	1997
+PRN31 ( Hsu , 2002 )	(हसु, 2002)
+NP33 Hsu	हू।
+,35 ,	,
+NP36 2002	2002
+

@@ -1,0 +1,29 @@
+----
+00118	It is dicult for a computer to understand the meaning of raw sensory input data, such as this image represented as a collection of pixel values.	 eka kaMpyUtara ke lie kacce saMvexI inaputa detA ke arWa ko samaJanA kaTina howA hE , jEse ki yaha Cavi piksela mUlyoM ke saMgraha ke rUpa meM prawiniXiwva karawI hE .		
+117	117
+S1 It is dicult for a computer to understand the meaning of raw sensory input data , such as this image represented as a collection of pixel values .	kaMpyUtara ke lie kacce seMsara inaputa dAtA ke arWa ko samaJanA muSkila hE, jEse ki yaha Cavi piksala mUlyoM ke saMgraha ke rUpa meM xarSAyI gaI
+NP2 It	yaha
+VP4_LWG is	hE
+ADJP6 dicult for a computer	kaMpyUtara ke lie muSkila
+PP8 for a computer	eka kaMpyUtara ke lie
+NP10 a computer	eka kaMpyUtara
+S13 to understand the meaning of raw sensory input data	kacce seMsara inaputa dAtA ke arWa ko samaJane ke lie
+VP14_LWG to understand	samaJane ke lie
+NP18 the meaning of raw sensory input data	kacce seMsara inaputa dAtA kA arWa
+NP19 the meaning	mawalaba
+PP22 of raw sensory input data	kacce seMsara inaputa dAtA kA
+NP24 raw sensory input data	kaccA seMsara inaputa dAtA
+NML26 sensory input	seMsararI inaputa
+NNS29 data	detA
+,30 ,	,
+SBAR31 such as this image represented as a collection of pixel values	jEse ki yaha Cavi piksala mUlyoM ke saMgraha ke rUpa meM xarSAyI gaI
+S34 this image represented as a collection of pixel values	yaha Cavi piksala mUlyoM ke saMgraha ke rUpa meM xarSAyI gaI
+NP35 this image	yaha Cavi
+VP38_LWG represented	prawiniXiwva
+PP40 as a collection of pixel values	piksala mUlyoM ke saMgraha ke rUpa meM
+NP42 a collection of pixel values	piksala mUlyoM kA saMgraha
+NP43 a collection	eka saMgraha
+PP46 of pixel values	piksala mUlyoM kI
+NP48 pixel values	piksala ke mUlya
+NNS50 values	mUlyoM
+

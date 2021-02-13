@@ -1,0 +1,34 @@
+----
+0087	When designing features or algorithms for learning features, our goal is usually to separate the factors of variation that explain the observed data.	 जब विशेषताओं या एल्गोरिदम को सीखने के लिए डिजाइन किया जाता है , हमारा लक्ष्य आमतौर पर विभिन्नता के कारकों को अलग करने के लिए है कि मनाया डेटा की व्याख्या करते हैं .		
+86	86
+S1 When designing features or algorithms for learning features , our goal is usually to separate the factors of variation that explain the observed data .	जब सीखने के फीचर्स के लिए फीचर्स या एल्गोरिदम डिजाइन करना होता है तो हमारा लक्ष्य आमतौर पर उस विकृति के कारकों को अलग करना होता
+SBAR2 When designing features or algorithms for learning features	जब सीखने के फीचर्स के लिए फीचर्स या एल्गोरिदम डिजाइन
+WHADVP3 When	कब
+S5 designing features or algorithms for learning features	सीखने के फीचर्स के लिए डिजाइनिंग फीचर्स या एल्गोरिदम
+VP6_LWG designing	डिजाइनिंग
+NP8 features or algorithms	फीचर्स या एल्गोरिदम
+NNS9 features	फीचर्स
+CC10 or	या।
+NNS11 algorithms	एल्गोरिदम
+PP12 for learning features	सीखने के फीचर्स के लिए
+NP14 learning features	सीखने के फीचर्स
+NNS16 features	फीचर्स
+,17 ,	,
+NP18 our goal	हमारा लक्ष्य
+VP21_LWG is usually	आमतौर पर होता है
+ADVP23 usually	आमतौर पर
+S25 to separate the factors of variation that explain the observed data	विनिमय के कारकों को अलग करने के लिए जो निरीक्षित आंकड़ों की व्याख्या करता है
+VP26_LWG to separate	अलग करने के लिए
+NP30 the factors of variation that explain the observed data	विनिमय के कारक जो निरीक्षित आंकड़ों की व्याख्या करते हैं
+NP31 the factors	कारखाने
+NNS33 factors	कारखाने
+PP34 of variation that explain the observed data	विभाजन जो निरीक्षित आंकड़ों की व्याख्या करता है
+NP36 variation that explain the observed data	विनिमय जो निरीक्षित आंकड़ों की व्याख्या करता है
+NP37 variation	विविधता
+SBAR39 that explain the observed data	यह निरीक्षित आंकड़ों की व्याख्या
+WHNP40 that	वह
+S42 explain the observed data	अवलोकित आंकड़ों की व्याख्या करें
+VP43_LWG explain	समझाते हैं।
+NP45 the observed data	अवलोकित आंकड़े
+NNS48 data	डेटा
+

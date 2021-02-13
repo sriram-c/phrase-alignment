@@ -1,0 +1,22 @@
+----
+360
+S1 Hochreiter_1 and_2 Schmidhuber_3 (_4 1997_5 )_6 introduced_7 the_8 long_9 short_10 -_11 term_12 memory_13 (_14 LSTM_15 )_16 network_17 to_18 resolve_19 some_20 of_21 these_22 diﬃculties_23 ._24
+NP2 Hochreiter_1 and_2 Schmidhuber_3 (_4 1997_5 )_6
+CC4 and_4
+NNP3 Hochreiter_1
+NNP5 Schmidhuber_3
+PRN6 (_4 1997_5 )_6
+NP8 1997_5
+VP11_LWG introduced_7
+NP13 the_8 long_9 short_10 -_11 term_12 memory_13 (_14 LSTM_15 )_16 network_17
+NML16 short_10 -_11 term_12 memory_13 (_14 LSTM_15 )_16
+NML17 short_10 -_11 term_12
+PRN22 (_14 LSTM_15 )_16
+NP24 LSTM_15
+S28 to_18 resolve_19 some_20 of_21 these_22 diﬃculties_23
+VP29_LWG to_18 resolve_19
+NP33 some_20 of_21 these_22 diﬃculties_23
+NP34 some_20
+PP36 of_21 these_22 diﬃculties_23
+NP38 these_22 diﬃculties_23
+NNS40 diﬃculties_23

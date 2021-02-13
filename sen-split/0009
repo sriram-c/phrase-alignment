@@ -1,0 +1,14 @@
+----
+0010	This book is about a solution to these more intuitive problems.	 यह पुस्तक इन अधिक सहज समस्याओं के एक समाधान के बारे में है .		
+9	9
+S1 This book is about a solution to these more intuitive problems .	यह पुस्तक इन अधिक सहज समस्याओं के समाधान के बारे में है।
+NP2 This book	यह पुस्तक
+VP5_LWG is	है।
+PP7 about a solution to these more intuitive problems	इन अधिक सहज समस्याओं के समाधान के बारे में
+NP9 a solution to these more intuitive problems	इन अधिक सहज समस्याओं का समाधान
+NP10 a solution	एक समाधान
+PP13 to these more intuitive problems	इन और अधिक सहज समस्याओं के लिए
+NP15 these more intuitive problems	ये अधिक सहज समस्याएं
+ADJP17 more intuitive	अधिक सहज
+NNS20 problems	समस्याएं
+

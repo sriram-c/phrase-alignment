@@ -1,0 +1,32 @@
+----
+161
+S1 In_1 this_2 case_3 ,_4 the_5 depth_6 of_7 the_8 ﬂowchart_9 of_10 the_11 computations_12 needed_13 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20 may_21 be_22 much_23 deeper_24 than_25 the_26 graph_27 of_28 the_29 concepts_30 themselves_31 ._32
+PP2 In_1 this_2 case_3
+NP4 this_2 case_3
+,7 ,_4
+NP8 the_5 depth_6 of_7 the_8 ﬂowchart_9 of_10 the_11 computations_12 needed_13 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20
+NP9 the_5 depth_6
+PP12 of_7 the_8 ﬂowchart_9 of_10 the_11 computations_12 needed_13 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20
+NP14 the_8 ﬂowchart_9 of_10 the_11 computations_12 needed_13 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20
+NP15 the_8 ﬂowchart_9
+PP18 of_10 the_11 computations_12 needed_13 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20
+NP20 the_11 computations_12 needed_13 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20
+NP21 the_11 computations_12
+NNS23 computations_12
+VP24_LWG needed_13
+S26 to_14 compute_15 the_16 representation_17 of_18 each_19 concept_20
+VP27_LWG to_14 compute_15
+NP31 the_16 representation_17 of_18 each_19 concept_20
+NP32 the_16 representation_17
+PP35 of_18 each_19 concept_20
+NP37 each_19 concept_20
+VP40_LWG may_21 be_22
+ADJP44 much_23 deeper_24 than_25 the_26 graph_27 of_28 the_29 concepts_30
+ADJP45 much_23 deeper_24
+PP48 than_25 the_26 graph_27 of_28 the_29 concepts_30
+NP50 the_26 graph_27 of_28 the_29 concepts_30
+NP51 the_26 graph_27
+PP54 of_28 the_29 concepts_30
+NP56 the_29 concepts_30
+NNS58 concepts_30
+NP59 themselves_31

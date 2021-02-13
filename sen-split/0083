@@ -1,0 +1,35 @@
+----
+0084	An autoencoder is the combination of an encoder function, which converts the input data into a diﬀerent representation, and a decoder function, which converts the new representation back into the original format.	 एक स्वचलितकोडक , एक एनकोडर फलन का संयोजन है , जो इनपुट डेटा को भिन्न प्रतिनिधित्व में बदलता है , और एक डीकोडर फलन है , जो नए अभ्यावेदन को वापस मूल प्रारूप में बदलता है .		
+83	83
+S1 An autoencoder is the combination of an encoder function , which converts the input data into a diﬀerent representation , and a decoder function , which converts the new representation back into the original format .	एक ऑटोनकोडर एक एन्कोलेटर फंक्शन का संयोजन होता है, जो इनपुट डेटा को अलग रिप्रेशन में बदल देता है, और एक डिकोडर फंक्शन में बदल देता है, जो
+NP2 An autoencoder	एक ऑटोनकोडर
+VP5_LWG is	है।
+NP7 the combination of an encoder function , which converts the input data into a diﬀerent representation , and a decoder function , which converts the new representation back into the original format	एक एन्कोलेटर फंक्शन का संयोजन, जो इनपुट डेटा को एक अलग प्रतिनिधित्व में परिवर्तित करता है, और एक डिकोडर फंक्शन में परिवर्तित करता है, जो नए
+NP8 the combination of an encoder function , which converts the input data into a diﬀerent representation	एक एन्कोलेटर फंक्शन का संयोजन, जो इनपुट डाटा को अलग प्रतिनिधित्व में परिवर्तित करता है
+NP9 the combination	संयोजन
+PP12 of an encoder function , which converts the input data into a diﬀerent representation	एक एन्कोडेंट फंक्शन का, जो इनपुट डाटा को अलग प्रतिनिधित्व में परिवर्तित करता है
+NP14 an encoder function , which converts the input data into a diﬀerent representation	एक एन्कोडेंट फंक्शन, जो इनपुट डाटा को अलग प्रतिनिधित्व में परिवर्तित करता है
+NP15 an encoder function	एक एन्कोडर फंक्शन
+,19 ,	,
+SBAR20 which converts the input data into a diﬀerent representation	जो इनपुट डाटा को अलग प्रतिनिधित्व में परिवर्तित करता है
+WHNP21 which	जो कि
+S23 converts the input data into a diﬀerent representation	इनपुट डाटा को अलग प्रतिनिधित्व में परिवर्तित करता है
+VP24_LWG converts	परिवर्तन करता है
+NP26 the input data	इनपुट डाटा
+NNS29 data	डेटा
+PP30 into a diﬀerent representation	एक अलग प्रतिनिधित्व में
+NP32 a diﬀerent representation	एक अलग प्रतिनिधित्व
+,36 ,	,
+CC37 and	और
+NP38 a decoder function , which converts the new representation back into the original format	एक डिकोडर फंक्शन, जो नए प्रतिनिधित्व को वापस मूल प्रारूप में परिवर्तित करता है
+NP39 a decoder function	एक डिकोडर फंक्शन
+,43 ,	,
+SBAR44 which converts the new representation back into the original format	जो नए प्रतिनिधित्व को मूल प्रारूप में वापस परिवर्तित करता है
+WHNP45 which	जो कि
+S47 converts the new representation back into the original format	नए प्रतिनिधित्व को वापस मूल प्रारूप में परिवर्तित करता है
+VP48_LWG converts back	वापस परिवर्तन करता है
+NP50 the new representation	नया प्रतिनिधित्व
+ADVP54 back into the original format	मूल प्रारूप में वापस
+PP56 into the original format	मूल प्रारूप में
+NP58 the original format	मूल प्रारूप
+

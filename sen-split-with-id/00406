@@ -1,0 +1,70 @@
+----
+406
+S1 In_1 the_2 1950s_3 through_4 the_5 1980s_6 ,_7 the_8 pioneers_9 of_10 biologically_11 inspired_12 machine_13 learning_14 often_15 worked_16 with_17 small_18 synthetic_19 datasets_20 ,_21 such_22 as_23 low_24 -_25 resolution_26 bitmaps_27 of_28 letters_29 ,_30 that_31 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64 ._65
+PP2 In_1 the_2 1950s_3 through_4 the_5 1980s_6
+NP4 the_2 1950s_3 through_4 the_5 1980s_6
+NP5 the_2 1950s_3
+NNS7 1950s_3
+PP8 through_4 the_5 1980s_6
+NP10 the_5 1980s_6
+NNS12 1980s_6
+,13 ,_7
+NP14 the_8 pioneers_9 of_10 biologically_11 inspired_12 machine_13 learning_14
+NP15 the_8 pioneers_9
+NNS17 pioneers_9
+PP18 of_10 biologically_11 inspired_12 machine_13 learning_14
+NP20 biologically_11 inspired_12 machine_13 learning_14
+ADJP21 biologically_11 inspired_12
+ADVP26 often_15
+VP28_LWG worked_16
+PP30 with_17 small_18 synthetic_19 datasets_20 ,_21 such_22 as_23 low_24 -_25 resolution_26 bitmaps_27 of_28 letters_29 ,_30 that_31 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+NP32 small_18 synthetic_19 datasets_20 ,_21 such_22 as_23 low_24 -_25 resolution_26 bitmaps_27 of_28 letters_29 ,_30 that_31 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+NP33 small_18 synthetic_19 datasets_20
+NNS36 datasets_20
+,37 ,_21
+PP38 such_22 as_23 low_24 -_25 resolution_26 bitmaps_27 of_28 letters_29 ,_30 that_31 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+NP41 low_24 -_25 resolution_26 bitmaps_27 of_28 letters_29 ,_30 that_31 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+NP42 low_24 -_25 resolution_26 bitmaps_27 of_28 letters_29
+NP43 low_24 -_25 resolution_26 bitmaps_27
+NML44 low_24 -_25 resolution_26
+NNS48 bitmaps_27
+PP49 of_28 letters_29
+NP51 letters_29
+NNS52 letters_29
+,53 ,_30
+SBAR54 that_31 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+WHNP55 that_31
+S57 were_32 designed_33 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+VP58_LWG were_32 designed_33
+S62 to_34 incur_35 low_36 computational_37 cost_38 and_39 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51
+VP63_LWG to_34 incur_35 demonstrate_40
+NP68 low_36 computational_37 cost_38
+CC72 and_72
+VP66 incur_35 low_36 computational_37 cost_38
+VP73 demonstrate_40 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51
+SBAR75 that_41 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51
+S77 neural_42 networks_43 were_44 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51
+NP78 neural_42 networks_43
+NNS80 networks_43
+VP81_LWG were_44
+ADJP83 able_45 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51
+S85 to_46 learn_47 speciﬁc_48 kinds_49 of_50 functions_51
+VP86_LWG to_46 learn_47
+NP90 speciﬁc_48 kinds_49 of_50 functions_51
+NP91 speciﬁc_48 kinds_49
+NNS93 kinds_49
+PP94 of_50 functions_51
+NP96 functions_51
+NNS97 functions_51
+PRN98 (_52 Widrow_53 and_54 Hoﬀ_55 ,_56 1960_57 ;_58 Rumelhart_59 et_60 al._61 ,_62 1986b_63 )_64
+NP100 Widrow_53 and_54 Hoﬀ_55
+CC102 and_102
+NNP101 Widrow_53
+NNP103 Hoﬀ_55
+,104 ,_56
+NP105 1960_57
+FRAG108 Rumelhart_59 et_60 al._61 ,_62 1986b_63
+NP109 Rumelhart_59 et_60 al._61
+ADVP111 et_60 al._61
+,114 ,_62
+NP115 1986b_63

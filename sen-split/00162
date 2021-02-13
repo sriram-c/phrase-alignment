@@ -1,0 +1,22 @@
+----
+00163	This is because the system’s understanding of the simpler concepts can be reﬁned given information about the more complex concepts.	 इसका कारण यह है कि प्रणाली की सरल अवधारणाओं की समझ को अधिक जटिल अवधारणाओं के बारे में जानकारी देकर परिष्कृत किया जा सकता है ।		
+162	162
+S1 This is because the system ’s understanding of the simpler concepts can be reﬁned given information about the more complex concepts .	ऐसा इसलिए है क्योंकि सिस्टम की साधारण अवधाराओं की समझ को अधिक जटिल अवधारिताओं के बारे में जानकारी दी जा सकती है।
+NP2 This	यह
+VP4_LWG is	है।
+SBAR6 because the system ’s understanding of the simpler concepts can be reﬁned given information about the more complex concepts	क्योंकि सरल अवधाराओं की व्यवस्था की समझ को अधिक जटिल अवधाराओं के बारे में दिए जा सकते हैं परिष्कृत किया जा सकता है
+S8 the system ’s understanding of the simpler concepts can be reﬁned given information about the more complex concepts	सरल अवधाराओं की प्रणाली की समझ को अधिक जटिल अवधाराओं के बारे में दिए जा सकते हैं परिष्कृत किया जा सकता है
+NP9 the system ’s understanding of the simpler concepts	सिस्टम की साधारण अवधाराओं की समझ
+NP10 the system ’s understanding	सिस्टम की समझ
+PP15 of the simpler concepts	सरल अवधाराओं की
+NP17 the simpler concepts	सरल अवधारणाएँ
+NNS20 concepts	अवधारणाएँ
+VP21_LWG can be reﬁned	परिष्कृत किया जा सकता है
+PP27 given information about the more complex concepts	अधिक जटिल अवधाराओं के बारे में जानकारी दी
+NP29 information about the more complex concepts	अधिक जटिल अवधाराओं के बारे में जानकारी
+NP30 information	जानकारी
+PP32 about the more complex concepts	अधिक जटिल अवधाराओं के बारे में
+NP34 the more complex concepts	अधिक जटिल अवधारणा
+ADJP36 more complex	अधिक जटिल
+NNS39 concepts	अवधारणाएँ
+

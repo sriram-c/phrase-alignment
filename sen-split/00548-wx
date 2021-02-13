@@ -1,0 +1,32 @@
+----
+00549	Previously, it was widely believed that this kind of learning required labeling of the individual elements of the sequence (Glehre and Bengio, 2013).	 pahale , yaha vyApaka rUpa se mAnA jAwA WA ki isa waraha ke sIKane ke lie anukrama ke vyakwigawa wawvoM kI lebaliMga kI AvaSyakawA howI hE ( Glhre Ora beMjiyo , 2013 )		
+548	548
+S1 Previously , it was widely believed that this kind of learning required labeling of the individual elements of the sequence ( Glehre and Bengio , 2013 ) .	pahale yaha mAnA jA rahA WA ki isa waraha kI sIKa ko krama ke vyakwigawa wawvoM (gulacehare Ora beMgiyo, 2013) ke lebalAijiMga kI AvaSyakawA howI hE
+ADVP2 Previously	pahale kI bAwa
+,4 ,	,
+NP5 it	yaha
+VP7_LWG was widely believed	badZe pEmAne para mAnA jAwA WA
+ADVP9 widely	vyApaka rUpa se
+SBAR13 that this kind of learning required labeling of the individual elements of the sequence	ki isa waraha kI sIKa ko anukrama ke vyakwigawa wawvoM kA lebalAija karane kI AvaSyakawA
+S15 this kind of learning required labeling of the individual elements of the sequence	isa waraha kI sIKa ko anukrama ke vyakwigawa wawvoM kA lebalAija karane kI AvaSyakawA
+NP16 this kind of learning	isa waraha kI sIKa
+NP17 this kind	isa waraha kA
+PP20 of learning	sIKane kI
+NP22 learning	sIKanA
+VP24_LWG required	AvaSyaka
+NP26 labeling of the individual elements of the sequence	anukrama ke vyakwigawa wawvoM kA lebalAijiMga
+NP27 labeling	lebaliMga
+PP29 of the individual elements of the sequence	anukrama ke vyakwigawa wawvoM kA
+NP31 the individual elements of the sequence	krama ke vyakwigawa wawva
+NP32 the individual elements	vyakwigawa wawva
+NNS35 elements	wawva
+PP36 of the sequence	krama kA
+NP38 the sequence	kramAMka
+PRN41 ( Glehre and Bengio , 2013 )	(gulacehare Ora beMgiyo, 2013)
+NP43 Glehre and Bengio	gulacehare Ora beMgiyo
+CC45 and	Ora
+NNP44 Glehre	gulacehare
+NNP46 Bengio	beMgIo
+,47 ,	,
+NP48 2013	2013
+

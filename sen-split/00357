@@ -1,0 +1,20 @@
+----
+00358	During the 1990s, researchers made important advances in modeling sequences with neural networks.	 1990 के दशक के दौरान , शोधकर्ताओं ने तंत्रिका नेटवर्क के साथ मॉडलिंग अनुक्रम में महत्वपूर्ण प्रगति की .		
+357	357
+S1 During the 1990s , researchers made important advances in modeling sequences with neural networks .	1990 के दशक के दौरान शोधकर्ताओं ने तंत्रिका नेटवर्क के साथ मॉडलिंग सीक्वेंस में अहम अग्रिम प्रगति की।
+PP2 During the 1990s	1990 के दशक के दौरान
+NP4 the 1990s	1990 के दशक
+NNS6 1990s	1990 के दशक
+,7 ,	,
+NP8 researchers	शोधकर्ताओं
+NNS9 researchers	शोधकर्ताओं
+VP10_LWG made	बनाया गया
+NP12 important advances	महत्वपूर्ण अग्रिम
+NNS14 advances	एडवांस
+PP15 in modeling sequences	मॉडलिंग सीक्वेंस में
+NP17 modeling sequences	मॉडलिंग सीक्वेंस
+NNS19 sequences	दृश्य
+PP20 with neural networks	तंत्रिका नेटवर्क के साथ
+NP22 neural networks	तंत्रिका नेटवर्क
+NNS24 networks	नेटवर्क
+

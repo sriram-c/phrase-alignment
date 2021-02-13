@@ -1,0 +1,50 @@
+----
+00270	INTRODUCTION perspective is that it would be deeply interesting to understand the brain and the principles that underlie human intelligence, so machine learning models that shed light on these basic scientiﬁc questions are useful apart from their ability to solve engineering applications.	 अंतःविषय परिप्रेक्ष्य यह है कि मस्तिष्क और उन सिद्धांतों को समझना बहुत दिलचस्प होगा जो मानव बुद्धि को कमजोर करते हैं , इसलिए मशीनी शिक्षण मॉडल जो इन बुनियादी वैज्ञानिक प्रश्नों पर प्रकाश डालते हैं , इंजीनियरिंग अनुप्रयोगों को हल करने की उनकी क्षमता के अलावा उपयोगी हैं .		
+269	269
+S1 INTRODUCTION perspective is that it would be deeply interesting to understand the brain and the principles that underlie human intelligence , so machine learning models that shed light on these basic scientiﬁc questions are useful apart from their ability to solve engineering applications .	परिचय परिप्रेक्ष्य यह है कि मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांतों को समझना गहरा दिलचस्प होगा, इसलिए इन बुनियादी वैज्ञानिक प्रश्नों पर
+S2 INTRODUCTION perspective is that it would be deeply interesting to understand the brain and the principles that underlie human intelligence	परिचय परिप्रेक्ष्य यह है कि मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांतों को समझना गहरा दिलचस्प होगा
+NP3 INTRODUCTION perspective	परिचय परिप्रेक्ष्य
+VP6_LWG is	है।
+SBAR8 that it would be deeply interesting to understand the brain and the principles that underlie human intelligence	यह मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांतों को समझना बहुत दिलचस्प होगा
+S10 it would be deeply interesting to understand the brain and the principles that underlie human intelligence	मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांतों को समझना बहुत दिलचस्प होगा
+NP11 it	यह
+VP13_LWG would be	होता.
+ADJP17 deeply interesting to understand the brain and the principles that underlie human intelligence	मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांतों को समझना गहरा दिलचस्प
+S20 to understand the brain and the principles that underlie human intelligence	मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांतों को समझने के लिए
+VP21_LWG to understand	समझने के लिए।
+NP25 the brain and the principles that underlie human intelligence	मस्तिष्क और मानव बुद्धि को कमजोर करने वाले सिद्धांत
+NP26 the brain and the principles	मस्तिष्क और सिद्धांत
+NP27 the brain	मस्तिष्क
+CC30 and	और
+NP31 the principles	सिद्धांत
+NNS33 principles	सिद्धांत
+SBAR34 that underlie human intelligence	वह मानव बुद्धि का अंडरली
+WHNP35 that	वह
+S37 underlie human intelligence	मानव बुद्धिमत्ता को अंडर लीजिए
+VP38_LWG underlie	अंडरली
+NP40 human intelligence	मानव बुद्धि
+,43 ,	,
+CC44 so	ऐसे में
+S45 machine learning models that shed light on these basic scientiﬁc questions are useful apart from their ability to solve engineering applications	इन बुनियादी वैज्ञानिक प्रश्नों पर प्रकाश डालने वाले मशीन सीखने वाले मॉडल इंजीनियरिंग आवेदनों के समाधान की उनकी क्षमता के अलावा उपयोगी हैं
+NP46 machine learning models that shed light on these basic scientiﬁc questions	इन बुनियादी वैज्ञानिक सवालों पर प्रकाश डालने वाले मशीन सीखने वाले मॉडल
+NP47 machine learning models	मशीन सीखने के मॉडल
+NML48 machine learning	मशीन सीखना
+NNS51 models	मॉडल
+SBAR52 that shed light on these basic scientiﬁc questions	इन बुनियादी वैज्ञानिक प्रश्नों पर प्रकाश डाला
+WHNP53 that	वह
+S55 shed light on these basic scientiﬁc questions	इन बुनियादी वैज्ञानिक सवालों पर प्रकाश डाला
+VP56_LWG shed	शेड
+NP58 light	प्रकाश
+PP60 on these basic scientiﬁc questions	इन बुनियादी वैज्ञानिक प्रश्नों पर
+NP62 these basic scientiﬁc questions	ये मूल वैज्ञानिक प्रश्न
+NNS66 questions	सवाल
+VP67_LWG are	हैं।
+ADJP69 useful apart from their ability to solve engineering applications	इंजीनियरिंग आवेदनों के समाधान की उनकी क्षमता के अलावा उपयोगी
+PP71 apart from their ability to solve engineering applications	इंजीनियरिंग आवेदनों के समाधान की उनकी क्षमता के अलावा
+ADVP72 apart	अलग
+NP75 their ability to solve engineering applications	इंजीनियरिंग आवेदनों के समाधान की उनकी क्षमता
+S78 to solve engineering applications	इंजीनियरिंग आवेदनों के समाधान के लिए
+VP79_LWG to solve	हल करने के लिए
+NP83 engineering applications	इंजीनियरिंग के आवेदन
+NNS85 applications	आवेदन
+

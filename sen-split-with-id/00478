@@ -1,0 +1,19 @@
+----
+478
+S1 Since_1 then_2 there_3 has_4 been_5 a_6 gradual_7 increase_8 in_9 the_10 size_11 of_12 images_13 neural_14 networks_15 could_16 process_17 ._18
+SBAR2 Since_1 then_2 there_3 has_4 been_5 a_6 gradual_7 increase_8 in_9 the_10 size_11 of_12 images_13
+S4 then_2 there_3 has_4 been_5 a_6 gradual_7 increase_8 in_9 the_10 size_11 of_12 images_13
+ADVP5 then_2
+NP7 there_3
+VP9_LWG has_4 been_5
+NP13 a_6 gradual_7 increase_8 in_9 the_10 size_11 of_12 images_13
+NP14 a_6 gradual_7 increase_8
+PP18 in_9 the_10 size_11 of_12 images_13
+NP20 the_10 size_11 of_12 images_13
+NP21 the_10 size_11
+PP24 of_12 images_13
+NP26 images_13
+NNS27 images_13
+NP28 neural_14 networks_15
+NNS30 networks_15
+VP31_LWG could_16 process_17

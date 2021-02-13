@@ -1,0 +1,51 @@
+----
+413
+S1 At_1 the_2 top_3 of_4 the_5 graph_6 ,_7 we_8 see_9 that_10 datasets_11 of_12 translated_13 sentences_14 ,_15 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45 ,_46 are_47 typically_48 far_49 ahead_50 of_51 other_52 dataset_53 sizes_54 ._55
+PP2 At_1 the_2 top_3 of_4 the_5 graph_6
+NP4 the_2 top_3 of_4 the_5 graph_6
+NP5 the_2 top_3
+PP8 of_4 the_5 graph_6
+NP10 the_5 graph_6
+,13 ,_7
+NP14 we_8
+VP16_LWG see_9
+SBAR18 that_10 datasets_11 of_12 translated_13 sentences_14 ,_15 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45 ,_46 are_47 typically_48 far_49 ahead_50 of_51 other_52 dataset_53 sizes_54
+S20 datasets_11 of_12 translated_13 sentences_14 ,_15 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45 ,_46 are_47 typically_48 far_49 ahead_50 of_51 other_52 dataset_53 sizes_54
+NP21 datasets_11 of_12 translated_13 sentences_14 ,_15 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45
+NP22 datasets_11
+NNS23 datasets_11
+PP24 of_12 translated_13 sentences_14 ,_15 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45
+NP26 translated_13 sentences_14 ,_15 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45
+NP27 translated_13 sentences_14
+NNS29 sentences_14
+,30 ,_15
+PP31 such_16 as_17 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45
+NP34 IBM_18 ’s_19 dataset_20 constructed_21 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37 to_38 French_39 dataset_40 (_41 Schwenk_42 ,_43 2014_44 )_45
+NP35 IBM_18 ’s_19 dataset_20
+VP39_LWG constructed_21
+PP41 from_22 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37
+NP43 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32 and_33 the_34 WMT_35 2014_36 English_37
+NP44 the_23 Canadian_24 Hansard_25 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32
+PRN48 (_26 Brown_27 et_28 al._29 ,_30 1990_31 )_32
+NP50 Brown_27 et_28 al._29 ,_30 1990_31
+NP51 Brown_27 et_28 al._29
+NP52 Brown_27
+ADVP54 et_28 al._29
+,57 ,_30
+NP58 1990_31
+CC61 and_61
+NP62 the_34 WMT_35 2014_36 English_37
+PP67 to_38 French_39 dataset_40
+NP69 French_39 dataset_40
+PRN72 (_41 Schwenk_42 ,_43 2014_44 )_45
+NP74 Schwenk_42
+,76 ,_43
+NP77 2014_44
+,80 ,_46
+VP81_LWG are_47 typically_48 far_49
+ADVP83 typically_48
+ADVP85 far_49 ahead_50 of_51 other_52 dataset_53 sizes_54
+ADVP86 far_49 ahead_50
+PP89 of_51 other_52 dataset_53 sizes_54
+NP91 other_52 dataset_53 sizes_54
+NNS94 sizes_54

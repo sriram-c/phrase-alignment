@@ -1,0 +1,30 @@
+----
+00353	One way to improve on this situation is to use a distributed representation, with three neurons describing the color and three neurons describing the object identity.	 isa sWiwi meM suXAra karane kA eka warIkA hE eka viwariwa prawiniXiwva kA upayoga karanA , jisameM wIna nyUroYnsa raMga kA varNana karawe hEM Ora wIna nyUroYnsa vaswu pahacAna kA varNana karawe hEM .		
+352	352
+S1 One way to improve on this situation is to use a distributed representation , with three neurons describing the color and three neurons describing the object identity .	isa sWiwi para suXAra kA eka warIkA viwariwa prawiniXiwva kA upayoga karanA hE, jisameM raMga kA varNana karane vAle wIna nyUro Ora vaswu pahacAna kA ulleKa karawe hue
+NP2 One way to improve on this situation	isa sWiwi para suXAra kA eka warIkA
+NP3 One way	eka waraha se
+SBAR6 to improve on this situation	isa sWiwi ko behawara banAne ke lie
+S7 to improve on this situation	isa sWiwi ko behawara banAne ke lie
+VP8_LWG to improve	suXAra karane ke lie
+PP12 on this situation	isa sWiwi para
+NP14 this situation	yaha sWiwi
+VP17_LWG is	hE
+S19 to use a distributed representation , with three neurons describing the color and three neurons describing the object identity	eka viwariwa prawiniXiwva kA upayoga karane ke lie, raMga kA varNana karane vAle wIna nyUro Ora vaswu pahacAna ke bAre meM bawAne vAle wIna nyUro ke sAWa
+VP20_LWG to use	iswemAla ke lie
+NP24 a distributed representation	eka viwariwa prawiniXiwva
+,28 ,	,
+PP29 with three neurons describing the color and three neurons describing the object identity	wIna nyUrona ke sAWa raMga Ora vaswu pahacAna ke bAre meM bawAe gae wIna nyUrona
+NP31 three neurons describing the color and three neurons describing the object identity	wIna nyUrona xvArA raMga Ora vaswu pahacAna kA ulleKa karawe hue wIna nyUrona
+NP32 three neurons	wIna nyUrona
+NNS34 neurons	nyUrona
+VP35_LWG describing	bawAwe hue
+NP37 the color and three neurons	raMga Ora wIna nyUrona
+NP38 the color	raMga
+CC41 and	Ora
+NP42 three neurons	wIna nyUrona
+NNS44 neurons	nyUrona
+S45 describing the object identity	vaswu pahacAna kA jikra karawe hue
+VP46_LWG describing	bawAwe hue
+NP48 the object identity	vaswu pahacAna
+

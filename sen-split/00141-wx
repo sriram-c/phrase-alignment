@@ -1,0 +1,35 @@
+----
+00142	We can think of this as the length of the longest path through a ow chart that describes how to compute each of the models outputs given its inputs.	 hama isake bAre meM eka pravAha cArta ke mAXyama se sabase laMbe paWa kI laMbAI ke rUpa meM soca sakawe hEM jo yaha varNana karawA hE ki kEse prawyeka moYdala ke Autaputa apane inaputa xiyA kI gaNanA karane ke lie .		
+141	141
+S1 We can think of this as the length of the longest path through a ow chart that describes how to compute each of the model s outputs given its inputs .	hama isake bAre meM pravAha cArta ke mAXyama se sabase laMbe mArga kI laMbAI ke rUpa meM soca sakawe hEM jisameM varNana kiyA gayA hE ki isake inaputa ke
+NP2 We	hama
+VP4_LWG can think	soca sakawe hEM
+PP8 of this as the length of the longest path	isakI laMbAI sabase laMbI rAha ke rUpa meM
+NP10 this as the length of the longest path	yaha sabase laMbe mArga kI laMbAI ke rUpa meM
+NP11 this	yaha
+PP13 as the length of the longest path	sabase laMbe mArga kI laMbAI ke rUpa meM
+NP15 the length of the longest path	sabase laMbe mArga kI laMbAI
+NP16 the length	laMbAI
+PP19 of the longest path	sabase laMbe rAswe kA
+NP21 the longest path	sabase laMbA rAswA
+PP25 through a ow chart that describes how to compute each of the model s outputs given its inputs	eka pravAha cArta ke mAXyama se yaha varNana karawA hE ki isake inaputa ke xie gae moYdala ke prawyeka Autaputa ko kEse kampyUta karanA hE
+NP27 a ow chart that describes how to compute each of the model s outputs given its inputs	eka pravAha cArta jisameM varNana kiyA gayA hE ki isake inaputa ke xie gae moYdala ke prawyeka Autaputa ko kEse kampyUta kiyA jAe
+NP28 a ow chart	eka pravAha cArta
+SBAR32 that describes how to compute each of the model s outputs given its inputs	yaha bawAwA hE ki isake inaputa ke xie gae moYdala ke prawyeka Autaputa ko kEse kampyUta karanA hE
+WHNP33 that	vaha
+S35 describes how to compute each of the model s outputs given its inputs	varNana karawA hE ki isake inaputa xie gae moYdala ke prawyeka Autaputa kA kEse kareM gaNanA
+VP36_LWG describes	varNana
+SBAR38 how to compute each of the model s outputs given its inputs	isake inaputa xie gae moYdala ke prawyeka Autaputa kA gaNanA kEse kareM
+WHADVP39 how	kEse
+S41 to compute each of the model s outputs given its inputs	apane inaputa xie gae moYdala ke prawyeka Autaputa kA kaMpyUtara karane ke lie
+VP42_LWG to compute	gaNanA karane ke lie
+NP46 each of the model s outputs given its inputs	moYdala ke prawyeka Autaputa ne apane inaputa xie
+NP47 each	prawyeka
+PP49 of the model s outputs given its inputs	moYdala ke Autaputa ne apane inaputa xie
+NP51 the model s outputs given its inputs	moYdala ke Autaputa ne apane inaputa xie
+NP52 the model s outputs	moYdala kA Autaputa
+NNS56 outputs	Autaputa
+VP57_LWG given	xiyA gayA
+NP59 its inputs	isake inaputa
+NNS61 inputs	inaputa
+

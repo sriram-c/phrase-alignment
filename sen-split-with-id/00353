@@ -1,0 +1,49 @@
+----
+353
+S1 This_1 requires_2 only_3 six_4 neurons_5 total_6 instead_7 of_8 nine_9 ,_10 and_11 the_12 neuron_13 describing_14 redness_15 is_16 able_17 to_18 learn_19 about_20 redness_21 from_22 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29 ,_30 not_31 just_32 from_33 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40 ._41
+S2 This_1 requires_2 only_3 six_4 neurons_5 total_6 instead_7 of_8 nine_9
+NP3 This_1
+VP5_LWG requires_2
+NP7 only_3 six_4 neurons_5 total_6 instead_7 of_8 nine_9
+NP8 only_3 six_4 neurons_5 total_6
+QP9 only_3 six_4
+NNS12 neurons_5
+PP14 instead_7 of_8 nine_9
+NP17 nine_9
+,19 ,_10
+CC20 and_20
+S21 the_12 neuron_13 describing_14 redness_15 is_16 able_17 to_18 learn_19 about_20 redness_21 from_22 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29 ,_30 not_31 just_32 from_33 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+NP22 the_12 neuron_13 describing_14 redness_15
+NP23 the_12 neuron_13
+VP26_LWG describing_14
+NP28 redness_15
+VP30_LWG is_16
+ADJP32 able_17 to_18 learn_19 about_20 redness_21 from_22 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29 ,_30 not_31 just_32 from_33 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+S34 to_18 learn_19 about_20 redness_21 from_22 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29 ,_30 not_31 just_32 from_33 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+VP35_LWG to_18 learn_19
+PP39 about_20 redness_21
+NP41 redness_21
+PP43 from_22 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29 ,_30 not_31 just_32 from_33 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+PP44 from_22 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29
+NP46 images_23 of_24 cars_25 ,_26 trucks_27 and_28 birds_29
+NP47 images_23
+NNS48 images_23
+PP49 of_24 cars_25 ,_26 trucks_27 and_28 birds_29
+NP51 cars_25 ,_26 trucks_27 and_28 birds_29
+NNS52 cars_25
+,53 ,_26
+NNS54 trucks_27
+CC55 and_55
+NNS56 birds_29
+,57 ,_30
+CONJP58 not_31 just_32
+PP61 from_33 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+NP63 images_34 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+NP64 images_34
+NNS65 images_34
+PP66 of_35 one_36 speciﬁc_37 category_38 of_39 objects_40
+NP68 one_36 speciﬁc_37 category_38 of_39 objects_40
+NP69 one_36 speciﬁc_37 category_38
+PP73 of_39 objects_40
+NP75 objects_40
+NNS76 objects_40

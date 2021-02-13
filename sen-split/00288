@@ -1,0 +1,24 @@
+----
+00289	The adaptive linear element (ADALINE), which dates from about the same time, simply returned the value of f	 अनुकूली रैखिक तत्व ( ADALINE ) , जो लगभग उसी समय से प्रारंभ हुआ , केवल f का मूल्य लौटा दिया .		
+288	288
+S1 The adaptive linear element ( ADALINE ) , which dates from about the same time , simply returned the value of f	अनुकूल लाइनर तत्व (एडीएलाइन) जो लगभग उसी समय से तारीखें, बस एफ की कीमत वापस कर दिया
+NP2 The adaptive linear element ( ADALINE ) , which dates from about the same time ,	अनुकूल लाइनर तत्व (एडीएलाइन) जो लगभग उसी समय से तारीखें रखता है,
+NP3 The adaptive linear element ( ADALINE )	अनुकूल परिवर्तन तत्व (एडीलाइन)
+NP4 The adaptive linear element	अनुकूल परिवर्तन तत्व
+NP10 ADALINE	एडलाइन
+,13 ,	,
+SBAR14 which dates from about the same time	जिसकी तारीख लगभग उसी समय से
+WHNP15 which	जो कि
+S17 dates from about the same time	लगभग उसी समय से तिथि
+VP18_LWG dates	तारीखें
+PP20 from about the same time	लगभग उसी समय से
+PP22 about the same time	उसी समय के बारे में
+NP24 the same time	वही समय
+,28 ,	,
+VP29_LWG simply returned	बस लौट आया।
+ADVP30 simply	बस इतना ही।
+NP33 the value of f	f की कीमत
+NP34 the value	मूल्य
+PP37 of f	एफ का।
+NP39 f	f
+

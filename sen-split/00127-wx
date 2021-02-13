@@ -1,0 +1,42 @@
+----
+00128	Given the second hidden layers description of the image in terms of corners and contours, the third hidden layer can detect entire parts of specic objects, by nding specic collections of contours and corners.	 konoM Ora saMcaroM ke saMxarBa meM Cavi ke xUsare Cipe hue parawa ke varNana ko xeKawe hue , wIsarI CupI parawa viSiRta vaswuoM ke saMpUrNa BAgoM kA pawA lagA sakawI hE , jisameM saMcaroM Ora konoM kA viSiRta saMgraha pAyA jA sakawA hE .		
+127	127
+S1 Given the second hidden layer s description of the image in terms of corners and contours , the third hidden layer can detect entire parts of specic objects , by nding specic collections of contours and corners .	konoM Ora kaMXoM ke mAmale meM Cavi ke xUsarI CipI huI parawa ko xeKawe hue wIsarI CipI huI parawa viSiRta vaswuoM ke saMpUrNa hissoM kA pawA lagA sakawI hE
+PP2 Given the second hidden layer s description of the image in terms of corners and contours	konoM Ora kaMXoM ke mAmale meM xUsarI CipI huI parawa ke vivaraNa ko xeKawe hue
+NP4 the second hidden layer s description of the image in terms of corners and contours	xUsarI CipI huI parawa kA konoM Ora kaMXoM ke mAmale meM Cavi kA vivaraNa
+NP5 the second hidden layer s description	xUsarI CipI huI parawa kA vivaraNa
+NML8 hidden layer	CipI huI parawa
+PP13 of the image in terms of corners and contours	konoM Ora kaMXoM ke mAmale meM Cavi kI
+NP15 the image in terms of corners and contours	konoM Ora kaMXoM ke mAmale meM Cavi
+NP16 the image	Cavi
+PP19 in terms of corners and contours	konoM Ora kaMXoM ke mAmale meM
+NP21 terms of corners and contours	konoM Ora kaMXoM kI SarweM
+NP22 terms	SarwoM
+NNS23 terms	SarwoM
+PP24 of corners and contours	konoM Ora kaMXoM kI
+NP26 corners and contours	kone Ora kaMXoM
+NNS27 corners	kone-kone
+CC28 and	Ora
+NNS29 contours	wahaKAne
+,30 ,	,
+NP31 the third hidden layer	wIsarI CipI huI parawa
+VP36_LWG can detect	pawA lagA sakawe hEM
+NP40 entire parts of specic objects	viSiRta vaswuoM ke pUre hisse
+NP41 entire parts	pUre hisse
+NNS43 parts	BAgoM
+PP44 of specic objects	viSiRta vaswuoM kA
+NP46 specic objects	viSiRta vaswueM
+NNS48 objects	vaswueM
+,49 ,	,
+PP50 by nding specic collections of contours and corners	kaMXoM Ora konoM ke viSiRta saMgraha Koja kara
+S52 nding specic collections of contours and corners	kaMXoM Ora konoM ke viSiRta saMgraha Kojane
+VP53_LWG nding	mila rahA hE
+NP55 specic collections of contours and corners	koYrnara Ora konoM ke viSiRta saMgraha
+NP56 specic collections	viSiRta saMgraha
+NNS58 collections	saMgraha
+PP59 of contours and corners	kaMXoM Ora konoM kI
+NP61 contours and corners	wahaKAne Ora kone
+NNS62 contours	wahaKAne
+CC63 and	Ora
+NNS64 corners	kone-kone
+

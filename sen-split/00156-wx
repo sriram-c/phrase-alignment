@@ -1,0 +1,30 @@
+----
+00157	The computation depicted in these graphs is the output of a logistic regression model,  ( w T x ), where  is the logistic sigmoid function.	 ina reKAMkana meM xarSAyA gayA aBikalana eka loYjistika prawigamana moYdala kA Autaputa hE ,  ( w T x ) , jahAM  loYjistika avagrahI Palana hE .		
+156	156
+S1 The computation depicted in these graphs is the output of a logistic regression model ,  ( w T x ) , where  is the logistic sigmoid function .	ina grAPa meM xarSAyI gaI prawiRTA eka loYjista riPyUjana moYdala, esa (dablyU tI eksa) kA Autaputa hE, jahAM esa loYjistika sigoYida PaMkSana hE
+NP2 The computation depicted in these graphs	ina grAPoM meM xiKAI gaI prawiRTA
+NP3 The computation	prawiRTA
+VP6_LWG depicted	xarSAyA gayA
+PP8 in these graphs	ina grAPoM meM
+NP10 these graphs	ye grAPa
+NNS12 graphs	grAPa
+VP13_LWG is	hE
+NP15 the output of a logistic regression model ,  ( w T x ) , where  is the logistic sigmoid function	eka loYjista riPyUjana moYdala kA Autaputa, esa (dablyU tI eksa), jahAM loYjistika sigamAuda PaMkSana hE
+NP16 the output	Autaputa
+PP19 of a logistic regression model ,  ( w T x ) , where  is the logistic sigmoid function	eka loYjista riPyUjana moYdala kI, esa (dablyU tI eksa), jahAM para hE loYjistika sigamAuda PaMkSana
+NP21 a logistic regression model ,  ( w T x ) , where  is the logistic sigmoid function	eka loYjista riPyUjana moYdala, esa (dablyU tI eksa), jahAM loYjistika sigamAuda PaMkSana hE
+NP22 a logistic regression model	eka loYjista riPyUjana moYdala
+,27 ,	,
+NP28  ( w T x ) , where  is the logistic sigmoid function	esa (dablyU tI eksa), jahAM loYjistika sigamAuda PaMkSana hE
+NP29  ( w T x )	esa (dablyU tI eksa)
+PRN31 ( w T x )	(dablyU tI eksa)
+NP33 w T x	dablyU tI eksa
+SYM36 x	eksa
+,38 ,	,
+SBAR39 where  is the logistic sigmoid function	jahAM esa hE loYjistika sigamAuda PaMkSana
+WHADVP40 where	kahAM
+S42  is the logistic sigmoid function	esa loYjistika sigamAuda PaMkSana
+NP43 	esa
+VP45_LWG is	hE
+NP47 the logistic sigmoid function	loYjistika sigamAuda PaMkSana
+

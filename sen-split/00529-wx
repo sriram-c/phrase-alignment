@@ -1,0 +1,42 @@
+----
+00530	Since then, these competitions are consistently won by deep convolutional nets, and as of this writing, advances in deep learning have brought the latest top-5 error rate in this contest down to 3.6 percent, as shown in gure 1.12.	 waba se , ina prawiyogiwAoM ko lagAwAra gahare saMvalana jAloM xvArA jIwA jAwA hE , Ora isa leKana ke rUpa meM , gaharI sIKane meM agrima isa prawiyogiwA meM navInawama SIrRa - 5 wruti xara ko 3 . 6 prawiSawa waka le AyA hE , jEsA ki aMka 112 meM xiKAyA gayA hE .		
+529	529
+S1 Since then , these competitions are consistently won by deep convolutional nets , and as of this writing , advances in deep learning have brought the latest top - 5 error rate in this contest down to 3.6 percent , as shown in gure 1.12 .	waba se lagAwAra ina prawiyogiwAoM ko gahare saMviliyana neta xvArA jIwa milawI hE, Ora isa leKa ke rUpa meM gaharI sIKa meM pragawi isa prawiyogiwA meM letesta toYpa
+SBAR2 Since then , these competitions are consistently won by deep convolutional nets , and as of this writing	waba se hI ina prawiyogiwAoM ko lagAwAra gahare saMviliyana netsa se jIwa milawI hE, Ora isa leKa ke rUpa meM
+S4 then , these competitions are consistently won by deep convolutional nets , and as of this writing	Pira, ina prawiyogiwAoM ko lagAwAra gahare saMviliyana netsa se jIwa milawI hE, Ora isa leKa ke rUpa meM
+ADVP5 then	Pira
+,7 ,	,
+NP8 these competitions	ina prawiyogiwAoM
+NNS10 competitions	prawiyogiwAoM
+VP11_LWG are consistently won	lagAwAra howI hEM jIwa
+ADVP13 consistently	lagAwAra
+PP17 by deep convolutional nets , and as of this writing	gahare saMviliyana neta xvArA, Ora isa leKana ke rUpa meM
+PP18 by deep convolutional nets	gahare saMviliyana jAla se
+NP20 deep convolutional nets	gaharA saMviliyana jAla
+NNS23 nets	jAla
+,24 ,	,
+CC25 and	Ora
+RB26 as	jEsA ki
+PP27 of this writing	isa leKana kA
+NP29 this writing	yaha leKana
+,32 ,	,
+NP33 advances in deep learning	gaharI sIKa meM unnawi
+NP34 advances	edavAMsa
+NNS35 advances	edavAMsa
+PP36 in deep learning	gaharI sIKa meM
+NP38 deep learning	gaharI sIKa
+VP41_LWG have brought down	nIce lAyA hE
+NP45 the latest top - 5 error rate	navInawama SIrRa - 5 wruti xara
+NML48 top - 5	SIrRa - 5
+PP54 in this contest	isa prawiyogiwA meM
+NP56 this contest	yaha prawiyogiwA
+ADVP59 down to 3.6 percent	nIce 3.6 prawiSawa waka
+PP61 to 3.6 percent	3.6 prawiSawa waka
+NP63 3.6 percent	3.6 PIsaxI
+,66 ,	,
+SBAR67 as shown in gure 1.12	jEsA ki AMkadZe 1.12 meM xiKAyA gayA
+S69 shown in gure 1.12	AMkadZe meM xiKAyA gayA 1.12
+VP70_LWG shown	xiKAyA gayA
+PP72 in gure 1.12	AMkadZe 1.12
+NP74 gure 1.12	AMkadZA 1.12
+

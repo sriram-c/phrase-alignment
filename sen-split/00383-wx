@@ -1,0 +1,34 @@
+----
+00384	This third wave of popularity of neural networks continues to the time of this writing, though the focus of deep learning research has changed dramatically within the time of this wave.	 waMwrikA netavarka kI lokapriyawA kI yaha wIsarI lahara isa leKana ke samaya waka jArI hE , hAlAMki gahare SikRaNa anusaMXAna kA XyAna isa lahara ke samaya ke BIwara nAtakIya rUpa se baxala gayA hE .		
+383	383
+S1 This third wave of popularity of neural networks continues to the time of this writing , though the focus of deep learning research has changed dramatically within the time of this wave .	isa leKana ke samaya meM waMwrikA netavarka kI lokapriyawA kI yaha wIsarI lahara jArI hE, hAlAMki isa lahara ke samaya meM gaharI sIKa anusaMXAna kA XyAna nAtakIya
+NP2 This third wave of popularity of neural networks	waMwrikA netavarka kI lokapriyawA kI yaha wIsarI lahara
+NP3 This third wave	yaha wIsarI lahara
+PP7 of popularity of neural networks	waMwrikA netavarka kI lokapriyawA kA
+NP9 popularity of neural networks	waMwrikA netavarka kI lokapriyawA
+NP10 popularity	lokapriyawA
+PP12 of neural networks	waMwrikA netavarka ke
+NP14 neural networks	waMwrikA netavarka
+NNS16 networks	netavarka
+VP17_LWG continues	jArI
+PP19 to the time of this writing	isa leKana ke samaya waka
+NP21 the time of this writing	isa leKana kA samaya
+NP22 the time	samaya
+PP25 of this writing	isa leKana kA
+NP27 this writing	yaha leKana
+,30 ,	,
+SBAR31 though the focus of deep learning research has changed dramatically within the time of this wave	hAlAMki isa lahara ke samaya meM gaharI sIKa anusaMXAna kA XyAna nAtakIya baxala gayA hE
+S33 the focus of deep learning research has changed dramatically within the time of this wave	isa lahara ke samaya meM gaharI sIKa anusaMXAna kA XyAna nAtakIya baxala gayA hE
+NP34 the focus of deep learning research	gahana sIKa anusaMXAna kA XyAna
+NP35 the focus	XyAna
+PP38 of deep learning research	gahana sIKa anusaMXAna kI
+NP40 deep learning research	gahana sIKa anusaMXAna
+NML41 deep learning	gaharI sIKa
+VP45_LWG has changed dramatically	nAtakIya DaMga se baxala gayA hE
+ADVP49 dramatically	nAtakIya DaMga se
+PP51 within the time of this wave	isa lahara ke samaya ke BIwara
+NP53 the time of this wave	isa lahara kA samaya
+NP54 the time	samaya
+PP57 of this wave	isa lahara kI
+NP59 this wave	yaha lahara
+

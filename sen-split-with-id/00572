@@ -1,0 +1,66 @@
+----
+572
+S1 It_1 has_2 been_3 successfully_4 used_5 to_6 predict_7 how_8 molecules_9 will_10 interact_11 in_12 order_13 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20 (_21 Dahl_22 et_23 al._24 ,_25 2014_26 )_27 ,_28 to_29 search_30 for_31 subatomic_32 particles_33 (_34 Baldi_35 et_36 al._37 ,_38 2014_39 )_40 ,_41 and_42 to_43 automatically_44 parse_45 microscope_46 images_47 used_48 to_49 construct_50 a_51 3_52 -_53 D_54 map_55 of_56 the_57 human_58 brain_59 (_60 Knowles_61 -_62 Barley_63 et_64 al._65 ,_66 2014_67 )_68 ._69
+NP2 It_1
+VP4_LWG has_2 been_3 successfully_4 used_5
+ADVP8 successfully_4
+S12 to_6 predict_7 how_8 molecules_9 will_10 interact_11 in_12 order_13 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20 (_21 Dahl_22 et_23 al._24 ,_25 2014_26 )_27 ,_28 to_29 search_30 for_31 subatomic_32 particles_33 (_34 Baldi_35 et_36 al._37 ,_38 2014_39 )_40 ,_41 and_42 to_43 automatically_44 parse_45 microscope_46 images_47 used_48 to_49 construct_50 a_51 3_52 -_53 D_54 map_55 of_56 the_57 human_58 brain_59 (_60 Knowles_61 -_62 Barley_63 et_64 al._65 ,_66 2014_67 )_68
+VP13_LWG to_6 predict_7 to_29 search_30 to_43 automatically_44 parse_45
+SBAR18 how_8 molecules_9 will_10 interact_11 in_12 order_13 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20 (_21 Dahl_22 et_23 al._24 ,_25 2014_26 )_27
+WHADVP19 how_8
+S21 molecules_9 will_10 interact_11 in_12 order_13 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20 (_21 Dahl_22 et_23 al._24 ,_25 2014_26 )_27
+NP22 molecules_9
+NNS23 molecules_9
+VP24_LWG will_10 interact_11
+PP28 in_12 order_13 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20
+NP30 order_13 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20
+S32 to_14 help_15 pharmaceutical_16 companies_17 design_18 new_19 drugs_20
+VP33_LWG to_14 help_15
+S37 pharmaceutical_16 companies_17 design_18 new_19 drugs_20
+NP38 pharmaceutical_16 companies_17
+NNS40 companies_17
+VP41_LWG design_18
+NP43 new_19 drugs_20
+NNS45 drugs_20
+PRN46 (_21 Dahl_22 et_23 al._24 ,_25 2014_26 )_27
+NP48 Dahl_22 et_23 al._24 ,_25 2014_26
+NP49 Dahl_22 et_23 al._24
+NP50 Dahl_22
+ADVP52 et_23 al._24
+,55 ,_25
+NP56 2014_26
+,59 ,_28
+PP64 for_31 subatomic_32 particles_33 (_34 Baldi_35 et_36 al._37 ,_38 2014_39 )_40
+NP66 subatomic_32 particles_33 (_34 Baldi_35 et_36 al._37 ,_38 2014_39 )_40
+NNS68 particles_33
+PRN69 (_34 Baldi_35 et_36 al._37 ,_38 2014_39 )_40
+NP71 Baldi_35 et_36 al._37 ,_38 2014_39
+NP72 Baldi_35 et_36 al._37
+NP73 Baldi_35
+ADVP75 et_36 al._37
+,78 ,_38
+NP79 2014_39
+,82 ,_41
+CC83 and_83
+VP84 to_43 automatically_44 parse_45 microscope_46 images_47 used_48 to_49 construct_50 a_51 3_52 -_53 D_54 map_55 of_56 the_57 human_58 brain_59 (_60 Knowles_61 -_62 Barley_63 et_64 al._65 ,_66 2014_67 )_68
+ADVP86 automatically_44
+NP90 microscope_46 images_47 used_48 to_49 construct_50 a_51 3_52 -_53 D_54 map_55 of_56 the_57 human_58 brain_59 (_60 Knowles_61 -_62 Barley_63 et_64 al._65 ,_66 2014_67 )_68
+NP91 microscope_46 images_47
+NNS93 images_47
+VP94_LWG used_48
+S96 to_49 construct_50 a_51 3_52 -_53 D_54 map_55 of_56 the_57 human_58 brain_59
+VP97_LWG to_49 construct_50
+NP101 a_51 3_52 -_53 D_54 map_55 of_56 the_57 human_58 brain_59
+NP102 a_51 3_52 -_53 D_54 map_55
+NML104 3_52 -_53 D_54
+PP109 of_56 the_57 human_58 brain_59
+NP111 the_57 human_58 brain_59
+PRN115 (_60 Knowles_61 -_62 Barley_63 et_64 al._65 ,_66 2014_67 )_68
+NP117 Knowles_61 -_62 Barley_63 et_64 al._65
+NP118 Knowles_61
+PP120 -_62 Barley_63
+SYM121 -_62
+NP122 Barley_63
+ADVP124 et_64 al._65
+,127 ,_66
+NP128 2014_67

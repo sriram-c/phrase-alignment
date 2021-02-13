@@ -1,0 +1,17 @@
+----
+0
+S1 Chapter_1 1_2 Introduction_3 Inventors_4 have_5 long_6 dreamed_7 of_8 creating_9 machines_10 that_11 think_12 ._13
+NP2 Chapter_1 1_2 Introduction_3 Inventors_4
+NML3 Chapter_1 1_2
+VP8_LWG have_5 long_6 dreamed_7
+ADVP10 long_6
+PP14 of_8 creating_9 machines_10 that_11 think_12
+S16 creating_9 machines_10 that_11 think_12
+VP17_LWG creating_9
+NP19 machines_10 that_11 think_12
+NP20 machines_10
+NNS21 machines_10
+SBAR22 that_11 think_12
+WHNP23 that_11
+S25 think_12
+VP26_LWG think_12

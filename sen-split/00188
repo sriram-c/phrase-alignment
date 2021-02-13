@@ -1,0 +1,37 @@
+----
+00189	target audience is software engineers who do not have a machine learning or statis- tics background but want to rapidly acquire one and begin using deep learning in their product or platform.	 लक्ष्य दर्शक सॉफ्टवेयर इंजीनियरों है जो एक मशीन सीखने या स्थैतिक टिक पृष्ठभूमि नहीं है , लेकिन तेजी से एक प्राप्त करना चाहते हैं और अपने उत्पाद या मंच में गहरी सीखने का उपयोग शुरू .		
+188	188
+S1 target audience is software engineers who do not have a machine learning or statis - tics background but want to rapidly acquire one and begin using deep learning in their product or platform .	लक्ष्य दर्शक सॉफ्टवेयर इंजीनियर्स हैं, जिनका मशीन सीखने या स्टेटस-टिक पृष्ठभूमि नहीं है लेकिन तेजी से एक अधिग्रहण करना चाहते हैं और अपने उत्पाद
+NP2 target audience	दर्शकों को निशाना
+VP5_LWG is	है।
+NP7 software engineers who do not have a machine learning or statis - tics background but want to rapidly acquire one and begin using deep learning in their product or platform	सॉफ्टवेयर इंजीनियर्स जिनके पास मशीन की सीख या स्टेटस - टिक पृष्ठभूमि नहीं है लेकिन तेजी से एक अधिग्रहण करना चाहते हैं और अपने उत्पाद या प्ल
+NP8 software engineers	सॉफ्टवेयर इंजीनियर्स
+NNS10 engineers	इंजीनियर्स
+SBAR11 who do not have a machine learning or statis - tics background but want to rapidly acquire one and begin using deep learning in their product or platform	जिनके पास मशीन सीखने या स्टेटस - टिक पृष्ठभूमि नहीं है लेकिन तेजी से एक अधिग्रहण करना चाहते हैं और अपने उत्पाद या प्लेटफॉर्म में गहरी सीख
+WHNP12 who	कौन
+S14 do not have a machine learning or statis - tics background but want to rapidly acquire one and begin using deep learning in their product or platform	मशीन सीखने या स्टेटस न हों- टिक पृष्ठभूमि लेकिन तेजी से एक अधिग्रहण करना चाहते हैं और अपने उत्पाद या प्लेटफॉर्म में गहरी सीख का उपयोग कर
+VP15_LWG do not have want	नहीं चाहते थे।
+NP21 a machine learning or statis - tics background	एक मशीन सीखने या स्टेटस- टिक पृष्ठभूमि
+NML23 machine learning or statis - tics	मशीन सीखना या स्टेटस - टिक
+NML24 machine learning	मशीन सीखना
+CC27 or	या।
+NML28 statis - tics	स्टेटस- टिक
+CC33 but	लेकिन
+VP16 do not have a machine learning or statis - tics background	मशीन सीखने या स्टेटस न हों - टिक पृष्ठभूमि
+VP34 want to rapidly acquire one and begin using deep learning in their product or platform	तेजी से एक अधिग्रहण करना चाहते हैं और अपने उत्पाद या प्लेटफॉर्म में गहरी सीख का इस्तेमाल करना शुरू करते हैं
+S36 to rapidly acquire one and begin using deep learning in their product or platform	तेजी से एक अधिग्रहण करना और अपने उत्पाद या प्लेटफॉर्म में गहरी सीख का उपयोग करना शुरू करना
+VP37_LWG to rapidly acquire begin	तेजी से अधिग्रहण करना शुरू
+ADVP39 rapidly	तेजी से
+NP44 one	एक
+CC46 and	और
+VP42 acquire one	एक का अधिग्रहण
+VP47 begin using deep learning in their product or platform	अपने उत्पाद या प्लेटफॉर्म में गहरी सीख का इस्तेमाल करना शुरू करें
+S49 using deep learning in their product or platform	अपने उत्पाद या प्लेटफॉर्म में गहरी सीख का इस्तेमाल
+VP50_LWG using	इस्तेमाल करना
+NP52 deep learning	गहरी सीख
+PP55 in their product or platform	उनके उत्पाद या प्लेटफॉर्म में
+NP57 their product or platform	उनका उत्पाद या प्लेटफॉर्म
+CC60 or	या।
+NN59 product	उत्पाद
+NN61 platform	प्लेटफॉर्म
+

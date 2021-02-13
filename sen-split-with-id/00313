@@ -1,0 +1,29 @@
+----
+313
+S1 Before_1 this_2 hypothesis_3 ,_4 machine_5 learning_6 research_7 was_8 more_9 fragmented_10 ,_11 with_12 diﬀerent_13 communities_14 of_15 researchers_16 studying_17 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27 recognition_28 ._29
+PP2 Before_1 this_2 hypothesis_3
+NP4 this_2 hypothesis_3
+,7 ,_4
+NP8 machine_5 learning_6 research_7
+NML9 machine_5 learning_6
+VP13_LWG was_8
+ADJP15 more_9 fragmented_10
+,18 ,_11
+PP19 with_12 diﬀerent_13 communities_14 of_15 researchers_16 studying_17 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27 recognition_28
+NP21 diﬀerent_13 communities_14 of_15 researchers_16 studying_17 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27 recognition_28
+NP22 diﬀerent_13 communities_14
+NNS24 communities_14
+PP25 of_15 researchers_16 studying_17 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27 recognition_28
+NP27 researchers_16 studying_17 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27 recognition_28
+NP28 researchers_16
+NNS29 researchers_16
+VP30_LWG studying_17
+NP32 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27 recognition_28
+NML33 natural_18 language_19 processing_20 ,_21 vision_22 ,_23 motion_24 planning_25 and_26 speech_27
+NML34 natural_18 language_19 processing_20
+,38 ,_21
+NML39 vision_22
+,41 ,_23
+NML42 motion_24 planning_25
+CC45 and_45
+NML46 speech_27

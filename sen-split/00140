@@ -1,0 +1,21 @@
+----
+00141	The ﬁrst view is based on the number of sequential instructions that must be executed to evaluate the architecture.	 पहला दृश्य अनुक्रमिक अनुदेशों की संख्या पर आधारित है जिसे वास्तुकला का मूल्यांकन करने के लिए निष्पादित किया जाना चाहिए .		
+140	140
+S1 The ﬁrst view is based on the number of sequential instructions that must be executed to evaluate the architecture .	पहला दृश्य क्रमिक निर्देशों की संख्या पर आधारित है जिसे वास्तुकला का मूल्यांकन करने के लिए निष्पादित किया जाना चाहिए।
+NP2 The ﬁrst view	पहला नजारा
+VP6_LWG is based	आधारित
+PP10 on the number of sequential instructions that must be executed to evaluate the architecture	वास्तुकला के मूल्यांकन के लिए जो तत्काल निर्देशों की संख्या को अंजाम दिया जाना चाहिए, उस पर
+NP12 the number of sequential instructions that must be executed to evaluate the architecture	वास्तुकला का मूल्यांकन करने के लिए जिन तत्काल निर्देशों की संख्या को अंजाम दिया जाना चाहिए
+NP13 the number	नंबर
+PP16 of sequential instructions that must be executed to evaluate the architecture	तत्काल निर्देशों का जिसे वास्तुकला का मूल्यांकन करने के लिए निष्पादित किया जाना चाहिए
+NP18 sequential instructions that must be executed to evaluate the architecture	भविष्यवाणी का मूल्यांकन करने के लिए तत्काल निर्देशों को निष्पादित किया जाना चाहिए
+NP19 sequential instructions	तत्काल निर्देश
+NNS21 instructions	निर्देश
+SBAR22 that must be executed to evaluate the architecture	वास्तुकला का मूल्यांकन करने के लिए निष्पादित किया जाना चाहिए
+WHNP23 that	वह
+S25 must be executed to evaluate the architecture	वास्तुकला का मूल्यांकन करने के लिए निष्पादित किया जाना चाहिए
+VP26_LWG must be executed	निष्पादित होना चाहिए
+S32 to evaluate the architecture	वास्तुकला का मूल्यांकन करने के लिए
+VP33_LWG to evaluate	मूल्यांकन के लिए
+NP37 the architecture	वास्तुकला
+

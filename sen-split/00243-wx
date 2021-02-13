@@ -1,0 +1,39 @@
+----
+00244	Deep learning only appears to be new, because it was relatively unpopular for several years preceding its current popularity, and because it has gone through many dierent names, only recently being called deep learning.	 gahana aXyayana kevala nayA prawIwa howA hE , kyoMki yaha apanI varwamAna lokapriyawA se pahale kaI varRoM ke lie apekRAkqwa alokapriya WA , Ora kyoMki yaha kaI alaga alaga nAmoM ke mAXyama se calA gayA hE , hAla hI meM xepa aXigama kahA jA rahA hE .		
+243	243
+S1 Deep learning only appears to be new , because it was relatively unpopular for several years preceding its current popularity , and because it has gone through many dierent names , only recently being called  deep learning .	gaharI sIKa kevala naI prawIwa howI hE, kyoMki yaha apanI mOjUxA lokapriyawA se pahale kaI varRoM ke lie apekRAkqwa apracaliwa WA, Ora kyoMki yaha
+NP2 Deep learning	gaharI sIKa
+ADVP5 only	kevala
+VP7_LWG appears	xiKAI xewA hE
+S9 to be new , because it was relatively unpopular for several years preceding its current popularity , and because it has gone through many dierent names , only recently being called  deep learning	nayA honA, kyoMki yaha apanI mOjUxA lokapriyawA se pahale kaI varRoM ke lie apekRAkqwa apracaliwa WA, Ora kyoMki yaha kaI alaga-alaga nAmoM se
+VP10_LWG to be	honA cAhie
+ADJP14 new	nayA
+,16 ,	,
+SBAR17 because it was relatively unpopular for several years preceding its current popularity , and because it has gone through many dierent names , only recently being called  deep learning	kyoMki yaha apanI mOjUxA lokapriyawA se pahale kaI varRoM ke lie apekRAkqwa apracaliwa WA, Ora kyoMki yaha kaI alaga-alaga nAmoM se gujara cukA hE,
+SBAR18 because it was relatively unpopular for several years preceding its current popularity	kyoMki yaha apanI mOjUxA lokapriyawA se pahale kaI varRoM ke lie apekRAkqwa aprawyASiwa WA
+S20 it was relatively unpopular for several years preceding its current popularity	yaha apanI mOjUxA lokapriyawA se pahale kaI varRoM se aprawyASiwa WA
+NP21 it	yaha
+VP23_LWG was	WA
+ADJP25 relatively unpopular for several years preceding its current popularity	apanI mOjUxA lokapriyawA se pahale kaI varRoM ke lie apekRAkqwa aprawyASiwa
+PP28 for several years preceding its current popularity	apanI mOjUxA lokapriyawA se pahale kaI varRoM se
+NP30 several years preceding its current popularity	apanI mOjUxA lokapriyawA se pahale kaI sAla
+NP31 several years	kaI sAla
+NNS33 years	sAla-ba-ba-ba-ba-ba-ba-ba.
+VP34_LWG preceding	Age kI ora
+NP36 its current popularity	isakI mOjUxA lokapriyawA
+,40 ,	,
+CC41 and	Ora
+SBAR42 because it has gone through many dierent names , only recently being called  deep learning	kyoMki yaha kaI alaga-alaga nAmoM se gujarA hE, kevala hAla hI meM kahA jA rahA hE gaharI sIKa
+S44 it has gone through many dierent names , only recently being called  deep learning	yaha kaI alaga-alaga nAmoM se gujarA hE, kevala hAla hI meM kahA jA rahA hE gaharI sIKa
+NP45 it	yaha
+VP47_LWG has gone	calA gayA hE
+PP51 through many dierent names	kaI alaga-alaga nAmoM ke mAXyama se
+NP53 many dierent names	kaI alaga-alaga nAma
+NNS56 names	nAma
+,57 ,	,
+S58 only recently being called  deep learning	kevala hAla hI meM kahA jA rahA hE gaharI sIKa
+ADVP59 only	kevala
+ADVP61 recently	hAla hI meM
+VP63_LWG being called	bulAyA jA rahA hE
+NP67  deep learning	gaharI sIKa
+

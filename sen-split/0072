@@ -1,0 +1,32 @@
+----
+0073	Example of diﬀerent representations: suppose we want to separate two categories of data by drawing a line between them in a scatterplot.	 विभिन्न अभ्यावेदनों का उदाहरणः मान लीजिए कि हम डेटा की दो श्रेणियों को अलग करना चाहते हैं एक रेखा खींचकर एक स्कैटरपॉट में उनके बीच एक रेखा खींचकर .		
+72	72
+S1 Example of diﬀerent representations : suppose we want to separate two categories of data by drawing a line between them in a scatterplot .	अलग-अलग प्रतिनिधित्वों का उदाहरणः मान लीजिए कि हम एक बिखराव में उनके बीच एक पंक्ति निकालकर डेटा की दो श्रेणियों को अलग करना चाहते हैं।
+NP2 Example of diﬀerent representations	अलग-अलग प्रतिनिधित्वों का उदाहरण
+NP3 Example	उदाहरण
+PP5 of diﬀerent representations	अलग-अलग प्रतिनिधित्व की
+NP7 diﬀerent representations	अलग-अलग प्रतिनिधित्व
+NNS9 representations	प्रतिनिधित्व
+VP11_LWG suppose	मान लीजिए।
+SBAR13 we want to separate two categories of data by drawing a line between them in a scatterplot	हम एक बिखराव में उनके बीच एक पंक्ति निकालकर डाटा की दो श्रेणियों को अलग करना चाहते हैं
+S14 we want to separate two categories of data by drawing a line between them in a scatterplot	हम एक बिखराव में उनके बीच एक पंक्ति निकालकर डाटा की दो श्रेणियों को अलग करना चाहते हैं
+NP15 we	हम
+VP17_LWG want	चाहते हैं।
+S19 to separate two categories of data by drawing a line between them in a scatterplot	बिखराव में उनके बीच एक पंक्ति निकालकर डाटा की दो श्रेणियों को अलग करने के लिए
+VP20_LWG to separate	अलग करने के लिए
+NP24 two categories of data	डेटा की दो श्रेणियां
+NP25 two categories	दो श्रेणियां
+NNS27 categories	श्रेणियों
+PP28 of data	डेटा का
+NP30 data	डेटा
+NNS31 data	डेटा
+PP32 by drawing a line between them in a scatterplot	बिखराव में उनके बीच एक पंक्ति निकालकर
+S34 drawing a line between them in a scatterplot	बिखराव में उनके बीच एक पंक्ति खींचना
+VP35_LWG drawing	ड्राइंग
+NP37 a line between them	उनके बीच एक पंक्ति
+NP38 a line	एक पंक्ति
+PP41 between them	उनके बीच
+NP43 them	उन्हें
+PP45 in a scatterplot	एक बिखराव में
+NP47 a scatterplot	एक बिखराव
+

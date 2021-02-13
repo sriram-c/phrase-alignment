@@ -1,0 +1,31 @@
+----
+22
+S1 Computers_1 have_2 long_3 been_4 able_5 to_6 defeat_7 even_8 the_9 best_10 human_11 chess_12 player_13 but_14 only_15 recently_16 have_17 begun_18 matching_19 some_20 of_21 the_22 abilities_23 of_24 average_25 human_26 beings_27 to_28 recognize_29 objects_30 or_31 speech_32 ._33
+NP2 Computers_1
+VP4_LWG have_2 long_3 been_4 only_15 have_17 begun_18
+ADVP7 long_3
+ADJP11 able_5 to_6 defeat_7 even_8 the_9 best_10 human_11 chess_12 player_13
+S13 to_6 defeat_7 even_8 the_9 best_10 human_11 chess_12 player_13
+VP14_LWG to_6 defeat_7 even_8
+ADVP18 even_8
+NP20 the_9 best_10 human_11 chess_12 player_13
+CC26 but_26
+VP5 have_2 long_3 been_4 able_5 to_6 defeat_7 even_8 the_9 best_10 human_11 chess_12 player_13
+ADVP27 only_15 recently_16
+S34 matching_19 some_20 of_21 the_22 abilities_23 of_24 average_25 human_26 beings_27 to_28 recognize_29 objects_30 or_31 speech_32
+VP35_LWG matching_19
+NP37 some_20 of_21 the_22 abilities_23 of_24 average_25 human_26 beings_27
+NP38 some_20
+PP40 of_21 the_22 abilities_23 of_24 average_25 human_26 beings_27
+NP42 the_22 abilities_23 of_24 average_25 human_26 beings_27
+NP43 the_22 abilities_23
+NNS45 abilities_23
+PP46 of_24 average_25 human_26 beings_27
+NP48 average_25 human_26 beings_27
+NNS51 beings_27
+S52 to_28 recognize_29 objects_30 or_31 speech_32
+VP53_LWG to_28 recognize_29
+NP57 objects_30 or_31 speech_32
+NNS58 objects_30
+CC59 or_59
+NN60 speech_32

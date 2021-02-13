@@ -1,0 +1,24 @@
+----
+00122	The input is presented at the visible layer , so named because it contains the variables that we are able to observe.	 inaputa ko xqSya swara para praswuwa kiyA jAwA hE , isalie nAma xiyA jAwA hE kyoMki isameM ve cara howe hEM jo hama nirIkRaNa karane meM sakRama howe hEM .		
+121	121
+S1 The input is presented at the visible layer , so named because it contains the variables that we are able to observe .	inaputa xqSya parawa para peSa kiyA jAwA hE, isalie nAma xiyA jAwA hE kyoMki isameM veriebala mOjUxa howe hEM jinheM hama xeKane meM sakRama howe hEM
+NP2 The input	inaputa
+VP5_LWG is presented so named	iwanA nAma peSa kiyA jAwA hE
+PP10 at the visible layer	xiKane vAlI parawa para
+NP12 the visible layer	xiKane vAlI parawa
+,16 ,	,
+ADVP17 so	Ese meM
+SBAR21 because it contains the variables that we are able to observe	kyoMki isameM veriebala mOjUxa howe hEM jinheM hama xeKa pAwe hEM
+S23 it contains the variables that we are able to observe	isameM ve vEriebala mOjUxa howe hEM jinheM hama xeKa pAwe hEM
+NP24 it	yaha
+VP26_LWG contains	isameM SAmila
+NP28 the variables	veriebala
+NNS30 variables	vEriebala
+SBAR31 that we are able to observe	ki hama nirIkRaNa kara pA rahe hEM
+S33 we are able to observe	hama nirIkRaNa kara pA rahe hEM
+NP34 we	hama
+VP36_LWG are	hEM
+ADJP38 able to observe	nirIkRaNa karane meM sakRama
+S40 to observe	nirIkRaNa ke lie
+VP41_LWG to observe	nirIkRaNa ke lie
+

@@ -1,0 +1,16 @@
+----
+118
+S1 The_1 function_2 mapping_3 from_4 a_5 set_6 of_7 pixels_8 to_9 an_10 object_11 identity_12 is_13 very_14 complicated_15 ._16
+NP2 The_1 function_2 mapping_3 from_4 a_5 set_6 of_7 pixels_8 to_9 an_10 object_11 identity_12
+NP3 The_1 function_2 mapping_3
+PP7 from_4 a_5 set_6 of_7 pixels_8 to_9 an_10 object_11 identity_12
+NP9 a_5 set_6 of_7 pixels_8 to_9 an_10 object_11 identity_12
+NP10 a_5 set_6
+PP13 of_7 pixels_8 to_9 an_10 object_11 identity_12
+NP15 pixels_8 to_9 an_10 object_11 identity_12
+NP16 pixels_8
+NNS17 pixels_8
+PP18 to_9 an_10 object_11 identity_12
+NP20 an_10 object_11 identity_12
+VP24_LWG is_13
+ADJP26 very_14 complicated_15

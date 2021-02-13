@@ -1,0 +1,21 @@
+----
+475
+S1 Moreover_1 ,_2 deep_3 learning_4 has_5 consistently_6 been_7 applied_8 with_9 success_10 to_11 broader_12 and_13 broader_14 sets_15 of_16 applications_17 ._18
+ADVP2 Moreover_1
+,4 ,_2
+NP5 deep_3 learning_4
+VP8_LWG has_5 consistently_6 been_7 applied_8
+ADVP10 consistently_6
+PP16 with_9 success_10
+NP18 success_10
+PP20 to_11 broader_12 and_13 broader_14 sets_15 of_16 applications_17
+NP22 broader_12 and_13 broader_14 sets_15 of_16 applications_17
+NP23 broader_12 and_13 broader_14 sets_15
+ADJP24 broader_12 and_13 broader_14
+CC26 and_26
+JJR25 broader_12
+JJR27 broader_14
+NNS28 sets_15
+PP29 of_16 applications_17
+NP31 applications_17
+NNS32 applications_17

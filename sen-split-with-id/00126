@@ -1,0 +1,35 @@
+----
+126
+S1 Given_1 the_2 ﬁrst_3 hidden_4 layer_5 ’s_6 description_7 of_8 the_9 edges_10 ,_11 the_12 second_13 hidden_14 layer_15 can_16 easily_17 search_18 for_19 corners_20 and_21 extended_22 contours_23 ,_24 which_25 are_26 recognizable_27 as_28 collections_29 of_30 edges_31 ._32
+PP2 Given_1 the_2 ﬁrst_3 hidden_4 layer_5 ’s_6 description_7 of_8 the_9 edges_10
+NP4 the_2 ﬁrst_3 hidden_4 layer_5 ’s_6 description_7 of_8 the_9 edges_10
+NP5 the_2 ﬁrst_3 hidden_4 layer_5 ’s_6 description_7
+NML8 hidden_4 layer_5
+PP13 of_8 the_9 edges_10
+NP15 the_9 edges_10
+NNS17 edges_10
+,18 ,_11
+NP19 the_12 second_13 hidden_14 layer_15
+VP24_LWG can_16 easily_17 search_18
+ADVP26 easily_17
+PP30 for_19 corners_20 and_21 extended_22 contours_23 ,_24 which_25 are_26 recognizable_27 as_28 collections_29 of_30 edges_31
+NP32 corners_20 and_21 extended_22 contours_23 ,_24 which_25 are_26 recognizable_27 as_28 collections_29 of_30 edges_31
+NP33 corners_20 and_21 extended_22 contours_23
+NP34 corners_20
+NNS35 corners_20
+CC36 and_36
+NP37 extended_22 contours_23
+NNS39 contours_23
+,40 ,_24
+SBAR41 which_25 are_26 recognizable_27 as_28 collections_29 of_30 edges_31
+WHNP42 which_25
+S44 are_26 recognizable_27 as_28 collections_29 of_30 edges_31
+VP45_LWG are_26
+ADJP47 recognizable_27 as_28 collections_29 of_30 edges_31
+PP49 as_28 collections_29 of_30 edges_31
+NP51 collections_29 of_30 edges_31
+NP52 collections_29
+NNS53 collections_29
+PP54 of_30 edges_31
+NP56 edges_31
+NNS57 edges_31

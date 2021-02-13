@@ -1,0 +1,19 @@
+----
+354
+S1 The_1 concept_2 of_3 distributed_4 representation_5 is_6 central_7 to_8 this_9 book_10 and_11 is_12 described_13 in_14 greater_15 detail_16 in_17 chapter_18 15_19 ._20
+NP2 The_1 concept_2 of_3 distributed_4 representation_5
+NP3 The_1 concept_2
+PP6 of_3 distributed_4 representation_5
+NP8 distributed_4 representation_5
+VP11_LWG is_6 is_12 described_13
+ADJP14 central_7 to_8 this_9 book_10
+PP16 to_8 this_9 book_10
+NP18 this_9 book_10
+CC21 and_21
+VP12 is_6 central_7 to_8 this_9 book_10
+VP22 is_12 described_13 in_14 greater_15 detail_16 in_17 chapter_18 15_19
+PP26 in_14 greater_15 detail_16 in_17 chapter_18 15_19
+NP28 greater_15 detail_16 in_17 chapter_18 15_19
+NP29 greater_15 detail_16
+PP32 in_17 chapter_18 15_19
+NP34 chapter_18 15_19

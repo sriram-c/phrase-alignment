@@ -1,0 +1,45 @@
+----
+00380	Georey Hinton showed that a kind of neural network called a deep belief network could be eciently trained using a strategy called greedy layer-wise pretraining (Hinton et al., 2006), which we describe in more detail in section 15.1.	 jioPrI hAinatana ne xiKAyA ki eka prakAra kA waMwrikA netavarka jise gaharA viSvAsa netavarka kahA jAwA hE , lAlacI parawa - vAra prItriniMga ( hEnatana eta ala 2006 ) nAmaka raNanIwi kA upayoga karake kuSalawApUrvaka praSikRiwa kiyA jA sakawA hE , jisakA hama KaMda 151 meM aXika viswAra se varNana karawe hEM .		
+379	379
+S1 Georey Hinton showed that a kind of neural network called a deep belief network could be eciently trained using a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1 .	jePrI hiMtana ne xiKAyA ki gaharI mAnyawA netavarka nAmaka eka waraha kA waMwrikA netavarka lAlacI parawavAra praSikRaNa ( hiMtana eta ala, 2006) nAmaka raNanIwi kA
+NP2 Georey Hinton	jePrI hiMtana
+VP5_LWG showed	xiKAyA gayA
+SBAR7 that a kind of neural network called a deep belief network could be eciently trained using a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	gaharI mAnyawA prApwa netavarka nAmaka eka prakAra kA waMwrikA netavarka lAlacI parawavAra praSikRaNa (hiMtana eta ala, 2006) nAmaka raNanIwi kA upayoga karake kuSalawA se
+S9 a kind of neural network called a deep belief network could be eciently trained using a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	gaharI mAnyawA prApwa netavarka nAmaka eka prakAra kA waMwrikA netavarka kuSalawA se praSikRiwa kiyA jA sakawA hE jise hama XArA 15.1 meM aXika viswAra se bawAwe hEM
+NP10 a kind of neural network	eka waraha kA waMwrikA netavarka
+NP11 a kind	eka waraha kA
+PP14 of neural network	waMwrikA netavarka kA
+NP16 neural network	waMwrikA netavarka
+VP19_LWG called	bulAyA gayA
+SBAR21 a deep belief network could be eciently trained using a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	eka gaharA mAnyawA netavarka lAlacI parawavAra praSikRaNa (hiMtana eta ala, 2006) nAmaka raNanIwi kA upayoga karake kuSalawApUrvaka praSikRiwa kiyA jA sakawA hE, jisakA
+S22 a deep belief network could be eciently trained using a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	eka gaharA mAnyawA netavarka lAlacI parawavAra praSikRaNa (hiMtana eta ala, 2006) nAmaka raNanIwi kA upayoga karake kuSalawApUrvaka praSikRiwa kiyA jA sakawA hE, jisakA
+NP23 a deep belief network	gaharA viSvAsa netavarka
+VP28_LWG could be eciently trained	kuSala warIke se praSikRiwa ho sakawe hEM
+ADVP32 eciently	kuSalawA se
+S36 using a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	lAlacI parawa vAle praSikRaNa (hiMtana eta ala, 2006) nAmaka raNanIwi kA upayoga karawe hue, jisakA hama XArA 15.1 meM aXika viswAra se varNana karawe hEM
+VP37_LWG using	iswemAla karanA
+NP39 a strategy called greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	lAlacI parawa vAle praSikRaNa (hiMtana eta ala, 2006) nAmaka eka raNanIwi jisakA hama XArA 15.1 meM aXika viswAra se varNana karawe hEM
+NP40 a strategy	eka raNanIwi
+VP43_LWG called	bulAyA gayA
+NP45 greedy layer-wise pretraining ( Hinton et al. , 2006 ) , which we describe in more detail in section 15.1	lAlacI parawavAra praSikRaNa (hiMtana eta ala, 2006) jisakA hama XArA 15.1 meM aXika viswAra se varNana karawe hEM
+NP46 greedy layer-wise pretraining ( Hinton et al. , 2006 )	lAlacI parawavAra praSikRaNa (hiMtana eta ala., 2006)
+PRN50 ( Hinton et al. , 2006 )	(hiMtana eta ala, 2006)
+NP52 Hinton et al. , 2006	hiMtana eta ala., 2006
+NP53 Hinton et al.	hiMtana eta ala
+NP54 Hinton	hiMtana
+ADVP56 et al.	eta ala
+,59 ,	,
+NP60 2006	2006
+,63 ,	,
+SBAR64 which we describe in more detail in section 15.1	jisakA hama XArA 15.1 meM aXika viswAra se bawAwe hEM
+WHNP65 which	jo ki
+S67 we describe in more detail in section 15.1	hama XArA 15.1 meM aXika viswAra se varNana karawe hEM
+NP68 we	hama
+VP70_LWG describe	varNana
+PP72 in more detail in section 15.1	XArA 15.1 meM aXika viswAra se
+NP74 more detail in section 15.1	XArA 15.1 meM aXika vivaraNa
+NP75 more detail	aXika viswAra
+PP78 in section 15.1	XArA 15.1 meM
+NP80 section 15.1	XArA 15.1
+NNS82 15.1	15.1
+

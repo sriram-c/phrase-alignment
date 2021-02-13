@@ -1,0 +1,36 @@
+----
+422
+S1 Geoﬀrey_1 Hinton_2 has_3 described_4 it_5 as_6 “_7 the_8 drosophila_9 of_10 machine_11 learning_12 ,_13 ”_14 meaning_15 that_16 it_17 enables_18 machine_19 learning_20 researchers_21 to_22 study_23 their_24 algorithms_25 in_26 controlled_27 laboratory_28 conditions_29 ,_30 much_31 as_32 biologists_33 often_34 study_35 fruit_36 ﬂies_37 ._38
+NP2 Geoﬀrey_1 Hinton_2
+VP5_LWG has_3 described_4
+NP9 it_5
+PP11 as_6 “_7 the_8 drosophila_9 of_10 machine_11 learning_12 ,_13 ”_14 meaning_15 that_16 it_17 enables_18 machine_19 learning_20 researchers_21 to_22 study_23 their_24 algorithms_25 in_26 controlled_27 laboratory_28 conditions_29 ,_30 much_31 as_32 biologists_33 often_34 study_35 fruit_36 ﬂies_37
+NP13 “_7 the_8 drosophila_9 of_10 machine_11 learning_12 ,_13 ”_14 meaning_15 that_16 it_17 enables_18 machine_19 learning_20 researchers_21 to_22 study_23 their_24 algorithms_25 in_26 controlled_27 laboratory_28 conditions_29 ,_30 much_31 as_32 biologists_33 often_34 study_35 fruit_36 ﬂies_37
+NP14 “_7 the_8 drosophila_9 of_10 machine_11 learning_12 ,_13 ”_14
+NP16 the_8 drosophila_9
+PP19 of_10 machine_11 learning_12
+NP21 machine_11 learning_12
+,24 ,_13
+VP26_LWG meaning_15
+SBAR28 that_16 it_17 enables_18 machine_19 learning_20 researchers_21 to_22 study_23 their_24 algorithms_25 in_26 controlled_27 laboratory_28 conditions_29 ,_30 much_31 as_32 biologists_33 often_34 study_35 fruit_36 ﬂies_37
+S30 it_17 enables_18 machine_19 learning_20 researchers_21 to_22 study_23 their_24 algorithms_25 in_26 controlled_27 laboratory_28 conditions_29 ,_30 much_31 as_32 biologists_33 often_34 study_35 fruit_36 ﬂies_37
+NP31 it_17
+VP33_LWG enables_18
+NP35 machine_19 learning_20 researchers_21
+NML36 machine_19 learning_20
+NNS39 researchers_21
+S40 to_22 study_23 their_24 algorithms_25 in_26 controlled_27 laboratory_28 conditions_29 ,_30 much_31 as_32 biologists_33 often_34 study_35 fruit_36 ﬂies_37
+VP41_LWG to_22 study_23 much_31 often_34 study_35
+NP46 their_24 algorithms_25
+NNS48 algorithms_25
+PP49 in_26 controlled_27 laboratory_28 conditions_29
+NP51 controlled_27 laboratory_28 conditions_29
+NNS54 conditions_29
+,55 ,_30
+ADVP56 much_31 as_32 biologists_33
+PP58 as_32 biologists_33
+NP60 biologists_33
+NNS61 biologists_33
+ADVP62 often_34
+NP66 fruit_36 ﬂies_37
+NNS68 ﬂies_37

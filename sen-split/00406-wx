@@ -1,0 +1,72 @@
+----
+00407	In the 1950s through the 1980s, the pioneers of biologically inspired machine learning often worked with small synthetic datasets, such as low-resolution bitmaps of letters, that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions (Widrow and Ho, 1960; Rumelhart et al., 1986b).	 1950 ke xaSaka meM , jEvika rUpa se preriwa maSInI SikRaNa ke agraxUwa aksara Cote saMSleRiwa detAseta , jEse nimna saMSleRiwa akRaroM ke bitamEpa ke sAWa kAma karawe We , jo nimna saMgaNanAwmaka lAgawa Ora 1960 ke xaSaka ko praxarSiwa karawe We ki waMwrikA waMwra viSiRta prakAra ke kArya sIKane meM sakRama We (		
+406	406
+S1 In the 1950s through the 1980s , the pioneers of biologically inspired machine learning often worked with small synthetic datasets , such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b ) .	1980 ke xaSaka ke xOra meM jEvika rUpa se preriwa maSIna sIKane vAle pahalavAna aksara Cote siMWetika detAbetsa ke sAWa kAma karawe We, jEse ki pawroM ke kama
+PP2 In the 1950s through the 1980s	1950 ke xaSaka meM 1980 ke xaSaka ke xOra meM
+NP4 the 1950s through the 1980s	1950 ke xaSaka ke xaSaka meM 1980 ke xaSaka ke xOra
+NP5 the 1950s	1950 ke xaSaka meM
+NNS7 1950s	1950 ke xaSaka meM
+PP8 through the 1980s	1980 ke xaSaka ke xOrAna
+NP10 the 1980s	1980 ke xaSaka
+NNS12 1980s	1980 ke xaSaka meM
+,13 ,	,
+NP14 the pioneers of biologically inspired machine learning	AnuvaMSika rUpa se preriwa maSIna sIKane ke agraNI
+NP15 the pioneers	agraNI
+NNS17 pioneers	agraNI
+PP18 of biologically inspired machine learning	jEvika rUpa se preriwa maSIna sIKane kI
+NP20 biologically inspired machine learning	AnuvaMSika rUpa se preriwa maSIna sIKa rahI
+ADJP21 biologically inspired	AnuvaMSika rUpa se preriwa
+ADVP26 often	aksara
+VP28_LWG worked	kAma kiyA
+PP30 with small synthetic datasets , such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	Cote-Cote siMWetika detAbesa ke sAWa, jEse ki lo-rijolyUSana bitamEksa, jinheM kama kaMpyUtiSanala koYsta Karca karane ke lie dijAina kiyA
+NP32 small synthetic datasets , such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	Cote-Cote siMWetika detAbesa, jEse ki lo-rijolyUSana bitamEksa, jinheM kama kaMpyUtiSanala koYsta Karca karane ke lie dijAina kiyA gayA WA
+NP33 small synthetic datasets	Cote-Cote siMWetika detAbeta
+NNS36 datasets	detAbesa
+,37 ,	,
+PP38 such as low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	jEse ki kama - saMkalpiwa pawroM ke saMkalpa bitakule, jinheM kama kaMpyUtarika lAgawa Karca karane ke lie dijZAina kiyA gayA WA Ora yaha praxarSiwa kiyA ga
+NP41 low - resolution bitmaps of letters , that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	kama - saMkalpiwa pawroM ke saMkalpa bitakule, jinheM kama kaMpyUtarika lAgawa Karca karane ke lie dijZAina kiyA gayA WA Ora yaha praxarSiwa kiyA gayA ki waMwra
+NP42 low - resolution bitmaps of letters	kama - pawroM kA saMkalpa bitanakSa
+NP43 low - resolution bitmaps	kama - rijolyUSana bitamEksa
+NML44 low - resolution	kama - saMkalpa
+NNS48 bitmaps	bitamEksa
+PP49 of letters	akRaroM kI
+NP51 letters	akRara
+NNS52 letters	akRara
+,53 ,	,
+SBAR54 that were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	yaha kama kaMpyUtarika lAgawa Karca karane ke lie dijAina kiyA gayA WA Ora yaha praxarSana karawA WA ki waMwrikA netavarka viSiRta prakAra ke kArya (vidro eMda hoY
+WHNP55 that	vaha
+S57 were designed to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	kama kaMpyUtarika lAgawa Karca karane ke lie dijAina kiyA gayA Ora yaha praxarSiwa kiyA gayA ki waMwrikA netavarka viSiRta prakAra ke kAryoM (vidro eMda hoY
+VP58_LWG were designed	We dijAina
+S62 to incur low computational cost and demonstrate that neural networks were able to learn specic kinds of functions	kama kaMpyUteSanala koYsta Karca karane ke lie Ora praxarSiwa karane ke lie ki waMwrikA netavarka viSiRta prakAra ke kArya sIKa sakawe We
+VP63_LWG to incur demonstrate	praxarSana karane ke lie
+NP68 low computational cost	kama kampyUteSanala lAgawa
+CC72 and	Ora
+VP66 incur low computational cost	kama kaMpyUtiSanala lAgawa Karca
+VP73 demonstrate that neural networks were able to learn specic kinds of functions	praxarSana kareM ki waMwrikA netavarka viSiRta prakAra ke kArya sIKa sakawe We
+SBAR75 that neural networks were able to learn specic kinds of functions	usa waMwrikA netavarka ko sIKane meM sakRama We viSiRta prakAra ke kArya
+S77 neural networks were able to learn specic kinds of functions	viSiRta prakAra ke kArya sIKa sakawe We waMwrikA netavarka
+NP78 neural networks	waMwrikA netavarka
+NNS80 networks	netavarka
+VP81_LWG were	We
+ADJP83 able to learn specic kinds of functions	viSiRta prakAra ke kArya sIKane meM sakRama
+S85 to learn specic kinds of functions	viSiRta prakAra ke kArya sIKane ke lie
+VP86_LWG to learn	sIKane ke lie
+NP90 specic kinds of functions	viSiRta prakAra ke kArya
+NP91 specic kinds	viSiRta prakAra ke
+NNS93 kinds	waraha-waraha kI waraha
+PP94 of functions	kAryoM kA
+NP96 functions	samAroha
+NNS97 functions	samAroha
+PRN98 ( Widrow and Ho , 1960 ; Rumelhart et al. , 1986b )	(vidro eMda hoYPa, 1960 ; rumelahArta eta ala., 1986b)
+NP100 Widrow and Ho	vidro Ora hoYPa
+CC102 and	Ora
+NNP101 Widrow	vixro
+NNP103 Ho	hoYPa
+,104 ,	,
+NP105 1960	1960
+FRAG108 Rumelhart et al. , 1986b	rUmAlahArta eta ala., 1986b
+NP109 Rumelhart et al.	Rumelhart eta ala
+ADVP111 et al.	eta ala
+,114 ,	,
+NP115 1986b	1986b
+

@@ -1,0 +1,16 @@
+----
+35
+S1 People_1 struggle_2 to_3 devise_4 formal_5 rules_6 with_7 enough_8 complexity_9 to_10 accurately_11 describe_12 the_13 world_14 ._15
+NP2 People_1
+NNS3 People_1
+VP4_LWG struggle_2
+S6 to_3 devise_4 formal_5 rules_6 with_7 enough_8 complexity_9 to_10 accurately_11 describe_12 the_13 world_14
+VP7_LWG to_3 devise_4
+NP11 formal_5 rules_6
+NNS13 rules_6
+PP14 with_7 enough_8 complexity_9
+NP16 enough_8 complexity_9
+S19 to_10 accurately_11 describe_12 the_13 world_14
+VP20_LWG to_10 accurately_11 describe_12
+ADVP22 accurately_11
+NP26 the_13 world_14

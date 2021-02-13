@@ -1,0 +1,24 @@
+----
+377
+S1 The_1 issue_2 is_3 perhaps_4 simply_5 that_6 these_7 algorithms_8 were_9 too_10 computationally_11 costly_12 to_13 allow_14 much_15 experimentation_16 with_17 the_18 hardware_19 available_20 at_21 the_22 time_23 ._24
+NP2 The_1 issue_2
+VP5_LWG is_3 perhaps_4 simply_5
+ADVP7 perhaps_4
+ADVP9 simply_5
+SBAR11 that_6 these_7 algorithms_8 were_9 too_10 computationally_11 costly_12 to_13 allow_14 much_15 experimentation_16 with_17 the_18 hardware_19 available_20 at_21 the_22 time_23
+S13 these_7 algorithms_8 were_9 too_10 computationally_11 costly_12 to_13 allow_14 much_15 experimentation_16 with_17 the_18 hardware_19 available_20 at_21 the_22 time_23
+NP14 these_7 algorithms_8
+NNS16 algorithms_8
+VP17_LWG were_9 too_10 computationally_11
+ADVP19 too_10
+ADVP21 computationally_11
+ADJP23 costly_12
+S25 to_13 allow_14 much_15 experimentation_16 with_17 the_18 hardware_19 available_20 at_21 the_22 time_23
+VP26_LWG to_13 allow_14
+NP30 much_15 experimentation_16
+PP33 with_17 the_18 hardware_19 available_20 at_21 the_22 time_23
+NP35 the_18 hardware_19 available_20 at_21 the_22 time_23
+NP36 the_18 hardware_19
+ADJP39 available_20 at_21 the_22 time_23
+PP41 at_21 the_22 time_23
+NP43 the_22 time_23

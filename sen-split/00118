@@ -1,0 +1,18 @@
+----
+00119	The function mapping from a set of pixels to an object identity is very complicated.	 किसी वस्तु की पहचान के लिए पिक्सल के समुच्चय से फलन प्रतिचित्रण बहुत जटिल होता है ।		
+118	118
+S1 The function mapping from a set of pixels to an object identity is very complicated .	पिक्सेल के सेट से लेकर एक वस्तु पहचान तक फंक्शन मैपिंग बेहद जटिल है।
+NP2 The function mapping from a set of pixels to an object identity	पिक्सेल के एक सेट से लेकर एक वस्तु पहचान तक का समारोह मैपिंग
+NP3 The function mapping	फंक्शन मैपिंग
+PP7 from a set of pixels to an object identity	पिक्सेल के सेट से लेकर एक वस्तु पहचान तक
+NP9 a set of pixels to an object identity	एक वस्तु पहचान के लिए पिक्सेल का सेट
+NP10 a set	एक सेट
+PP13 of pixels to an object identity	एक वस्तु पहचान के लिए पिक्सेल का
+NP15 pixels to an object identity	एक वस्तु पहचान के लिए पिक्सेल
+NP16 pixels	पिक्सेल
+NNS17 pixels	पिक्सेल
+PP18 to an object identity	एक वस्तु पहचान के लिए
+NP20 an object identity	एक वस्तु पहचान
+VP24_LWG is	है।
+ADJP26 very complicated	बहुत जटिल
+

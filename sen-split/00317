@@ -1,0 +1,44 @@
+----
+00318	The neocognitron (Fukushima, 1980) introduced a powerful model architecture for processing images that was inspired by the structure of the mammalian visual system and later became the basis for the modern convolutional network (LeCun et al., 1998b), as we will see in section 9.10.	 नवोन्मेष ( Fukushima , 1980 ) ने स्तनधारी दृश्य प्रणाली की संरचना से प्रेरित छवियों के प्रसंस्करण के लिए एक शक्तिशाली मॉडल वास्तुकला की शुरुआत की और बाद में आधुनिक संयुग्मन नेटवर्क ( LeCun et al . 9 , 1998 ) का आधार बना ।		
+317	317
+S1 The neocognitron ( Fukushima , 1980 ) introduced a powerful model architecture for processing images that was inspired by the structure of the mammalian visual system and later became the basis for the modern convolutional network ( LeCun et al. , 1998b ) , as we will see in section 9.10 .	न्यूकोकैंट्रन (फुकुशिमा, 1980) ने प्रसंस्करण की छवियों के लिए एक शक्तिशाली मॉडल वास्तुकला पेश किया, जो मम्मेलिन दृश्य प्रणाली के
+NP2 The neocognitron ( Fukushima , 1980 )	न्यूकोंक्शनर (फुकुशिमा, 1980)
+,7 ,	,
+VP10_LWG introduced later became	बाद में पेश किया गया पेश
+NP13 a powerful model architecture	एक शक्तिशाली मॉडल वास्तुकला
+PP18 for processing images that was inspired by the structure of the mammalian visual system	स्तन प्रसंस्करण के लिए जो स्तनपायी दृश्य प्रणाली के संरचना से प्रेरित थे
+NP20 processing images that was inspired by the structure of the mammalian visual system	स्तन प्रसंस्करण जो स्तनधारी दृश्य प्रणाली के संरचना से प्रेरित थे
+NP21 processing images	छवियों का प्रसंस्करण
+NNS23 images	छवियां
+SBAR24 that was inspired by the structure of the mammalian visual system	यह मम्मेलिया दृश्य प्रणाली के ढांचे से प्रेरित था
+WHNP25 that	वह
+S27 was inspired by the structure of the mammalian visual system	स्तनधारी दृश्य प्रणाली के ढांचे से प्रेरित थे
+VP28_LWG was inspired	प्रेरित था।
+PP32 by the structure of the mammalian visual system	स्तनधारी दृश्य प्रणाली की संरचना से
+NP34 the structure of the mammalian visual system	स्तनधारी दृश्य प्रणाली की संरचना
+NP35 the structure	संरचना
+PP38 of the mammalian visual system	स्तनधारी दृश्य प्रणाली का
+NP40 the mammalian visual system	स्तनधारी दृश्य प्रणाली
+CC45 and	और
+VP11 introduced a powerful model architecture for processing images that was inspired by the structure of the mammalian visual system	पेश की गई छवियों को प्रसंस्करण के लिए एक शक्तिशाली मॉडल वास्तुकला पेश की गई जो मम्मेलिया दृश्य प्रणाली के ढांचे से प्रेरित थी
+VP46 later became the basis for the modern convolutional network ( LeCun et al. , 1998b ) , as we will see in section 9.10	बाद में आधुनिक संविलियन नेटवर्क (लेकन एट अल., 1998b) के लिए आधार बन गया, क्योंकि हम धारा 9.20 में देखेंगे
+ADVP47 later	बाद में
+NP50 the basis	आधार
+PP53 for the modern convolutional network ( LeCun et al. , 1998b )	आधुनिक संविलियन नेटवर्क के लिए (लेकन एट अल., 1998b)
+NP55 the modern convolutional network ( LeCun et al. , 1998b )	आधुनिक परिवर्तनशील नेटवर्क (लेकन एट अल., 1998b)
+PRN60 ( LeCun et al. , 1998b )	(लेकन एट अल।, 1998b)
+NP62 LeCun et al. , 1998b	लेकन एट अल., 1998b
+NP63 LeCun et al.	लेकन एट अल।
+NP64 LeCun	लेकन
+ADVP66 et al.	एट अल।
+,69 ,	,
+NP70 1998b	1998b
+NNS71 1998b	1998b
+,73 ,	,
+SBAR74 as we will see in section 9.10	जैसा कि हम धारा 9.20 में देखेंगे
+S76 we will see in section 9.10	हम धारा 9.20 में देखेंगे
+NP77 we	हम
+VP79_LWG will see	देखेंगे।
+PP83 in section 9.10	धारा 9.20 में
+NP85 section 9.10	धारा 9.20
+

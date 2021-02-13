@@ -1,0 +1,24 @@
+----
+0013	The hierarchy of concepts enables the computer to learn complicated concepts by building them out of simpler ones.	 अवधारणाओं का पदानुक्रम कंप्यूटर को जटिल अवधारणाओं को सरल अवधारणाओं से निर्मित करके सीखने में सक्षम बनाता है .		
+12	12
+S1 The hierarchy of concepts enables the computer to learn complicated concepts by building them out of simpler ones .	अवधाराओं की प्रवृत्ति कंप्यूटर को सरल लोगों से बाहर बनाकर जटिल अवधाराओं को सीखने में सक्षम बनाती है।
+NP2 The hierarchy of concepts	अवधाराओं की रेखा
+NP3 The hierarchy	पदानुक्रम
+PP6 of concepts	अवधाराओं की
+NP8 concepts	अवधारणाएँ
+NNS9 concepts	अवधारणाएँ
+VP10_LWG enables	सक्षम
+NP12 the computer	कंप्यूटर
+S15 to learn complicated concepts by building them out of simpler ones	इन्हें साधारण लोगों से बनाकर सीखने के लिए जटिल अवधाराएं
+VP16_LWG to learn	सीखने के लिए।
+NP20 complicated concepts	जटिल परिकल्पनाएं
+NNS22 concepts	अवधारणाएँ
+PP23 by building them out of simpler ones	उन्हें सरल लोगों से बनाकर
+S25 building them out of simpler ones	उन्हें सरल लोगों से बनाना
+VP26_LWG building out	बिल्डिंग आउट
+NP28 them	उन्हें
+PRT30 out	बाहर
+PP32 of simpler ones	सरल वालों की
+NP34 simpler ones	सरल वाले
+NNS36 ones	वाले।
+

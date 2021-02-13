@@ -1,0 +1,25 @@
+----
+00139	It has nothing to do with the content of the input specically, but it helps the model to organize its processing.	 isakA inaputa kI sAmagrI ke sAWa viSeRa rUpa se koI saMbaMXa nahIM hE , lekina yaha moYdala ko apane prasaMskaraNa ko vyavasWiwa karane meM maxaxa karawA hE .		
+138	138
+S1 It has nothing to do with the content of the input specically , but it helps the model to organize its processing .	isakA viSeRa rUpa se inaputa kI sAmagrI se koI lenA-xenA nahIM hE, lekina yaha moYdala ko isake prosesiMga kA Ayojana karane meM maxaxa karawA hE
+S2 It has nothing to do with the content of the input specically	isakA inaputa kI sAmagrI se koI lenA-xenA nahIM hE KAsakara
+NP3 It	yaha
+VP5_LWG has	usake pAsa hE
+NP7 nothing to do with the content of the input specically	inaputa kI sAmagrI se koI lenA-xenA nahIM
+S9 to do with the content of the input specically	inaputa kI sAmagrI se karanA viSeRa rUpa se
+VP10_LWG to do	karane ke lie
+PP14 with the content of the input specically	inaputa kI sAmagrI ke sAWa viSeRa rUpa se
+NP16 the content of the input specically	inaputa kI sAmagrI KAsa
+NP17 the content	sAmagrI
+PP20 of the input specically	inaputa kA viSeRa rUpa se
+NP22 the input specically	viSeRa rUpa se inaputa
+,26 ,	,
+CC27 but	lekina
+S28 it helps the model to organize its processing	yaha moYdala ko isake prasaMskaraNa kA Ayojana karane meM maxaxa karawA hE
+NP29 it	yaha
+VP31_LWG helps	maxaxa karawA hE
+NP33 the model	moYdala
+S36 to organize its processing	isake prasaMskaraNa kA Ayojana karane ke lie
+VP37_LWG to organize	Ayojana ke lie
+NP41 its processing	isakA prasaMskaraNa
+

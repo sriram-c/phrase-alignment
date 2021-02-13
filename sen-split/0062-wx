@@ -1,0 +1,23 @@
+----
+0063	For example, suppose that we would like to write a program to detect cars in photographs.	 uxAharaNa ke lie , mAna lIjie ki hama wasvIroM meM kAroM kA pawA lagAne ke lie eka progrAma liKanA cAheMge .		
+62	62
+S1 For example , suppose that we would like to write a program to detect cars in photographs .	uxAharaNa ke lie, mAna lIjie ki hama PotogrAPa meM kAroM kA pawA lagAne ke lie eka kAryakrama liKanA cAheMge
+PP2 For example	uxAharaNa ke lie
+NP4 example	uxAharaNa
+,6 ,	,
+VP7_LWG suppose	mAna lIjie
+SBAR9 that we would like to write a program to detect cars in photographs	ki hama PotogrAPa meM kAroM kA pawA lagAne ke lie eka kAryakrama liKanA cAheMge
+S11 we would like to write a program to detect cars in photographs	hama PotogrAPa meM kAroM kA pawA lagAne ke lie eka kAryakrama liKanA cAheMge
+NP12 we	hama
+VP14_LWG would like	pasaMxa kareMge
+S18 to write a program to detect cars in photographs	PotogrAPa meM kAroM kA pawA lagAne ke lie eka kAryakrama liKane ke lie
+VP19_LWG to write	liKane ke lie
+NP23 a program	eka kAryakrama
+S26 to detect cars in photographs	wasvIroM meM kAroM kA pawA lagAne ke lie
+VP27_LWG to detect	kA pawA lagAne ke lie
+NP31 cars	kAreM
+NNS32 cars	kAreM
+PP33 in photographs	wasvIroM meM
+NP35 photographs	wasvIreM
+NNS36 photographs	wasvIreM
+

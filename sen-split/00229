@@ -1,0 +1,20 @@
+----
+00230	INTRODUCTION chapters to read, ﬁgure 1.6 provides a ﬂowchart showing the high-level organization of the book.	 अध्यायों को पढ़ने के लिए , आंकड़ा 1 . 6 एक प्रवाह संचित्र प्रदान करता है जो पुस्तक के उच्च स्तर के संगठन को दर्शाता है ।		
+229	229
+S1 INTRODUCTION chapters to read , ﬁgure 1.6 provides a ﬂowchart showing the high - level organization of the book .	पढ़ने के लिए परिचय, आंकड़ा 1.6 पुस्तक के उच्च-स्तरीय संगठन को दिखाने वाला प्रवाहपत्र प्रदान करता है।
+NP2 INTRODUCTION chapters to read , ﬁgure 1.6	पढ़ने के लिए अध्याय, आंकड़ा 1.6
+NNS4 chapters	अध्याय
+S5 to read , ﬁgure 1.6	पढ़ने के लिए, आंकड़ा 1.6
+VP6_LWG to read ﬁgure	आंकड़ा पढ़ने के लिए
+,10 ,	,
+NP12 1.6	1.6
+VP14_LWG provides	प्रदान करता है
+NP16 a ﬂowchart showing the high - level organization of the book	पुस्तक के उच्च स्तरीय संगठन को दिखा रहा एक फ्लोचार्ट
+NP17 a ﬂowchart	एक फ्लोचार्ट
+VP20_LWG showing	दिखा रहा है।
+NP22 the high - level organization of the book	पुस्तक का उच्च स्तरीय संगठन
+NP23 the high - level organization	उच्च स्तरीय संगठन
+NML25 high - level	उच्च - स्तर
+PP30 of the book	किताब की
+NP32 the book	किताब
+

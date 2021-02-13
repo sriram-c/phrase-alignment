@@ -1,0 +1,41 @@
+----
+00268	One idea is that the brain provides a proof by example that intelligent behavior is possible, and a conceptually straightforward path to building intelligence is to reverse engineer the computational principles behind the brain and duplicate its functionality.	 eka vicAra yaha hE ki maswiRka uxAharaNa ke xvArA eka sabUwa praxAna karawA hE ki buxXimAna vyavahAra saMBava hE , Ora buxXi ke nirmANa ke lie eka vEcArika rUpa se sIXA rAswA hE maswiRka ke pICe kampyUteSanala sixXAMwoM ko rivarsa iMjIniyara Ora usakI kAryakRamawA dupliketa .		
+267	267
+S1 One idea is that the brain provides a proof by example that intelligent behavior is possible , and a conceptually straightforward path to building intelligence is to reverse engineer the computational principles behind the brain and duplicate its functionality .	eka vicAra yaha hE ki maswiRka eka pramANa praxAna karawA hE ki buxXijIvI vyavahAra saMBava hE, Ora buxXi ke nirmANa ke lie eka vyAvahArika rUpa se sIXA rAswA iMjIniyara ko ma
+S2 One idea is that the brain provides a proof by example that intelligent behavior is possible	eka vicAra yaha hE ki maswiRka uxAharaNa se pramANa praxAna karawA hE ki buxXimAna vyavahAra saMBava hE
+NP3 One idea	eka vicAra
+VP6_LWG is	hE
+SBAR8 that the brain provides a proof by example that intelligent behavior is possible	yaha maswiRka uxAharaNa se pramANa praxAna karawA hE ki buxXimAna vyavahAra saMBava hE
+S10 the brain provides a proof by example that intelligent behavior is possible	maswiRka uxAharaNa se pramANa praxAna karawA hE ki buxXimAna vyavahAra saMBava hE
+NP11 the brain	maswiRka
+VP14_LWG provides	praxAna karawA hE
+NP16 a proof	eka pramANa
+PP19 by example	uxAharaNa se
+NP21 example	uxAharaNa
+SBAR23 that intelligent behavior is possible	vaha buxXimAna vyavahAra saMBava hE
+S25 intelligent behavior is possible	buxXimAna vyavahAra saMBava
+NP26 intelligent behavior	buxXimAna vyavahAra
+VP29_LWG is	hE
+ADJP31 possible	saMBava
+,33 ,	,
+CC34 and	Ora
+S35 a conceptually straightforward path to building intelligence is to reverse engineer the computational principles behind the brain and duplicate its functionality	buxXi ke nirmANa ke lie eka vyAvahArika rUpa se sIXA rAswA iMjIniyara ko maswiRka ke pICe ke kaMpyUtara sixXAMwoM ko ultA karanA Ora isakI suviXA ko xoharAnA
+NP36 a conceptually straightforward path to building intelligence	buxXi ke nirmANa ke lie eka vyAvahArika rUpa se sIXA rAswA
+NP37 a conceptually straightforward path	eka vyAvahArika rUpa se sIXA rAswA
+ADJP39 conceptually straightforward	vyAvahArika rUpa se sIXA
+PP43 to building intelligence	buxXi banAne ke lie
+NP45 building intelligence	buxXi kA nirmANa
+VP48_LWG is	hE
+S50 to reverse engineer the computational principles behind the brain and duplicate its functionality	iMjIniyara ko maswiRka ke pICe ke kaMpyUtara sixXAMwoM ko ultA karane Ora isakI suviXA ko xoharAne ke lie
+VP51_LWG to reverse engineer duplicate	rivarsa iMjIniyara dupliketa karane ke lie
+ADVP53 reverse	ultA
+NP58 the computational principles behind the brain	maswiRka ke pICe gaNiwIya sixXAMwa
+NP59 the computational principles	kampyUteSanala sixXAMwa
+NNS62 principles	sixXAMwa
+PP63 behind the brain	maswiRka ke pICe
+NP65 the brain	maswiRka
+CC68 and	Ora
+VP56 engineer the computational principles behind the brain	iMjIniyara maswiRka ke pICe kampyUteSanala sixGAMwoM kA iMjIniyara
+VP69 duplicate its functionality	isakI suviXA ko duplIketa kareM
+NP71 its functionality	isakI suviXA
+

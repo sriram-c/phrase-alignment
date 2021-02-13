@@ -1,0 +1,26 @@
+----
+00418	The “NIST” stands for National Institute of Standards and Technology, the agency that originally collected this data.	 “NIST” राष्ट्रीय मानक और प्रौद्योगिकी संस्थान , एजेंसी के लिए है जो मूल रूप से इस डेटा को एकत्र किया .		
+417	417
+S1 The “ NIST ” stands for National Institute of Standards and Technology , the agency that originally collected this data .	“एनआईएसटी” नेशनल इंस्टीट्यूट ऑफ स्टैंडर्ड एंड टेक्नोलॉजी के लिए खड़ा है, जिस एजेंसी ने मूल रूप से इस डेटा को एकत्रित किया था।
+NP2 The “ NIST ”	“ NIST”
+VP7_LWG stands	खड़े होकर खड़े हो जाते हैं।
+PP9 for National Institute of Standards and Technology , the agency that originally collected this data	नेशनल इंस्टीट्यूट ऑफ स्टैंडर्ड एंड टेक्नोलॉजी के लिए, एजेंसी जिसने मूल रूप से इस डेटा को एकत्रित किया
+NP11 National Institute of Standards and Technology , the agency that originally collected this data	नेशनल इंस्टीट्यूट ऑफ स्टैंडर्ड एंड टेक्नोलॉजी, एजेंसी जिसने मूल रूप से इस डेटा को एकत्रित किया
+NP12 National Institute of Standards and Technology	नेशनल इंस्टीट्यूट ऑफ स्टैंडर्ड एंड टेक्नोलॉजी
+NP13 National Institute	राष्ट्रीय संस्थान
+PP16 of Standards and Technology	मानकों और प्रौद्योगिकी के
+NP18 Standards and Technology	मानकों और प्रौद्योगिकी
+CC20 and	और
+NNPS19 Standards	मानकों
+NNP21 Technology	तकनीक
+,22 ,	,
+NP23 the agency that originally collected this data	एजेंसी जिसने मूल रूप से इस डेटा को एकत्रित किया
+NP24 the agency	एजेंसी
+SBAR27 that originally collected this data	जिसने मूल रूप से इस डेटा को एकत्रित किया
+WHNP28 that	वह
+S30 originally collected this data	मूल रूप से इकट्ठा किया गया ये डेटा
+ADVP31 originally	मूल रूप से
+VP33_LWG collected	एकत्रित
+NP35 this data	यह आंकड़ा
+NNS37 data	डेटा
+

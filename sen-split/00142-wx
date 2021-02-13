@@ -1,0 +1,46 @@
+----
+00143	Just as two equivalent computer programs will have dierent lengths depending on which language the program is written in, the same function may be drawn as a owchart with dierent depths depending on which functions we allow to be used as individual steps in the owchart.	 jisa prakAra xo samawulya kaMpyUtara progrAmoM kI laMbAI Binna howI hE , yaha nirBara karawA hE ki progrAma kisa BARA meM liKA gayA hE , usI prakAra eka hI Palana ko viBinna gaharAiyoM ke sAWa Plo cArta ke rUpa meM KIMcA jA sakawA hE , jisa para nirBara karawA hE ki hama pravAha saMciwra meM alaga - alaga caraNoM ke rUpa meM prayoga kI anumawi xewe hEM 		
+142	142
+S1 Just as two equivalent computer programs will have dierent lengths depending on which language the program is written in , the same function may be drawn as a owchart with dierent depths depending on which functions we allow to be used as individual steps in the owchart .	jisa waraha xo samakakRa kaMpyUtara kAryakramoM meM alaga-alaga laMbAI hogI, isake AXAra para ki kAryakrama kisa BARA meM liKA gayA hE, usI samAroha ko alaga-alaga ga
+SBAR2 Just as two equivalent computer programs will have dierent lengths depending on which language the program is written in	jisa waraha xo samakakRa kaMpyUtara kAryakramoM meM alaga-alaga laMbAI hogI, jisase kAryakrama meM liKA gayA hE,
+ADVP3 Just	basa
+S6 two equivalent computer programs will have dierent lengths depending on which language the program is written in	xo samakakRa kaMpyUtara kAryakramoM meM alaga-alaga laMbAI hogI, jisa para kAryakrama meM liKA gayA hE, isa para nirBara hogA
+NP7 two equivalent computer programs	xo samakakRa kaMpyUtara kAryakrama
+NNS11 programs	kAryakrama
+VP12_LWG will have	hogA
+NP16 dierent lengths	alaga-alaga laMbAI
+NNS18 lengths	laMbAI
+PP19 depending on which language the program is written in	kisa BARA para liKA hE kAryakrama
+PP21 on which language the program is written in	kisa BARA para kAryakrama liKA hE
+SBAR23 which language the program is written in	kAryakrama meM kOna sI BARA liKI jAwI hE
+WHNP24 which language	kOna sI BARA
+S27 the program is written in	kAryakrama meM liKA hE
+NP28 the program	kAryakrama
+VP31_LWG is written	liKA hE
+PP35 in	meM
+,37 ,	,
+NP38 the same function	vahI samAroha
+VP42_LWG may be drawn	KIMce jA sakawe hEM
+PP48 as a owchart with dierent depths	alaga-alaga gaharAI ke sAWa eka PlocArta ke rUpa meM
+NP50 a owchart with dierent depths	alaga-alaga gaharAI ke sAWa eka PlocArta
+NP51 a owchart	eka PlocArta
+PP54 with dierent depths	alaga-alaga gaharAI ke sAWa
+NP56 dierent depths	alaga-alaga gaharAI
+NNS58 depths	gaharAI
+PP59 depending on which functions we allow to be used as individual steps in the owchart	PlocArta meM hama kina kAryoM kA iswemAla vyakwigawa kaxamoM ke rUpa meM karane kI anumawi xewe hEM
+PP61 on which functions we allow to be used as individual steps in the owchart	jisa para hama PlocArta meM vyakwigawa kaxamoM ke rUpa meM iswemAla karane kI anumawi xewe hEM
+SBAR63 which functions we allow to be used as individual steps in the owchart	jina kAryoM kA upayoga hama pravAhaciwra meM vyakwigawa kaxamoM ke rUpa meM kiyA jAnA anumawi xewe hEM
+WHNP64 which functions	kOna sA kArya karawA hE
+NNS66 functions	samAroha
+S67 we allow to be used as individual steps in the owchart	hama PlocArta meM vyakwigawa kaxamoM ke rUpa meM iswemAla karane kI anumawi xewe hEM
+NP68 we	hama
+VP70_LWG allow	anumawi
+S72 to be used as individual steps in the owchart	PlocArta meM vyakwigawa kaxamoM ke rUpa meM iswemAla kiyA jAnA
+VP73_LWG to be used	iswemAla honA hE
+PP79 as individual steps in the owchart	PlocArta meM vyakwigawa kaxama ke rUpa meM
+NP81 individual steps in the owchart	PlocArta meM vyakwigawa kaxama
+NP82 individual steps	vyakwigawa kaxama
+NNS84 steps	kaxama
+PP85 in the owchart	PlocArta meM
+NP87 the owchart	PlocArta
+

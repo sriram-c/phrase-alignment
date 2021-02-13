@@ -1,0 +1,20 @@
+----
+61
+S1 For_1 many_2 tasks_3 ,_4 however_5 ,_6 it_7 is_8 diﬃcult_9 to_10 know_11 what_12 features_13 should_14 be_15 extracted_16 ._17
+PP2 For_1 many_2 tasks_3
+NP4 many_2 tasks_3
+NNS6 tasks_3
+,7 ,_4
+ADVP8 however_5
+,10 ,_6
+NP11 it_7
+VP13_LWG is_8
+ADJP15 diﬃcult_9 to_10 know_11 what_12 features_13 should_14 be_15 extracted_16
+S17 to_10 know_11 what_12 features_13 should_14 be_15 extracted_16
+VP18_LWG to_10 know_11
+SBAR22 what_12 features_13 should_14 be_15 extracted_16
+WHNP23 what_12
+S25 features_13 should_14 be_15 extracted_16
+NP26 features_13
+NNS27 features_13
+VP28_LWG should_14 be_15 extracted_16

@@ -1,0 +1,39 @@
+----
+00326	Also, while neuroscience has successfully inspired several neural network architectures, we do not yet know enough about biological learning for neuroscience to oer much guidance for the learning algorithms we use to train these architectures.	 isake alAvA , jabaki waMwrikA vijFAna saPalawApUrvaka kaI waMwrikA netavarka vAswukalA ko preriwa kiyA hE , hama aBI waka waMwrikA vijFAna ke lie jEvika sIKane ke bAre meM paryApwa pawA nahIM hE sIKane elgorixama ke lie bahuwa mArgaxarSana kI peSakaSa karane ke lie hama ina vAswukalAoM ko praSikRiwa karane ke lie upayoga karawe hEM .		
+325	325
+S1 Also , while neuroscience has successfully inspired several neural network architectures , we do not yet know enough about biological learning for neuroscience to oer much guidance for the learning algorithms we use to train these architectures .	sAWa hI, jahAM nyUrosAiMsa ne kaI waMwrikA netavarka vAswukalAoM ko saPalawApUrvaka preriwa kiyA hE, vahIM hameM aBI waka nyUrosAiMsa ke lie jEvika sI
+ADVP2 Also	sAWa hI
+,4 ,	,
+SBAR5 while neuroscience has successfully inspired several neural network architectures	jabaki nyUrosAiMsa ne kaI waMwrikA netavarka vAswukalAoM ko saPalawApUrvaka preriwa kiyA hE
+S7 neuroscience has successfully inspired several neural network architectures	nyUrosAiMsa ne kaI waMwrikA netavarka vAswukalAoM ko saPalawApUrvaka preriwa kiyA hE
+NP8 neuroscience	nyUrosAiMsa
+VP10_LWG has successfully inspired	saPalawApUrvaka preriwa kiyA hE
+ADVP12 successfully	saPalawApUrvaka
+NP16 several neural network architectures	kaI waMwrikA netavarka vAswukalAja
+NML18 neural network	waMwrikA netavarka
+NNS21 architectures	vAswukAroM
+,22 ,	,
+NP23 we	hama
+VP25_LWG do not yet know enough	aBI waka paryApwa nahIM pawA
+ADVP28 yet	aBI waka
+ADVP32 enough about biological learning	jEvika sIKa ke bAre meM paryApwa
+PP34 about biological learning	jEvika sIKa ke bAre meM
+NP36 biological learning	jEvika sIKa
+PP39 for neuroscience	nyUrosAiMsa ke lie
+NP41 neuroscience	nyUrosAiMsa
+S43 to oer much guidance for the learning algorithms we use to train these architectures	ina vAswukalAoM ko praSikRiwa karane ke lie hama jiwane SikRaNa elgorixama kA upayoga karawe hEM, usake lie bahuwa aXika mArgaxarSana
+VP44_LWG to oer	peSakaSa ke lie
+NP48 much guidance	bahuwa mArgaxarSana
+PP51 for the learning algorithms we use to train these architectures	sIKane ke elgorixama ke lie hama ina vAswukalAoM ko praSikRiwa karane ke lie upayoga karawe hEM
+NP53 the learning algorithms we use to train these architectures	ina vAswukAroM ko praSikRiwa karane ke lie hama jina sIKiMga elgorixama kA upayoga karawe hEM
+NP54 the learning algorithms	sIKane ke elgorixama
+NNS57 algorithms	elgorixama
+SBAR58 we use to train these architectures	ina vAswukAroM ko praSikRiwa karane ke lie hama upayoga karawe hEM
+S59 we use to train these architectures	ina vAswukAroM ko praSikRiwa karane ke lie hama upayoga karawe hEM
+NP60 we	hama
+VP62_LWG use	upayoga
+S64 to train these architectures	ina vAswukAroM ko praSikRiwa karane ke lie
+VP65_LWG to train	treniMga ke lie
+NP69 these architectures	ye vAswukalA
+NNS71 architectures	vAswukAroM
+

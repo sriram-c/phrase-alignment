@@ -1,0 +1,30 @@
+----
+00348	This is the idea that each input to a system should be represented by many features, and each feature should be involved in the representation of many possible inputs.	 यह एक विचार है कि एक सिस्टम के प्रत्येक इनपुट को कई विशेषताओं द्वारा प्रतिनिधित्व किया जाना चाहिए , और प्रत्येक विशेषता को कई संभव आदानों के प्रतिनिधित्व में शामिल किया जाना चाहिए .		
+347	347
+S1 This is the idea that each input to a system should be represented by many features , and each feature should be involved in the representation of many possible inputs .	यह विचार है कि किसी सिस्टम के प्रत्येक इनपुट का प्रतिनिधित्व कई फीचर्स द्वारा किया जाना चाहिए, और प्रत्येक फीचर कई संभावित इनपुट के प्रतिनिधित्व में
+S2 This is the idea that each input to a system should be represented by many features	यह विचार है कि किसी सिस्टम के प्रत्येक इनपुट का कई फीचर्स का प्रतिनिधित्व होना चाहिए
+NP3 This	यह
+VP5_LWG is	है।
+NP7 the idea	विचार
+SBAR10 that each input to a system should be represented by many features	कि किसी सिस्टम को प्रत्येक इनपुट का कई फीचर्स का प्रतिनिधित्व होना चाहिए
+S12 each input to a system should be represented by many features	किसी सिस्टम को प्रत्येक इनपुट का कई फीचर्स का प्रतिनिधित्व होना चाहिए
+NP13 each input to a system	एक सिस्टम को प्रत्येक इनपुट
+NP14 each input	प्रत्येक इनपुट
+PP17 to a system	एक प्रणाली को
+NP19 a system	एक प्रणाली
+VP22_LWG should be represented	प्रतिनिधित्व होना चाहिए
+PP28 by many features	कई फीचर्स से
+NP30 many features	कई फीचर्स
+NNS32 features	फीचर्स
+,33 ,	,
+CC34 and	और
+S35 each feature should be involved in the representation of many possible inputs	कई संभावित इनपुट के प्रतिनिधित्व में शामिल होना चाहिए प्रत्येक सुविधा
+NP36 each feature	प्रत्येक विशेषता
+VP39_LWG should be involved	शामिल होना चाहिए
+PP45 in the representation of many possible inputs	कई संभावित इनपुट के प्रतिनिधित्व में
+NP47 the representation of many possible inputs	कई संभावित इनपुट का प्रतिनिधित्व
+NP48 the representation	प्रतिनिधित्व
+PP51 of many possible inputs	कई संभावित इनपुटों की
+NP53 many possible inputs	कई संभावित इनपुट
+NNS56 inputs	इनपुट
+

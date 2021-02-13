@@ -1,0 +1,28 @@
+----
+00388	One may wonder why deep learning has only recently become recognized as a crucial technology even though the ﬁrst experiments with artiﬁcial neural networks were conducted in the 1950s.	 आश्चर्य हो सकता है कि हाल ही में गहन अध्ययन को एक महत्वपूर्ण प्रौद्योगिकी के रूप में मान्यता क्यों दी गई है , हालांकि कृत्रिम तंत्रिका नेटवर्कों के साथ प्रथम प्रयोग 1950 के दशक में किए गए थे ।		
+387	387
+S1 One may wonder why deep learning has only recently become recognized as a crucial technology even though the ﬁrst experiments with artiﬁcial neural networks were conducted in the 1950s .	एक आश्चर्य हो सकता है कि गहरी सीख केवल हाल ही में महत्वपूर्ण तकनीक के रूप में मान्य हो गई है, भले ही 1950 के दशक में कृत्रिम तंत्रिका नेटवर्क
+NP2 One	एक
+VP4_LWG may wonder	आश्चर्य हो सकता है
+SBAR8 why deep learning has only recently become recognized as a crucial technology even though the ﬁrst experiments with artiﬁcial neural networks were conducted in the 1950s	क्यों गहरी सीख हाल ही में महत्वपूर्ण तकनीक के रूप में मान्य हो गई है भले ही 1950 के दशक में कृत्रिम तंत्रिका नेटवर्क के साथ पहले प्रयोग किए ग
+WHADVP9 why	क्यों
+S11 deep learning has only recently become recognized as a crucial technology even though the ﬁrst experiments with artiﬁcial neural networks were conducted in the 1950s	गहरी सीख हाल ही में महत्वपूर्ण तकनीक के रूप में मान्य हो गई है भले ही 1950 के दशक में कृत्रिम तंत्रिका नेटवर्क के साथ पहले प्रयोग किए गए
+NP12 deep learning	गहरी सीख
+VP15_LWG has only recently become recognized	हाल ही में मान्यता प्राप्त हुई है
+ADVP17 only	केवल
+ADVP20 recently	हाल ही में
+PP25 as a crucial technology	एक महत्वपूर्ण तकनीक के रूप में
+NP27 a crucial technology	एक महत्वपूर्ण तकनीक
+SBAR31 even though the ﬁrst experiments with artiﬁcial neural networks were conducted in the 1950s	भले ही 1950 के दशक में कृत्रिम तंत्रिका नेटवर्क के साथ पहले प्रयोग किए गए
+S34 the ﬁrst experiments with artiﬁcial neural networks were conducted in the 1950s	कृत्रिम तंत्रिका नेटवर्क के साथ पहले प्रयोग 1950 के दशक में किए गए
+NP35 the ﬁrst experiments with artiﬁcial neural networks	कृत्रिम तंत्रिका नेटवर्क के साथ पहला प्रयोग
+NP36 the ﬁrst experiments	पहले प्रयोग
+NNS39 experiments	प्रयोग
+PP40 with artiﬁcial neural networks	कृत्रिम तंत्रिका नेटवर्क के साथ
+NP42 artiﬁcial neural networks	कृत्रिम तंत्रिका नेटवर्क
+NNS45 networks	नेटवर्क
+VP46_LWG were conducted	आयोजित किया गया
+PP50 in the 1950s	1950 के दशक में
+NP52 the 1950s	1950 के दशक में
+NNS54 1950s	1950 के दशक में
+

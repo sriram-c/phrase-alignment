@@ -1,0 +1,15 @@
+----
+50
+S1 However_1 ,_2 it_3 can_4 not_5 inﬂuence_6 how_7 features_8 are_9 deﬁned_10 in_11 any_12 way_13 ._14
+ADVP2 However_1
+,4 ,_2
+NP5 it_3
+VP7_LWG can_4 not_5 inﬂuence_6
+SBAR12 how_7 features_8 are_9 deﬁned_10 in_11 any_12 way_13
+WHADVP13 how_7
+S15 features_8 are_9 deﬁned_10 in_11 any_12 way_13
+NP16 features_8
+NNS17 features_8
+VP18_LWG are_9 deﬁned_10
+PP22 in_11 any_12 way_13
+NP24 any_12 way_13

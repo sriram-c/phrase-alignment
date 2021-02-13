@@ -1,0 +1,22 @@
+----
+288
+S1 The_1 adaptive_2 linear_3 element_4 (_5 ADALINE_6 )_7 ,_8 which_9 dates_10 from_11 about_12 the_13 same_14 time_15 ,_16 simply_17 returned_18 the_19 value_20 of_21 f_22
+NP2 The_1 adaptive_2 linear_3 element_4 (_5 ADALINE_6 )_7 ,_8 which_9 dates_10 from_11 about_12 the_13 same_14 time_15 ,_16
+NP3 The_1 adaptive_2 linear_3 element_4 (_5 ADALINE_6 )_7
+NP4 The_1 adaptive_2 linear_3 element_4
+NP10 ADALINE_6
+,13 ,_8
+SBAR14 which_9 dates_10 from_11 about_12 the_13 same_14 time_15
+WHNP15 which_9
+S17 dates_10 from_11 about_12 the_13 same_14 time_15
+VP18_LWG dates_10
+PP20 from_11 about_12 the_13 same_14 time_15
+PP22 about_12 the_13 same_14 time_15
+NP24 the_13 same_14 time_15
+,28 ,_16
+VP29_LWG simply_17 returned_18
+ADVP30 simply_17
+NP33 the_19 value_20 of_21 f_22
+NP34 the_19 value_20
+PP37 of_21 f_22
+NP39 f_22

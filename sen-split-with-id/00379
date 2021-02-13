@@ -1,0 +1,43 @@
+----
+379
+S1 Geoﬀrey_1 Hinton_2 showed_3 that_4 a_5 kind_6 of_7 neural_8 network_9 called_10 a_11 deep_12 belief_13 network_14 could_15 be_16 eﬃciently_17 trained_18 using_19 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42 ._43
+NP2 Geoﬀrey_1 Hinton_2
+VP5_LWG showed_3
+SBAR7 that_4 a_5 kind_6 of_7 neural_8 network_9 called_10 a_11 deep_12 belief_13 network_14 could_15 be_16 eﬃciently_17 trained_18 using_19 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+S9 a_5 kind_6 of_7 neural_8 network_9 called_10 a_11 deep_12 belief_13 network_14 could_15 be_16 eﬃciently_17 trained_18 using_19 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+NP10 a_5 kind_6 of_7 neural_8 network_9
+NP11 a_5 kind_6
+PP14 of_7 neural_8 network_9
+NP16 neural_8 network_9
+VP19_LWG called_10
+SBAR21 a_11 deep_12 belief_13 network_14 could_15 be_16 eﬃciently_17 trained_18 using_19 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+S22 a_11 deep_12 belief_13 network_14 could_15 be_16 eﬃciently_17 trained_18 using_19 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+NP23 a_11 deep_12 belief_13 network_14
+VP28_LWG could_15 be_16 eﬃciently_17 trained_18
+ADVP32 eﬃciently_17
+S36 using_19 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+VP37_LWG using_19
+NP39 a_20 strategy_21 called_22 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+NP40 a_20 strategy_21
+VP43_LWG called_22
+NP45 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32 ,_33 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+NP46 greedy_23 layer-wise_24 pretraining_25 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32
+PRN50 (_26 Hinton_27 et_28 al._29 ,_30 2006_31 )_32
+NP52 Hinton_27 et_28 al._29 ,_30 2006_31
+NP53 Hinton_27 et_28 al._29
+NP54 Hinton_27
+ADVP56 et_28 al._29
+,59 ,_30
+NP60 2006_31
+,63 ,_33
+SBAR64 which_34 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+WHNP65 which_34
+S67 we_35 describe_36 in_37 more_38 detail_39 in_40 section_41 15.1_42
+NP68 we_35
+VP70_LWG describe_36
+PP72 in_37 more_38 detail_39 in_40 section_41 15.1_42
+NP74 more_38 detail_39 in_40 section_41 15.1_42
+NP75 more_38 detail_39
+PP78 in_40 section_41 15.1_42
+NP80 section_41 15.1_42
+NNS82 15.1_42

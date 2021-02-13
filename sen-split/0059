@@ -1,0 +1,24 @@
+----
+0060	For example, a useful feature for speaker identiﬁcation from sound is an estimate of the size of the speaker’s vocal tract.	 उदाहरण के लिए , ध्वनि से वक्ता की पहचान के लिए एक उपयोगी विशेषता वक्ता के स्वर तंत्र के आकार का अनुमान है ।		
+59	59
+S1 For example , a useful feature for speaker identiﬁcation from sound is an estimate of the size of the speaker ’s vocal tract .	उदाहरण के लिए, स्पीकर की पहचान के लिए उपयोगी विशेषता स्पीकर के मुखर मार्ग के आकार का अनुमान है।
+PP2 For example	उदाहरण के लिए
+NP4 example	उदाहरण
+,6 ,	,
+NP7 a useful feature for speaker identiﬁcation from sound	ध्वनि से स्पीकर की पहचान के लिए एक उपयोगी विशेषता
+NP8 a useful feature	एक उपयोगी विशेषता
+PP12 for speaker identiﬁcation from sound	ध्वनि से स्पीकर की पहचान के लिए
+NP14 speaker identiﬁcation from sound	स्पीकर की पहचान ध्वनि से
+NP15 speaker identiﬁcation	स्पीकर की पहचान
+PP18 from sound	ध्वनि से
+NP20 sound	आवाज
+VP22_LWG is	है।
+NP24 an estimate of the size of the speaker ’s vocal tract	स्पीकर के मुखर मार्ग के आकार का अनुमान
+NP25 an estimate	एक अनुमान
+PP28 of the size of the speaker ’s vocal tract	स्पीकर के मुखर मार्ग के आकार का
+NP30 the size of the speaker ’s vocal tract	स्पीकर की मुखर धारा का आकार
+NP31 the size	आकार
+PP34 of the speaker ’s vocal tract	स्पीकर की मुखर धारा
+NP36 the speaker ’s vocal tract	स्पीकर की मुखर धारा
+NML38 speaker ’s	स्पीकर की
+

@@ -1,0 +1,25 @@
+----
+00331	While some deep learning researchers cite neuroscience as an important source of inspiration, others are not concerned with neuroscience at all.	 jabaki kuCa gaharI sIKane ke SoXakarwA waMwrikA vijFAna ko preraNA ke eka mahawvapUrNa srowa ke rUpa meM uxXqwa karawe hEM , xUsaroM ko bilkula BI waMwrikA vijFAna se saMbaMXiwa nahIM hEM .		
+330	330
+S1 While some deep learning researchers cite neuroscience as an important source of inspiration , others are not concerned with neuroscience at all .	jahAM kuCa gaharI sIKa anusaMXAnakarwA nyUrosAiMsa ko preraNA kA mahawvapUrNa srowa bawAwe hEM, vahIM xUsare nyUrosAiMsa se bilkula ciMwiwa nahIM hEM
+SBAR2 While some deep learning researchers cite neuroscience as an important source of inspiration	jabaki kuCa gahana sIKa anusaMXAnakarwA nyUrosAiMsa ko preraNA ke mahawvapUrNa srowa ke rUpa meM uxXqwa karawe hEM
+S4 some deep learning researchers cite neuroscience as an important source of inspiration	kuCa gaharI sIKa anusaMXAnakarwAoM ne nyUrosAiMsa ko preraNA ke mahawvapUrNa srowa ke rUpa meM uxXqwa kiyA
+NP5 some deep learning researchers	kuCa gaharI sIKa anusaMXAnakarwAoM
+NML7 deep learning	gaharI sIKa
+NNS10 researchers	SoXakarwAoM
+VP11_LWG cite	uxXqwa
+NP13 neuroscience	nyUrosAiMsa
+PP15 as an important source of inspiration	preraNA ke mahawvapUrNa srowa ke rUpa meM
+NP17 an important source of inspiration	preraNA kA mahawvapUrNa srowa
+NP18 an important source	eka mahawvapUrNa srowa
+PP22 of inspiration	preraNA kI
+NP24 inspiration	preraNA
+,26 ,	,
+NP27 others	xUsare
+NNS28 others	xUsare
+VP29_LWG are not concerned	ciMwiwa nahIM hEM
+PP34 with neuroscience	nyUrosAiMsa ke sAWa
+NP36 neuroscience	nyUrosAiMsa
+PP38 at all	bilkula hI
+NP40 all	saBI
+

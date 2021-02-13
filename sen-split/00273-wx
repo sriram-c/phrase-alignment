@@ -1,0 +1,22 @@
+----
+00274	These models were designed to take a set of n input values x 1 , . .	 ina moYdaloM ko n inaputa mUlyoM kA eka seta lene ke lie dijZAina kiyA gayA WA x 1 , .		
+273	273
+S1 These models were designed to take a set of n input values x 1 , . .	ina moYdaloM ko ena inaputa mUlyoM kA seta lene ke lie dijAina kiyA gayA WA..
+S2 These models were designed to take a set of n input values x 1	ina moYdaloM ko ena inaputa mUlyoM kA seta lene ke lie dijAina kiyA gayA WA
+NP3 These models	ye moYdala
+NNS5 models	moYdala
+VP6_LWG were designed	We dijAina
+S10 to take a set of n input values x 1	ena inaputa mUlyoM kA seta lene ke lie x 1
+VP11_LWG to take	lene ke lie
+NP15 a set of n input values x 1	ena inaputa mUlyoM kA eka seta eksa 1
+NP16 a set	eka seta
+PP19 of n input values x 1	n inaputa ke mUlya x 1
+NP21 n input values x 1	n inaputa mUlyoM x 1
+NP22 n input values	n inaputa mUlya
+NNS25 values	mUlyoM
+PP26 x 1	eksa 1
+SYM27 x	eksa
+NP28 1	1
+,30 ,	,
+S31 .	..
+

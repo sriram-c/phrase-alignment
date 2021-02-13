@@ -1,0 +1,22 @@
+----
+00134	Sequential instructions oer great power because later instructions can refer back to the results of earlier instructions.	 anukramika anuxeSa mahAna Sakwi praxAna karawe hEM kyoMki bAxa ke anuxeSa pUrva nirxeSoM ke pariNAmoM ko vApasa saMxarBiwa kara sakawe hEM .		
+133	133
+S1 Sequential instructions oer great power because later instructions can refer back to the results of earlier instructions .	silasilevAra nirxeSa mahAna Sakwi praxAna karawe hEM kyoMki bAxa meM nirxeSa pahale ke nirxeSoM ke pariNAma para vApasa Beja sakawe hEM
+NP2 Sequential instructions	silasilevAra nirxeSa
+NNS4 instructions	nirxeSa
+VP5_LWG oer	oYPara
+NP7 great power	mahAna Sakwi
+SBAR10 because later instructions can refer back to the results of earlier instructions	kyoMki bAxa meM nirxeSa pahale ke nirxeSoM ke pariNAma para vApasa Beja sakawe hEM
+S12 later instructions can refer back to the results of earlier instructions	bAxa meM nirxeSa pahale ke nirxeSoM ke pariNAma para vApasa Beja sakawe hEM
+NP13 later instructions	bAxa meM nirxeSa
+NNS15 instructions	nirxeSa
+VP16_LWG can refer back	vApasa kara sakawe hEM saMxarBa
+PRT20 back	vApasa
+PP22 to the results of earlier instructions	pahale ke nirxeSoM ke pariNAmoM ke lie
+NP24 the results of earlier instructions	pahale ke nirxeSoM ke pariNAma
+NP25 the results	pariNAma
+NNS27 results	pariNAma
+PP28 of earlier instructions	pahale ke nirxeSoM kA
+NP30 earlier instructions	pahale ke nirxeSa
+NNS32 instructions	nirxeSa
+

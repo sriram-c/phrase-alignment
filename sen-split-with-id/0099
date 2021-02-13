@@ -1,0 +1,18 @@
+----
+99
+S1 Of_1 course_2 ,_3 it_4 can_5 be_6 very_7 diﬃcult_8 to_9 extract_10 such_11 high_12 -_13 level_14 ,_15 abstract_16 features_17 from_18 raw_19 data_20 ._21
+ADVP2 Of_1 course_2
+,5 ,_3
+NP6 it_4
+VP8_LWG can_5 be_6
+ADJP12 very_7 diﬃcult_8 to_9 extract_10 such_11 high_12 -_13 level_14 ,_15 abstract_16 features_17 from_18 raw_19 data_20
+S15 to_9 extract_10 such_11 high_12 -_13 level_14 ,_15 abstract_16 features_17 from_18 raw_19 data_20
+VP16_LWG to_9 extract_10
+NP20 such_11 high_12 -_13 level_14 ,_15 abstract_16 features_17 from_18 raw_19 data_20
+NP21 such_11 high_12 -_13 level_14 ,_15 abstract_16 features_17
+NML23 high_12 -_13 level_14
+,27 ,_15
+NNS29 features_17
+PP30 from_18 raw_19 data_20
+NP32 raw_19 data_20
+NNS34 data_20
