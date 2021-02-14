@@ -81,7 +81,45 @@ if __name__ == '__main__':
     #align smaller chunk translation to bigger chunk by applying logic
     align_chunk_logic(group_chunk, dic_root)
 
+    eng_chunk_list = []
+    hnd_chunk_list = []
+    for key in group_chunk:
+        ch = group_chunk[key]
+        for l in ch[-1]:
+            eng_chunk_list.append(l[1])
+            hnd_chunk_list.append(l[2])
 
+    eng_full_sen = ' '.join(chunk_sens[0][0][1])
+    hnd_full_sen = ' '.join(chunk_sens[0][0][3])
+
+    eng_chunk_list1 = []
+    hnd_chunk_list1 = []
+
+    print(eng_full_sen)
+    print(hnd_full_sen)
+
+    for wd in eng_chunk_list:
+        if(type(wd) == list):
+            if(len(wd) > 1):
+                eng_chunk_list1.append(' '.join(wd))
+        else:
+            eng_chunk_list1.append(wd)
+
+    for wd in hnd_chunk_list:
+        if(type(wd) == list):
+            if(len(wd) > 1):
+                hnd_chunk_list1.append(' '.join(wd))
+        else:
+            hnd_chunk_list1.append(wd)
+
+
+    print('\t'.join(eng_chunk_list1))
+    print('\t'.join(hnd_chunk_list1))
+
+    print('sri')
+
+
+    '''
     filter_chunk_sens = filter_chunk(chunk_sens, chunk_size=5)
 
     #run simalign
@@ -108,12 +146,10 @@ if __name__ == '__main__':
             eng_str = ''
             hnd_str = ''
 
-            '''
             eng_str_list[i] = []
             hnd_str_list[i] = []
             eng_str_list_id[i] = []
             hnd_str_list_id[i] = []
-            '''
 
             for ch, hnd_ch in zip(filter_chunk_sens[0], hnd_chunk):
                 eng_str = eng_str + '\t' + (' '.join(ch[1]))
@@ -128,7 +164,6 @@ if __name__ == '__main__':
                 hnd_str_id = hnd_str_id + '\t' + str(hnd_ch[0][1])
                 #hnd_str_list_id[i].append([str(hnd_ch[0][1])])
 
-            '''
             print('############'+str(i)+'###########', flush=True)
             eng_sen_str = ''
             for j in range(0, len(eng_tok.split())):
@@ -141,18 +176,14 @@ if __name__ == '__main__':
             print(eng_tok, flush=True)
             print(hnd_tok, flush=True)
             
-            '''
-            '''
             print(eng_sen_str, flush=True)
             print(hnd_sen_str, flush=True)
             print(result['itermax'], flush=True)
-            '''
-            '''
+            
             print(eng_str, flush=True)
             #print(eng_str_id, flush=True)
             print(hnd_str, flush=True)
             #print(hnd_str_id, flush=True)
-            '''
 
             #tmp_output.append([sen[i], result['itermax']])
 
@@ -175,7 +206,6 @@ if __name__ == '__main__':
     print(eng_str)
     print(hnd_str)
 
-    '''
     eng_hnd_chunk = align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq)
 
     for sen_ch, sen_eng, sen_hnd  in zip(eng_hnd_chunk, best_sen[0], best_sen[1]):
@@ -199,4 +229,3 @@ if __name__ == '__main__':
         print('----------\n\n')
 
     '''
-
