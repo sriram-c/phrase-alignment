@@ -287,37 +287,67 @@ def align_chunk_logic(group_chunk, dic_root):
                 elif(len(tmp_eng) == len(tmp_hnd)):
                     for id, wd_hnd in zip(tmp_eng_wd_id, tmp_hnd):
                         if id not in align_wds:
-                            align_wds[id] = wd_hnd
+                            align_wds[id] = [wd_hnd]
                         else:
                             if wd_hnd not in align_wds[id]:
                                 align_wds[id].append(wd_hnd)
 
-        ch.append(align_wds)
+        #change ids to string (e.g 15 to '15') for
+        #further storing multiple ids '1_2_3'
+        align_wds1 = {}
+        for key in align_wds:
+            align_wds1[str(key)] = align_wds[key]
+        ch.append(align_wds1)
 
     #do a second iteration for aligning chunks where number words are different in both sides
     for key in group_chunk:
         ch = group_chunk[key]
         dic_wd_alt = ch[-2]
         align_wds = ch[-1]
+        align_wds_ids = []
         for i in range(len(ch)-3, 0, -1):
+
+            #to add multiple id (e.g. '1_2_3' to the total list of align wds
+            for key in align_wds:
+                tmp_ids = str(key).split('_')
+                if(len(tmp_ids) > 0):
+                    for tmp_id in tmp_ids:
+                        if int(tmp_id) not in align_wds_ids:
+                            align_wds_ids.append(int(tmp_id))
+                else:
+                    if int(tmp_ids[0]) not in align_wds_ids:
+                        align_wds_ids.append(int(tmp_ids[0]))
+
             ids= ch[i][1]
+
             flag_process = 0
+            tmp_eng = ch[i][0]
+            tmp_hnd = ch[i][2]
             for id in ids:
-                if id not in align_wds:
+                if id not in align_wds_ids:
                     flag_process = 1
                     break
+
+            #if any word is not present in our align_wds dictionary then try to align using other align words
             if(flag_process):
                 found_id = []
+                found_hnd = []
                 not_found_id = []
                 for id in ids:
-                    if id in align_wds:
+                    if (id in align_wds_ids) and set(align_wds[str(id)]).issubset(set(tmp_hnd)):
                         found_id.append(id)
+                        found_hnd.append(align_wds[str(id)][0])
                     else:
                         not_found_id.append(id)
+
+                not_found_hnd = [x for x in tmp_hnd if x not in found_hnd]
+                # not_found_hnd = list(set(tmp_hnd) - set(found_hnd))
+                tmp_key_id = '_'.join(str(id) for id in not_found_id)
+                if not_found_hnd[0] != 'no_translation':
+                    align_wds[tmp_key_id] = not_found_hnd
                 print('sri')
 
 
-                print('sri')
 
 
 def simalign_batch(original_corpora, matching_methods):
