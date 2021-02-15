@@ -209,7 +209,7 @@ def align_chunk_logic(group_chunk, dic_root):
         align_wds = {}
         ch = group_chunk[key]
         dic_wd_alt = ch[-1]
-        for i in range(len(ch)-2, 0, -1):
+        for i in range(len(ch)-2, -1, -1):
             tmp_hnd = ch[i][2]
             tmp_eng = ch[i][0]
             tmp_eng_wd_id = ch[i][1]
@@ -261,7 +261,7 @@ def align_chunk_logic(group_chunk, dic_root):
         dic_wd_alt = ch[-2]
         align_wds = ch[-1]
         align_wds_ids = []
-        for i in range(len(ch)-3, 0, -1):
+        for i in range(len(ch)-3, -1, -1):
 
             #to add multiple id (e.g. '1_2_3' to the total list of align wds
             for key1 in align_wds:
@@ -290,7 +290,7 @@ def align_chunk_logic(group_chunk, dic_root):
                 found_hnd = []
                 not_found_id = []
                 for id in ids:
-                    if (id in align_wds_ids):
+                    if (id in align_wds_ids): # try aligning by finding found and not found words
                         if str(id) in align_wds:
                             if set(align_wds[str(id)]).issubset(set(tmp_hnd)):
                                 found_id.append(id)
@@ -298,8 +298,7 @@ def align_chunk_logic(group_chunk, dic_root):
                                     found_hnd.append(align_wds[str(id)][0])
                             else:
                                 if id not in not_found_id: not_found_id.append(id)
-                        #case where id is part of a chunk (e.g 1 is part of '1_2_3')
-                        else:
+                        else: # case where id is part of a chunk (e.g 1 is part of '1_2_3')
                             for key2 in align_wds:
                                 if str(id) in key2:
                                     found_id.append(id)
@@ -314,11 +313,12 @@ def align_chunk_logic(group_chunk, dic_root):
                 not_found_hnd = [x for x in tmp_hnd if x not in found_hnd]
                 # not_found_hnd = list(set(tmp_hnd) - set(found_hnd))
                 tmp_key_id = '_'.join(str(id) for id in not_found_id)
-                if not_found_hnd[0] != 'no_translation':
-                    align_wds[tmp_key_id] = not_found_hnd
-                    for id in not_found_id:
-                        if id not in align_wds_ids:
-                            align_wds_ids.append(id)
+                if  (len(not_found_hnd) > 0):
+                    if not_found_hnd[0] != 'no_translation':
+                        align_wds[tmp_key_id] = not_found_hnd
+                        for id in not_found_id:
+                            if id not in align_wds_ids:
+                                align_wds_ids.append(id)
 
         ch.append(list(set(align_wds_ids)))
 
@@ -331,15 +331,16 @@ def align_chunk_logic(group_chunk, dic_root):
         align_wds_ids = ch[-1]
         found_eng_wd = []
         align_eng_hnd_list = []
-        for i in range(start_id, end_id):
+        for i in range(start_id, end_id+1):
             if i not in found_eng_wd:
                 if i in align_wds_ids:
                     if str(i) in align_wds:
-                        tmp_eng = eng_long_chunk[i-start_id]
-                        tmp_hnd = align_wds[str(i)]
-                        found_eng_wd.append(i)
-                        align_eng_hnd_list.append([str(i), tmp_eng, tmp_hnd])
-                        # align_wds[str(i)].append(tmp_eng)
+                        if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                            tmp_eng = eng_long_chunk[i-start_id]
+                            tmp_hnd = align_wds[str(i)]
+                            found_eng_wd.append(i)
+                            align_eng_hnd_list.append([str(i), tmp_eng, tmp_hnd])
+                            # align_wds[str(i)].append(tmp_eng)
 
                     else: #for multiple id cases (e.g. 1_2_3 ) search the align_wds dic
                         for key12 in align_wds:
@@ -349,18 +350,21 @@ def align_chunk_logic(group_chunk, dic_root):
                                     tmp_eng_list = []
                                     tmp_hnd = align_wds[key12]
                                     for id in tmp_ids:
-                                        tmp_eng_list.append(eng_long_chunk[int(id) - start_id])
-                                        found_eng_wd.append(int(id))
+                                        if(int(id) - start_id < len(eng_long_chunk)): # temporary fix for sent e.g 0007 'tackled solved'
+                                            tmp_eng_list.append(eng_long_chunk[int(id) - start_id])
+                                            found_eng_wd.append(int(id))
 
                                     align_eng_hnd_list.append([key12, tmp_eng_list, tmp_hnd])
                                     # align_wds[key12].append(tmp_eng_list)
                                     break
 
+
                 else: #if no alignment , then keep it empty
-                    align_eng_hnd_list[i, [], []]
+                    if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                        tmp_eng = eng_long_chunk[i - start_id]
+                        align_eng_hnd_list.append([i, tmp_eng, ['empty']])
         ch.append(align_eng_hnd_list)
 
-    print('sri')
 
 
 

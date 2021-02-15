@@ -1,14 +1,13 @@
 # coding=utf-8
 
 import codecs
-
 import regex
-import simalign
-from simalign.simalign import *
+#import simalign
+#from simalign.simalign import *
 from nltk.tokenize import word_tokenize
 from util import *
-
 import  ast
+import os
 
 if __name__ == '__main__':
 
@@ -67,12 +66,10 @@ if __name__ == '__main__':
         if(ch[0] != 'S1'):
             if set(ch[2]).issubset(set(prev_ch_id)):
                 if(ch[0] not in group_chunk):
-                    print(ch)
                     group_chunk[prev_ch_phrase].append([ch[1], ch[2], ch[3]])
             else:
                 if('CC' not in ch[0]):
                     group_chunk[ch[0]] = []
-                    print(ch)
                     group_chunk[ch[0]].append([ch[1], ch[2], ch[3]])
                     prev_ch_id = ch[2]
                     prev_ch_phrase = ch[0]
@@ -95,28 +92,32 @@ if __name__ == '__main__':
     eng_chunk_list1 = []
     hnd_chunk_list1 = []
 
-    print(eng_full_sen)
-    print(hnd_full_sen)
 
     for wd in eng_chunk_list:
         if(type(wd) == list):
-            if(len(wd) > 1):
+            wd1 = list(set(wd))
+            if(len(wd1) > 1):
                 eng_chunk_list1.append(' '.join(wd))
+            else:
+                eng_chunk_list1.append(wd1[0])
         else:
             eng_chunk_list1.append(wd)
 
     for wd in hnd_chunk_list:
         if(type(wd) == list):
-            if(len(wd) > 1):
+            wd1 = list(set(wd))
+            if(len(wd1) > 1):
                 hnd_chunk_list1.append(' '.join(wd))
+            else:
+                hnd_chunk_list1.append(wd1[0])
         else:
             hnd_chunk_list1.append(wd)
 
+    print(eng_full_sen)
+    print(hnd_full_sen)
+    print('\t', '\t'.join(eng_chunk_list1))
+    print('\t', '\t'.join(hnd_chunk_list1))
 
-    print('\t'.join(eng_chunk_list1))
-    print('\t'.join(hnd_chunk_list1))
-
-    print('sri')
 
 
     '''
