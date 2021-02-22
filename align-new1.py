@@ -66,11 +66,11 @@ if __name__ == '__main__':
         if(ch[0] != 'S1'):
             if set(ch[2]).issubset(set(prev_ch_id)):
                 if(ch[0] not in group_chunk):
-                    group_chunk[prev_ch_phrase].append([ch[1], ch[2], ch[3]])
+                    group_chunk[prev_ch_phrase].append([ch[0], ch[1], ch[2], ch[3]])
             else:
                 if('CC' not in ch[0]):
                     group_chunk[ch[0]] = []
-                    group_chunk[ch[0]].append([ch[1], ch[2], ch[3]])
+                    group_chunk[ch[0]].append([ch[0], ch[1], ch[2], ch[3]])
                     prev_ch_id = ch[2]
                     prev_ch_phrase = ch[0]
 
@@ -88,6 +88,9 @@ if __name__ == '__main__':
 
     eng_full_sen = ' '.join(chunk_sens[0][0][1])
     hnd_full_sen = ' '.join(chunk_sens[0][0][3])
+
+    eng_full_sen = uniq_sen[0]
+    hnd_full_sen = uniq_sen[1]
 
     eng_chunk_list1 = []
     hnd_chunk_list1 = []
