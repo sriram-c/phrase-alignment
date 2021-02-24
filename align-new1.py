@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
 
     #align smaller chunk translation to bigger chunk by applying logic
-    align_chunk_logic(group_chunk, dic_root)
+    align_chunk_logic_new(group_chunk, dic_root)
 
     eng_chunk_list = []
     hnd_chunk_list = []

@@ -179,6 +179,132 @@ def align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq):
 
     return eng_hnd_chunk
 
+
+
+def align_chunk_logic_new(group_chunk, dic_root):
+
+    #find different surface forms by comparing root
+    for key in group_chunk:
+        ch = group_chunk[key]
+        long_chunk_hnd = ch[0][2]
+        long_chunk_hnd_root = [dic_root[l] if l in dic_root else l for l in long_chunk_hnd]
+        long_chunk_wd_alt = {}
+
+        #find alternative of each word
+        for wd, wd_rt in zip(long_chunk_hnd, long_chunk_hnd_root):
+            long_chunk_wd_alt[wd] = [wd]
+            for i in range(1, len(ch)):
+                tmp_root = [dic_root[l] if l in dic_root else l for l in ch[i][2]]
+                if wd not in ch[i][2] and  wd_rt in tmp_root:
+                    indx = tmp_root.index(wd_rt)
+                    wd_alt = ch[i][2][indx]
+                    if wd_alt not in long_chunk_wd_alt[wd]:
+                        long_chunk_wd_alt[wd].append(wd_alt)
+
+        ch.append(long_chunk_wd_alt)
+
+    for key in group_chunk:
+        align_wds = {}
+        align_eng_wds = []  # listof eng wds aligned
+        align_hnd_wds = []  # list of hnd wds aligned
+        ch = group_chunk[key]
+        dic_wd_alt = ch[-1]
+        align_wd_ids = []
+        for i in range(len(ch) - 2, -1, -1):
+            tmp_phrase_name = ch[i][0]
+            tmp_hnd = ch[i][3]
+            tmp_eng = ch[i][1]
+            tmp_eng_wd_id = ch[i][2]
+
+            #check if prev phrase is pp and there is only 1 prepostion
+            #then consider the PP phrase as NP and add it instead of this NP.
+            flag = 0
+            for id in tmp_eng_wd_id:
+                if id in align_wd_ids:
+                    flag = 1
+            if (not flag):
+                if(i != 0):
+                    prev_phrase_name = ch[i - 1][0]
+                    prev_eng_wd_id = ch[i - 1][2]
+                    prev_hnd = ch[i - 1][3]
+
+                    if(re.match(r'^NP', tmp_phrase_name)) and (re.match(r'^PP', prev_phrase_name)) and (len(prev_eng_wd_id) - len(tmp_eng_wd_id) == 1):
+                        tmp_key_id = '_'.join(str(id) for id in prev_eng_wd_id)
+                        align_wds[tmp_key_id] = prev_hnd
+                        for id in prev_eng_wd_id:
+                            align_wd_ids.append(id)
+                    elif (re.match(r'^NP|^VP', tmp_phrase_name)):
+                        tmp_key_id = '_'.join(str(id) for id in tmp_eng_wd_id)
+                        align_wds[tmp_key_id] = tmp_hnd
+                        for id in tmp_eng_wd_id:
+                            align_wd_ids.append(id)
+
+                else:
+                    if(re.match(r'^NP|^VP', tmp_phrase_name)):
+                        tmp_key_id = '_'.join(str(id) for id in tmp_eng_wd_id)
+                        align_wds[tmp_key_id] = tmp_hnd
+                        for id in tmp_eng_wd_id:
+                            align_wd_ids.append(id)
+
+
+        ch.append(align_wd_ids)
+        # change ids to string (e.g 15 to '15') for
+        # further storing multiple ids '1_2_3'
+        align_wds1 = {}
+        for key5 in align_wds:
+            align_wds1[str(key5)] = align_wds[key5]
+        ch.append(align_wds1)
+
+    # Create a list eng hnd list in sequence for storing the final alignment
+    for key11 in group_chunk:
+        ch = group_chunk[key11]
+        eng_long_chunk = ch[0][1]
+        start_id = ch[0][2][0]
+        end_id = ch[0][2][-1]
+        align_wds = ch[-2]
+        align_wds_ids = ch[-1]
+        found_eng_wd = []
+        align_eng_hnd_list = []
+
+        # start from the first word to last word
+        for i in range(start_id, end_id + 1):
+            if i in align_wds_ids:
+                if str(i) in align_wds:
+                    if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                        tmp_eng = eng_long_chunk[i - start_id]
+                        tmp_hnd = align_wds[str(i)]
+                        found_eng_wd.append(i)
+                        chunk_name = align_wds[str(i)]
+                        align_eng_hnd_list.append([str(i), tmp_eng, tmp_hnd])
+                        # align_wds[str(i)].append(tmp_eng)
+
+                else:  # for multiple id cases (e.g. 1_2_3 ) search the align_wds dic
+                    for key12 in align_wds:
+                        tmp_ids = key12.split('_')
+                        if (len(tmp_ids)) > 1:
+                            if str(i) in tmp_ids:
+                                tmp_eng_list = []
+                                tmp_hnd = align_wds[key12]
+                                for id in tmp_ids:
+                                    if (int(id) - start_id < len(
+                                            eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                                        tmp_eng_list.append(eng_long_chunk[int(id) - start_id])
+                                        found_eng_wd.append(int(id))
+
+                                align_eng_hnd_list.append([key12, tmp_eng_list, tmp_hnd])
+                                # align_wds[key12].append(tmp_eng_list)
+                                break
+
+
+            else:  # if no alignment , then keep it empty
+                if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                    tmp_eng = eng_long_chunk[i - start_id]
+                    align_eng_hnd_list.append([i, tmp_eng, ['empty']])
+        ch.append(align_eng_hnd_list)
+
+    print('sriram')
+
+
 def align_chunk_logic(group_chunk, dic_root):
 
     #align smaller chunks inside long chunk by applying various logic
@@ -371,6 +497,8 @@ def align_chunk_logic(group_chunk, dic_root):
         align_wds_ids = ch[-1]
         found_eng_wd = []
         align_eng_hnd_list = []
+
+        #start from the first word to last word
         for i in range(start_id, end_id+1):
             if i in align_wds_ids:
                 if str(i) in align_wds:
