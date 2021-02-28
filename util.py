@@ -58,14 +58,18 @@ def find_leaf(tag, phrase, flag):
 def find_lwg(tag, tmp_lwg, tmp_lwg_id, flag, phrase):
     for tag1 in tag.contents:
         if (isinstance(tag1, Tag)):
-            if (re.match(r'^VB|ADVP|RB|PRT|TO|MD', tag1['value'])):
-                tmp_val = tag1.find_all('leaf')[0]['value']
+            if (re.match(r'^VB|ADVP|ADJP|RB|PRT|TO|MD', tag1['value'])):
+                # tmp_val = tag1.find_all('leaf')[0]['value']
                 tmp_id = tag1.find_all('leaf')[0]['id']
-                tmp_lwg.append(tmp_val + '_' + str(tmp_id))
-                #tmp_lwg_id.append(str(tmp_id))
-                tmp_lwg_id.append((tmp_id))
+                for n in tag1.find_all('leaf'):
+                    tmp_lwg.append(n['value'])
+                    tmp_lwg_id.append(n['id'])
 
-            elif (re.match(r'^VP', tag1['value'])):
+                # tmp_lwg.append(tmp_val + '_' + str(tmp_id))
+                #tmp_lwg_id.append(str(tmp_id))
+                # tmp_lwg_id.append((tmp_id))
+
+            elif (re.match(r'^VP|ADJP', tag1['value'])):
                 find_lwg(tag1, tmp_lwg, tmp_lwg_id, 1, phrase)
     if (flag == 0):
         phrase.append([tag['value'] + str(tag['id']) + '_LWG', tmp_lwg, tmp_lwg_id])
@@ -115,6 +119,7 @@ def xml_parse(fp):
 
         all_chunk.append(phrase)
     return  all_chunk
+
 
 
 def filter_chunk(all_chunk, chunk_size):
@@ -186,7 +191,7 @@ def align_chunk_logic_new(group_chunk, dic_root):
     #find different surface forms by comparing root
     for key in group_chunk:
         ch = group_chunk[key]
-        long_chunk_hnd = ch[0][2]
+        long_chunk_hnd = ch[0][3]
         long_chunk_hnd_root = [dic_root[l] if l in dic_root else l for l in long_chunk_hnd]
         long_chunk_wd_alt = {}
 
@@ -194,10 +199,10 @@ def align_chunk_logic_new(group_chunk, dic_root):
         for wd, wd_rt in zip(long_chunk_hnd, long_chunk_hnd_root):
             long_chunk_wd_alt[wd] = [wd]
             for i in range(1, len(ch)):
-                tmp_root = [dic_root[l] if l in dic_root else l for l in ch[i][2]]
-                if wd not in ch[i][2] and  wd_rt in tmp_root:
+                tmp_root = [dic_root[l] if l in dic_root else l for l in ch[i][3]]
+                if wd not in ch[i][3] and  wd_rt in tmp_root:
                     indx = tmp_root.index(wd_rt)
-                    wd_alt = ch[i][2][indx]
+                    wd_alt = ch[i][3][indx]
                     if wd_alt not in long_chunk_wd_alt[wd]:
                         long_chunk_wd_alt[wd].append(wd_alt)
 
@@ -238,13 +243,14 @@ def align_chunk_logic_new(group_chunk, dic_root):
                         align_wds[tmp_key_id] = tmp_hnd
                         for id in tmp_eng_wd_id:
                             align_wd_ids.append(id)
+                    #for VP and ADJP join these two and put the ids in the list
+                    # elif(re.match(r'^ADJPP', tmp_phrase_name)):
 
                 else:
-                    if(re.match(r'^NP|^VP', tmp_phrase_name)):
-                        tmp_key_id = '_'.join(str(id) for id in tmp_eng_wd_id)
-                        align_wds[tmp_key_id] = tmp_hnd
-                        for id in tmp_eng_wd_id:
-                            align_wd_ids.append(id)
+                    tmp_key_id = '_'.join(str(id) for id in tmp_eng_wd_id)
+                    align_wds[tmp_key_id] = tmp_hnd
+                    for id in tmp_eng_wd_id:
+                        align_wd_ids.append(id)
 
 
         ch.append(align_wd_ids)
@@ -261,19 +267,20 @@ def align_chunk_logic_new(group_chunk, dic_root):
         eng_long_chunk = ch[0][1]
         start_id = ch[0][2][0]
         end_id = ch[0][2][-1]
-        align_wds = ch[-2]
-        align_wds_ids = ch[-1]
+        align_wds = ch[-1]
+        align_wd_ids = ch[-2]
         found_eng_wd = []
         align_eng_hnd_list = []
 
         # start from the first word to last word
         for i in range(start_id, end_id + 1):
-            if i in align_wds_ids:
+            if i in align_wd_ids:
                 if str(i) in align_wds:
                     if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
                         tmp_eng = eng_long_chunk[i - start_id]
                         tmp_hnd = align_wds[str(i)]
-                        found_eng_wd.append(i)
+                        if(i not in found_eng_wd):
+                            found_eng_wd.append(i)
                         chunk_name = align_wds[str(i)]
                         align_eng_hnd_list.append([str(i), tmp_eng, tmp_hnd])
                         # align_wds[str(i)].append(tmp_eng)
@@ -282,14 +289,14 @@ def align_chunk_logic_new(group_chunk, dic_root):
                     for key12 in align_wds:
                         tmp_ids = key12.split('_')
                         if (len(tmp_ids)) > 1:
-                            if str(i) in tmp_ids:
+                            if str(i) in tmp_ids and i not in found_eng_wd:
                                 tmp_eng_list = []
                                 tmp_hnd = align_wds[key12]
                                 for id in tmp_ids:
-                                    if (int(id) - start_id < len(
-                                            eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                                    if (int(id) - start_id < len( eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
                                         tmp_eng_list.append(eng_long_chunk[int(id) - start_id])
-                                        found_eng_wd.append(int(id))
+                                        if (id not in found_eng_wd):
+                                            found_eng_wd.append(int(id))
 
                                 align_eng_hnd_list.append([key12, tmp_eng_list, tmp_hnd])
                                 # align_wds[key12].append(tmp_eng_list)
@@ -297,13 +304,11 @@ def align_chunk_logic_new(group_chunk, dic_root):
 
 
             else:  # if no alignment , then keep it empty
-                if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
+                if (i - start_id < len(eng_long_chunk)) and i not in found_eng_wd:  # temporary fix for sent e.g 0007 'tackled solved'
                     tmp_eng = eng_long_chunk[i - start_id]
-                    align_eng_hnd_list.append([i, tmp_eng, ['empty']])
+                    align_eng_hnd_list.append([i, tmp_eng, ['']])
         ch.append(align_eng_hnd_list)
 
-    print('sriram')
-    print('sriram1')
 
 
 def align_chunk_logic(group_chunk, dic_root):

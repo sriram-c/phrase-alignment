@@ -1,0 +1,21 @@
+----------------	----------------	
+NP2	The introduction of machine learning	maSIna sIKane kA paricaya
+NP3	The introduction	paricaya
+PP6	of machine learning	maSIna sIKane kI
+NP8	machine learning	maSIna sIKanA
+VP11_LWG	enabled	sakRama
+NP13	computers	kaMpyUtara
+VP16_LWG	to tackle make	muSkila se nipatane ke lie
+NP21	problems involving knowledge of the real world	vAswavika xuniyA ke jFAna se judZI samasyAeM
+NP22	problems	samasyAeM
+PP24	involving knowledge of the real world	vAswavika xuniyA kA jFAna SAmila
+NP26	knowledge of the real world	vAswavika xuniyA kA jFAna
+NP27	knowledge	jFAna
+PP29	of the real world	vAswavika xuniyA kI
+NP31	the real world	asalI xuniyA
+CC35	and	Ora
+NP38	decisions that appear subjective	jo PEsale viRayAwmaka xiKAI xewe hEM
+NP39	decisions	PEsale
+WHNP42	that	vaha
+VP45_LWG	appear subjective	viRayAwmaka xiKAI xeM
+ADJP47	subjective	viRayAwmaka

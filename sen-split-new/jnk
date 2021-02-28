@@ -1,0 +1,800 @@
+NP2	Chapter 1 Introduction Inventors
+NML3	Chapter 1
+NNP6	Introduction
+NNP7	Inventors
+VP8_LWG	have long dreamed
+ADVP10	long
+PP14	of creating machines that think
+VP17_LWG	creating
+NP19	machines that think
+NP20	machines
+WHNP23	that
+VP26_LWG	think
+----------------	----------------
+NP2	This desire
+VP5_LWG	dates back
+PRT7	back
+PP9	to at least the time of ancient Greece
+NP11	at least the time of ancient Greece
+NP12	at least the time
+ADVP14	at least
+PP19	of ancient Greece
+NP21	ancient Greece
+NNP23	Greece
+----------------	----------------
+NP3	The mythical ﬁgures Pygmalion , Daedalus , and Hephaestus
+NP4	The mythical ﬁgures
+NP8	Pygmalion , Daedalus , and Hephaestus
+NNP9	Pygmalion
+,10	,
+NNP11	Daedalus
+,12	,
+CC13	and
+NNP14	Hephaestus
+VP15_LWG	may all be interpreted
+PP22	as legendary inventors
+NP24	legendary inventors
+,27	,
+CC28	and
+NP30	Galatea , Talos , and Pandora
+NNP31	Galatea
+,32	,
+NNP33	Talos
+,34	,
+CC35	and
+NNP36	Pandora
+VP37_LWG	may all be regarded
+PP44	as artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )
+NP46	artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )
+PRN49	( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )
+NP51	Ovid and Martin
+NNP52	Ovid
+CC53	and
+NNP54	Martin
+,55	,
+NP56	2004
+NP59	Sparkes
+NNP60	Sparkes
+,61	,
+NP62	1996
+NP65	Tandy
+NNP66	Tandy
+,67	,
+NP68	1997
+----------------	----------------
+WHADVP3	When
+NP6	programmable computers
+VP9_LWG	were ﬁrst conceived
+ADJP11	ﬁrst conceived
+,14	,
+NP15	people
+VP17_LWG	wondered
+NP22	such machines
+VP25_LWG	might become intelligent
+ADJP29	intelligent
+,31	,
+NP33	over a hundred years
+NP41	one
+VP43_LWG	was built
+PRN47	( Lovelace , 1842 )
+NP49	Lovelace
+NNP50	Lovelace
+,51	,
+NP52	1842
+----------------	----------------
+NP-TMP2	Today
+,4	,
+NP5	artiﬁcial intelligence ( AI )
+NP6	artiﬁcial intelligence
+NP10	AI
+VP13_LWG	is
+NP15	a thriving ﬁeld with many practical applications and active research topics
+NP16	a thriving ﬁeld
+PP20	with many practical applications and active research topics
+NP22	many practical applications and active research topics
+NML24	practical applications and active research
+NML25	practical applications
+CC28	and
+NML29	active research
+----------------	----------------
+NP2	We
+VP4_LWG	look
+PP6	to intelligent software
+NP8	intelligent software
+VP12_LWG	to automate understand make support
+NP17	routine labor
+,20	,
+NP23	speech or images
+CC25	or
+,27	,
+NP30	diagnoses
+PP32	in medicine
+NP34	medicine
+CC36	and
+NP39	basic scientiﬁc research
+----------------	----------------
+PP2	In the early days of artiﬁcial intelligence
+NP4	the early days of artiﬁcial intelligence
+NP5	the early days
+PP9	of artiﬁcial intelligence
+NP11	artiﬁcial intelligence
+,14	,
+NP15	the ﬁeld
+ADVP18	rapidly
+VP20_LWG	tackled solved
+CC22	and
+NP24	problems that are intellectually diﬃcult for human beings but relatively straight - forward for computers
+NP25	problems
+WHNP28	that
+VP31_LWG	are intellectually diﬃcult for human beings but relatively straight - forward
+ADJP33	intellectually diﬃcult for human beings but relatively straight - forward
+ADJP34	intellectually diﬃcult for human beings
+PP37	for human beings
+NP39	human beings
+CC42	but
+ADJP44	straight - forward
+PP48	for computers
+NP50	computers
+,52	—
+----------------	----------------
+NP1	problems that can be described by a list of formal , math - ematical rules .
+NP2	problems
+WHNP5	that
+VP8_LWG	can be described
+PP14	by a list of formal , math - ematical rules
+NP16	a list of formal , math - ematical rules
+NP17	a list
+PP20	of formal , math - ematical rules
+NP22	formal , math - ematical rules
+,24	,
+ADJP25	math - ematical
+NP26	math
+----------------	----------------
+NP2	The true challenge to artiﬁcial intelligence
+NP3	The true challenge
+PP7	to artiﬁcial intelligence
+NP9	artiﬁcial intelligence
+VP12_LWG	proved
+VP15_LWG	to be solving
+NP21	the tasks that are easy for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images
+NP22	the tasks
+WHNP26	that
+VP29_LWG	are easy for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images
+ADJP31	easy for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images
+PP33	for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images
+NP35	people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images
+VP38_LWG	to perform
+PP42	but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images
+CC43	but
+PP44	hard for people to describe formally — problems that we solve intuitively , that feel automatic
+ADVP45	hard
+NP48	people to describe formally — problems that we solve intuitively , that feel automatic
+NP49	people to describe formally — problems that we solve intuitively
+NP50	people to describe formally
+VP53_LWG	to describe formally
+ADVP57	formally
+NP60	problems that we solve intuitively
+NP61	problems
+NP66	we
+VP68_LWG	solve intuitively
+ADVP70	intuitively
+,72	,
+WHNP74	that
+VP77_LWG	feel automatic
+ADJP79	automatic
+,81	,
+PP82	like recognizing spoken words or faces in images
+VP85_LWG	recognizing spoken
+NP89	words or faces
+CC91	or
+PP93	in images
+NP95	images
+----------------	----------------
+NP2	This book
+VP5_LWG	is
+PP7	about a solution to these more intuitive problems
+NP9	a solution to these more intuitive problems
+NP10	a solution
+PP13	to these more intuitive problems
+NP15	these more intuitive problems
+ADJP17	more intuitive
+----------------	----------------
+NP2	This solution
+VP5_LWG	is
+VP8_LWG	to allow
+NP12	computers
+VP15_LWG	to learn understand
+PP20	from experience
+NP22	experience
+CC24	and
+NP27	the world
+PP30	in terms of a hierarchy of concepts
+NP32	terms of a hierarchy of concepts
+NP33	terms
+PP35	of a hierarchy of concepts
+NP37	a hierarchy of concepts
+NP38	a hierarchy
+PP41	of concepts
+NP43	concepts
+,45	,
+PP46	with each concept deﬁned through its relation to simpler concepts
+NP48	each concept deﬁned through its relation to simpler concepts
+NP49	each concept
+VP52_LWG	deﬁned
+PP54	through its relation
+NP56	its relation
+PP59	to simpler concepts
+NP61	simpler concepts
+----------------	----------------
+PP2	By gathering knowledge from experience
+VP5_LWG	gathering
+NP7	knowledge
+PP9	from experience
+NP11	experience
+,13	,
+NP14	this approach
+VP17_LWG	avoids
+NP19	the need for human operators
+NP20	the need
+PP23	for human operators
+NP25	human operators
+VP29_LWG	to formally specify
+ADVP31	formally
+NP35	all the knowledge
+NP42	the computer
+VP45_LWG	needs
+----------------	----------------
+NP2	The hierarchy of concepts
+NP3	The hierarchy
+PP6	of concepts
+NP8	concepts
+VP10_LWG	enables
+NP12	the computer
+VP16_LWG	to learn
+NP20	complicated concepts
+PP23	by building them out of simpler ones
+VP26_LWG	building out
+NP28	them
+PRT30	out
+PP32	of simpler ones
+NP34	simpler ones
+----------------	----------------
+NP5	we
+VP7_LWG	draw
+NP9	a graph
+VP13_LWG	showing
+NP15	how
+NP17	these concepts
+NP20	1
+VP22_LWG	CHAPTER
+NP24	1
+----------------	----------------
+NP3	INTRODUCTION
+NNP4	INTRODUCTION
+VP5_LWG	are built
+PP9	on top of each other
+NP11	top of each other
+NP12	top
+PP14	of each other
+NP16	each other
+,19	,
+NP20	the graph
+VP23_LWG	is deep
+ADJP25	deep
+,27	,
+PP28	with many layers
+NP30	many layers
+----------------	----------------
+PP2	For this reason
+NP4	this reason
+,7	,
+NP8	we
+VP10_LWG	call
+NP12	this approach
+PP15	to AI deep learning
+NP17	AI deep learning
+NML19	deep learning
+----------------	----------------
+NP2	Many of the early successes of AI
+NP3	Many
+PP5	of the early successes of AI
+NP7	the early successes of AI
+NP8	the early successes
+PP12	of AI
+NP14	AI
+VP16_LWG	took did not require
+NP19	place
+PP21	in relatively sterile and formal environments
+NP23	relatively sterile and formal environments
+ADJP24	relatively sterile and formal
+CC27	and
+CC30	and
+NP36	computers
+VP39_LWG	to have
+NP43	much knowledge about the world
+NP44	much knowledge
+PP47	about the world
+NP49	the world
+----------------	----------------
+PP2	For example
+NP4	example
+,6	,
+NP7	IBM ’ s Deep Blue chess - playing system
+NP8	IBM ’ s
+NNP9	IBM
+NNP10	’
+NML12	Deep Blue
+NNP13	Deep
+NNP14	Blue
+VP19_LWG	defeated
+NP21	world champion Garry Kasparov in 1997
+NP22	world champion Garry Kasparov
+NML23	world champion
+NNP26	Garry
+NNP27	Kasparov
+PP28	in 1997
+NP30	1997
+PRN32	( Hsu , 2002 )
+NP34	Hsu
+NNP35	Hsu
+,36	,
+NP37	2002
+----------------	----------------
+NP2	Chess
+NNP3	Chess
+VP4_LWG	is of course
+ADVP6	of course
+NP9	a very simple world , containing only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways
+NP10	a very simple world
+ADJP12	very simple
+,16	,
+VP17_LWG	containing
+NP19	only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways
+NP20	only sixty - four locations and thirty - two pieces
+NP21	only sixty - four locations
+CC28	and
+NP29	thirty - two pieces
+WHNP36	that
+VP39_LWG	can move
+PP43	in only rigidly circumscribed ways
+NP45	only rigidly circumscribed ways
+----------------	----------------
+VP4_LWG	Devising
+NP6	a successful chess strategy
+VP11_LWG	is
+NP13	a tremendous accomplishment
+,17	,
+CC18	but
+NP20	the challenge
+VP23_LWG	is not due to the diﬃculty of describing the set of chess pieces and allowable moves to the computer
+ADJP26	due to the diﬃculty of describing the set of chess pieces and allowable moves to the computer
+PP28	to the diﬃculty of describing the set of chess pieces and allowable moves to the computer
+NP30	the diﬃculty of describing the set of chess pieces and allowable moves to the computer
+NP31	the diﬃculty
+PP34	of describing the set of chess pieces and allowable moves to the computer
+VP37_LWG	describing
+NP39	the set of chess pieces and allowable moves
+NP40	the set
+PP43	of chess pieces and allowable moves
+NP45	chess pieces and allowable moves
+NP46	chess pieces
+CC49	and
+NP50	allowable moves
+PP53	to the computer
+NP55	the computer
+----------------	----------------
+NP2	Chess
+NNP3	Chess
+VP4_LWG	can be completely described easily provided ahead of time
+ADVP9	completely
+PP13	by a very brief list of completely formal rules
+NP15	a very brief list of completely formal rules
+NP16	a very brief list
+ADJP18	very brief
+PP22	of completely formal rules
+NP24	completely formal rules
+ADJP25	completely formal
+,29	,
+ADVP30	easily
+ADVP34	ahead of time
+PP36	of time
+NP38	time
+PP40	by the programmer
+NP42	the programmer
+----------------	----------------
+ADVP2	Ironically
+,4	,
+NP5	abstract and formal tasks that are among the most diﬃcult mental undertakings for a human being
+NP6	abstract and formal tasks
+ADJP7	abstract and formal
+CC9	and
+WHNP13	that
+VP16_LWG	are
+PP18	among the most diﬃcult mental undertakings for a human being
+NP20	the most diﬃcult mental undertakings for a human being
+NP21	the most diﬃcult mental undertakings
+ADJP23	most diﬃcult
+PP28	for a human being
+NP30	a human being
+VP34_LWG	are
+PP36	among the easiest for a computer
+NP38	the easiest for a computer
+NP39	the easiest
+PP42	for a computer
+NP44	a computer
+----------------	----------------
+NP2	Computers
+NNPS3	Computers
+VP4_LWG	have long been able to defeat even the best human chess player only recently have begun
+ADVP7	long
+ADJP11	able to defeat even the best human chess player
+VP14_LWG	to defeat even
+ADVP18	even
+NP20	the best human chess player
+CC26	but
+ADVP27	only recently
+VP35_LWG	matching
+NP37	some of the abilities of average human beings
+NP38	some
+PP40	of the abilities of average human beings
+NP42	the abilities of average human beings
+NP43	the abilities
+PP46	of average human beings
+NP48	average human beings
+VP53_LWG	to recognize
+NP57	objects or speech
+CC59	or
+----------------	----------------
+NP2	A person ’ s everyday life
+NP3	A person ’ s
+VP10_LWG	requires
+NP12	an immense amount of knowledge
+NP13	an immense amount
+PP17	of knowledge
+NP19	knowledge
+PP21	about the world
+NP23	the world
+----------------	----------------
+NP2	Much of this knowledge
+NP3	Much
+PP5	of this knowledge
+NP7	this knowledge
+VP10_LWG	is subjective and intuitive therefore diﬃcult
+ADJP13	subjective and intuitive
+CC15	and
+,17	,
+CC18	and
+ADVP19	therefore
+VP24_LWG	to articulate
+PP28	in a formal way
+NP30	a formal way
+----------------	----------------
+NP2	Computers
+NNPS3	Computers
+VP4_LWG	need
+VP7_LWG	to capture
+NP11	this same knowledge
+PP15	in order to behave in an intelligent way
+NP17	order to behave in an intelligent way
+VP20_LWG	to behave
+PP24	in an intelligent way
+NP26	an intelligent way
+----------------	----------------
+NP2	One of the key challenges in artiﬁcial intelligence
+NP3	One
+PP5	of the key challenges in artiﬁcial intelligence
+NP7	the key challenges in artiﬁcial intelligence
+NP8	the key challenges
+PP12	in artiﬁcial intelligence
+NP14	artiﬁcial intelligence
+VP17_LWG	is
+WHADVP20	how
+VP23_LWG	to get
+NP27	this informal knowledge
+PP31	into a computer
+NP33	a computer
+----------------	----------------
+NP2	Several artiﬁcial intelligence projects
+VP7_LWG	have sought
+PP11	to hard - code knowledge
+NP13	hard - code knowledge
+NML14	hard - code
+PP19	about the world in formal languages
+NP21	the world in formal languages
+NP22	the world
+PP25	in formal languages
+NP27	formal languages
+----------------	----------------
+NP2	A computer
+VP5_LWG	can reason automatically
+ADVP9	automatically
+PP11	about statements in these formal languages using logical inference rules
+NP13	statements in these formal languages using logical inference rules
+NP14	statements
+PP16	in these formal languages using logical inference rules
+NP18	these formal languages using logical inference rules
+NP19	these formal languages
+VP23_LWG	using
+NP25	logical inference rules
+----------------	----------------
+NP2	This
+VP4_LWG	is known
+PP8	as the knowledge base approach
+NP10	the knowledge base approach
+PP15	to artiﬁcial intelligence
+NP17	artiﬁcial intelligence
+----------------	----------------
+NP2	None of these projects
+NP3	None
+PP5	of these projects
+NP7	these projects
+VP10_LWG	has led
+PP14	to a major success
+NP16	a major success
+----------------	----------------
+NP2	One of the most famous such projects
+NP3	One
+PP5	of the most famous such projects
+NP7	the most famous such projects
+ADJP9	most famous
+VP14_LWG	is Cyc
+ADJP16	Cyc
+PRN18	( Lenat and Guha , 1989 )
+NP20	Lenat and Guha
+NNP21	Lenat
+CC22	and
+NNP23	Guha
+,24	,
+NP25	1989
+----------------	----------------
+NP3	Cyc
+NNP4	Cyc
+VP5_LWG	is
+NP7	an inference engine
+CC11	and
+NP13	a database of statements in a language
+NP14	a database
+PP17	of statements in a language
+NP19	statements in a language
+NP20	statements
+PP22	in a language
+NP24	a language
+VP27_LWG	called
+NP29	CycL
+NNP30	CycL
+----------------	----------------
+NP2	These statements
+VP5_LWG	are entered
+PP9	by a staﬀ of human supervisors
+NP11	a staﬀ of human supervisors
+NP12	a staﬀ
+PP15	of human supervisors
+NP17	human supervisors
+----------------	----------------
+NP2	It
+VP4_LWG	is
+NP6	an unwieldy process
+----------------	----------------
+NP2	People
+VP4_LWG	struggle
+VP7_LWG	to devise
+NP11	formal rules
+PP14	with enough complexity
+NP16	enough complexity
+VP20_LWG	to accurately describe
+ADVP22	accurately
+NP26	the world
+----------------	----------------
+PP2	For example
+NP4	example
+,6	,
+NP7	Cyc
+NNP8	Cyc
+VP9_LWG	failed
+VP12_LWG	to understand
+NP16	a story
+PP19	about a person named Fred shaving in the morning ( Linde , 1992 )
+NP21	a person named Fred shaving in the morning ( Linde , 1992 )
+NP22	a person
+VP25_LWG	named
+NP27	Fred shaving in the morning
+NP28	Fred shaving
+NNP29	Fred
+NNP30	shaving
+PP31	in the morning
+NP33	the morning
+PRN36	( Linde , 1992 )
+NP38	Linde , 1992
+,40	,
+----------------	----------------
+NP3	Its inference engine
+VP7_LWG	detected
+NP9	an inconsistency
+PP12	in the story
+NP14	the story
+NP20	it
+VP22_LWG	knew
+NP27	people
+VP29_LWG	do not have
+NP34	electrical parts
+,37	,
+CC38	but
+NP43	Fred
+NNP44	Fred
+VP45_LWG	was holding
+NP49	an electric razor
+,53	,
+NP54	it
+VP56_LWG	believed
+NP60	the entity “ FredWhileShaving ”
+VP66_LWG	contained
+NP68	electrical parts
+----------------	----------------
+NP2	It
+ADVP4	therefore
+VP6_LWG	asked
+NP11	Fred
+NNP12	Fred
+VP13_LWG	was still
+ADVP15	still
+NP17	a person
+NP23	he
+VP25_LWG	was
+NP27	shaving
+----------------	----------------
+NP2	The diﬃculties faced by systems relying on hard - coded knowledge
+NP3	The diﬃculties
+VP6_LWG	faced
+PP8	by systems relying on hard - coded knowledge
+NP10	systems relying on hard - coded knowledge
+NP11	systems
+VP13_LWG	relying
+PP15	on hard - coded knowledge
+NP17	hard - coded knowledge
+NML18	hard - coded
+VP23_LWG	suggest
+NP28	AI systems
+VP31_LWG	need
+NP33	the ability to acquire their own knowledge
+VP37_LWG	to acquire
+NP41	their own knowledge
+,45	,
+PP46	by extracting 2 CHAPTER 1
+VP49_LWG	extracting
+NP51	2 CHAPTER 1
+NML53	CHAPTER 1
+----------------	----------------
+VP2_LWG	INTRODUCTION
+NP4	patterns
+PP6	from raw data
+NP8	raw data
+----------------	----------------
+NP2	This capability
+VP5_LWG	is known
+PP9	as machine learning
+NP11	machine learning
+----------------	----------------
+NP2	The introduction of machine learning
+NP3	The introduction
+PP6	of machine learning
+NP8	machine learning
+VP11_LWG	enabled
+NP13	computers
+VP16_LWG	to tackle make
+NP21	problems involving knowledge of the real world
+NP22	problems
+PP24	involving knowledge of the real world
+NP26	knowledge of the real world
+NP27	knowledge
+PP29	of the real world
+NP31	the real world
+CC35	and
+NP38	decisions that appear subjective
+NP39	decisions
+WHNP42	that
+VP45_LWG	appear subjective
+ADJP47	subjective
+----------------	----------------
+NP2	A simple machine learning algorithm
+NML5	machine learning
+VP9_LWG	called
+NP13	logistic regression
+VP16_LWG	can determine
+VP23_LWG	to recommend
+NP27	cesarean delivery ( Mor - Yosef et al. , 1990 )
+PRN30	( Mor - Yosef et al. , 1990 )
+NP32	Mor - Yosef et al.
+NP33	Mor
+NNP34	Mor
+PP35	- Yosef
+NP37	Yosef
+NNP38	Yosef
+ADVP39	et al.
+,42	,
+NP43	1990
+----------------	----------------
+NP2	A simple machine learning algorithm
+NML5	machine learning
+VP9_LWG	called
+NP13	naive Bayes
+NNPS15	Bayes
+VP16_LWG	can separate
+NP20	legitimate e-mail
+PP23	from spam e-mail
+NP25	spam e-mail
+----------------	----------------
+NP2	The performance of these simple machine learning algorithms
+NP3	The performance
+PP6	of these simple machine learning algorithms
+NP8	these simple machine learning algorithms
+NML11	machine learning
+VP15_LWG	depends heavily
+ADVP17	heavily
+PP19	on the representation of the data
+NP21	the representation of the data
+NP22	the representation
+PP25	of the data
+NP27	the data
+NP32	they
+VP34_LWG	are given
+----------------	----------------
+PP2	For example
+NP4	example
+,6	,
+WHADVP8	when
+NP11	logistic regression
+VP14_LWG	is used
+VP19_LWG	to recommend
+NP23	cesarean delivery
+,26	,
+NP27	the AI system
+VP31_LWG	does not examine directly
+NP36	the patient
+ADVP39	directly
+----------------	----------------
+ADVP2	Instead
+,4	,
+NP5	the doctor
+VP8_LWG	tells
+NP10	the system
+NP13	several pieces of relevant information , such as the presence or absence of a uterine scar
+NP14	several pieces
+PP17	of relevant information
+NP19	relevant information
+,22	,
+PP23	such as the presence or absence of a uterine scar
+NP26	the presence or absence of a uterine scar
+NP27	the presence or absence
+CC30	or
+PP32	of a uterine scar
+NP34	a uterine scar
+----------------	----------------
+NP2	ach piece of information included in the representation of the patient
+NP3	ach piece
+PP6	of information included in the representation of the patient
+NP8	information included in the representation of the patient
+NP9	information
+VP11_LWG	included
+PP13	in the representation of the patient
+NP15	the representation of the patient
+NP16	the representation
+PP19	of the patient
+NP21	the patient
+VP24_LWG	is known
+PP28	as a feature
+NP30	a feature
+----------------	----------------
+NP2	Logistic regression
+VP5_LWG	learns
+WHADVP8	how
+NP11	each of these features of the patient
+NP12	each
+PP14	of these features of the patient
+NP16	these features of the patient
+NP17	these features
+PP20	of the patient
+NP22	the patient
+VP25_LWG	correlates
+PP27	with various outcomes
+NP29	various outcomes
+----------------	----------------

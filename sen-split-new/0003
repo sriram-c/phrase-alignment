@@ -1,0 +1,40 @@
+----------------	----------------	
+NP3	The mythical ﬁgures Pygmalion , Daedalus , and Hephaestus	pOrANika AMkadZe pAyagamalIyana, xAxAlasa Ora hePEstasa
+NP4	The mythical ﬁgures	pOrANika AMkadZe
+NP8	Pygmalion , Daedalus , and Hephaestus	pAyagaminIyana, xAxAlasa, Ora hePestasa
+NNP9	Pygmalion	pAyagaminIyana
+,10	,	,
+NNP11	Daedalus	xAxAlasa
+,12	,	,
+CC13	and	Ora
+NNP14	Hephaestus	hePestasa
+VP15_LWG	may all be interpreted	saBI kI vyAKyA ho sakawI hE
+PP22	as legendary inventors	mahAna AviRkAraka ke rUpa meM
+NP24	legendary inventors	mahAna AviRkAraka
+,27	,	,
+CC28	and	Ora
+NP30	Galatea , Talos , and Pandora	gEletA, wAlosa, Ora pEMxrA
+NNP31	Galatea	gEletA
+,32	,	,
+NNP33	Talos	wAlosa
+,34	,	,
+CC35	and	Ora
+NNP36	Pandora	pEMxrA
+VP37_LWG	may all be regarded	ho sakawA hE saBI kA saMbaMXa
+PP44	as artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	kqwrima jIvana (ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+NP46	artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	kqwrima jIvana (ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+PRN49	( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	(ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+NP51	Ovid and Martin	ovida Ora mArtina
+NNP52	Ovid	ovida
+CC53	and	Ora
+NNP54	Martin	mArtina
+,55	,	,
+NP56	2004	2004
+NP59	Sparkes	spArka
+NNP60	Sparkes	spArka
+,61	,	,
+NP62	1996	1996
+NP65	Tandy	taMdI
+NNP66	Tandy	taMdI
+,67	,	,
+NP68	1997	1997

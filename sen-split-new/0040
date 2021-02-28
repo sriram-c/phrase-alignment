@@ -1,0 +1,22 @@
+----------------	----------------	
+NP2	The diﬃculties faced by systems relying on hard - coded knowledge	sistama se ho rahI muSkileM kadZI mehanawa se - kodiwa jFAna
+NP3	The diﬃculties	muSkileM
+VP6_LWG	faced	sAmanA kiyA
+PP8	by systems relying on hard - coded knowledge	sistama kadZI mehanawa para nirBara - kodiwa jFAna
+NP10	systems relying on hard - coded knowledge	kadZI mehanawa para nirBara sistama - kodiwa jFAna
+NP11	systems	sistama
+VP13_LWG	relying	JUTa bolanA
+PP15	on hard - coded knowledge	kadZI mehanawa para- kodiwa jFAna
+NP17	hard - coded knowledge	kaTina - kodiwa jFAna
+NML18	hard - coded	kaTina - kodiwa
+VP23_LWG	suggest	suJAva
+NP28	AI systems	eAI sistama
+VP31_LWG	need	jarUrawa
+NP33	the ability to acquire their own knowledge	apanA jFAna hAsila karane kI kRamawA
+VP37_LWG	to acquire	aXigrahaNa ke lie
+NP41	their own knowledge	unakA apanA jFAna
+,45	,	,
+PP46	by extracting 2 CHAPTER 1	2 cEptara 1 nikAlakara
+VP49_LWG	extracting	nikAlanA
+NP51	2 CHAPTER 1	2 cEptara 1
+NML53	CHAPTER 1	cEptara 1

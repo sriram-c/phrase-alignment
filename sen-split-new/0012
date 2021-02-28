@@ -1,0 +1,18 @@
+----------------	----------------	
+PP2	By gathering knowledge from experience	anuBava se jFAna jutAkara
+VP5_LWG	gathering	ikatTA honA
+NP7	knowledge	jFAna
+PP9	from experience	anuBava se
+NP11	experience	anuBava
+,13	,	,
+NP14	this approach	yaha xqRtikoNa
+VP17_LWG	avoids	isase bacawe hEM
+NP19	the need for human operators	mAnava saMcAlakoM kI jarUrawa
+NP20	the need	jarUrawa
+PP23	for human operators	mAnava saMcAlakoM ke lie
+NP25	human operators	mAnava saMcAlaka
+VP29_LWG	to formally specify	OpacArika rUpa se viSiRtawA ke lie
+ADVP31	formally	OpacArika wOra para
+NP35	all the knowledge	sArA jFAna
+NP42	the computer	kaMpyUtara
+VP45_LWG	needs	jarUraweM

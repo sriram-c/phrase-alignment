@@ -17,7 +17,8 @@ if __name__ == '__main__':
     uniq_sen = [regex.sub("\\p{C}+", "", regex.sub("\\p{Separator}+", " ", sen)).strip() for sen in  uniq_sen]
 
     #read all chunk translation in  wx
-    chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[3:-1]]
+    #chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:-1]]
+    chunks = [[l.split('\t')[0].split()[0], l.split('\t')[1].split(), l.split('\t')[2].split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:]]
 
 
     #read root dictionary processed earlier independently
@@ -44,7 +45,15 @@ if __name__ == '__main__':
     os.system( 'java -mx1000m -cp '+ stanford_path + '/*:  edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTMPSubcategories -outputFormat "xmlTree" '+ stanford_path + '/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz eng-parse.txt 1> eng-parse.xml 2> parse.log')
 
     f =  open('eng-parse.xml', 'r')
+
+    #make chunks using constituent parser o/p
     chunk_sens = xml_parse(f)
+
+    #print the groups to the file to be translated by NMT.
+    # for ch in chunk_sens[0]:
+    #     print(ch[0]+ '\t' + ' '.join(ch[1]))
+
+    # exit()
 
     #for ch, ch_hnd in zip(chunk_sens[0], chunks):
     for ch1 in chunk_sens[0]:
@@ -55,7 +64,7 @@ if __name__ == '__main__':
                 found = 1
                 break
         if( not found):
-            ch1.append(['no_translation'])
+            ch1.append(['@no_translation'])
 
 
     #group smaller chunks inside larger ones.
@@ -68,11 +77,11 @@ if __name__ == '__main__':
                 if(ch[0] not in group_chunk):
                     group_chunk[prev_ch_phrase].append([ch[0], ch[1], ch[2], ch[3]])
             else:
-                if('CC' not in ch[0]):
-                    group_chunk[ch[0]] = []
-                    group_chunk[ch[0]].append([ch[0], ch[1], ch[2], ch[3]])
-                    prev_ch_id = ch[2]
-                    prev_ch_phrase = ch[0]
+                # if('CC' not in ch[0]):
+                group_chunk[ch[0]] = []
+                group_chunk[ch[0]].append([ch[0], ch[1], ch[2], ch[3]])
+                prev_ch_id = ch[2]
+                prev_ch_phrase = ch[0]
 
 
     #align smaller chunk translation to bigger chunk by applying logic
