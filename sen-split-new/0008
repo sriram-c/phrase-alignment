@@ -1,13 +1,17 @@
-----------------	----------------	
+------------	------------
 NP1	problems that can be described by a list of formal , math - ematical rules .	jina samasyAoM kA varNana OpacArika, gaNiwa- AxarSa niyamoM kI sUcI se kiyA jA sakawA hE
-NP2	problems	samasyAeM
-WHNP5	that	vaha
-VP8_LWG	can be described	bawAyA jA sakawA hE varNana
-PP14	by a list of formal , math - ematical rules	OpacArika, gaNiwa- niyamoM kI sUcI se
-NP16	a list of formal , math - ematical rules	OpacArika, gaNiwa- niyamoM kI sUcI
-NP17	a list	eka sUcI
-PP20	of formal , math - ematical rules	OpacArika, gaNiwa- AxarSa niyamoM kA
-NP22	formal , math - ematical rules	OpacArika, gaNiwa- AxarSa niyama
-,24	,	,
-ADJP25	math - ematical	gaNiwa- gaNiwIya
-NP26	math	gaNiwa
+NP2	problems that can be described by a list of formal , math	jina samasyAoM kA varNana OpacArika, gaNiwa kI sUcI se kiyA jA sakawA hE
+NP3	problems	samasyAeM
+WHNP6	that	vaha
+VP9_LWG	can be described	bawAyA jA sakawA hE varNana
+PP15	by a list of formal , math	OpacArika, gaNiwa kI sUcI se
+NP17	a list of formal , math	OpacArika, gaNiwa kI sUcI
+NP18	a list	eka sUcI
+PP21	of formal , math	OpacArika, gaNiwa kA
+NP23	formal , math	OpacArika, gaNiwa
+NP24	formal	OpacArika
+,26	,	,
+NP27	math	gaNiwa
+NP30	ematical rules	nEwika niyama
+NP31	ematical	SiRtAcAra
+NP33	rules	niyama

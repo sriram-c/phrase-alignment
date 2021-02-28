@@ -1,4 +1,4 @@
-----------------	----------------	
+------------	------------
 NP3	Its inference engine	isakI iMPekSana iMjana
 VP7_LWG	detected	pawA calA
 NP9	an inconsistency	eka asaMwoRa
@@ -18,6 +18,6 @@ NP49	an electric razor	eka bijalI rejara
 ,53	,	,
 NP54	it	yaha
 VP56_LWG	believed	mAnA jAwA
-NP60	the entity “ FredWhileShaving ”	ikAI PredaviSiMgsaviMga
+NP60	the entity `` FredWhileShaving ''	ikAI `PredaviSiMgsaviMga''
 VP66_LWG	contained	SAmila
 NP68	electrical parts	bijalI ke hisse

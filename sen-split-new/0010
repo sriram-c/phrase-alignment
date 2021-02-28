@@ -1,9 +1,8 @@
-----------------	----------------	
+------------	------------
 NP2	This book	yaha puswaka
 VP5_LWG	is	hE
-PP7	about a solution to these more intuitive problems	ina aXika sahaja samasyAoM ke samAXAna ke bAre meM
-NP9	a solution to these more intuitive problems	ina aXika sahaja samasyAoM kA samAXAna
-NP10	a solution	eka samAXAna
-PP13	to these more intuitive problems	ina Ora aXika sahaja samasyAoM ke lie
-NP15	these more intuitive problems	ye aXika sahaja samasyAeM
-ADJP17	more intuitive	aXika sahaja
+PP7	about a solution	eka samAXAna ke bAre meM
+NP9	a solution	eka samAXAna
+PP12	to these more intuitive problems	ina Ora aXika sahaja samasyAoM ke lie
+NP14	these more intuitive problems	ye aXika sahaja samasyAeM
+ADJP16	more intuitive	aXika sahaja

@@ -41,7 +41,8 @@ if __name__ == '__main__':
     f.close()
     '''
 
-    stanford_path = '/home/sriram/alignment/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
+    #stanford_path = '/home/sriram/alignment/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
+    stanford_path = '/home/sriram/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
     os.system( 'java -mx1000m -cp '+ stanford_path + '/*:  edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTMPSubcategories -outputFormat "xmlTree" '+ stanford_path + '/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz eng-parse.txt 1> eng-parse.xml 2> parse.log')
 
     f =  open('eng-parse.xml', 'r')
@@ -52,7 +53,7 @@ if __name__ == '__main__':
     #print the groups to the file to be translated by NMT.
     # for ch in chunk_sens[0]:
     #     print(ch[0]+ '\t' + ' '.join(ch[1]))
-
+    #
     # exit()
 
     #for ch, ch_hnd in zip(chunk_sens[0], chunks):

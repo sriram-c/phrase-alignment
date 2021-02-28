@@ -1,10 +1,11 @@
-----------------	----------------	
-NP2	A person ’ s everyday life	eka vyakwi kI rojamarrA kI jiMxagI
-NP3	A person ’ s	eka vyakwi kA 'esa
+------------	------------
+NP2	A person ' s everyday life	eka vyakwi kI rojamarrA kI jiMxagI
+NP3	A person '	eka vyakwi '
 VP10_LWG	requires	jarUrawa hE
-NP12	an immense amount of knowledge	jFAna kI awyaXika mAwrA
+NP12	an immense amount of knowledge about the world	xuniyA ke bAre meM asIma mAwrA meM jFAna
 NP13	an immense amount	eka apAra rASi
-PP17	of knowledge	jFAna kA
-NP19	knowledge	jFAna
-PP21	about the world	xuniyA ke bAre meM
-NP23	the world	xuniyA
+PP17	of knowledge about the world	xuniyA ke bAre meM jFAna kA
+NP19	knowledge about the world	xuniyA ke bAre meM jFAna
+NP20	knowledge	jFAna
+PP22	about the world	xuniyA ke bAre meM
+NP24	the world	xuniyA

@@ -1,15 +1,18 @@
-----------------	----------------	
+------------	------------
 NP2	The performance of these simple machine learning algorithms	ina sAXAraNa maSIna sIKane ke elgorixama kA praxarSana
 NP3	The performance	praxarSana
 PP6	of these simple machine learning algorithms	ina sAXAraNa maSIna sIKane vAle elgorixama
 NP8	these simple machine learning algorithms	ye sAXAraNa maSIna sIKa rahe elgorixama
-NML11	machine learning	maSIna sIKanA
-VP15_LWG	depends heavily	BArI nirBara karawA hE
-ADVP17	heavily	BArI-Barakama
-PP19	on the representation of the data	AMkadZoM ke prawiniXiwva para
-NP21	the representation of the data	AMkadZoM kA prawiniXiwva
-NP22	the representation	prawiniXiwva
-PP25	of the data	detA kA
-NP27	the data	detA
-NP32	they	ve
-VP34_LWG	are given	xie jAwe hEM
+NP9	these simple machine	ye sAXAraNa maSIna
+VP13_LWG	learning	sIKanA
+NP15	algorithms	elgorixama
+VP17_LWG	depends heavily	BArI nirBara karawA hE
+ADVP19	heavily	BArI-Barakama
+PP21	on the representation of the data they are given	unake xvArA xie gae AMkadZoM ke prawiniXiwva para
+NP23	the representation of the data they are given	unake xvArA xie gae detA kA prawiniXiwva
+NP24	the representation	prawiniXiwva
+PP27	of the data they are given	unake xvArA xie gae detA kA
+NP29	the data they are given	unheM jo detA xiyA jAwA hE
+NP30	the data	detA
+NP35	they	ve
+VP37_LWG	are given	xie jAwe hEM

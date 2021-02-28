@@ -1,4 +1,4 @@
-----------------	----------------	
+------------	------------
 PP2	In the early days of artiﬁcial intelligence	kqwrima buxXimawwA ke SuruAwI xinoM meM
 NP4	the early days of artiﬁcial intelligence	kqwrima buxXimawwA ke SuruAwI xina
 NP5	the early days	SuruAwI xina
@@ -12,13 +12,13 @@ CC22	and	Ora
 NP24	problems that are intellectually diﬃcult for human beings but relatively straight - forward for computers	EsI samasyAeM jo iMsAnoM ke lie bOxXika rUpa se muSkila hEM lekina apekRAkqwa sIXe- kaMpyUtaroM ke lie Age
 NP25	problems	samasyAeM
 WHNP28	that	vaha
-VP31_LWG	are intellectually diﬃcult for human beings but relatively straight - forward	iMsAnoM ke lie bOxXika rUpa se muSkila hEM lekina apekRAkqwa sIXe-Age
-ADJP33	intellectually diﬃcult for human beings but relatively straight - forward	iMsAnoM ke lie bOxXika rUpa se muSkila lekina apekRAkqwa sIXA-Age
+VP31_LWG	are intellectually diﬃcult for human beings but relatively straight - forward for computers	iMsAnoM ke lie bOxXika rUpa se muSkila hEM lekina apekRAkqwa sIXA- kaMpyUtaroM ke lie Age
+ADJP33	intellectually diﬃcult for human beings but relatively straight - forward for computers	iMsAnoM ke lie bOxXika rUpa se muSkila lekina apekRAkqwa sIXA- kaMpyUtaroM ke lie Age
 ADJP34	intellectually diﬃcult for human beings	iMsAnoM ke lie bOxXika rUpa se muSkila
 PP37	for human beings	iMsAnoM ke lie
 NP39	human beings	manuRya
 CC42	but	lekina
-ADJP44	straight - forward	sIXA- Age
-PP48	for computers	kaMpyUtaroM ke lie
-NP50	computers	kaMpyUtara
-,52	—	
+ADJP44	straight - forward for computers	sIXA- kaMpyUtaroM ke lie Age
+PP47	forward for computers	kaMpyUtaroM ke lie Age
+ADVP48	forward	Age
+NP51	computers	kaMpyUtara

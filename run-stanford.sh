@@ -1,0 +1,1 @@
+java -mx1000m -cp /home/sriram/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/*:  edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTMPSubcategories  /home/sriram/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz $1

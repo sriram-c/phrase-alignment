@@ -1,19 +1,19 @@
-----------------	----------------	
+------------	------------
 NP2	Chess	SawaraMja
-NNP3	Chess	SawaraMja
-VP4_LWG	can be completely described easily provided ahead of time	samaya se pahale pUrI waraha se varNiwa kiyA jA sakawA hE
+VP4_LWG	can be completely described	pUrI waraha se bawAyA jA sakawA hE
 ADVP9	completely	pUrI waraha se
-PP13	by a very brief list of completely formal rules	pUrI waraha se OpacArika niyamoM kI eka bahuwa saMkRipwa sUcI se
-NP15	a very brief list of completely formal rules	pUrI waraha se OpacArika niyamoM kI eka bahuwa saMkRipwa sUcI
-NP16	a very brief list	eka bahuwa hI saMkRipwa sUcI
-ADJP18	very brief	bahuwa saMkRipwa
-PP22	of completely formal rules	pUrI waraha se OpacArika niyamoM kA
-NP24	completely formal rules	pUrI waraha se OpacArika niyama
-ADJP25	completely formal	pUrI waraha se OpacArika
-,29	,	,
+PP12	by a very brief list of completely formal rules , easily provided ahead of time by the programmer	pUrI waraha se OpacArika niyamoM kI eka bahuwa saMkRipwa sUcI se, progrAmara xvArA AsAnI se samaya se pahale praxAna kI gaI
+NP14	a very brief list of completely formal rules , easily provided ahead of time by the programmer	pUrI waraha se OpacArika niyamoM kI eka bahuwa saMkRipwa sUcI, progrAmara xvArA AsAnI se samaya se pahale praxAna kI gaI
+NP15	a very brief list	eka bahuwa hI saMkRipwa sUcI
+ADJP17	very brief	bahuwa saMkRipwa
+PP21	of completely formal rules	pUrI waraha se OpacArika niyamoM kA
+NP23	completely formal rules	pUrI waraha se OpacArika niyama
+ADJP24	completely formal	pUrI waraha se OpacArika
+,28	,	,
+VP29_LWG	easily provided ahead	AsAnI se Age baDZAyA gayA
 ADVP30	easily	AsAnI se
-ADVP34	ahead of time	samaya se Age
-PP36	of time	samaya kI
-NP38	time	samaya
-PP40	by the programmer	progrAmara xvArA
-NP42	the programmer	progrAmara
+ADVP33	ahead	Age
+PP35	of time	samaya kI
+NP37	time	samaya
+PP39	by the programmer	progrAmara xvArA
+NP41	the programmer	progrAmara

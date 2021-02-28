@@ -1,4 +1,4 @@
-----------------	----------------	
+------------	------------
 PP2	For example	uxAharaNa ke lie
 NP4	example	uxAharaNa
 ,6	,	,
@@ -7,16 +7,19 @@ NNP8	Cyc	sAika
 VP9_LWG	failed	asaPala
 VP12_LWG	to understand	samaJane ke lie
 NP16	a story	eka kahAnI
-PP19	about a person named Fred shaving in the morning ( Linde , 1992 )	subaha (liMde, 1992) meM Preda SeviMga nAmaka vyakwi ke bAre meM
-NP21	a person named Fred shaving in the morning ( Linde , 1992 )	subaha meM Preda SeviMga nAmaka vyakwi (liMde, 1992)
+PP19	about a person named Fred shaving in the morning -LRB- Linde , 1992 -RRB-	subaha Preda SeviMga nAmaka vyakwi ke bAre meM-elaArabI-liMde, 1992 -AraArabI-
+NP21	a person named Fred shaving in the morning -LRB- Linde , 1992 -RRB-	subaha Preda SeviMga nAmaka vyakwi-elaArabI-liMde, 1992-AraArabI-
 NP22	a person	eka vyakwi
 VP25_LWG	named	nAmajaxa
-NP27	Fred shaving in the morning	subaha Preda SeviMga
-NP28	Fred shaving	Preda SeviMga
+NP27	Fred shaving in the morning -LRB- Linde , 1992 -RRB-	subaha Preda SeviMga-elaArabI-liMde, 1992-AraArabI-
+NP28	Fred	Preda
 NNP29	Fred	Preda
-NNP30	shaving	SeviMga
-PP31	in the morning	subaha-subaha
-NP33	the morning	subaha
-PRN36	( Linde , 1992 )	(liMde, 1992)
-NP38	Linde , 1992	liMde, 1992
-,40	,	,
+VP30_LWG	shaving	SeviMga
+PP32	in the morning -LRB- Linde , 1992 -RRB-	subaha -elaArabI- liMde, 1992-AraArabI-
+NP34	the morning -LRB- Linde , 1992 -RRB-	subaha -elaArabI- liMde, 1992-AraArabI-
+NP35	the morning	subaha
+PRN38	-LRB- Linde , 1992 -RRB-	-elaArabI- liMde, 1992-AraArabI-
+NP40	Linde	liMde
+NNP41	Linde	liMde
+,42	,	,
+NP43	1992	1992
