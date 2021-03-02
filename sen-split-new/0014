@@ -1,9 +1,10 @@
 ------------	------------
 NP5	we	hama
 VP7_LWG	draw	AkarRiwa
-NP10	a graph	eka grAPa
+NP9	a graph	eka grAPa
 VP13_LWG	showing	xiKA rahA hE
 NP15	how	kEse
-NP17	these	ye
-VP19_LWG	concepts	avaXAraNAez
-NP21	1 CHAPTER 1	1 cEptara 1
+NP17	these concepts	ye avaXArAeM
+NP20	1	1
+VP22_LWG	CHAPTER	cEptara
+NP24	1	1

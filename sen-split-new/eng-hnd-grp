@@ -1,0 +1,500 @@
+------------	------------
+NP2	Chapter 1 Introduction Inventors	aXyAya 1 paricaya AviRkAraka
+NML3	Chapter 1	aXyAya 1
+NNP6	Introduction	paricaya
+NNP7	Inventors	nirmAwAoM
+VP8_LWG	have long dreamed	laMbe samaya se sapane xeKa cuke hEM
+ADVP10	long	laMbe samaya waka
+PP14	of creating machines that think	maSInoM kA nirmANa karanA jo socawe hEM
+VP17_LWG	creating	banA rahA hE racanA
+NP19	machines that think	maSIneM jo socawI hEM
+NP20	machines	maSIneM
+WHNP23	that	vaha
+VP26_LWG	think	socie
+------------	------------
+NP2	This desire	yaha icCA
+VP5_LWG	dates back	wArIKeM vApasa
+PRT7	back	vApasa
+PP9	to at least the time of ancient Greece	kama se kama prAcIna grIsa ke samaya ke lie
+NP11	at least the time of ancient Greece	kama se kama prAcIna grIsa kA samaya
+NP12	at least the time	kama se kama samaya
+ADVP14	at least	kama se kama
+PP19	of ancient Greece	prAcIna grIsa kA
+NP21	ancient Greece	prAcIna grIsa
+NNP23	Greece	grIsa
+------------	------------
+NP3	The mythical ﬁgures Pygmalion , Daedalus , and Hephaestus	pOrANika AMkadZe pAyagamalIyana, xAxAlasa Ora hePEstasa
+NP4	The mythical ﬁgures	pOrANika AMkadZe
+NP8	Pygmalion , Daedalus , and Hephaestus	pAyagaminIyana, xAxAlasa, Ora hePestasa
+NNP9	Pygmalion	pAyagaminIyana
+,10	,	,
+NNP11	Daedalus	xAxAlasa
+,12	,	,
+CC13	and	Ora
+NNP14	Hephaestus	hePestasa
+VP15_LWG	may all be interpreted	saBI kI vyAKyA ho sakawI hE
+PP22	as legendary inventors	mahAna AviRkAraka ke rUpa meM
+NP24	legendary inventors	mahAna AviRkAraka
+,27	,	,
+CC28	and	Ora
+NP30	Galatea , Talos , and Pandora	gEletA, wAlosa, Ora pEMxrA
+NNP31	Galatea	gEletA
+,32	,	,
+NNP33	Talos	wAlosa
+,34	,	,
+CC35	and	Ora
+NNP36	Pandora	pEMxrA
+VP37_LWG	may all be regarded	ho sakawA hE saBI kA saMbaMXa
+PP44	as artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	kqwrima jIvana (ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+NP46	artiﬁcial life ( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	kqwrima jIvana (ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+PRN49	( Ovid and Martin , 2004 ; Sparkes , 1996 ; Tandy , 1997 )	(ovida Ora mArtina, 2004 ; spArksa, 1996 ; tAMdI, 1997 )
+NP51	Ovid and Martin	ovida Ora mArtina
+NNP52	Ovid	ovida
+CC53	and	Ora
+NNP54	Martin	mArtina
+,55	,	,
+NP56	2004	2004
+NP59	Sparkes	spArka
+NNP60	Sparkes	spArka
+,61	,	,
+NP62	1996	1996
+NP65	Tandy	taMdI
+NNP66	Tandy	taMdI
+,67	,	,
+NP68	1997	1997
+------------	------------
+WHADVP3	When	kaba
+NP6	programmable computers	progrAmabala kaMpyUtara
+VP9_LWG	were ﬁrst conceived	pahale WIM kalpanA
+ADJP11	ﬁrst conceived	pahalI kalpanA
+,14	,	,
+NP15	people	logoM
+VP17_LWG	wondered	socA
+NP22	such machines	EsI maSIneM
+VP25_LWG	might become intelligent	ho sakawA hE buxXimAna
+ADJP29	intelligent	buxXimAna
+,31	,	,
+NP33	over a hundred years	sO sAla se jyAxA
+NP41	one	eka
+VP43_LWG	was built	banAyA gayA WA
+PRN47	( Lovelace , 1842 )	(lavalIsa, 1843)
+NP49	Lovelace	lavalesa
+NNP50	Lovelace	lavalesa
+,51	,	,
+NP52	1842	1843
+------------	------------
+NP-TMP2	Today	Aja
+,4	,	,
+NP5	artiﬁcial intelligence ( AI )	kqwrima buxXimawwA (eAI)
+NP6	artiﬁcial intelligence	kqwrima buxXimawwA
+NP10	AI	E.AI.
+VP13_LWG	is	hE
+NP15	a thriving ﬁeld with many practical applications and active research topics	kaI vyAvahArika Avexana Ora sakriya anusaMXAna viRayoM ke sAWa saMpanna kRewra
+NP16	a thriving ﬁeld	eka saMpanna kRewra
+PP20	with many practical applications and active research topics	kaI vyAvahArika Avexana Ora sakriya anusaMXAna viRayoM ke sAWa
+NP22	many practical applications and active research topics	kaI vyAvahArika Avexana Ora sakriya anusaMXAna viRaya
+NML24	practical applications and active research	vyAvahArika Avexana Ora sakriya SoXa
+NML25	practical applications	vyAvahArika Avexana
+CC28	and	Ora
+NML29	active research	sakriya SoXa
+------------	------------
+NP2	We	hama
+VP4_LWG	look	xeKo
+PP6	to intelligent software	buxXimAna soYPtaveyara ko
+NP8	intelligent software	buxXimAna soYPtaveyara
+VP12_LWG	to automate understand make support	svacAliwa samaJane ke lie samarWana banAne ke lie
+NP17	routine labor	niyamiwa Srama
+,20	,	,
+NP23	speech or images	BARaNa yA CaviyAM
+CC25	or	yA
+,27	,	,
+NP30	diagnoses	nixAna
+PP32	in medicine	xavA meM
+NP34	medicine	xavA
+CC36	and	Ora
+NP39	basic scientiﬁc research	buniyAxI vEjFAnika anusaMXAna
+------------	------------
+PP2	In the early days of artiﬁcial intelligence	kqwrima buxXimawwA ke SuruAwI xinoM meM
+NP4	the early days of artiﬁcial intelligence	kqwrima buxXimawwA ke SuruAwI xina
+NP5	the early days	SuruAwI xina
+PP9	of artiﬁcial intelligence	kqwrima buxXimawwA kA
+NP11	artiﬁcial intelligence	kqwrima buxXimawwA
+,14	,	,
+NP15	the ﬁeld	Kewa
+ADVP18	rapidly	wejI se
+VP20_LWG	tackled solved	nipatA huA hala
+CC22	and	Ora
+NP24	problems that are intellectually diﬃcult for human beings but relatively straight - forward for computers	EsI samasyAeM jo iMsAnoM ke lie bOxXika rUpa se muSkila hEM lekina apekRAkqwa sIXe- kaMpyUtaroM ke lie Age
+NP25	problems	samasyAeM
+WHNP28	that	vaha
+VP31_LWG	are intellectually diﬃcult for human beings but relatively straight - forward	iMsAnoM ke lie bOxXika rUpa se muSkila hEM lekina apekRAkqwa sIXe-Age
+ADJP33	intellectually diﬃcult for human beings but relatively straight - forward	iMsAnoM ke lie bOxXika rUpa se muSkila lekina apekRAkqwa sIXA-Age
+ADJP34	intellectually diﬃcult for human beings	iMsAnoM ke lie bOxXika rUpa se muSkila
+PP37	for human beings	iMsAnoM ke lie
+NP39	human beings	manuRya
+CC42	but	lekina
+ADJP44	straight - forward	sIXA- Age
+PP48	for computers	kaMpyUtaroM ke lie
+NP50	computers	kaMpyUtara
+,52	—	
+------------	------------
+NP1	problems that can be described by a list of formal , math - ematical rules .	jina samasyAoM kA varNana OpacArika, gaNiwa- AxarSa niyamoM kI sUcI se kiyA jA sakawA hE
+NP2	problems	samasyAeM
+WHNP5	that	vaha
+VP8_LWG	can be described	bawAyA jA sakawA hE varNana
+PP14	by a list of formal , math - ematical rules	OpacArika, gaNiwa- niyamoM kI sUcI se
+NP16	a list of formal , math - ematical rules	OpacArika, gaNiwa- niyamoM kI sUcI
+NP17	a list	eka sUcI
+PP20	of formal , math - ematical rules	OpacArika, gaNiwa- AxarSa niyamoM kA
+NP22	formal , math - ematical rules	OpacArika, gaNiwa- AxarSa niyama
+,24	,	,
+ADJP25	math - ematical	gaNiwa- gaNiwIya
+NP26	math	gaNiwa
+------------	------------
+NP2	The true challenge to artiﬁcial intelligence	kqwrima buxXimawwA ko saccI cunOwI
+NP3	The true challenge	saccI cunOwI
+PP7	to artiﬁcial intelligence	kqwrima buxXimawwA ko
+NP9	artiﬁcial intelligence	kqwrima buxXimawwA
+VP12_LWG	proved	sAbiwa huA
+VP15_LWG	to be solving	hala honA hE
+NP21	the tasks that are easy for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images	logoM ke lie jo kArya karanA AsAna hE, lekina logoM ke lie OpacArika rUpa se varNana karanA kaTina hE samasyAeM jo hama sahaja DaMga se hala karawe hEM,
+NP22	the tasks	kAryoM
+WHNP26	that	vaha
+VP29_LWG	are easy for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images	logoM ke lie praxarSana karanA AsAna hE lekina logoM ke lie OpacArika rUpa se varNana karanA kaTina hE samasyAeM jo hama sahaja DaMga se hala karawe hEM, jE
+ADJP31	easy for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images	logoM ke lie praxarSana karanA AsAna lekina logoM ke lie OpacArika rUpa se varNana karanA kaTina hE samasyAeM jo hama sahaja rUpa se hala karawe hEM, jEse
+PP33	for people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images	logoM ke lie OpacArika rUpa se logoM ke lie praxarSana karanA lekina kaTina praxarSana karanA hogA samasyAeM jo hama sahaja rUpa se hala karawe hEM, jEse ciwroM
+NP35	people to perform but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images	loga OpacArika rUpa se logoM ke lie praxarSana karanA lekina kaTina praxarSana karanA cAhawe hEM samasyAeM jo hama sahaja rUpa se hala karawe hEM, jo svacAliwa mahasUsa kara
+VP38_LWG	to perform	praxarSana karane ke lie
+PP42	but hard for people to describe formally — problems that we solve intuitively , that feel automatic , like recognizing spoken words or faces in images	lekina logoM ke lie OpacArika rUpa se varNana karanA kaTina hE samasyAeM jo hama sahaja rUpa se hala karawe hEM, jEse ki CaviyoM meM bolI huI SabxoM yA
+CC43	but	lekina
+PP44	hard for people to describe formally — problems that we solve intuitively , that feel automatic	logoM ke lie OpacArika rUpa se varNana karanA kaTina hE samasyAeM jinheM hama sahaja rUpa se hala karawe hEM, jo svacAliwa mahasUsa karawe hEM
+ADVP45	hard	muSkila
+NP48	people to describe formally — problems that we solve intuitively , that feel automatic	loga OpacArika rUpa se varNana karawe hEM samasyAeM jinheM hama sahaja rUpa se hala karawe hEM, jo svacAliwa mahasUsa karawe hEM
+NP49	people to describe formally — problems that we solve intuitively	loga OpacArika rUpa se varNana karawe hEM samasyAeM jinheM hama sahaja rUpa se hala karawe hEM
+NP50	people to describe formally	OpacArika rUpa se varNana karane vAle loga
+VP53_LWG	to describe formally	OpacArika rUpa se varNana karane ke lie
+ADVP57	formally	OpacArika wOra para
+NP60	problems that we solve intuitively	samasyAeM jinheM hama sahaja rUpa se hala karawe hEM
+NP61	problems	samasyAeM
+NP66	we	hama
+VP68_LWG	solve intuitively	sahaja rUpa se hala kareM
+ADVP70	intuitively	sahaja rUpa se
+,72	,	,
+WHNP74	that	vaha
+VP77_LWG	feel automatic	svacAliwa mahasUsa
+ADJP79	automatic	svacAliwa
+,81	,	,
+PP82	like recognizing spoken words or faces in images	jEse CaviyoM meM bolI gaI bAweM yA cehare ko pahacAnanA
+VP85_LWG	recognizing spoken	mAnyawA xewe hue bolI
+NP89	words or faces	Sabxa yA cehare
+CC91	or	yA
+PP93	in images	CaviyoM meM
+NP95	images	CaviyAM
+------------	------------
+NP2	This book	yaha puswaka
+VP5_LWG	is	hE
+PP7	about a solution to these more intuitive problems	ina aXika sahaja samasyAoM ke samAXAna ke bAre meM
+NP9	a solution to these more intuitive problems	ina aXika sahaja samasyAoM kA samAXAna
+NP10	a solution	eka samAXAna
+PP13	to these more intuitive problems	ina Ora aXika sahaja samasyAoM ke lie
+NP15	these more intuitive problems	ye aXika sahaja samasyAeM
+ADJP17	more intuitive	aXika sahaja
+------------	------------
+NP2	This solution	yaha samAXAna
+VP5_LWG	is	hE
+VP8_LWG	to allow	anumawi xene ke lie
+NP12	computers	kaMpyUtara
+VP15_LWG	to learn understand	samaJane ke lie
+PP20	from experience	anuBava se
+NP22	experience	anuBava
+CC24	and	Ora
+NP27	the world	xuniyA
+PP30	in terms of a hierarchy of concepts	avaXArAoM kI eka paxAnukrama ke mAmale meM
+NP32	terms of a hierarchy of concepts	avaXArAoM kI eka paxAnukrama kI SarweM
+NP33	terms	SarwoM
+PP35	of a hierarchy of concepts	avaXArAoM kI eka pravqwwi kA
+NP37	a hierarchy of concepts	avaXArAoM kI eka pravqwwi
+NP38	a hierarchy	eka paxAnukrama
+PP41	of concepts	avaXArAoM kI
+NP43	concepts	avaXAraNAez
+,45	,	,
+PP46	with each concept deﬁned through its relation to simpler concepts	prawyeka avaXAraNA ke sAWa sarala avaXArAoM ke saMbaMXa ke mAXyama se pariBARiwa
+NP48	each concept deﬁned through its relation to simpler concepts	prawyeka avaXAraNA ko sarala avaXArAoM ke saMbaMXa meM pariBARiwa
+NP49	each concept	prawyeka avaXAraNA
+VP52_LWG	deﬁned	pariBARiwa
+PP54	through its relation	usake riSwe ke mAXyama se
+NP56	its relation	isakA saMbaMXa
+PP59	to simpler concepts	sarala avaXArAoM ko
+NP61	simpler concepts	sarala avaXAraNAez
+------------	------------
+PP2	By gathering knowledge from experience	anuBava se jFAna jutAkara
+VP5_LWG	gathering	ikatTA honA
+NP7	knowledge	jFAna
+PP9	from experience	anuBava se
+NP11	experience	anuBava
+,13	,	,
+NP14	this approach	yaha xqRtikoNa
+VP17_LWG	avoids	isase bacawe hEM
+NP19	the need for human operators	mAnava saMcAlakoM kI jarUrawa
+NP20	the need	jarUrawa
+PP23	for human operators	mAnava saMcAlakoM ke lie
+NP25	human operators	mAnava saMcAlaka
+VP29_LWG	to formally specify	OpacArika rUpa se viSiRtawA ke lie
+ADVP31	formally	OpacArika wOra para
+NP35	all the knowledge	sArA jFAna
+NP42	the computer	kaMpyUtara
+VP45_LWG	needs	jarUraweM
+------------	------------
+NP2	The hierarchy of concepts	avaXArAoM kI reKA
+NP3	The hierarchy	paxAnukrama
+PP6	of concepts	avaXArAoM kI
+NP8	concepts	avaXAraNAez
+VP10_LWG	enables	sakRama
+NP12	the computer	kaMpyUtara
+VP16_LWG	to learn	sIKane ke lie
+NP20	complicated concepts	jatila parikalpanAeM
+PP23	by building them out of simpler ones	unheM sarala logoM se banAkara
+VP26_LWG	building out	bildiMga Auta
+NP28	them	unheM
+PRT30	out	bAhara
+PP32	of simpler ones	sarala vAloM kI
+NP34	simpler ones	sarala vAle
+------------	------------
+NP5	we	hama
+VP7_LWG	draw	AkarRiwa
+NP9	a graph	eka grAPa
+VP13_LWG	showing	xiKA rahA hE
+NP15	how	kEse
+NP17	these concepts	ye avaXArAeM
+NP20	1	1
+VP22_LWG	CHAPTER	cEptara
+NP24	1	1
+------------	------------
+NP3	INTRODUCTION	paricaya
+NNP4	INTRODUCTION	paricaya
+VP5_LWG	are built	banAe gae hEM
+PP9	on top of each other	eka xUsare ke Upara
+NP11	top of each other	eka xUsare ke SIrRa
+NP12	top	SIrRa
+PP14	of each other	eka xUsare kI
+NP16	each other	eka xUsare ko
+,19	,	,
+NP20	the graph	grAPa
+VP23_LWG	is deep	gaharA hE
+ADJP25	deep	gaharA
+,27	,	,
+PP28	with many layers	kaI parawoM ke sAWa
+NP30	many layers	kaI paraweM
+------------	------------
+PP2	For this reason	isI vajaha se
+NP4	this reason	isI vajaha se
+,7	,	,
+NP8	we	hama
+VP10_LWG	call	koYla
+NP12	this approach	yaha xqRtikoNa
+PP15	to AI deep learning	eAI ko gaharI sIKa
+NP17	AI deep learning	eAI gaharI sIKa
+NML19	deep learning	gaharI sIKa
+------------	------------
+NP2	Many of the early successes of AI	eAI kI kaI SuruAwI saPalawAeM
+NP3	Many	kaI
+PP5	of the early successes of AI	eAI kI SuruAwI saPalawAoM kI
+NP7	the early successes of AI	eAI kI SuruAwI saPalawAeM
+NP8	the early successes	SuruAwI saPalawAeM
+PP12	of AI	eAI kA
+NP14	AI	E.AI.
+VP16_LWG	took did not require	liyA jarUrawa nahIM WI
+NP19	place	jagaha
+PP21	in relatively sterile and formal environments	apekRAkqwa asWira Ora OpacArika vAwAvaraNa meM
+NP23	relatively sterile and formal environments	apekRAkqwa asWira Ora OpacArika vAwAvaraNa
+ADJP24	relatively sterile and formal	apekRAkqwa asWira Ora OpacArika
+CC27	and	Ora
+CC30	and	Ora
+NP36	computers	kaMpyUtara
+VP39_LWG	to have	karane ke lie
+NP43	much knowledge about the world	xuniyA ke bAre meM bahuwa kuCa jFAna
+NP44	much knowledge	bahuwa jFAna
+PP47	about the world	xuniyA ke bAre meM
+NP49	the world	xuniyA
+------------	------------
+PP2	For example	uxAharaNa ke lie
+NP4	example	uxAharaNa
+,6	,	,
+NP7	IBM ’ s Deep Blue chess - playing system	AIbIema kI gaharI nIlI SawaraMja- Kela praNAlI
+NP8	IBM ’ s	AIbIema 'esa
+NNP9	IBM	AIbIema
+NNP10	’	
+NML12	Deep Blue	gaharA nIlA
+NNP13	Deep	gaharA
+NNP14	Blue	nIlA
+VP19_LWG	defeated	parAjiwa
+NP21	world champion Garry Kasparov in 1997	viSva cEMpiyana gErI kApasarAva ne 1997 meM
+NP22	world champion Garry Kasparov	viSva cEMpiyana gErI kApasarAva
+NML23	world champion	viSva cEMpiyana
+NNP26	Garry	gErI
+NNP27	Kasparov	kApasarova
+PP28	in 1997	1997 meM
+NP30	1997	1997
+PRN32	( Hsu , 2002 )	(hasu, 2002)
+NP34	Hsu	hU
+NNP35	Hsu	hU
+,36	,	,
+NP37	2002	2002
+------------	------------
+NP2	Chess	SawaraMja
+NNP3	Chess	SawaraMja
+VP4_LWG	is of course	beSaka hE
+ADVP6	of course	beSaka
+NP9	a very simple world , containing only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways	eka bahuwa hI sAXAraNa xuniyA, jisameM kevala sATa-cAra sWAna Ora wIsa-wIna-xo tukadZe SAmila hEM jo kevala DaMga se KadZe warIkoM se Age baDZa sakawe hEM
+NP10	a very simple world	eka bahuwa hI sAXAraNa xuniyA
+ADJP12	very simple	bahuwa hI sarala
+,16	,	,
+VP17_LWG	containing	jisameM
+NP19	only sixty - four locations and thirty - two pieces that can move in only rigidly circumscribed ways	kevala sATa-cAra sWAna Ora wIsa-wIna-xo tukadZe jo sirPa DaMga se KadZe warIkoM se Age baDZa sakawe hEM
+NP20	only sixty - four locations and thirty - two pieces	kevala sATa-cAra sWAna Ora wIsa-xo tukadZe
+NP21	only sixty - four locations	kevala sATa- cAra sWAna
+CC28	and	Ora
+NP29	thirty - two pieces	wIsa-xo tukadZe
+WHNP36	that	vaha
+VP39_LWG	can move	Age baDZa sakawe hEM
+PP43	in only rigidly circumscribed ways	kevala DaMga se pariBARiwa warIkoM meM
+NP45	only rigidly circumscribed ways	kevala DaMga se pariBARiwa warIke
+------------	------------
+VP4_LWG	Devising	xevI-xevawA
+NP6	a successful chess strategy	eka saPala SawaraMja kI raNanIwi
+VP11_LWG	is	hE
+NP13	a tremendous accomplishment	eka jabaraxaswa upalabXi
+,17	,	,
+CC18	but	lekina
+NP20	the challenge	cunOwI
+VP23_LWG	is not due to the diﬃculty of describing the set of chess pieces and allowable moves to the computer	SawaraMja tukadZoM ke seta kA varNana karane kI kaTinAI Ora kaMpyUtara ko anumawi xene vAle kaxamoM kA varNana karane kI kaTinAI kI vajaha se nahIM
+ADJP26	due to the diﬃculty of describing the set of chess pieces and allowable moves to the computer	SawaraMja tukadZoM ke seta kA varNana karane kI kaTinAI Ora kaMpyUtara meM anumawi xene yogya cAla
+PP28	to the diﬃculty of describing the set of chess pieces and allowable moves to the computer	SawaraMja tukadZoM ke seta kA varNana karane kI kaTinAI Ora kaMpyUtara ke lie anumawi xene yogya cAla
+NP30	the diﬃculty of describing the set of chess pieces and allowable moves to the computer	SawaraMja tukadZoM ke seta kA varNana karane kI kaTinAI Ora kaMpyUtara ko anumawi xene yogya cAla
+NP31	the diﬃculty	muSkila
+PP34	of describing the set of chess pieces and allowable moves to the computer	SawaraMja tukadZoM ke seta kA varNana karane Ora kaMpyUtara meM anumawi xene yogya cAla
+VP37_LWG	describing	bawAwe hue
+NP39	the set of chess pieces and allowable moves	SawaraMja tukadZoM kA seta Ora anumawipUrNa cAloM kA
+NP40	the set	seta
+PP43	of chess pieces and allowable moves	SawaraMja ke tukadZe Ora anumawipUrNa cAleM
+NP45	chess pieces and allowable moves	SawaraMja ke tukadZe Ora anumawipUrNa cAleM
+NP46	chess pieces	SawaraMja ke tukadZe
+CC49	and	Ora
+NP50	allowable moves	anumawi xene yogya cAla
+PP53	to the computer	kaMpyUtara ko
+NP55	the computer	kaMpyUtara
+------------	------------
+NP2	Chess	SawaraMja
+NNP3	Chess	SawaraMja
+VP4_LWG	can be completely described easily provided ahead of time	samaya se pahale pUrI waraha se varNiwa kiyA jA sakawA hE
+ADVP9	completely	pUrI waraha se
+PP13	by a very brief list of completely formal rules	pUrI waraha se OpacArika niyamoM kI eka bahuwa saMkRipwa sUcI se
+NP15	a very brief list of completely formal rules	pUrI waraha se OpacArika niyamoM kI eka bahuwa saMkRipwa sUcI
+NP16	a very brief list	eka bahuwa hI saMkRipwa sUcI
+ADJP18	very brief	bahuwa saMkRipwa
+PP22	of completely formal rules	pUrI waraha se OpacArika niyamoM kA
+NP24	completely formal rules	pUrI waraha se OpacArika niyama
+ADJP25	completely formal	pUrI waraha se OpacArika
+,29	,	,
+ADVP30	easily	AsAnI se
+ADVP34	ahead of time	samaya se Age
+PP36	of time	samaya kI
+NP38	time	samaya
+PP40	by the programmer	progrAmara xvArA
+NP42	the programmer	progrAmara
+------------	------------
+ADVP2	Ironically	vidaMbanA se
+,4	,	,
+NP5	abstract and formal tasks that are among the most diﬃcult mental undertakings for a human being	amUrwa Ora OpacArika kArya jo manuRya ke lie sabase muSkila mAnasika upakramoM meM SAmila hEM
+NP6	abstract and formal tasks	amUrwa Ora OpacArika kArya
+ADJP7	abstract and formal	amUrwa Ora OpacArika
+CC9	and	Ora
+WHNP13	that	vaha
+VP16_LWG	are	hEM
+PP18	among the most diﬃcult mental undertakings for a human being	iMsAna ke lie sabase muSkila mAnasika upakramoM meM SAmila
+NP20	the most diﬃcult mental undertakings for a human being	iMsAna ke lie sabase muSkila mAnasika upakrama
+NP21	the most diﬃcult mental undertakings	sabase muSkila mAnasika upakrama
+ADJP23	most diﬃcult	sabase muSkila
+PP28	for a human being	iMsAna ke lie
+NP30	a human being	eka iMsAna
+VP34_LWG	are	hEM
+PP36	among the easiest for a computer	kaMpyUtara ke lie sabase AsAna meM se
+NP38	the easiest for a computer	kaMpyUtara ke lie sabase AsAna
+NP39	the easiest	sabase AsAna
+PP42	for a computer	eka kaMpyUtara ke lie
+NP44	a computer	eka kaMpyUtara
+------------	------------
+NP2	Computers	kaMpyUtara
+NNPS3	Computers	kaMpyUtara
+VP4_LWG	have long been able to defeat even the best human chess player only recently have begun	laMbe samaya se mAnava SawaraMja ke sarvaSreRTa KilAdZI ko BI harA pAe hEM hAla hI meM SurU
+ADVP7	long	laMbe samaya waka
+ADJP11	able to defeat even the best human chess player	yahAM waka ki sarvaSreRTa mAnava SawaraMja KilAdZI ko BI harAne meM sakRama
+VP14_LWG	to defeat even	parAjaya ke lie BI
+ADVP18	even	yahAM waka ki
+NP20	the best human chess player	sarvaSreRTa mAnava SawaraMja KilAdZI
+CC26	but	lekina
+ADVP27	only recently	kevala hAla hI meM
+VP35_LWG	matching	milAna
+NP37	some of the abilities of average human beings	Osawa iMsAna kI kuCa kRamawAeM
+NP38	some	kuCa
+PP40	of the abilities of average human beings	Osawa iMsAna kI kRamawAoM kA
+NP42	the abilities of average human beings	Osawa iMsAna kI kRamawAeM
+NP43	the abilities	kRamawAoM
+PP46	of average human beings	Osawa iMsAna kA
+NP48	average human beings	Osawa iMsAna
+VP53_LWG	to recognize	pahacAnane ke lie
+NP57	objects or speech	vaswueM yA BARaNa
+CC59	or	yA
+------------	------------
+NP2	A person ’ s everyday life	eka vyakwi kI rojamarrA kI jiMxagI
+NP3	A person ’ s	eka vyakwi kA 'esa
+VP10_LWG	requires	jarUrawa hE
+NP12	an immense amount of knowledge	jFAna kI awyaXika mAwrA
+NP13	an immense amount	eka apAra rASi
+PP17	of knowledge	jFAna kA
+NP19	knowledge	jFAna
+PP21	about the world	xuniyA ke bAre meM
+NP23	the world	xuniyA
+------------	------------
+NP2	Much of this knowledge	isa jFAna kA bahuwa kuCa
+NP3	Much	bahuwa kuCa
+PP5	of this knowledge	isa jFAna kA
+NP7	this knowledge	yaha jFAna
+VP10_LWG	is subjective and intuitive therefore diﬃcult	viRayAwmaka Ora sahaja hE isalie muSkila
+ADJP13	subjective and intuitive	viRayAwmaka Ora sahaja
+CC15	and	Ora
+,17	,	,
+CC18	and	Ora
+ADVP19	therefore	isalie
+VP24_LWG	to articulate	wAlamela banAne ke lie
+PP28	in a formal way	OpacArika warIke se
+NP30	a formal way	OpacArika warIke se
+------------	------------
+NP2	Computers	kaMpyUtara
+NNPS3	Computers	kaMpyUtara
+VP4_LWG	need	jarUrawa
+VP7_LWG	to capture	kabjA karane ke lie
+NP11	this same knowledge	yahI jFAna
+PP15	in order to behave in an intelligent way	eka buxXimAna warIke se vyavahAra karane ke lie
+NP17	order to behave in an intelligent way	eka buxXimAna warIke se vyavahAra karane kA AxeSa
+VP20_LWG	to behave	vyavahAra karane ke lie
+PP24	in an intelligent way	buxXimAna warIke se
+NP26	an intelligent way	eka buxXimAna warIkA
+------------	------------
+NP2	One of the key challenges in artiﬁcial intelligence	kqwrima buxXimawwA meM pramuKa cunOwiyoM meM se eka
+NP3	One	eka
+PP5	of the key challenges in artiﬁcial intelligence	kqwrima buxXimawwA meM pramuKa cunOwiyoM kI
+NP7	the key challenges in artiﬁcial intelligence	kqwrima buxXimawwA meM pramuKa cunOwiyAM
+NP8	the key challenges	pramuKa cunOwiyAM
+PP12	in artiﬁcial intelligence	kqwrima buxXimawwA meM
+NP14	artiﬁcial intelligence	kqwrima buxXimawwA
+VP17_LWG	is	hE
+WHADVP20	how	kEse
+VP23_LWG	to get	prApwa karane ke lie
+NP27	this informal knowledge	yaha anOpacArika jFAna
+PP31	into a computer	eka kaMpyUtara meM
+NP33	a computer	eka kaMpyUtara
+------------	------------
+NP2	Several artiﬁcial intelligence projects	kaI kqwrima buxXimawwA pariyojanAeM
+VP7_LWG	have sought	mAMgI hE mAMga
+PP11	to hard - code knowledge	kadZI mehanawa karane ke lie- koda jFAna

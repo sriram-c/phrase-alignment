@@ -9,139 +9,15 @@ from util import *
 import  ast
 import os
 
-
-
-
-def print_align(chunk_sens, group_chunk, uniq_sen):
-
-    eng_chunk_list = []
-    hnd_chunk_list = []
-    for key in group_chunk:
-        ch = group_chunk[key]
-        for l in ch[-1]:
-            eng_chunk_list.append(l[1])
-            hnd_chunk_list.append(l[2])
-
-    eng_full_sen = uniq_sen[0]
-    hnd_full_sen = uniq_sen[1]
-
-    eng_chunk_list1 = []
-    hnd_chunk_list1 = []
-
-
-    for wd in eng_chunk_list:
-        if(type(wd) == list):
-            wd1 = list(set(wd))
-            if(len(wd1) > 1):
-                eng_chunk_list1.append(' '.join(wd))
-            else:
-                eng_chunk_list1.append(wd1[0])
-        else:
-            eng_chunk_list1.append(wd)
-
-    for wd in hnd_chunk_list:
-        if(type(wd) == list):
-            wd1 = list(set(wd))
-            if(len(wd1) > 1):
-                hnd_chunk_list1.append(' '.join(wd))
-            else:
-                hnd_chunk_list1.append(wd1[0])
-        else:
-            hnd_chunk_list1.append(wd)
-
-    print(eng_full_sen)
-    print(hnd_full_sen)
-    print('\t', '\t'.join(eng_chunk_list1))
-    print('\t', '\t'.join(hnd_chunk_list1))
-
-
-def read_data():
-
-
-    uniq_sen = [l.strip('NMT:').strip('English -->').strip() for l in
-                 codecs.open(sys.argv[1], 'r', 'utf-8').readlines() if
-                 len(l.strip('NMT:').strip('English -->').strip()) > 0]
-    uniq_sen = [regex.sub("\\p{C}+", "", regex.sub("\\p{Separator}+", " ", sen)).strip() for sen in  uniq_sen]
-
-    #read all chunk translation in  wx
-    #chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:-1]]
-    chunks = [[l.split('\t')[0].split()[0], l.split('\t')[1].split(), l.split('\t')[2].split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:]]
-
-
-    #read root dictionary processed earlier independently
-    with open(sys.argv[3], 'r') as f:
-        cont = f.readlines()
-
-    dic_root = ast.literal_eval(cont[0])
-
-    return uniq_sen, chunks, dic_root
-
-
-def stanford_parser(eng_tok):
-
-    #parse and get the chunks from stanford parser
-    eng_tok = ' '.join(word_tokenize(uniq_sen[0]))
-    f = open('eng-parse.txt', 'w')
-    f.write(eng_tok)
-    f.close()
-
-    stanford_path = '/home/sriram/alignment/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
-    #stanford_path = '/home/sriram/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
-    os.system( 'java -mx1000m -cp '+ stanford_path + '/*:  edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTMPSubcategories -outputFormat "xmlTree" '+ stanford_path + '/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz eng-parse.txt 1> eng-parse.xml 2> parse.log')
-
-def print_chunks(chunk_sens):
-
-    #print the groups to the file to be translated by NMT.
-    for ch in chunk_sens[0]:
-        print(ch[0]+ '\t' + ' '.join(ch[1]))
-
-def add_hindi(chunks, chunk_sens):
-    #keep hindi translated sentences into chunk_sens
-    #for ch, ch_hnd in zip(chunk_sens[0], chunks):
-    for ch1 in chunk_sens:
-        found = 0
-        for ch2 in chunks:
-            if(ch1[0] == ch2[0]):
-                ch1.append(ch2[2])
-                found = 1
-                break
-        if( not found):
-            ch1.append(['@no_translation'])
-
-
-def group_sub_chunks(chunk_sens):
-
-    #group smaller chunks inside larger ones.
-
-    group_chunk = {}
-    prev_ch_id = []
-    for ch in chunk_sens[0]:
-        if(ch[0] != 'S1'):
-            if prev_ch_id != []:
-                if set(ch[2]).issubset(set(prev_ch_id)):
-                    if(ch[0] not in group_chunk):
-                        group_chunk[prev_ch_phrase].append([ch[0], ch[1], ch[2], ch[3]])
-            else:
-                # if('CC' not in ch[0]):
-                group_chunk[ch[0]] = []
-                group_chunk[ch[0]].append([ch[0], ch[1], ch[2], ch[3]])
-                prev_ch_id = ch[2]
-                prev_ch_phrase = ch[0]
-
-    return group_chunk
-
-
 if __name__ == '__main__':
 
-    '''
     uniq_sen = [l.strip('NMT:').strip('English -->').strip() for l in
                  codecs.open(sys.argv[1], 'r', 'utf-8').readlines() if
                  len(l.strip('NMT:').strip('English -->').strip()) > 0]
     uniq_sen = [regex.sub("\\p{C}+", "", regex.sub("\\p{Separator}+", " ", sen)).strip() for sen in  uniq_sen]
 
     #read all chunk translation in  wx
-    #chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:-1]]
-    chunks = [[l.split('\t')[0].split()[0], l.split('\t')[1].split(), l.split('\t')[2].split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:]]
+    chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[3:-1]]
 
 
     #read root dictionary processed earlier independently
@@ -150,43 +26,28 @@ if __name__ == '__main__':
 
     dic_root = ast.literal_eval(cont[0])
 
-    '''
-
-    uniq_sen, chunks, dic_root = read_data()
-
-    #for getting simalign output
     # output_best = simalign_batch(best_sen, 'mai')
 
-
-    '''
     #parse and get the chunks from stanford parser
+
+
 
     eng_tok = ' '.join(word_tokenize(uniq_sen[0]))
     f = open('eng-parse.txt', 'w')
     f.write(eng_tok)
     f.close()
+    '''
+    for l in best_sen[0]:
+        f.write(l + '\n')
+    f.close()
+    '''
 
     stanford_path = '/home/sriram/alignment/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
-    #stanford_path = '/home/sriram/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
     os.system( 'java -mx1000m -cp '+ stanford_path + '/*:  edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTMPSubcategories -outputFormat "xmlTree" '+ stanford_path + '/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz eng-parse.txt 1> eng-parse.xml 2> parse.log')
-    '''
-    eng_tok = ' '.join(word_tokenize(uniq_sen[0]))
-    stanford_parser(eng_tok)
 
     f =  open('eng-parse.xml', 'r')
-
-    #make chunks using constituent parser o/p
     chunk_sens = xml_parse(f)
 
-    #print the groups to the file to be translated by NMT.
-    # for ch in chunk_sens[0]:
-    #     print(ch[0]+ '\t' + ' '.join(ch[1]))
-    #
-    # exit()
-
-    '''
-
-    #keep hindi translated sentences into chunk_sens
     #for ch, ch_hnd in zip(chunk_sens[0], chunks):
     for ch1 in chunk_sens[0]:
         found = 0
@@ -196,13 +57,9 @@ if __name__ == '__main__':
                 found = 1
                 break
         if( not found):
-            ch1.append(['@no_translation'])
+            ch1.append(['no_translation'])
 
-    '''
 
-    add_hindi(chunk_sens, chunks)
-
-    '''
     #group smaller chunks inside larger ones.
 
     group_chunk = {}
@@ -211,22 +68,17 @@ if __name__ == '__main__':
         if(ch[0] != 'S1'):
             if set(ch[2]).issubset(set(prev_ch_id)):
                 if(ch[0] not in group_chunk):
-                    group_chunk[prev_ch_phrase].append([ch[0], ch[1], ch[2], ch[3]])
+                    group_chunk[prev_ch_phrase].append([ch[1], ch[2], ch[3]])
             else:
-                # if('CC' not in ch[0]):
-                group_chunk[ch[0]] = []
-                group_chunk[ch[0]].append([ch[0], ch[1], ch[2], ch[3]])
-                prev_ch_id = ch[2]
-                prev_ch_phrase = ch[0]
+                if('CC' not in ch[0]):
+                    group_chunk[ch[0]] = []
+                    group_chunk[ch[0]].append([ch[1], ch[2], ch[3]])
+                    prev_ch_id = ch[2]
+                    prev_ch_phrase = ch[0]
 
-    '''
-    group_chunk = group_sub_chunks(chunk_sens)
 
     #align smaller chunk translation to bigger chunk by applying logic
-    align_chunk_logic_new(group_chunk, dic_root)
-
-    print_align(chunk_sens, group_chunk, uniq_sen)
-    '''
+    align_chunk_logic(group_chunk, dic_root)
 
     eng_chunk_list = []
     hnd_chunk_list = []
@@ -239,9 +91,6 @@ if __name__ == '__main__':
     eng_full_sen = ' '.join(chunk_sens[0][0][1])
     hnd_full_sen = ' '.join(chunk_sens[0][0][3])
 
-    eng_full_sen = uniq_sen[0]
-    hnd_full_sen = uniq_sen[1]
-
     eng_chunk_list1 = []
     hnd_chunk_list1 = []
 
@@ -271,7 +120,6 @@ if __name__ == '__main__':
     print('\t', '\t'.join(eng_chunk_list1))
     print('\t', '\t'.join(hnd_chunk_list1))
 
-    '''
 
 
     '''

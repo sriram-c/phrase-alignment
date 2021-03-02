@@ -6,7 +6,6 @@ NP7	the early successes of AI	eAI kI SuruAwI saPalawAeM
 NP8	the early successes	SuruAwI saPalawAeM
 PP12	of AI	eAI kA
 NP14	AI	E.AI.
-NNP15	AI	E.AI.
 VP16_LWG	took did not require	liyA jarUrawa nahIM WI
 NP19	place	jagaha
 PP21	in relatively sterile and formal environments	apekRAkqwa asWira Ora OpacArika vAwAvaraNa meM
@@ -14,7 +13,7 @@ NP23	relatively sterile and formal environments	apekRAkqwa asWira Ora OpacArika 
 ADJP24	relatively sterile and formal	apekRAkqwa asWira Ora OpacArika
 CC27	and	Ora
 CC30	and	Ora
-NP37	computers	kaMpyUtara
+NP36	computers	kaMpyUtara
 VP39_LWG	to have	karane ke lie
 NP43	much knowledge about the world	xuniyA ke bAre meM bahuwa kuCa jFAna
 NP44	much knowledge	bahuwa jFAna
