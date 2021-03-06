@@ -388,10 +388,10 @@ def align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count
 
             #if match not present then add it
             if(count == 1 ): # for the 1st sentence create grp[3]
-                grp.append([wds_match_id, wds_match])
+                grp.append([[wds_match]])
             else:
-                if [wds_match_id, wds_match] not in grp[3]:
-                    grp[3].append([wds_match_id, wds_match])
+                if [wds_match] not in grp[3]:
+                    grp[3].append([wds_match])
 
 
 # def align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root):
