@@ -1,0 +1,13 @@
+English --> An autoencoder is the combination of an encoder function, which converts the input data into a dierent representation, and a decoder function, which converts the new representation back into the original format.
+NMT:  eka oYtonakodara eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna nirUpaNa meM parivarwiwa karawA hE , Ora eka vikodaka Palana , jo nae nirUpaNa ko vApasa mUla prArUpa meM parivarwiwa karawA hE .
+NMT:  eka svacaliwakodaka , eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna prawiniXiwva meM baxalawA hE , Ora eka dIkodara Palana hE , jo nae aByAvexana ko vApasa mUla prArUpa meM baxalawA hE .
+NMT:  eka sva - saMprawIka eka enakodara Palana kA saMyojana hE , jo inaputa detA ko eka Binna aByAvexana , Ora eka vikodaka Palana meM parivarwiwa karawA hE , jo nae nirUpaNa ko mUla prArUpa meM vApasa parivarwiwa karawA hE .
+NMT:  svawaHkodaka , eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna aByAvexana , Ora eka vikodaka Palana meM parivarwiwa karawA hE , jo nae nirUpaNa ko vApasa mUla prArUpa meM parivarwiwa karawA hE 
+NMT:  svawaH - kodaka eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna aByAvexana , Ora eka vikodaka Palana meM parivarwiwa karawA hE , jo nae nirUpaNa ko vApasa mUla svarUpa meM parivarwiwa karawA hE 
+NMT:  eka oYtonakodara , eka enakodara Palana kA saMyojana howA hE , jo inaputa detA ko Binna nirUpaNa meM parivarwiwa karawA hE , Ora eka vikodaka Palana , jo nae nirUpaNa ko vApasa mUla prArUpa meM parivarwiwa karawA hE .
+NMT:  eka oYtonakodara , eka enakodara Palana kA saMyojana howA hE , jo inaputa detA ko Binna nirUpaNa , Ora eka vikodaka Palana meM parivarwiwa karawA hE , jo nae nirUpaNa ko vApasa mUla prArUpa meM parivarwiwa karawA hE .
+NMT:  eka oYtonakodara , eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna nirUpaNa meM parivarwiwa karawA hE , Ora eka dikodara Palana , jo nae nirUpaNa ko vApasa mUla prArUpa meM parivarwiwa karawA hE .
+NMT:  eka oYtonakodara , eka enakodara Palana kA saMyojana hE , jo inaputa detA ko Binna nirUpaNa meM parivarwiwa karawA hE , Ora eka vikodaka Palana , jo nae nirUpaNa ko vApasa mUla prArUpa meM parivarwiwa karawA hE .
+NMT: 
+
+
