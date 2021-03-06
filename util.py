@@ -1,7 +1,138 @@
+# coding=utf-8
+
 import sys
 import re
 from bs4 import BeautifulSoup, Tag, NavigableString
 import string
+import codecs
+import regex
+import ast
+from nltk.tokenize import word_tokenize
+import os
+
+
+def print_align(chunk_sens, group_chunk, uniq_sen):
+
+    eng_chunk_list = []
+    hnd_chunk_list = []
+    for key in group_chunk:
+        ch = group_chunk[key]
+        for l in ch[-1]:
+            eng_chunk_list.append(l[1])
+            hnd_chunk_list.append(l[2])
+
+    eng_full_sen = uniq_sen[0]
+    hnd_full_sen = uniq_sen[1]
+
+    eng_chunk_list1 = []
+    hnd_chunk_list1 = []
+
+
+    for wd in eng_chunk_list:
+        if(type(wd) == list):
+            wd1 = list(set(wd))
+            if(len(wd1) > 1):
+                eng_chunk_list1.append(' '.join(wd))
+            else:
+                eng_chunk_list1.append(wd1[0])
+        else:
+            eng_chunk_list1.append(wd)
+
+    for wd in hnd_chunk_list:
+        if(type(wd) == list):
+            wd1 = list(set(wd))
+            if(len(wd1) > 1):
+                hnd_chunk_list1.append(' '.join(wd))
+            else:
+                hnd_chunk_list1.append(wd1[0])
+        else:
+            hnd_chunk_list1.append(wd)
+
+    print(eng_full_sen)
+    print(hnd_full_sen)
+    print('\t', '\t'.join(eng_chunk_list1))
+    print('\t', '\t'.join(hnd_chunk_list1))
+
+
+def read_data():
+
+
+    uniq_sen = [l.strip('NMT:').strip('English -->').strip() for l in
+                 codecs.open(sys.argv[1], 'r', 'utf-8').readlines() if
+                 len(l.strip('NMT:').strip('English -->').strip()) > 0]
+    uniq_sen = [regex.sub("\\p{C}+", "", regex.sub("\\p{Separator}+", " ", sen)).strip() for sen in  uniq_sen]
+
+    #read all chunk translation in  wx
+    #chunks = [[l.split('\t')[0].split()[0], l.split('\t')[0].split()[1:], l.split('\t')[1].strip().split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:-1]]
+    chunks = [[l.split('\t')[0].split()[0], l.split('\t')[1].split(), l.split('\t')[2].split()]for l in codecs.open(sys.argv[2], 'r', 'utf-8').readlines()[1:]]
+
+
+    #read root dictionary processed earlier independently
+    with open(sys.argv[3], 'r') as f:
+        cont = f.readlines()
+
+    dic_root = ast.literal_eval(cont[0])
+
+    return uniq_sen, chunks, dic_root
+
+
+def stanford_parser(eng_tok):
+
+    #parse and get the chunks from stanford parser
+    #eng_tok = ' '.join(word_tokenize(uniq_sen[0]))
+    f = open('eng-parse.txt', 'w')
+    f.write(eng_tok)
+    f.close()
+
+    stanford_path = '/home/sriram/alignment/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
+    #stanford_path = '/home/sriram/anusaaraka/Parsers/stanford-parser/stanford-parser-4.0.0/'
+    os.system( 'java -mx1000m -cp '+ stanford_path + '/*:  edu.stanford.nlp.parser.lexparser.LexicalizedParser -retainTMPSubcategories -outputFormat "xmlTree" '+ stanford_path + '/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz eng-parse.txt 1> eng-parse.xml 2> parse.log')
+
+def print_chunks(chunk_sens):
+
+    #print the groups to the file to be translated by NMT.
+    for ch in chunk_sens[0]:
+        print(ch[0]+ '\t' + ' '.join(ch[1]))
+
+def add_hindi(chunks, chunk_sens):
+    #keep hindi translated sentences into chunk_sens
+    #for ch, ch_hnd in zip(chunk_sens[0], chunks):
+    for ch1 in chunk_sens[0]:
+        found = 0
+        for ch2 in chunks:
+            if(ch1[0] == ch2[0]):
+                ch1.append(ch2[2])
+                found = 1
+                break
+        if( not found):
+            ch1.append(['@no_translation'])
+
+
+def group_sub_chunks(chunk_sens):
+
+    #group smaller chunks inside larger ones.
+
+    group_chunk = {}
+    prev_ch_id = []
+    for ch in chunk_sens[0]:
+        if(ch[0] != 'S1'):
+            if prev_ch_id != [] and set(ch[2]).issubset(set(prev_ch_id)):
+                    if(ch[0] not in group_chunk):
+                        group_chunk[prev_ch_phrase].append([ch[0], ch[1], ch[2], ch[3]])
+            else:
+                # if('CC' not in ch[0]):
+                group_chunk[ch[0]] = []
+                group_chunk[ch[0]].append([ch[0], ch[1], ch[2], ch[3]])
+                prev_ch_id = ch[2]
+                prev_ch_phrase = ch[0]
+
+    return group_chunk
+
+
+def print_groups(chunk_sens):
+    # print the groups to the file to be translated by NMT.
+    for ch in chunk_sens[0]:
+        print(ch[0]+ '\t' + ' '.join(ch[1]))
 
 
 def find_leaf(tag, phrase, flag):
@@ -19,31 +150,6 @@ def find_leaf(tag, phrase, flag):
     elif (tag['value'] == 'CC'):
         cc_wd = tag.find_all('leaf')[0]['value']
         cc_wd_id = tag.find_all('leaf')[0]['id']
-
-        '''
-
-        if (len(list(tag.previous_siblings)) > 1):
-            prev_sib = list(tag.previous_siblings)[1]
-            prev_sib1 = prev_sib['value'] + str(prev_sib['id'])
-        else:
-            prev_sib1 = 'NOT FOUND'
-
-        if (len(list(tag.next_siblings)) > 1):
-            next_sib = list(tag.next_siblings)[1]
-            next_sib1 = next_sib['value'] + str(next_sib['id'])
-        else:
-            next_sib1 = 'NOT FOUND'
-        '''
-
-        #phrase.append([tag['value'] + str(tag['id']), prev_sib1, next_sib1, cc_wd])
-        phrase.append([tag['value'] + str(tag['id']), [cc_wd], [cc_wd_id]])
-
-        '''
-        if (prev_sib1 != 'NOT FOUND'):
-            find_leaf(prev_sib, phrase, 1)
-        if (next_sib1 != 'NOT FOUND'):
-            find_leaf(next_sib, phrase, 1)
-        '''
 
     elif (re.match(
             r'^NP|NP-TMP|WHNP|NNP|PP|WHPP|ADJP|WHADJP|WHADVP|ADVP|WHAVP|X|NAC|NML|CONJP|FRAG|INTJ|LST|NAC|NX|PRC|PRN|PRT|RRC|UCP|ROOT|,$',
@@ -122,70 +228,6 @@ def xml_parse(fp):
 
 
 
-def filter_chunk(all_chunk, chunk_size):
-
-    all_filter_chunk = all_chunk.copy()
-    for i in range(0,len(all_chunk)):
-        store_ids = []
-        all_filter_chunk[i] = []
-        for j in range(0, len(all_chunk[i])):
-            if not re.match(r'S', all_chunk[i][j][0]):
-                ids = all_chunk[i][j][2]
-                tmp_str = ' '.join(all_chunk[i][j][1])
-                exclude = set(string.punctuation)
-                s = ''.join(ch for ch in tmp_str if ch not in exclude)
-                if (not set(ids).issubset(set(store_ids))) and len(s.split()) < chunk_size:
-                    all_filter_chunk[i].append(all_chunk[i][j])
-                    store_ids.extend(ids)
-    return all_filter_chunk
-
-
-def get_chunk_align(eng_sen, eng_sen_chunk, hnd_sen, align_result):
-    align_eng_hnd = []
-    for ch in eng_sen_chunk[0]:
-        if not (re.match('CC', ch[0])):
-            chunk_id = ch[2]
-            hnd_id = []
-            tmp_hid = []
-            tmp_hid_wd = []
-            for ids in chunk_id:
-                for aid in align_result:
-                    if aid[0] == int(ids):
-                        tmp_hid.append(aid[1])
-            tmp_hid1 = list(set(tmp_hid))
-            tmp_hid1.sort()
-            for tid in tmp_hid1:
-                tmp_hid_wd.append(hnd_sen.split()[tid])
-            hnd_id.append([tmp_hid_wd, tmp_hid1])
-        align_eng_hnd.append(hnd_id)
-        ch.append(hnd_id)
-
-    return align_eng_hnd
-
-def align_eng_hnd_chunk(filter_chunk_sens, output_align_uniq):
-    eng_hnd_chunk = filter_chunk_sens.copy()
-    for sen, align_sen in zip(eng_hnd_chunk, output_align_uniq):
-        for ch in sen:
-            if not (re.match('CC', ch[0])):
-                chunk_id = ch[2]
-                hnd_id = []
-                for aligns in align_sen[1]:
-                    tmp_hid = []
-                    tmp_hid_wd = []
-                    for ids in chunk_id:
-                        for aid in aligns[1]:
-                            if aid[0] == int(ids):
-                                tmp_hid.append(aid[1])
-                    tmp_hid1 = list(set(tmp_hid))
-                    for tid in tmp_hid1:
-                        tmp_hid_wd.append(aligns[0].split()[tid])
-                    hnd_id.append([tmp_hid_wd, tmp_hid1])
-                ch.append(hnd_id)
-
-    return eng_hnd_chunk
-
-
-
 def align_chunk_logic_new(group_chunk, dic_root):
 
     #find different surface forms by comparing root
@@ -208,6 +250,7 @@ def align_chunk_logic_new(group_chunk, dic_root):
 
         ch.append(long_chunk_wd_alt)
 
+    #start aligning each larger chunk
     for key in group_chunk:
         align_wds = {}
         align_eng_wds = []  # listof eng wds aligned
@@ -215,6 +258,8 @@ def align_chunk_logic_new(group_chunk, dic_root):
         ch = group_chunk[key]
         dic_wd_alt = ch[-1]
         align_wd_ids = []
+
+        # process each smaller chunk in large chunk
         for i in range(len(ch) - 2, -1, -1):
             tmp_phrase_name = ch[i][0]
             tmp_hnd = ch[i][3]
@@ -311,234 +356,52 @@ def align_chunk_logic_new(group_chunk, dic_root):
 
 
 
-def align_chunk_logic(group_chunk, dic_root):
 
-    #align smaller chunks inside long chunk by applying various logic
+def align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count):
 
-    #find different surface forms by comparing root
+    #align each chunk in group_chnk
     for key in group_chunk:
         ch = group_chunk[key]
-        long_chunk_hnd = ch[0][2]
-        long_chunk_hnd_root = [dic_root[l] if l in dic_root else l for l in long_chunk_hnd]
-        long_chunk_wd_alt = {}
+        for grp in ch[-1]:
+            id = grp[0]
+            eng_ch = grp[1]
+            hnd_ch = grp[2]
+            hnd_ch_root = [root[l] if l in root else l for l in hnd_ch]
 
-        #find alternative of each word
-        for wd, wd_rt in zip(long_chunk_hnd, long_chunk_hnd_root):
-            long_chunk_wd_alt[wd] = [wd]
-            for i in range(1, len(ch)):
-                tmp_root = [dic_root[l] if l in dic_root else l for l in ch[i][2]]
-                if wd not in ch[i][2] and  wd_rt in tmp_root:
-                    indx = tmp_root.index(wd_rt)
-                    wd_alt = ch[i][2][indx]
-                    if wd_alt not in long_chunk_wd_alt[wd]:
-                        long_chunk_wd_alt[wd].append(wd_alt)
+            wds_match = []
+            wds_match_id = []
 
-        ch.append(long_chunk_wd_alt)
+            #if direct matching is there nothing to do
+            if(' '.join(hnd_ch) not in hnd_sen):
+                #search the beginnning word
+                for i in range(0, len(hnd_ch)):
+                    tmp_wd = hnd_ch[i]
+                    if hnd_ch[i] in hnd_sen.split():
+                        wds_match.append(hnd_ch[i])
+                        wds_match_id.append(hnd_sen.split().index(hnd_ch[i]) + 1)
 
+                    #match the root also
+                    elif hnd_ch_root[i] in hnd_sen_root:
+                        indx = hnd_sen_root.index(hnd_ch_root[i])
+                        wds_match.append(hnd_sen.split()[indx])
+                        wds_match_id.append(indx+1)
 
-    #FIRST ITERATION
-    #for aligning smaller chunks inside long chunk
-    for key in group_chunk:
-        align_wds = {}
-        align_eng_wds = [] #listof eng wds aligned
-        align_hnd_wds = [] # list of hnd wds aligned
-        ch = group_chunk[key]
-        dic_wd_alt = ch[-1]
-        for i in range(len(ch)-2, -1, -1):
-            tmp_hnd = ch[i][3]
-            tmp_eng = ch[i][1]
-            tmp_eng_wd_id = ch[i][2]
-            #if single word present in eng and hnd
-            if(len(tmp_hnd) == 1) and (len(tmp_eng) == 1):
-                tmp_hnd_wd = tmp_hnd[0]
-                tmp_eng_wd_id = tmp_eng_wd_id[0]
-                for key4 in dic_wd_alt:
-                    if tmp_hnd_wd in dic_wd_alt[key4]:
-                        if tmp_eng_wd_id not in align_wds:
-                            align_wds[tmp_eng_wd_id] = [key4]
-                            align_eng_wds.append(tmp_eng_wd_id)
-                            align_hnd_wds.append(key4)
-                        else:
-                            align_wds[tmp_eng_wd_id].append(key4)
-                            align_eng_wds.append(tmp_eng_wd_id)
-                            align_hnd_wds.append(key4)
+            #if match not present then add it
+            if(count == 1 ): # for the 1st sentence create grp[3]
+                grp.append([wds_match_id, wds_match])
             else:
-                #if single word in only eng side
-                if(len(tmp_eng) == 1):
-                    tmp_eng_wd_id = tmp_eng_wd_id[0]
-                    for wd in tmp_hnd:
-                        for key1 in dic_wd_alt:
-                            if wd in dic_wd_alt[key1]:
-                                if tmp_eng_wd_id not in align_wds and key1 not in align_hnd_wds:
-                                    align_wds[tmp_eng_wd_id] = [key1]
-                                    align_eng_wds.append(tmp_eng_wd_id)
-                                    align_hnd_wds.append(key1)
-                                else:
-                                    align_wds[tmp_eng_wd_id].append(key1)
-                                    align_eng_wds.append(tmp_eng_wd_id)
-                                    align_hnd_wds.append(key1)
-
-                #multiple words in both sides but number of eng and hnd are same
-                elif(len(tmp_eng) == len(tmp_hnd)):
-                    ids_aligned = []
-                    ids_not_aligned = []
-                    hnd_wds_aligned = []
-                    hnd_wds_aligned1 = []
-
-                    for id in tmp_eng_wd_id:
-                        if id in align_wds:
-                            ids_aligned.append(id)
-                        else:
-                            ids_not_aligned.append(id)
-
-                    for k in align_wds:
-                        hnd_wds_aligned.append(align_wds[k])
-
-                    for sublist in hnd_wds_aligned:
-                        for l in sublist:
-                            hnd_wds_aligned1.append(l)
-                    hnd_wds_not_aligned = list(set(tmp_hnd) - set(hnd_wds_aligned1))
-
-                    '''
-                    #for wds aligned list is empty then aligen all the words
-                    if len(ids_aligned) == 0:
-                        for id, wd_hnd in zip(tmp_eng_wd_id, tmp_hnd):
-                            align_wds[id] = [wd_hnd]
-                    '''
-                    if len(ids_not_aligned) == 1 and len(hnd_wds_not_aligned) == 1:
-                        align_wds[ids_not_aligned[0]] = hnd_wds_not_aligned[0]
+                if [wds_match_id, wds_match] not in grp[3]:
+                    grp[3].append([wds_match_id, wds_match])
 
 
-        #change ids to string (e.g 15 to '15') for
-        #further storing multiple ids '1_2_3'
-        align_wds1 = {}
-        for key5 in align_wds:
-            align_wds1[str(key5)] = align_wds[key5]
-        ch.append(align_wds1)
-
-    # TODO
-    # remove punctuations from hnd words before storing in align_wds
-
-    #SECOND ITERATION
-    #do a second iteration for aligning chunks where number words are different in both sides
-    for key in group_chunk:
-        ch = group_chunk[key]
-        dic_wd_alt = ch[-2]
-        align_wds = ch[-1]
-        align_wds_ids = []
-        for i in range(len(ch)-3, -1, -1):
-
-            #to add multiple id (e.g. '1_2_3' to the total list of align wds
-            for key1 in align_wds:
-                tmp_ids = str(key1).split('_')
-                if(len(tmp_ids) > 1):
-                    for tmp_id in tmp_ids:
-                        if int(tmp_id) not in align_wds_ids:
-                            align_wds_ids.append(int(tmp_id))
-                else:
-                    if int(tmp_ids[0]) not in align_wds_ids:
-                        align_wds_ids.append(int(tmp_ids[0]))
+# def align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root):
 
 
+def align_hnd_sens(group_chunk, hnd_sen, root, count):
 
-            # flag_process = 0
-            # for id in ids:
-            #     if id not in align_wds_ids:
-            #         flag_process = 1
-            #         break
-            # #not required since the whole phrase is taken
-            #if any word is not present in our align_wds dictionary then try to align using other align words
-            # if(flag_process):
-            #     found_id = []
-            #     found_hnd = []
-            #     not_found_id = []
-            #     for id in ids:
-            #         if (id in align_wds_ids): # try aligning by finding found and not found words
-            #             if str(id) in align_wds:
-            #                 if set(align_wds[str(id)]).issubset(set(tmp_hnd)):
-            #                     found_id.append(id)
-            #                     if align_wds[str(id)][0] not in found_hnd:
-            #                         found_hnd.append(align_wds[str(id)][0])
-            #                 else:
-            #                     if id not in not_found_id: not_found_id.append(id)
-            #             else: # case where id is part of a chunk (e.g 1 is part of '1_2_3')
-            #                 for key2 in align_wds:
-            #                     if str(id) in key2:
-            #                         found_id.append(id)
-            #                         for wds in align_wds[key2]:
-            #                             if wds not in found_hnd:
-            #                                 found_hnd.append(align_wds[key2])
-            #                     else:
-            #                         if id not in not_found_id: not_found_id.append(id)
-            #         else:
-            #             if id not in not_found_id: not_found_id.append(id)
-            #
-            #     not_found_hnd = [x for x in tmp_hnd if x not in found_hnd]
-            #     # not_found_hnd = list(set(tmp_hnd) - set(found_hnd))
-            #     tmp_key_id = '_'.join(str(id) for id in not_found_id)
-
-            ids = ch[i][2]
-            chunk_name = ch[i][0]
-            tmp_eng = ch[i][1]
-            tmp_hnd = ch[i][3]
-
-            if('NP' in chunk_name):
-                tmp_key_id = '_'.join(str(id) for id in ids)
-                if tmp_hnd[0] != 'no_translation':
-                    align_wds[tmp_key_id] = tmp_hnd
-                    for id in ids:
-                        if id not in align_wds_ids:
-                            align_wds_ids.append(id)
-
-        ch.append(list(set(align_wds_ids)))
-
-
-    #Create a list eng hnd list in sequence for storing the final alignment
-    for key11 in group_chunk:
-        ch = group_chunk[key11]
-        eng_long_chunk = ch[0][1]
-        start_id = ch[0][2][0]
-        end_id = ch[0][2][-1]
-        align_wds = ch[-2]
-        align_wds_ids = ch[-1]
-        found_eng_wd = []
-        align_eng_hnd_list = []
-
-        #start from the first word to last word
-        for i in range(start_id, end_id+1):
-            if i in align_wds_ids:
-                if str(i) in align_wds:
-                    if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
-                        tmp_eng = eng_long_chunk[i-start_id]
-                        tmp_hnd = align_wds[str(i)]
-                        found_eng_wd.append(i)
-                        chunk_name = align_wds[str(i)]
-                        align_eng_hnd_list.append([str(i), tmp_eng, tmp_hnd])
-                        # align_wds[str(i)].append(tmp_eng)
-
-                else: #for multiple id cases (e.g. 1_2_3 ) search the align_wds dic
-                    for key12 in align_wds:
-                        tmp_ids = key12.split('_')
-                        if(len(tmp_ids)) > 1:
-                            if str(i) in tmp_ids:
-                                tmp_eng_list = []
-                                tmp_hnd = align_wds[key12]
-                                for id in tmp_ids:
-                                    if(int(id) - start_id < len(eng_long_chunk)): # temporary fix for sent e.g 0007 'tackled solved'
-                                        tmp_eng_list.append(eng_long_chunk[int(id) - start_id])
-                                        found_eng_wd.append(int(id))
-
-                                align_eng_hnd_list.append([key12, tmp_eng_list, tmp_hnd])
-                                # align_wds[key12].append(tmp_eng_list)
-                                break
-
-
-            else: #if no alignment , then keep it empty
-                if (i - start_id < len(eng_long_chunk)):  # temporary fix for sent e.g 0007 'tackled solved'
-                    tmp_eng = eng_long_chunk[i - start_id]
-                    align_eng_hnd_list.append([i, tmp_eng, ['empty']])
-        ch.append(align_eng_hnd_list)
-
+    hnd_sen_root = [root[l] if l in root else l for l in hnd_sen.split()]
+    align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count)
+    print('sri')
 
 
 
