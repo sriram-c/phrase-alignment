@@ -19,7 +19,12 @@ def print_align(chunk_sens, group_chunk, uniq_sen):
         ch = group_chunk[key]
         for l in ch[-1]:
             eng_chunk_list.append(l[1])
-            hnd_chunk_list.append(l[2])
+            # hnd_chunk_list.append(l[2])
+            #add l[2] chunk translation and l[3] all sen match then take uniq
+            l[3].extend([l[2]])
+            hnd_chunk_list.append('/'.join([' '.join(list(x)) for x in set(tuple(x) for x in l[3])]))
+
+
 
     eng_full_sen = uniq_sen[0]
     hnd_full_sen = uniq_sen[1]
