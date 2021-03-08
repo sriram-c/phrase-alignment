@@ -358,7 +358,7 @@ def align_chunk_logic_new(group_chunk, dic_root):
 
 
 def align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count):
-
+    total_wds_match_id = []
     #align each chunk in group_chnk
     for key in group_chunk:
         ch = group_chunk[key]
@@ -386,21 +386,49 @@ def align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count
                         wds_match.append(hnd_sen.split()[indx])
                         wds_match_id.append(indx+1)
 
+
+            #keep hindi match for all uniq sent
+            #even if it is same. it will be done uniq later
+
             #if match not present then add it
             if(count == 1 ): # for the 1st sentence create grp[3]
-                grp.append([[wds_match]])
+                grp.append([wds_match])
+                grp.append([wds_match_id])
             else:
-                if [wds_match] not in grp[3]:
-                    grp[3].append([wds_match])
+                # if [wds_match] not in grp[3]:
+                grp[3].append(wds_match)
+                grp[4].append(wds_match_id)
+
+            total_wds_match_id.extend(wds_match_id)
+
+    return list(set(total_wds_match_id))
 
 
-# def align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root):
+def align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root, total_wds_match_id, count):
+    for key in group_chunk:
+        ch = group_chunk[key]
+        for grp in ch[-1]:
+            print(grp[0])
+            eng_ids = [int(l) for l in str(grp[0]).split('_')]
+            hnd_ids = grp[4][count - 1]
+
+            #if eng_id is present but not in hnd_id then add the hnd_id
+            if len(eng_ids) - len(hnd_ids) == 1 and len(hnd_ids) > 0:
+                missing_id = list(set(eng_ids) - set(hnd_ids))[0]
+                if missing_id not in total_wds_match_id:
+                    missing_wd = hnd_sen.split()[missing_id - 1]
+                    grp[3][count - 1].append(missing_wd)
+                    grp[4][count - 1].append(missing_id)
+
 
 
 def align_hnd_sens(group_chunk, hnd_sen, root, count):
 
     hnd_sen_root = [root[l] if l in root else l for l in hnd_sen.split()]
-    align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count)
+    total_wds_match_id = align_direct_n_root_matching(group_chunk, hnd_sen, hnd_sen_root, root, count)
+
+    align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root, total_wds_match_id, count)
+
     print('sri')
 
 
