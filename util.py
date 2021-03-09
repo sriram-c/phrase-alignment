@@ -413,7 +413,6 @@ def align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root, total_wds_match_i
     for key in group_chunk:
         ch = group_chunk[key]
         for grp in ch[-1]:
-            print(grp[0])
             eng_ids = [int(l) for l in str(grp[0]).split('_')]
             hnd_ids = grp[4][count - 1]
 
@@ -434,7 +433,6 @@ def align_hnd_sens(group_chunk, hnd_sen, root, count):
 
     align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root, total_wds_match_id, count)
 
-    print('sri')
 
 
 
