@@ -416,14 +416,23 @@ def align_missing_id(group_chunk, hnd_sen, hnd_sen_root, root, total_wds_match_i
             eng_ids = [int(l) for l in str(grp[0]).split('_')]
             hnd_ids = grp[4][count - 1]
 
-            #if eng_id is present but not in hnd_id then add the hnd_id
-            if len(eng_ids) - len(hnd_ids) == 1 and len(hnd_ids) > 0:
-                missing_id = list(set(eng_ids) - set(hnd_ids))[0]
-                if missing_id not in total_wds_match_id:
-                    missing_wd = hnd_sen.split()[missing_id - 1]
-                    grp[3][count - 1].append(missing_wd)
-                    grp[4][count - 1].append(missing_id)
-
+            if(len(hnd_ids) > 1):
+                #if eng_id is present but not in hnd_id then add the hnd_id
+                if len(eng_ids) - len(hnd_ids) == 1 and hnd_ids in eng_ids and len(hnd_ids) > 0:
+                    missing_id = list(set(eng_ids) - set(hnd_ids))[0]
+                    if missing_id not in total_wds_match_id:
+                        missing_wd = hnd_sen.split()[missing_id - 1]
+                        grp[3][count - 1].append(missing_wd)
+                        grp[4][count - 1].append(missing_id)
+                #add inbetween words (for .e.g. 8 -- 12 add 9,10,11)
+                #take 1st and last element and if diff is less than 6
+                elif (int(hnd_ids[-1]) - int(hnd_ids[0]) < 5):
+                    fwd = int(hnd_ids[0])
+                    lwd = int(hnd_ids[-1])
+                    missing_wd = hnd_sen.split()[fwd - 1:lwd]
+                    missing_id = [l for l in range(fwd, lwd+1)]
+                    grp[3][count - 1] = missing_wd
+                    grp[4][count - 1] = missing_id
 
 
 def align_hnd_sens(group_chunk, hnd_sen, root, count):
