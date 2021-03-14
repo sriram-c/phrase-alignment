@@ -1,0 +1,24 @@
+------------	------------
+PP2	For example	uxAharaNa ke lie
+NP4	example	uxAharaNa
+,6	,	,
+NP7	IBM ’ s Deep Blue chess - playing system	AIbIema kI gaharI nIlI SawaraMja- Kela praNAlI
+NP8	IBM ’ s	AIbIema 'esa
+NNP9	IBM	AIbIema
+NNP10	’	
+NML12	Deep Blue	gaharA nIlA
+NNP13	Deep	gaharA
+NNP14	Blue	nIlA
+VP19_LWG	defeated	parAjiwa
+NP21	world champion Garry Kasparov in 1997	viSva cEMpiyana gErI kApasarAva ne 1997 meM
+NP22	world champion Garry Kasparov	viSva cEMpiyana gErI kApasarAva
+NML23	world champion	viSva cEMpiyana
+NNP26	Garry	gErI
+NNP27	Kasparov	kApasarova
+PP28	in 1997	1997 meM
+NP30	1997	1997
+PRN32	( Hsu , 2002 )	(hasu, 2002)
+NP34	Hsu	hU
+NNP35	Hsu	hU
+,36	,	,
+NP37	2002	2002

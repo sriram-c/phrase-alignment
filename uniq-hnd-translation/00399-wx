@@ -1,0 +1,18 @@
+English --> The age of “Big Data” 1900 1950 1985 2000 2015 Year 10 0 10 1 10 2 10 3 10 4 10 5 10 6 10 7 10 8 10 9 Dataset size (number examples)
+NMT:  biga detA 1900 1950 1985 2015 varRa 10 10 1 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyAwmaka uxAharaNa )
+NMT:  boga detA kI Ayu 1900 1985 1985 1985 2000 varRa 10 0 10 1 10 2 10 3 10 4 10 5 10 6 10 8 10 9 detAseta AkAra ( anugaNiwa uxAharaNa )
+NMT:  biga detA 1900 1950 2000 2015 varRa 10 0 10 1 10 2 10 10 3 10 4 10 10 10 10 10 6 7 8 9 detAseta AkAra ( asaMKya uxAharaNa
+NMT:  biga detA 1900 1950 1975 varRa 2015 varRa 10 0 10 1 10 10 2 10 10 3 10 4 10 5 10 6 7 8 10 9 dAtAseta AkAra ( asaMKya uxAharaNa )
+NMT:  biga detA 1900 1950 1950 1985 2000 varRa 10 0 10 1 10 2 10 10 10 10 3 10 4 10 10 10 5 10 10 7 10 8 10 9 dAtAseta sAijZa ( anaginawa uxAharaNa )
+NMT: 
+NMT:  biga dAtA kI Ayu 1900 1950 varRa 2000 2015 varRa 10 0 10 1 10 10 4 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyAwmaka uxAharaNa
+NMT:  biga dAtA kI Ayu 1900 1950 varRa 2000 2015 varRa 10 0 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyAwmaka uxAharaNa
+NMT:  biga dAtA 1900 1950 2000 2015 varRa 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra kA
+NMT:  biga dAtA 1900 1950 2015 varRa 2000 2015 varRa 10 0 10 1 10 3 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyAwmaka uxAharaNa
+NMT:  biga dAtA 1900 1950 2015 varRa 10 0 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyAwmaka uxAharaNa
+NMT:  biga detA 1900 1950 varRa 2000 varRa 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyA uxAharaNa
+NMT:  biga detA 1900 1950 2015 varRa 10 0 10 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyA uxAharaNa
+NMT:  biga detA 1900 1950 1985 2000 2015 varRa 10 10 1 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 9 detAseta AkAra ( saMKyAwmaka uxAharaNa )
+NMT:  biga detA kI Ayu 1900 1950 1985 2015 varRa 10 10 1 10 10 10 10 10 10 10 10 10 10 10 10 8 9 detAseta AkAra ( saMKyAwmaka uxAharaNa )
+
+

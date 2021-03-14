@@ -9,6 +9,7 @@ import regex
 import ast
 from nltk.tokenize import word_tokenize
 import os
+import string
 
 
 def print_align(chunk_sens, group_chunk, uniq_sen):
@@ -269,6 +270,7 @@ def align_chunk_logic_new(group_chunk, dic_root):
             tmp_phrase_name = ch[i][0]
             tmp_hnd = ch[i][3]
             tmp_eng = ch[i][1]
+            tmp_eng_without_punct = [l for l in tmp_eng if l.isalpha()]
             tmp_eng_wd_id = ch[i][2]
 
             #check if prev phrase is pp and there is only 1 prepostion
@@ -288,7 +290,7 @@ def align_chunk_logic_new(group_chunk, dic_root):
                         align_wds[tmp_key_id] = prev_hnd
                         for id in prev_eng_wd_id:
                             align_wd_ids.append(id)
-                    elif (re.match(r'^NP|^VP', tmp_phrase_name)):
+                    elif (re.match(r'^NP|^VP|^PP', tmp_phrase_name)) and len(tmp_eng_without_punct) > 2:
                         tmp_key_id = '_'.join(str(id) for id in tmp_eng_wd_id)
                         align_wds[tmp_key_id] = tmp_hnd
                         for id in tmp_eng_wd_id:
