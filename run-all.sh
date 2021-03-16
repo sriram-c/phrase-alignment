@@ -5,7 +5,7 @@ do
  	echo "############${myArray[0]}###########" 
  	echo "############${myArray[0]}###########" >> output
  	echo "############${myArray[0]}###########" >> err
-	python align-new1.py uniq-hnd-translation/${myArray[0]}-wx eng-hnd-grp-translation/${myArray[1]} ${myArray[2]}    root  1> tmp 2>>err
+	python align-new1.py uniq-hnd-translation/${myArray[0]}-wx eng-hnd-grp-translation/${myArray[1]} ${myArray[2]}    hnd_root_list  1> tmp 2>>err
 	head -n 1 tmp > eng_sen
 	tail -n -4 tmp | head -n 1 | wx_utf8 > hnd_sen
 	tail -n -3 tmp | head -n 1  > eng_ch
