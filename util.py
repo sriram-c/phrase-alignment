@@ -74,7 +74,7 @@ def read_data():
 
 
     #read root dictionary processed earlier independently
-    with open(sys.argv[3], 'r') as f:
+    with open(sys.argv[4], 'r') as f:
         cont = f.readlines()
 
     dic_root = ast.literal_eval(cont[0])

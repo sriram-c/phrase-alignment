@@ -3,11 +3,48 @@
 #import simalign
 #from simalign.simalign import *
 from util import *
+import sys
 
 
 
 
-if __name__ == '__main__':
+
+def noisy_input_hand_corrected():
+    return 'cases to be handled'
+
+def noisy_input_automatic_correctd():
+    return 'cases to be handled'
+
+def idiomatic_nmt_parser_works():
+    return 'cases to be handled'
+
+def idiomatic_nmt_fails_parser_works():
+    return 'cases to be handled'
+
+def idiomatic_nmt_works_parser_fails():
+    return 'cases to be handled'
+
+def idiomatic_nmt_parser_fails():
+    return 'cases to be handled'
+
+def manual_translation():
+    return 'cases to be handled'
+
+
+def anusaaraka_output_quality():
+    return 'cases to be handled'
+
+
+def improving_training_corpus_mutual_bootstrapping():
+    return 'cases to be handled'
+
+
+def different_input_source_sentence():
+    return 'cases to be handled'
+
+
+def default():
+
 
     #read uniq sent, chunks-translation
     uniq_sen, chunks, dic_root = read_data()
@@ -43,4 +80,37 @@ if __name__ == '__main__':
 
     print_align(chunk_sens, group_chunk, uniq_sen)
 
+    return 'processed'
+
+
+switcher = {
+
+        1: noisy_input_hand_corrected,
+        2: noisy_input_automatic_correctd,
+        3: idiomatic_nmt_parser_works,
+        4: idiomatic_nmt_fails_parser_works,
+        5: idiomatic_nmt_works_parser_fails,
+        6: idiomatic_nmt_parser_fails,
+        7: manual_translation,
+        8: anusaaraka_output_quality,
+        9: improving_training_corpus_mutual_bootstrapping,
+        10: different_input_source_sentence,
+        11: default
+
+    }
+
+
+
+def select_case(argument):
+    func = switcher.get(argument, 'nothing')
+    return func()
+
+
+
+if __name__ == '__main__':
+
+    case = int(sys.argv[3])
+
+    result = select_case(case)
+    print(result)
 
