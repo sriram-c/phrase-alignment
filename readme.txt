@@ -24,12 +24,16 @@ To get the root list the tool will be shared separately.
 
 ## Steps to align English Hindi sentence
 
-1. set up the path in bashrc
-    export HOME_phrase_alignment=/home/sriram/phrase_alignment
+1. Download and setup the path:
+
+	Download the phrase_alignment repository into any path in your system.
+	Unzip the folder . For e.g in /home/sriram/phrase_alignment
+	set up the path in bashrc . For e.g. as below.
+        export HOME_phrase_alignment=/home/sriram/phrase_alignment
     
 2. To align a single English sentence to its Hindi NMT translation
 
-  Let's the English sentence is
+  For e.g. English sentence is
   
   `Chapter 1 Introduction Inventors have long dreamed of creating machines that think.`
   
