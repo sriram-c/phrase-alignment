@@ -91,9 +91,20 @@ put it in a file 'Grp-translation'.
 sh run-alignment.sh English-Hindi-Translations Grp-translation 
 
 
+
+
 ## output:
 
 Raw output is stored on 'output' file 
+
+sample output be like as follow.
+
+Chapter 1 Introduction Inventors have long dreamed of creating machines that think.
+अध्याय 1 परिचय निवेशकों लंबे समय से मशीनों है कि लगता है बनाने का सपना देखा है .
+	 Chapter 1 Introduction Inventors	have long dreamed	of	creating	machines that think
+	 अध्याय 1 परिचय आविष्कारक/1	/लंबे समय से सपने देख चुके हैं	/	/	/मशीनें जो सोचती हैं
+प्रोचेस्सेड्
+
 
 
 
