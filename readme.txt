@@ -20,6 +20,19 @@ Tool to align the phrases/gropus in English and Hindi NMT translated sentences.
 	Untar/Unzip it and keep the content of it inside 
 	the 'phrase_alignment' directory as created previously.
 	
+Quick Test:
+
+Run the command as follows.
+
+
+sh run-alignment.sh English-Hindi-Translations Grp-translation 
+
+
+Output wile be stored in the file 'output'
+
+you can compare the 'output' with 'output-sriram' for any difference.
+
+
 	
 2. To align a single English sentence to its Hindi NMT translation
 
