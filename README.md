@@ -11,16 +11,29 @@ English sentences need to be translated to Hindi using various NMT models.
 NMT translations of each English sentence has to be kept in the folder 'uniq-hnd-translation'
 For the format please see the sample files kept inside the folder.
 
+Example file is in the folder:
+
+uniq-hnd-translation/0001-wx
+
+
+
 ##### NMT translations of English groups/chunks:
 
 English sentences need to be break down to groups/chunks and should be given the NMT for translation to Hindi.
 These group/chunks translation should be kept inside folder 'eng-hnd-grp-translations'.
 For the format please see the sample files kept inside the folder.
 
+Example file is in the  folder:
+
+eng-hnd-grp-translation/0001
+
+
 ##### Root dictionary for Hindi words:
 
 The file 'hnd_root_list' contains the root dictionary of each Hindi word present in the translated output.
 To get the root list the tool will be shared separately.
+
+Example file : hnd_root_list 
 
 ## To Run
 
